@@ -35,6 +35,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- Flight Reaping
 	- other worldbuilding/headcanons
 - Resources
+	- newbie overview
 	- guides
 	- other threads
 	- AH links
@@ -42,4 +43,4 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- lvl25: gems/treasure/g1
 		- ~~apparel~~ slime
 		- fest skins
-- Glossary (ex. double g1, hibden, lore, lvl25, starmap, xyx, etc)
+- Glossary (ex. double, g1, hibden, lore, lvl25, starmap, xyx, etc)
