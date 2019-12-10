@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<title>{{page.title}} | ArchaeoRising</title>
-	<link href="{{site.url}}/archaeoraptor/assets/default.css" type="text/css" rel="stylesheet"/>
-	<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,600|Alegreya+Sans:400,400i,700,800" rel="stylesheet">
+	<link href="{%include url.html%}/assets/default.css" type="text/css" rel="stylesheet"/>
+	<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400i,600|Alegreya+Sans:400,400i,700" rel="stylesheet">
 </head>
 
 <body><div id="wrap" class="{{page.layout}}">
-	<header id="skip"><h1>{{page.title}}</h1></header>
-	<aside>{%include nav.html%}</aside><main>{{content}}</main>
-	<footer><span><a href="https://flightrising.com">Flight Rising</a> and all related content & assets ©2013–2019 Stormlight Workshop, LLC.</span> <span>Site writing, art, and code ©2019 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a> (<a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor</a>) unless otherwise noted.</span></footer>
+	<header><a href="{%include url.html%}" id="logo">ArchaeoRising</a><h1>{{page.title}}</h1></header>
+	<aside>{%include nav.html%}</aside><main id="skip">{{content}}</main>
+	<footer><p id="top"><a href="#skip">back to top</a></p><span><a href="https://flightrising.com">Flight Rising</a> and all related content & assets ©2013–2019 Stormlight Workshop, LLC.</span> <span>Site writing, art, and code ©2019 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a> (<a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor</a>) unless otherwise noted.</span></footer>
 </div></body>
 </html>
