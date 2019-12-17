@@ -63,7 +63,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 	aside li{display:block; width:100%;}
 	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
 
-	footer{width:77.5%; margin-left:22.5%; padding:1rem 0;}
+	footer{width:77.5%; margin-left:22.5%; padding:1rem 1rem 1rem 0;}
 	#top{display:none;}
 	
 	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
