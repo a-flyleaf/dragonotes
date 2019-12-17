@@ -6,22 +6,29 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 
 ## sitemap/to-do
 
+- [ ] dark mode (default?)
 - [ ] About
-	- [ ] intro
-	- [ ] lair
+	- [ ] bio (about me, about site)
+	- [ ] lairnotes (breeding/buying)
+	- [ ] art
+		- [ ] other FR art
+		- [ ] commission gallery (NOT HIGHRES, use fancybox)
 	- [ ] tracking
 		- [ ] dom badges
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
-	- [ ] wishlist
-		- [ ] fest skins
+	- [ ] goals (by priority)
+		- [ ] fest gear (minus skins)
+		- [ ] fest skins (just list them all)
 		- [ ] scrolls/genes
-		- [ ] familiars
-		- [ ] dragons/projects
+		- [ ] vistas
+		- [ ] breeding projects
+		- [ ] other familiars
 - [ ] Lore
+	- [ ] general notes
 	- [ ] dragon profiles
 		- [ ] stats (ex. size, genes, age)
-		- [ ] timeline
+		- [ ] timeline (incl. hatched by, obtain date & method/earliest record of ownership)
 		- [ ] character summary
 		- [ ] gene plans
 		- [ ] art
@@ -33,14 +40,27 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Frostbite
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
-	- [ ] other worldbuilding/headcanons
 - [ ] [Resources]({%include url.html%}/resources)
-	- [ ] newbie overview
 	- [ ] guides
-	- [ ] other threads
+	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
+	- [ ] [gene obtaining methods]({%include url.html%}/resources/genes)
+		- [x] breed
+		- [x] eyes
+		- [ ] primary
+		- [ ] secondary
+		- [ ] tertiary
+		- [x] other
+	- [ ] misc. common knowledge (ex. dom discount prices, food types eaten, color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
 	- [ ] AH links
 		- [ ] fodder: adults/hatchlings
 		- [ ] lvl25: gems/treasure/g1
 		- [ ] ~~apparel~~ slime
 		- [ ] fest skins
 - [x] [Glossary]({%include url.html%}/glossary)
+- [ ] [Blog]({%include url.html%}/blog)/update feed
+	- TODO: tumblr archive (no links unless asks/reblog commentary)
+	- 12/10 site start
+	- 12/11 glossary
+	- 12/12 genes
+	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
+- [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
