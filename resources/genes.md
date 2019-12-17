@@ -251,7 +251,7 @@ item | lvl | ingredients
 [Tertiary Gene: <b>Scales</b>](https://www1.flightrising.com/game-database/item/19568) | 7 | x3 Silver Muck, x2 Black Slime, x6 Yellow Sludge, x7 Green Goo, x1 Glass Beaker
 <i>[Tertiary Gene: <b>Scorpion (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30283) | 22 | x2 Infused Fragment, x2 Irradiated Alchemicalr Reduction, x1 Grey Slime, x3 Orange Ooze, x1 Reinforced Glass Beaker
 [Tertiary Gene: <b>Veined</b>](https://www1.flightrising.com/game-database/item/32216) | 24 | x2 Gold Muck, x2 Grey Slime, x3 Yellow Sludge, x4 [Azurite](https://www1.flightrising.com/game-database/item/13393), x1 Reinforced Glass Beaker
-[Tertiary Gene: <b>Veined (Gaoler)</b>](https://www1.flightrising.com/game-database/item/32215) | 24 | x1 Imbued Sulfur, x1 Silver Muck, x3 Orange Ooze, x3 [Kunzite](https://www1.flightrising.com/game-database/item/13394)
+<i>[Tertiary Gene: <b>Veined (Gaoler)</b>](https://www1.flightrising.com/game-database/item/32215)</i> | 24 | x1 Imbued Sulfur, x1 Silver Muck, x3 Orange Ooze, x3 [Kunzite](https://www1.flightrising.com/game-database/item/13394)
 
 ### [Swipp materials](https://www1.flightrising.com/trading/swipp/catalog)
 
