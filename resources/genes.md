@@ -102,13 +102,65 @@ treasure | [Tiger](https://www1.flightrising.com/game-database/item/563) | 135kT
 treasure | <i>[Tiger (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=tiger+%28) | 67.5kT
 treasure | [Vipera](https://www1.flightrising.com/game-database/item/9558) | 235kT
 gems | [Wasp](https://www1.flightrising.com/game-database/item/24312) | 1500g
-gems | <i>[Wasp (Gaoler)](https://www1.flightrising.com/game-database/item/30146)</i> | 750
+gems | <i>[Wasp (Gaoler)](https://www1.flightrising.com/game-database/item/30146)</i> | 750g
 
 ### Secondary genes
 
 via | <span class="redundant">secondary gene:</span> | price
 --- | ---
-/ | /
+gems | [Alloy](https://www1.flightrising.com/game-database/item/19569) | 1200g
+gems | <i>[Alloy (Banescale)](https://www1.flightrising.com/game-database/item/32543)</i> | 600g
+treasure | <i>[Arrow (Banescale)](https://www1.flightrising.com/game-database/item/32548)</i> | 80kT
+gems | [Bee](https://www1.flightrising.com/game-database/item/24311) | 1200g
+gems | <i>[Bee (Gaoler)](https://www1.flightrising.com/game-database/item/30147)</i> | 600g
+treasure | [Blend](https://www1.flightrising.com/game-database/item/32413) | 100kT
+treasure | <i>[Breakup (Gaoler)](https://www1.flightrising.com/game-database/item/30282)</i> | 100kT
+gems | [Butterfly](https://www1.flightrising.com/game-database/item/14758) | 1200g
+gems | <i>[Butterfly (Banescale)](https://www1.flightrising.com/game-database/item/32545)</i> | 600g
+treasure | [Clouded](https://www1.flightrising.com/game-database/item/31361) | 120kT
+gems | [Constellation](https://www1.flightrising.com/game-database/item/28357) | 1200g
+treasure | [Current](https://www1.flightrising.com/game-database/item/3784) | 165kT
+treasure | [Daub](https://www1.flightrising.com/game-database/item/6019) | 165kT
+treasure | <i>[Daub (Gaoler)](https://www1.flightrising.com/game-database/item/30160)</i> | 82.5kT
+treasure | [Edged](https://www1.flightrising.com/game-database/item/29723) | 120kT
+treasure | <i>[Edged (Banescale)](https://www1.flightrising.com/game-database/item/32542)</i> | 60kT
+treasure | [Eye Spots](https://www1.flightrising.com/game-database/item/782) | 110kT
+gems | [Facet](https://www1.flightrising.com/game-database/item/7642) | 1200g
+gems | <i>[Facet (Gaoler)](https://www1.flightrising.com/game-database/item/30288)</i> | 600g
+treasure | [Freckle](https://www1.flightrising.com/game-database/item/784) | 90kT
+treasure | [Hex](https://www1.flightrising.com/game-database/item/16719) | 160kT
+treasure | <i>[Hex (Gaoler)](https://www1.flightrising.com/game-database/item/30144)</i> | 80kT
+treasure | [Hypnotic](https://www1.flightrising.com/game-database/item/9559) | 185kT
+coli | [Morph](https://www1.flightrising.com/game-database/item/26376) | <span style="opacity:.5">luck</span>
+treasure | <i>[Mottle (Banescale)](https://www1.flightrising.com/game-database/item/32541)</i> | 60kT
+treasure | [Noxtide](https://www1.flightrising.com/game-database/item/28080) | 170kT
+treasure | [Paint](https://www1.flightrising.com/game-database/item/12274) | 165kT
+treasure | <i>[Paint (Gaoler)](https://www1.flightrising.com/game-database/item/30165)</i> | 82.5kT
+treasure | [Peregrine](https://www1.flightrising.com/game-database/item/12726) | 140kT
+treasure | <i>[Peregrine (Gaoler)](https://www1.flightrising.com/game-database/item/30162)</i> | 70kT
+treasure | [Rosette](https://www1.flightrising.com/game-database/item/23239) | 100kT
+treasure | <i>[Rosette (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=rosette+%28)</i> | 50kT
+treasure | [Safari](https://www1.flightrising.com/game-database/item/22806) | 98kT
+treasure | <i>[Safari](https://www1.flightrising.com/game-database/item/32544)</i> | 49kT
+treasure | [Saturn](https://www1.flightrising.com/game-database/item/18586) | 160kT
+treasure | [Seraph](https://www1.flightrising.com/game-database/item/1412) | 125kT
+treasure | <i>[Seraph (Banescale)](https://www1.flightrising.com/game-database/item/32537)</i> | 62.5kT
+gems | [Shimmer](https://www1.flightrising.com/game-database/item/564) | 1200g
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Sludge](https://www1.flightrising.com/game-database/item/31639) | 90kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Spinner](https://www1.flightrising.com/game-database/item/19143) | 95kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47.5kT
+coli | <i>[Spirit (Gaoler)](https://www1.flightrising.com/game-database/item/30291)</i> | <span style="opacity:.5">luck</span>
+treasure | <i>[Streak (Gaoler)](https://www1.flightrising.com/game-database/item/30158)</i> | 80kT
+treasure | [Striaton](https://www1.flightrising.com/game-database/item/24609) | 120kT
+treasure | <i>[Striaton (Gaoler)](https://www1.flightrising.com/game-database/item/30215)</i> | 60kT
+treasure | [Stripes](https://www1.flightrising.com/game-database/item/565) | 90kT
+treasure | <i>[Stripes (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=stripes+%28)</i> | 45kT
+coli | <i>[Sugarplum (Banescale)](https://www1.flightrising.com/game-database/item/32549)</i> | <span style="opacity:.5">luck</span>
+treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/item/32550)</i> | 80kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100kT
+[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50kT
 
 ### Tertiary genes
 
@@ -135,6 +187,7 @@ gems | [Tri-Color Scatterscroll](https://www1.flightrising.com/game-database/ite
 item | lvl | ingredients
 --- | ---
 [Breed Change: <b>Bogsneak</b>](https://www1.flightrising.com/game-database/item/19565) | 16 | x2 [Imbued Sulfur](https://www1.flightrising.com/game-database/item/19446), x3 Grey Slime, x2 Gold Muck, x3 Copper Muck, x1 Blue Sludge
+[Vial of <b>Darkened Sight</b>](https://www1.flightrising.com/game-database/item/28069) | 21 | x2 Gold Muck, x2 Blue Sludge, x1 [Fine Alchemical Reduction](https://www1.flightrising.com/game-database/item/19445), x1 Reinforced Glass Beaker
 [Primary Gene: <b>Pinstripe</b>](https://www1.flightrising.com/game-database/item/25467) | 20 | x1 Imbued Sulfur, x1 Blue Sludge, x2 Copper Muck, x8 [Snail Husk](https://www1.flightrising.com/game-database/item/25316)
 <i>[Primary Gene: <b>Pinstripe (Banescale)</b>](https://www1.flightrising.com/game-database/item/32525)</i> | 24 | x1 Imbued Sulfur, x2 Red Sludge, x1 Gold Muck, x4 Snail Husk
 <i>[Primary Gene: <b>Pinstripe (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30166)</i> | 22 | x1 Imbued Sulfur, x2 Purple Sludge, x1 Silver Muck, x4 Snail Husk
@@ -143,19 +196,25 @@ item | lvl | ingredients
 [Primary Gene: <b>Skink</b>](https://www1.flightrising.com/game-database/item/19142) | 8 | x2 Silver Muck, x2 Grey Slime, x8 Yellow Ooze, x8 Orange Ooze, x1 [Glass Beaker](https://www1.flightrising.com/game-database/item/10868)
 <i>[Primary Gene: <b>Skink (Banescale)</b>](https://www1.flightrising.com/game-database/item/32532)</i> | 23 | x1 Silver Muck, x1 Grey Slime, x4 Yellow Ooze, x4 Orange Ooze, x1 Glass Beaker
 [Primary Gene: <b>Slime</b>](https://www1.flightrising.com/game-database/item/31638) | 22 | x2 Grey Slime, x2 Gold Muck, x1 Blue Ooze, x1 [Radioactive Slime](https://www1.flightrising.com/game-database/item/638), x1 [Reinforced Glass Beaker](https://www1.flightrising.com/game-database/item/19444)
-[Vial of <b>Darkened Sight</b>](https://www1.flightrising.com/game-database/item/28069) | 21 | x2 Gold Muck, x2 Blue Sludge, x1 [Fine Alchemical Reduction](https://www1.flightrising.com/game-database/item/19445), x1 Reinforced Glass Beaker
+[Secondary Gene: <b>Sludge</b>](https://www1.flightrising.com/game-database/item/31639) | 22 | x2 Copper Muck, x2 Black Slime, x1 Blue Goo, x1 [River Muck](https://www1.flightrising.com/game-database/item/637), x1 Reinforced Glass Beaker
+[Secondary Gene: <b>Spinner</b>](https://www1.flightrising.com/game-database/item/19143) | 8 | x2 Gold Muck, x2 White Slime, x4 Red Ooze, x8 Orange Sludge, x1 Glass Beaker
+<i>[Secondary Gene: <b>Spinner (Banescale)</b>](https://www1.flightrising.com/game-database/item/32546) | 23 | x1 Gold Muck, x1 White Slime, x2 Red Ooze, x4 Orange Sludge, x1 Glass Beaker
+[Secondary Gene: <b>Toxin</b>](https://www1.flightrising.com/game-database/item/14099) | 10 | x2 Gold Muck, x2 White slime, x1 Blue Sludge, x2 [Sizzling Phosphorus](https://www1.flightrising.com/game-database/item/10883), x20 [Unstable Serthis Collection](https://www1.flightrising.com/game-database/item/6351)
+<i>[Secondary Gene: <b>Toxin (Banescale)</b>](https://www1.flightrising.com/game-database/item/32547)</i> | 24 | x1 Gold Muck, x1 White Slime, x1 Blue Sludge, x1 Sizzling Phosphorus, x10 Unstable Serthis Collection
+[Secondary Gene: <b>Trail</b>](https://www1.flightrising.com/game-database/item/25468) | 20 | x1 Imbued Sulfur, x1 Blue Ooze, x2 Silver Muck, x8 [Seaside Trumpet](https://www1.flightrising.com/game-database/item/25315)
+<i>[Secondary Gene: <b>Trail (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30167)</i> | 22 | x1 Imbued Sulfur, x2 Purple Ooze, x1 Gold Muck, x4 Seaside Trumpet
 
 ### [Swipp materials](https://www1.flightrising.com/trading/swipp/catalog)
 
 item | trade
 --- | ---
 <i>[Tertiary Gene: <b>Blossom</b> (Gaoler)](https://www1.flightrising.com/game-database/item/30955)</i> | x75 [Dried Lilium Petals](https://www1.flightrising.com/game-database/item/23808), x20 [Pretty Pink Mums](https://www1.flightrising.com/game-database/item/25280)
-[Tertiary Gene: Firefly](https://www1.flightrising.com/game-database/item/26606) | x60 [Fanned Cockroach](https://www1.flightrising.com/game-database/item/25773), x1 [Firebug](https://www1.flightrising.com/game-database/item/26127)
+[Tertiary Gene: <b>Firefly</b>](https://www1.flightrising.com/game-database/item/26606) | x60 [Fanned Cockroach](https://www1.flightrising.com/game-database/item/25773), x1 [Firebug](https://www1.flightrising.com/game-database/item/26127)
 <i>[Tertiary Gene: <b>Squiggle</b> (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | x1 [Chillriver Bucktooth](https://www1.flightrising.com/game-database/item/28572), x80 [Redfin Belt](https://www1.flightrising.com/game-database/item/32310)
 
 ## Additional notes
 
-- The following items are *extremely difficult* to obtain if you weren't present for initial release: anything [clanbound](https://www1.flightrising.com/forums/help/2688565), [Scattersights](https://www1.flightrising.com/forums/ann/2452352), and [Imperial scrolls](https://www.kickstarter.com/projects/stormlightworkshop/flight-rising-0).
+- The following items are *extremely difficult* to obtain if you weren't present for initial release: [Imperial scrolls](https://www.kickstarter.com/projects/stormlightworkshop/flight-rising-0), [Scattersights](https://www1.flightrising.com/forums/ann/2452352), anything [clanbound](https://www1.flightrising.com/forums/help/2688565)
 	- [Galore](https://www1.flightrising.com/trading/gift) occasionally offers new clanbound items; if there's something new to pick up, you'll receive an alert.
 - [Nocturne scrolls](https://www1.flightrising.com/game-database/item/7692) cycle in every Night of the Nocturne, in late December & early January.
 - \*Wildclaw scrolls are cycled in at random. Announcements are posted when they are.

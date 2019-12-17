@@ -47,8 +47,8 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] [gene obtaining methods]({%include url.html%}/resources/genes)
 		- [x] breed
 		- [x] eyes
-		- [ ] primary
-		- [ ] secondary
+		- [x] primary
+		- [x] secondary
 		- [ ] tertiary
 		- [x] other
 	- [ ] misc. common knowledge (ex. dom discount prices, food types eaten, color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
