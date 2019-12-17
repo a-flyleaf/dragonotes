@@ -13,8 +13,6 @@ Copied from the [Game Database](https://www1.flightrising.com/game-database/item
 
 <i>[Ancient breeds](https://www1.flightrising.com/forums/ann/2666061)</i> have separate, often cheaper genes than the other ("modern") breeds. Not all modern genes have an ancient equivalent and vice versa.
 
-TODO: primary, secondary, tertiary
-
 ## Quicklist
 
 ### Breed changes
