@@ -139,7 +139,7 @@ treasure | <i>[Peregrine (Gaoler)](https://www1.flightrising.com/game-database/i
 treasure | [Rosette](https://www1.flightrising.com/game-database/item/23239) | 100kT
 treasure | <i>[Rosette (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=rosette+%28)</i> | 50kT
 treasure | [Safari](https://www1.flightrising.com/game-database/item/22806) | 98kT
-treasure | <i>[Safari](https://www1.flightrising.com/game-database/item/32544)</i> | 49kT
+treasure | <i>[Safari (Banescale)](https://www1.flightrising.com/game-database/item/32544)</i> | 49kT
 treasure | [Saturn](https://www1.flightrising.com/game-database/item/18586) | 160kT
 treasure | [Seraph](https://www1.flightrising.com/game-database/item/1412) | 125kT
 treasure | <i>[Seraph (Banescale)](https://www1.flightrising.com/game-database/item/32537)</i> | 62.5kT
@@ -198,9 +198,9 @@ treasure | <i>[Runes (Gaoler)](https://www1.flightrising.com/game-database/item/
 treasure | <i>[Shardflank (Gaoler)](https://www1.flightrising.com/game-database/item/30155)</i> | 75kT
 coli | <i>[Skeletal (Banescale)](https://www1.flightrising.com/game-database/item/32557)</i> | <span style="opacity:.5">luck</span>
 treasure | [Smoke](https://www1.flightrising.com/game-database/item/4555) | 190kT
-treasure | <i>[Smoke (Gaoler](https://www1.flightrising.com/game-database/item/30163)</i> | 95kT
+treasure | <i>[Smoke (Gaoler)](https://www1.flightrising.com/game-database/item/30163)</i> | 95kT
 treasure | [Spines](https://www1.flightrising.com/game-database/item/7096) | 190kT
-[swipp]({{site.url}}/resources/genes#swipp-materials) | [Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554) | <span style="opacity:.5">n/a</span>
+[swipp]({{site.url}}/resources/genes#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
 gems | [Stained](https://www1.flightrising.com/game-database/item/16004) | 1200g
 treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 155kT
 treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 77.5kT
