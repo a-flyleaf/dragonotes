@@ -13,6 +13,8 @@ Copied from the [Game Database](https://www1.flightrising.com/game-database/item
 
 <i>[Ancient breeds](https://www1.flightrising.com/forums/ann/2666061)</i> have separate, often cheaper genes than the other ("modern") breeds. Not all modern genes have an ancient equivalent and vice versa.
 
+{%include skipto.html links="<ul><li><a href='#quicklist'>Quicklist</a><ul><a href='#breed-changes'><li>Breed changes</li></a><a href='#eyes'><li>Eyes</li></a><a href='#primary-genes'><li>Primary genes</li></a><a href='#secondary-genes'><li>Secondary genes</li></a><a href='#tertiary-genes'><li>Tertiary genes</li></a><a href='#other'><li>Other</li></a></ul></li><li><a href='#item-quickref'>Item quickref</a><ul><a href='#baldwin-recipes'><li>Baldwin recipes</li></a><a href='#swipp-materials'><li>Swipp materials</li></a></ul></li></ul>"%}
+
 ## Quicklist
 
 ### Breed changes
@@ -20,7 +22,7 @@ Copied from the [Game Database](https://www1.flightrising.com/game-database/item
 via | <span class="redundant">breed change:</span> | price
 --- | ---
 treasure | [Banescale](https://www1.flightrising.com/game-database/item/32411) | 270.875kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Bogsneak](https://www1.flightrising.com/game-database/item/19565) | 185kT
+[baldwin](#baldwin-recipes) | [Bogsneak](https://www1.flightrising.com/game-database/item/19565) | 185kT
 gems | [Coatl](https://www1.flightrising.com/game-database/item/2424) | 2000g
 treasure | [Fae](https://www1.flightrising.com/game-database/item/555) | 49.25kT
 treasure | [Gaoler](https://www1.flightrising.com/game-database/item/30148) | 270.875kT
@@ -39,7 +41,7 @@ gems | [Wildclaw](https://www1.flightrising.com/game-database/item/717)\* | 2000
 via | vial of ___ | yields | price
 --- | ---
 treasure | [Tempered Sight](https://www1.flightrising.com/game-database/item/26849) | Common | 2.125kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Darkened Sight](https://www1.flightrising.com/game-database/item/28069) | Dark Sclera | 100kT
+[baldwin](#baldwin-recipes) | [Darkened Sight](https://www1.flightrising.com/game-database/item/28069) | Dark Sclera | 100kT
 gems | [Glowing Sight](https://www1.flightrising.com/game-database/item/26775) | Glowing | 200g
 gems | [Naivety](https://www1.flightrising.com/game-database/item/31794) | Innocent | 200g
 coli | [Hypnotic Sight](https://www1.flightrising.com/game-database/item/29585) | Swirl | <span style="opacity:.5">luck</span>
@@ -79,19 +81,19 @@ gems | <i>[Petals (Banescale)](https://www1.flightrising.com/game-database/item/
 coli | <i>[Phantom (Gaoler)](https://www1.flightrising.com/game-database/item/30290)</i> | <span style="opacity:.5">luck</span>
 treasure | [Piebald](https://www1.flightrising.com/game-database/item/12273) | 235kT
 treasure | <i>[Piebald (Gaoler)](https://www1.flightrising.com/game-database/item/30164)</i> | 117.5kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Pinstripe](https://www1.flightrising.com/game-database/item/25467) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Pinstripe (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=pinstripe+%28)</i> | 50kT  
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Poison](https://www1.flightrising.com/game-database/item/14098) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Poison (Banescale)](https://www1.flightrising.com/game-database/item/32533)</i> | 50kT
+[baldwin](#baldwin-recipes) | [Pinstripe](https://www1.flightrising.com/game-database/item/25467) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Pinstripe (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=pinstripe+%28)</i> | 50kT  
+[baldwin](#baldwin-recipes) | [Poison](https://www1.flightrising.com/game-database/item/14098) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Poison (Banescale)](https://www1.flightrising.com/game-database/item/32533)</i> | 50kT
 coli | [Python](https://www1.flightrising.com/game-database/item/26375) | <span style="opacity:.5">luck</span>
 treasure | <i>[Ragged (Banescale)](https://www1.flightrising.com/game-database/item/32536)</i> | 100kT
 treasure | [Ripple](https://www1.flightrising.com/game-database/item/3499) | 250kT
 treasure | [Savannah](https://www1.flightrising.com/game-database/item/20109) | 140kT
 treasure | <i>[Savannah (Banescale)](https://www1.flightrising.com/game-database/item/32530)</i> | 70kT
 treasure | <i>[Shaggy (Gaoler)](https://www1.flightrising.com/game-database/item/30157)</i> | 112.5kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Skink](https://www1.flightrising.com/game-database/item/19142) | 95kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Skink (Banescale)](https://www1.flightrising.com/game-database/item/32532)</i> | 47.5kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100kT
+[baldwin](#baldwin-recipes) | [Skink](https://www1.flightrising.com/game-database/item/19142) | 95kT
+[baldwin](#baldwin-recipes) | <i>[Skink (Banescale)](https://www1.flightrising.com/game-database/item/32532)</i> | 47.5kT
+[baldwin](#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100kT
 treasure | [Speckle](https://www1.flightrising.com/game-database/item/833) | 125kT
 gems | [Starmap](https://www1.flightrising.com/game-database/item/26607) | 1500g
 treasure | [Tapir](https://www1.flightrising.com/game-database/item/24608) | 185kT
@@ -144,9 +146,9 @@ treasure | [Saturn](https://www1.flightrising.com/game-database/item/18586) | 16
 treasure | [Seraph](https://www1.flightrising.com/game-database/item/1412) | 125kT
 treasure | <i>[Seraph (Banescale)](https://www1.flightrising.com/game-database/item/32537)</i> | 62.5kT
 gems | [Shimmer](https://www1.flightrising.com/game-database/item/564) | 1200g
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Sludge](https://www1.flightrising.com/game-database/item/31639) | 90kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Spinner](https://www1.flightrising.com/game-database/item/19143) | 95kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47.5kT
+[baldwin](#baldwin-recipes) | [Sludge](https://www1.flightrising.com/game-database/item/31639) | 90kT
+[baldwin](#baldwin-recipes) | [Spinner](https://www1.flightrising.com/game-database/item/19143) | 95kT
+[baldwin](#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47.5kT
 coli | <i>[Spirit (Gaoler)](https://www1.flightrising.com/game-database/item/30291)</i> | <span style="opacity:.5">luck</span>
 treasure | <i>[Streak (Gaoler)](https://www1.flightrising.com/game-database/item/30158)</i> | 80kT
 treasure | [Striaton](https://www1.flightrising.com/game-database/item/24609) | 120kT
@@ -155,17 +157,17 @@ treasure | [Stripes](https://www1.flightrising.com/game-database/item/565) | 90k
 treasure | <i>[Stripes (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=stripes+%28)</i> | 45kT
 coli | <i>[Sugarplum (Banescale)](https://www1.flightrising.com/game-database/item/32549)</i> | <span style="opacity:.5">luck</span>
 treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/item/32550)</i> | 80kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50kT
+[baldwin](#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50kT
+[baldwin](#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50kT
 
 ### Tertiary genes
 
 via | <span class="redundant">tertiary gene:</span> | price
 --- | ---
-[swipp]({{site.url}}/resources/genes#swipp-materials) | <i>[Blossom (Gaoler)](https://www1.flightrising.com/game-database/item/30955)</i> | <span style="opacity:.5">n/a</span>
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Capsule](https://www1.flightrising.com/game-database/item/23168) | 110kT
+[swipp](#swipp-materials) | <i>[Blossom (Gaoler)](https://www1.flightrising.com/game-database/item/30955)</i> | <span style="opacity:.5">n/a</span>
+[baldwin](#baldwin-recipes) | [Capsule](https://www1.flightrising.com/game-database/item/23168) | 110kT
 gems | [Circuit](https://www1.flightrising.com/game-database/item/566) | 1200g
 treasure | [Contour](https://www1.flightrising.com/game-database/item/17664) | 150kT
 treasure | <i>[Contour (Banescale)](https://www1.flightrising.com/game-database/item/32558)</i> | 75kT
@@ -174,7 +176,7 @@ treasure | <i>[Crackle (Banescale)](https://www1.flightrising.com/game-database/
 gems | <i>[Fans (Banescale)](https://www1.flightrising.com/game-database/item/32553)</i> | 500g
 gems | [Filigree](https://www1.flightrising.com/game-database/item/26117) | 1200g
 gems | <i>[Filigree (Banescale)](https://www1.flightrising.com/game-database/item/32555)</i> | 500g
-[swipp]({{site.url}}/resources/genes#swipp-materials) | [Firefly](https://www1.flightrising.com/game-database/item/26606) | <span style="opacity:.5">n/a</span>
+[swipp](#swipp-materials) | [Firefly](https://www1.flightrising.com/game-database/item/26606) | <span style="opacity:.5">n/a</span>
 treasure | [Gembond](https://www1.flightrising.com/game-database/item/1228) | 200kT
 treasure | [Ghost](https://www1.flightrising.com/game-database/item/25782) | 160kT
 treasure | <i>[Ghost (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ghost+%28)</i> | 80kT
@@ -187,28 +189,28 @@ gems | [Opal](https://www1.flightrising.com/game-database/item/20108) | 1200g
 gems | <i>[Opal (Gaoler)](https://www1.flightrising.com/game-database/item/30956)</i> | 500g
 treasure | [Peacock](https://www1.flightrising.com/game-database/item/28942) | 150kT
 gems | <i>[Plumage (Banescale)](https://www1.flightrising.com/game-database/item/32563)</i> | 500g
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Porcupine (Banescale)](https://www1.flightrising.com/game-database/item/32561)</i> | 50kT
-[swipp]({{site.url}}/resources/genes#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
+[baldwin](#baldwin-recipes) | <i>[Porcupine (Banescale)](https://www1.flightrising.com/game-database/item/32561)</i> | 50kT
+[swipp](#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
 treasure | [Ringlets](https://www1.flightrising.com/game-database/item/27378) | 155kT
 treasure | <i>[Ringlets (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ringlets+%28)</i> | 77.5kT
 treasure | [Runes](https://www1.flightrising.com/game-database/item/19563) | 190kT
 treasure | <i>[Runes (Gaoler)](https://www1.flightrising.com/game-database/item/30289)</i> | 95kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Scales](https://www1.flightrising.com/game-database/item/19568) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Scorpion (Gaoler)](https://www1.flightrising.com/game-database/item/30283)</i> | 45kT
+[baldwin](#baldwin-recipes) | [Scales](https://www1.flightrising.com/game-database/item/19568) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Scorpion (Gaoler)](https://www1.flightrising.com/game-database/item/30283)</i> | 45kT
 treasure | <i>[Shardflank (Gaoler)](https://www1.flightrising.com/game-database/item/30155)</i> | 75kT
 coli | <i>[Skeletal (Banescale)](https://www1.flightrising.com/game-database/item/32557)</i> | <span style="opacity:.5">luck</span>
 treasure | [Smoke](https://www1.flightrising.com/game-database/item/4555) | 190kT
 treasure | <i>[Smoke (Gaoler)](https://www1.flightrising.com/game-database/item/30163)</i> | 95kT
 treasure | [Spines](https://www1.flightrising.com/game-database/item/7096) | 190kT
-[swipp]({{site.url}}/resources/genes#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
+[swipp](#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
 gems | [Stained](https://www1.flightrising.com/game-database/item/16004) | 1200g
 treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 155kT
 treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 77.5kT
 treasure | <i>[Trimmings (Banescale)](https://www1.flightrising.com/game-database/item/32551)</i> | 75kT
 treasure | [Underbelly](https://www1.flightrising.com/game-database/item/1716) | 150kT
 treasure | <i>[Underbelly (Gaoler)](https://www1.flightrising.com/game-database/item/30172) | 75kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | [Veined](https://www1.flightrising.com/game-database/item/32216) | 100kT
-[baldwin]({{site.url}}/resources/genes#baldwin-recipes) | <i>[Veined (Gaoler)](https://www1.flightrising.com/game-database/item/32215) | 50kT
+[baldwin](#baldwin-recipes) | [Veined](https://www1.flightrising.com/game-database/item/32216) | 100kT
+[baldwin](#baldwin-recipes) | <i>[Veined (Gaoler)](https://www1.flightrising.com/game-database/item/32215) | 50kT
 coli | <i>[Weathered (Gaoler)](https://www1.flightrising.com/game-database/item/30292)</i> | <span style="opacity:.5">luck</span>
 treasure | <i>[Wintercoat (Gaoler)](https://www1.flightrising.com/game-database/item/30284)</i> | 95kT
 gems | <i>[Wraith (Banescale)](https://www1.flightrising.com/game-database/item/32560)</i> | 500g
@@ -268,5 +270,3 @@ item | trade
 - [Nocturne scrolls](https://www1.flightrising.com/game-database/item/7692) and  [the Smirch tertiary](https://www1.flightrising.com/game-database/item/25153) cycle in every Night of the Nocturne, in late December & early January.
 - \*Wildclaw scrolls are cycled in at random. Announcements are posted when they are.
 - You will rarely, if ever, see [maturity scrolls](https://www1.flightrising.com/game-database/item/573) or [cooldown boons](https://www1.flightrising.com/game-database/item/26086) in circulation. Barring first-day-breed-release bragging rights, you're better off saving the gems and waiting it out.
-
-<sub>Shout-out to [Rosaceae](https://flightrising.com/main.php?p=lair&tab=userpage&id=154165) for catching a metric crudton of typos and other formatting issues!</sub>

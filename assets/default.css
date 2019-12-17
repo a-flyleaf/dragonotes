@@ -1,5 +1,5 @@
 *{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
-header,section,footer,aside,nav,main,article,figure{display:block;}
+header,section,footer,#sitenav,nav,main,article,figure{display:block;}
 body{overflow-x:hidden; font-size:1.25em; font-family:'alegreya sans',helvetica,'trebuchet ms',sans-serif; line-height:1.35em; color:#232323; background:#dcd6c8;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 a{color:#731d08; text-decoration:none;} a:hover,a:focus{color:#b0734f;} main a{color:#b70000;}
@@ -19,21 +19,28 @@ table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em;
 #wrap{margin:0 auto; max-width:50em;}
 
 header{text-align:center; background:#731d08; padding:1.5rem .5rem;}
-#logo{display:block; color:#e8cc9f; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-style:italic; padding-bottom:.5rem;} #logo:hover,#logo:focus{color:#fff;}
+#logo{display:block; color:#e8cc9f; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; padding-bottom:.5rem;} #logo:hover,#logo:focus{color:#fff;}
 h1{line-height:1em; color:#fff; font-size:2em;}
 
-aside{text-align:center; font-weight:700;}
-aside ul{margin:0; list-style-type:none; padding:.5em 0;}
-aside li{padding:.25em 0; display:inline-block; width:50%;}
+#sitenav{text-align:center; font-weight:700;}
+#sitenav ul{margin:0; list-style-type:none; padding:.5em 0;}
+#sitenav li{padding:.25em 0; display:inline-block; width:50%;}
+#sitenav li>ul{display:none;}
 
 main{background:#fff; padding:1rem; padding-bottom:5em;}
 main ol,ul{line-height:1.25em;}
+
+.pagenav{font-weight:700; margin:2rem 0; text-align:center;}
+.pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0;}
+.pagenav ul{list-style-type:none; margin:0; line-height:1em;} .pagenav li{padding:.15em 0;}
+.pagenav li>ul{margin-top:.25em;}
+.pagenav li>ul>a li{margin:0; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-weight:400;}
 
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 #top{text-align:center; margin-top:-.25em;}
 
 .genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
-.genes table{margin:0 0 3em 0; font-size:.5em; font-size:3.25vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
+.genes table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .genes th:first-child,.genes td:first-child{width:5em;}
 .genes th:last-child,.genes td:last-child{width:15%; text-align:center;}
 .genes td:nth-child(2) a{font-weight:700;}
@@ -57,11 +64,23 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 	#logo{width:22.5%; padding-left:1rem;}
 	h1{margin:0; line-height:1.25em; padding-left:1.5rem;}
 	
-	aside,main{display:inline-block; vertical-align:top;}
-	aside{width:22.5%; text-align:left; font-size:1.25em;}
-	aside ul{padding:1rem 1rem 0 1rem;}
-	aside li{display:block; width:100%;}
+	#sitenav,main{display:inline-block; vertical-align:top;}
+	#sitenav{width:22.5%; text-align:left; font-size:1.25em;}
+	#sitenav ul{padding:1rem 1rem 0 1rem;}
+	#sitenav li{display:block; width:100%;}
+	#sitenav li>ul{display:block; font-size:.85em; padding:0 0 0 1rem; line-height:1.15em;}
+	
 	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
+	
+	.pagenav{position:fixed; left:0; bottom:0; margin:0; width:22.5%; text-align:left; padding:0 1rem; background:#ccc4b1;}
+	.pagenav button{text-align:left; padding:.75em; color:#5c5c5c; line-height:.75em; text-indent:-.85em;}
+	.pagenav button:focus,.pagenav button:hover{color:inherit; cursor:pointer;}
+	.pagenav [data-expandable][aria-expanded="false"]::before{content: '▲'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
+	.pagenav [data-expandable][aria-expanded="true"]::before{content: '▼'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
+	.pagenav .expandable[aria-hidden="true"] {display: none;}
+	.pagenav nav{margin-top:-.5em;}
+	.pagenav li>ul{margin:0 0 0 1rem;}
+	.pagenav a{color:#731d08;}
 
 	footer{width:77.5%; margin-left:22.5%; padding:1rem 1rem 1rem 0;}
 	#top{display:none;}
@@ -69,8 +88,10 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
 }
 
-@media only screen and (min-width:65em){
+@media only screen and (min-width:63em){
 	#logo{font-size:1.5em;}
+	
+	.pagenav{width:12em; left:auto; right:auto; margin-left:-16rem; background:0;}
 	
 	footer{text-align:center; padding:1.5em 0 2em 0;} footer span{display:block;}
 	
