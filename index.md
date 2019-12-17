@@ -44,13 +44,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [ ] [Resources]({%include url.html%}/resources)
 	- [ ] guides
 	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
-	- [ ] [gene obtaining methods]({%include url.html%}/resources/genes)
-		- [x] breed
-		- [x] eyes
-		- [x] primary
-		- [x] secondary
-		- [ ] tertiary
-		- [x] other
+	- [x] [gene obtaining methods]({%include url.html%}/resources/genes)
 	- [ ] misc. common knowledge (ex. dom discount prices, food types eaten, color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
 	- [ ] AH links
 		- [ ] fodder: adults/hatchlings
@@ -62,6 +56,6 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- TODO: tumblr archive (no links unless asks/reblog commentary)
 	- 12/10 site start
 	- 12/11 glossary
-	- 12/12 genes
+	- 12/12 genelist
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
