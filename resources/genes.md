@@ -259,7 +259,7 @@ item | trade
 --- | ---
 <i>[Tertiary Gene: <b>Blossom (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30955)</i> | x75 [Dried Lilium Petals](https://www1.flightrising.com/game-database/item/23808), x20 [Pretty Pink Mums](https://www1.flightrising.com/game-database/item/25280)
 [Tertiary Gene: <b>Firefly</b>](https://www1.flightrising.com/game-database/item/26606) | x60 [Fanned Cockroach](https://www1.flightrising.com/game-database/item/25773), x1 [Firebug](https://www1.flightrising.com/game-database/item/26127)
-<i>[Tertiary Gene: <b>Squiggle</b> (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | x1 [Chillriver Bucktooth](https://www1.flightrising.com/game-database/item/28572), x80 [Redfin Belt](https://www1.flightrising.com/game-database/item/32310)
+<i>[Tertiary Gene: <b>Squiggle (Banescale)</b>](https://www1.flightrising.com/game-database/item/32554)</i> | x1 [Chillriver Bucktooth](https://www1.flightrising.com/game-database/item/28572), x80 [Redfin Belt](https://www1.flightrising.com/game-database/item/32310)
 
 ## Additional notes
 
@@ -268,3 +268,5 @@ item | trade
 - [Nocturne scrolls](https://www1.flightrising.com/game-database/item/7692) and  [the Smirch tertiary](https://www1.flightrising.com/game-database/item/25153) cycle in every Night of the Nocturne, in late December & early January.
 - \*Wildclaw scrolls are cycled in at random. Announcements are posted when they are.
 - You will rarely, if ever, see [maturity scrolls](https://www1.flightrising.com/game-database/item/573) or [cooldown boons](https://www1.flightrising.com/game-database/item/26086) in circulation. Barring first-day-breed-release bragging rights, you're better off saving the gems and waiting it out.
+
+<sub>Shout-out to [Rosaceae](https://flightrising.com/main.php?p=lair&tab=userpage&id=154165) for catching a metric crudton of typos and other formatting issues!</sub>
