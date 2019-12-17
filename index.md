@@ -7,6 +7,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 ## sitemap/to-do
 
 - [ ] dark mode (default?)
+- [ ] stickynav layout
 - [ ] About
 	- [ ] bio (about me, about site)
 	- [ ] lairnotes (breeding/buying)

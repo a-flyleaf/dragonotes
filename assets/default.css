@@ -4,11 +4,12 @@ body{overflow-x:hidden; font-size:1.25em; font-family:'alegreya sans',helvetica,
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 a{color:#731d08; text-decoration:none;} a:hover,a:focus{color:#b0734f;} main a{color:#b70000;}
 blockquote{margin-left:1em; color:#5c5c5c;}
-.tip{background:#f2f2f2; background:linear-gradient(#e5e5e5 0, #f2f2f2 3em); border-radius:1em; padding:.5em 1em; margin:2em 0 1.5em;} .tip h2{margin-top:.5em;} .protip{color:#e5e5e5; display:block; margin-top:-1.475em; pointer-events:none;}
+.tip{background:#f2f2f2; background:linear-gradient(#e5e5e5 0, #f2f2f2 3em); border-radius:1em; padding:.5em 1em; margin:2em 0 1.5em;} .tip h2{margin-top:.5em;} .protip{color:#e5e5e5; display:block; margin-top:-1.465em; pointer-events:none;}
 h2,h3,h4{margin:1em 0 .5rem;}
 h2{font-size:1.25em; line-height:1.15em;}
 h4{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-size:.85em; line-height:1.25em;}
-ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} .task-list{list-style-type: none; margin-left:1em; text-indent:-1em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
+ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main li{margin:.5em 0;} li>ol,li>ul{margin-top:-.25em; color:#5c5c5c;}
+.task-list{list-style-type: none; margin-left:1em; text-indent:-1em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
 p{margin:.5rem 0;}
 .sc{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
@@ -31,13 +32,17 @@ main ol,ul{line-height:1.25em;}
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 #top{text-align:center; margin-top:-.25em;}
 
-.genes h2,.genes h3{text-align:center;} .genes h2:last-of-type{text-align:left;} .genes h3{margin:1em 0 0;}
-.genes table{margin:0 0 2em 0; font-size:.5em; font-size:3.25vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em;}
+.genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
+.genes table{margin:0 0 3em 0; font-size:.5em; font-size:3.25vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .genes th:first-child,.genes td:first-child{width:5em;}
 .genes th:last-child,.genes td:last-child{width:15%; text-align:center;}
 .genes td:nth-child(2) a{font-weight:700;}
 .genes table sub{margin:0;}
-.genes main li{margin:.5em 0;}
+.genes table:nth-of-type(n+7){font-size:.85em;}
+.genes table:nth-of-type(n+7) th:last-child{text-align:left;}
+.genes table:nth-of-type(n+7) td:last-child a{font-weight:400;}
+.genes table:nth-of-type(n+7) th:nth-child(2){width:1em;}
+.genes table:nth-of-type(n+7) td:last-child{text-align:left; width:65%;}
 .redundant{opacity:0;}
 
 #glossary{margin:2em auto;} #glossary thead{text-transform:lowercase;} #glossary th:first-child{text-align:right;} #glossary td:first-child{font-weight:700; text-align:right;}
@@ -56,12 +61,12 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75;}
 	aside{width:22.5%; text-align:left; font-size:1.25em;}
 	aside ul{padding:1rem 1rem 0 1rem;}
 	aside li{display:block; width:100%;}
-	main{width:77.5%; padding:.75rem 1.5rem; padding-bottom:3em;}
+	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
 
 	footer{width:77.5%; margin-left:22.5%; padding:1rem 0;}
 	#top{display:none;}
 	
-	.genes table{font-size:1em; max-width:25em; margin:0 auto 2em;}
+	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
 }
 
 @media only screen and (min-width:65em){
