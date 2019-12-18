@@ -20,7 +20,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] goals (by priority)
 		- [ ] fest gear (minus skins)
 		- [ ] fest skins (just list them all)
-		- [ ] scrolls/genes
+		- [x] scrolls/genes
 		- [ ] vistas
 		- [ ] breeding projects
 		- [ ] other familiars
