@@ -55,6 +55,6 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- TODO: tumblr archive (no links unless asks/reblog commentary)
 	- 12/10 site start! basic layout & page template
 	- 12/11 glossary
-	- 12/12 genelist, sitenav update & optional pagenav, credits
+	- 12/17 genelist, sitenav update & optional pagenav, credits
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)

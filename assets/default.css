@@ -1,6 +1,6 @@
 *{margin:0; padding:0; box-sizing:border-box; word-wrap:break-word; font-size:100%;}
 header,section,footer,#sitenav,nav,main,article,figure{display:block;}
-body{overflow-x:hidden; font-size:1.25em; font-family:'alegreya sans',helvetica,'trebuchet ms',sans-serif; line-height:1.35em; color:#232323; background:#dcd6c8;}
+body{overflow-x:hidden; font-size:1.25em; font-family:'alegreya sans','trebuchet ms',helvetica,sans-serif; line-height:1.35em; color:#232323; background:#dcd6c8;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 a{color:#731d08; text-decoration:none;} a:hover,a:focus{color:#b0734f;} main a{color:#b70000;}
 blockquote{margin-left:1em; color:#5c5c5c;}

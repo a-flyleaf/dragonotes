@@ -4,7 +4,7 @@ title: Credits
 ---
 This is a **usermade fansite** for the browser game **[Flight Rising](https://www1.flightrising.com)**, ©2013–2019 Stormlight Workshop, LLC. While no onsite assets have been reused here, all information (including site design and dragon lore) is based to some extent on Flight Rising. I claim no ownership of thereof and am **not** officially affiliated with the website or its owners.
 
-TL;DR I'm not a lawyer, I am a dragon nerd who likes coding. Please don't sue me.
+Basically, I'm not a lawyer, I am a dragon nerd who likes coding. Please don't sue me.
 
 ---
 
