@@ -33,7 +33,7 @@ main a{color:#b70000;}
 main ol,ul{line-height:1.25em;}
 
 .pagenav{font-weight:700; margin:2rem 0; text-align:center;}
-.pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0; color:#5c5c5c;}
+.pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0; color:#5c5c5c; outline:0;}
 .pagenav ul{list-style-type:none; margin:0; line-height:1em;} .pagenav li{padding:.15em 0;}
 .pagenav li>ul{margin-top:.25em;}
 .pagenav li>ul>a li{margin:0; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-weight:400;}
@@ -42,14 +42,15 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 #top{margin-top:-.25em;}
 
 .genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
+.genes sub{text-align:center; width:65%; margin:-2.5rem auto 3.5rem;}
 .genes table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .genes th:first-child,.genes td:first-child{width:5em;}
 .genes th:last-child,.genes td:last-child{width:15%; text-align:right;}
 .genes table:nth-of-type(-n+6) td:last-child{font-family:consolas,monospace; font-size:.85em; text-align:right;}
 .genes td:nth-child(2) a{font-weight:700;}
 .genes table sub{margin:0;}
-.genes table:nth-of-type(n+7){font-size:.85em;}
 .genes table:nth-of-type(n+7) th:last-child{text-align:left;}
+.genes table:nth-of-type(n+7) td{font-size:.85em;}
 .genes table:nth-of-type(n+7) td:last-child a{font-weight:400;}
 .genes table:nth-of-type(n+7) th:nth-child(2){width:1em;}
 .genes table:nth-of-type(n+7) td:last-child{text-align:left; width:65%;}
@@ -96,15 +97,15 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	
 	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
 	
-	.pagenav{position:fixed; left:0; bottom:0; margin:0; width:22.5%; text-align:left; padding:0 1rem; background:#ccc4b1;}
-	.pagenav button{text-align:left; padding:.75em; line-height:.75em; text-indent:-.85em;}
-	.pagenav button:focus,.pagenav button:hover{color:inherit; cursor:pointer;}
+	.pagenav{position:fixed; left:0; bottom:0; margin:0; width:22.5%; text-align:left; padding:0 1rem; background:#dcdc8;}
+	.pagenav button{text-align:left; padding:.75em; line-height:.85em; text-indent:-.85em;}
+	.pagenav button:focus,.pagenav button:hover{color:inherit; cursor:pointer; color:#b0734f;}
 	.pagenav [data-expandable][aria-expanded="false"]::before{content: '▲'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
 	.pagenav [data-expandable][aria-expanded="true"]::before{content: '▼'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
 	.pagenav .expandable[aria-hidden="true"] {display: none;}
 	.pagenav nav{margin-top:-.5em;}
-	.pagenav li>ul{margin:0 0 0 1rem;}
-	.pagenav a{color:#731d08;}
+	.pagenav li>ul{margin:.15rem 0 0 1rem;}
+	.pagenav a{color:#731d08;} .pagenav a:hover{color:#b0734f;}
 
 	footer{width:77.5%; margin-left:22.5%; padding:1.5rem 0 1rem;} footer span{display:block;} footer p{margin-top:1rem; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; text-transform:lowercase;}
 	#top{display:none;}
@@ -112,7 +113,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
 	
 	@media (prefers-color-scheme:dark) {
-		.pagenav{background:#373846;}
+		.pagenav{background:#1d1e25;}
+		.pagenav button:focus,.pagenav button:hover{color:#aec8ff;}
 		.pagenav a{color:#8294bd;} .pagenav a:hover,.pagenav a:focus{color:#aec8ff;}
 	}
 }
