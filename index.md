@@ -1,6 +1,6 @@
 ---
 layout: default
-title: it is a mystery
+title: here goes nothin
 ---
 And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make all my FR stuff its own website. I totally won’t regret this at all.
 
@@ -44,7 +44,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] guides
 	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
 	- [x] [gene obtaining methods]({%include url.html%}/resources/genes)
-	- [ ] misc. common knowledge (ex. dom discount prices, food types eaten, color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
+	- [ ] misc. common knowledge (ex. color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
 	- [ ] AH links
 		- [ ] fodder: adults/hatchlings
 		- [ ] lvl25: gems/treasure/g1
@@ -53,8 +53,8 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [x] [Glossary]({%include url.html%}/glossary)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- TODO: tumblr archive (no links unless asks/reblog commentary)
-	- 12/10 site start
+	- 12/10 site start! basic layout & page template
 	- 12/11 glossary
-	- 12/12 genelist
+	- 12/12 genelist, sitenav update & optional pagenav, credits
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
