@@ -86,7 +86,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	header{padding:5rem 0 .5rem; text-align:left;}
 	#logo,h1{display:inline-block;}
 	#logo{width:22.5%; padding-left:1rem;}
-	h1{margin:0; line-height:1.25em; padding-left:1.75rem;}
+	h1{margin:0; line-height:1.25em; padding-left:2rem;}
 	
 	#sitenav,main{display:inline-block; vertical-align:top;}
 	#sitenav{width:22.5%; text-align:left; font-size:1.25em;}
