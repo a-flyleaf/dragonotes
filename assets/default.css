@@ -43,7 +43,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
 .genes table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .genes th:first-child,.genes td:first-child{width:5em;}
-.genes th:last-child,.genes td:last-child{width:15%; text-align:center;}
+.genes th:last-child,.genes td:last-child{width:15%; text-align:right;}
+.genes table:nth-of-type(-n+6) td:last-child{font-family:consolas,monospace; font-size:.85em; text-align:right;}
 .genes td:nth-child(2) a{font-weight:700;}
 .genes table sub{margin:0;}
 .genes table:nth-of-type(n+7){font-size:.85em;}

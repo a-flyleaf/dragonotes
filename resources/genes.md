@@ -6,7 +6,7 @@ class: genes
 Copied from the [Game Database](https://www1.flightrising.com/game-database/items/specialty), resorted by item type and with obtaining methods listed for quick reference.
 
 - Item names link to the database entry, which shows availability automatically.
-- Treasure items use the maximum dom discount prices ([15% off](https://www.wolframalpha.com/input/?i=normalPrice+-+%28normalPrice*0.15%29%3D)).
+- Treasure items use the maximum dom discount prices (15% off, or normalPrice x 0.85). Spreadsheet of mathematical validation [here](https://docs.google.com/spreadsheets/d/1k9E23wqG4gmIyocG0TDNtXGx1j_ooa83qSYmTiYh6Cg/edit?usp=sharing).
 - Coliseum items have a chance to drop from any venue.
 
 {%include tip.html txt="<p>Flight never wins dominance? Want a Baldwin gene you’re underleveled for? Consider checking <a href='https://www1.flightrising.com/forums/ibaz'>the Item Sales forum</a> for user-run shops! Look out for keywords like <b>dom shop</b> and <strong>brew</strong> or <b>cauldron</b>, respectively.</p>"%}
@@ -21,27 +21,27 @@ Copied from the [Game Database](https://www1.flightrising.com/game-database/item
 
 via | <span class="redundant">breed change:</span> | price
 --- | ---
-treasure | [Banescale](https://www1.flightrising.com/game-database/item/32411) | 270.875kT
-[baldwin](#baldwin-recipes) | [Bogsneak](https://www1.flightrising.com/game-database/item/19565) | 185kT
-gems | [Coatl](https://www1.flightrising.com/game-database/item/2424) | 2000g
-treasure | [Fae](https://www1.flightrising.com/game-database/item/555) | 49.25kT
-treasure | [Gaoler](https://www1.flightrising.com/game-database/item/30148) | 270.875kT
-treasure | [Guardian](https://www1.flightrising.com/game-database/item/556) | 49.25kT
-treasure | [Mirror](https://www1.flightrising.com/game-database/item/557) | 49.25kT
-treasure | [Pearlcatcher](https://www1.flightrising.com/game-database/item/558) | 212.5kT
-treasure | [Ridgeback](https://www1.flightrising.com/game-database/item/559) | 212.5kT
-treasure | [Skydancer](https://www1.flightrising.com/game-database/item/1583) | 340kT
-treasure | [Snapper](https://www1.flightrising.com/game-database/item/719) | 276.25kT
-treasure | [Spiral](https://www1.flightrising.com/game-database/item/560) | 276.25kT
-treasure | [Tundra](https://www1.flightrising.com/game-database/item/561) | 49.25kT
-gems | [Wildclaw](https://www1.flightrising.com/game-database/item/717)\* | 2000g
+treasure | [Banescale](https://www1.flightrising.com/game-database/item/32411) | 233,750T
+[baldwin](#baldwin-recipes) | [Bogsneak](https://www1.flightrising.com/game-database/item/19565) | 185,000T
+gems | [Coatl](https://www1.flightrising.com/game-database/item/2424) | 2,000g
+treasure | [Fae](https://www1.flightrising.com/game-database/item/555) | 42,500T
+treasure | [Gaoler](https://www1.flightrising.com/game-database/item/30148) | 233,750T
+treasure | [Guardian](https://www1.flightrising.com/game-database/item/556) | 42,500T
+treasure | [Mirror](https://www1.flightrising.com/game-database/item/557) | 42,500T
+treasure | [Pearlcatcher](https://www1.flightrising.com/game-database/item/558) | 212,500T
+treasure | [Ridgeback](https://www1.flightrising.com/game-database/item/559) | 212,500T
+treasure | [Skydancer](https://www1.flightrising.com/game-database/item/1583) | 340,000T
+treasure | [Snapper](https://www1.flightrising.com/game-database/item/719) | 276,260T
+treasure | [Spiral](https://www1.flightrising.com/game-database/item/560) | 276,260T
+treasure | [Tundra](https://www1.flightrising.com/game-database/item/561) | 42,500T
+gems | [Wildclaw](https://www1.flightrising.com/game-database/item/717)\* | 2,000g
 
 ### Eyes
 
 via | vial of ___ | yields | price
 --- | ---
-treasure | [Tempered Sight](https://www1.flightrising.com/game-database/item/26849) | Common | 2.125kT
-[baldwin](#baldwin-recipes) | [Darkened Sight](https://www1.flightrising.com/game-database/item/28069) | Dark Sclera | 100kT
+treasure | [Tempered Sight](https://www1.flightrising.com/game-database/item/26849) | Common | 2,125T
+[baldwin](#baldwin-recipes) | [Darkened Sight](https://www1.flightrising.com/game-database/item/28069) | Dark Sclera | 100,000T
 gems | [Glowing Sight](https://www1.flightrising.com/game-database/item/26775) | Glowing | 200g
 gems | [Naivety](https://www1.flightrising.com/game-database/item/31794) | Innocent | 200g
 coli | [Hypnotic Sight](https://www1.flightrising.com/game-database/item/29585) | Swirl | <span style="opacity:.5">luck</span>
@@ -50,169 +50,169 @@ coli | [Hypnotic Sight](https://www1.flightrising.com/game-database/item/29585) 
 
 via | <span class="redundant">primary gene:</span> | price
 --- | ---
-treasure | [Bar](https://www1.flightrising.com/game-database/item/6018) | 250kT
-treasure | <i>[Bar (Gaoler)](https://www1.flightrising.com/game-database/item/30159)</i> | 125kT
+treasure | [Bar](https://www1.flightrising.com/game-database/item/6018) | 212,500T
+treasure | <i>[Bar (Gaoler)](https://www1.flightrising.com/game-database/item/30159)</i> | 106,250T
 coli | <i>[Candycane (Banescale)](https://www1.flightrising.com/game-database/item/32535)</i> | <span style="opacity:.5">luck</span>
-treasure | [Cherub](https://www1.flightrising.com/game-database/item/13573) | 185kT
-treasure | <i>[Cherub (Banescale)](https://www1.flightrising.com/game-database/item/32523)</i> | 92.5kT
-treasure | <i>[Chevron (Banescale)](https://www1.flightrising.com/game-database/item/32534)</i> | 100kT
-treasure | [Clown](https://www1.flightrising.com/game-database/item/714) | 175kT
-gems | [Crystal](https://www1.flightrising.com/game-database/item/6603) | 1500g
+treasure | [Cherub](https://www1.flightrising.com/game-database/item/13573) | 157,250T
+treasure | <i>[Cherub (Banescale)](https://www1.flightrising.com/game-database/item/32523)</i> | 78,625T
+treasure | <i>[Chevron (Banescale)](https://www1.flightrising.com/game-database/item/32534)</i> | 85,000T
+treasure | [Clown](https://www1.flightrising.com/game-database/item/714) | 148,750T
+gems | [Crystal](https://www1.flightrising.com/game-database/item/6603) | 1,500g
 gems | <i>[Crystal (Gaoler)](https://www1.flightrising.com/game-database/item/30287)</i> | 750g
-treasure | [Fade](https://www1.flightrising.com/game-database/item/32412) | 125kT
-treasure | [Falcon](https://www1.flightrising.com/game-database/item/19566) | 170kT
-treasure | <i>[Falcon (Gaoler)](https://www1.flightrising.com/game-database/item/30161)</i> | 85kT
-treasure | [Giraffe](https://www1.flightrising.com/game-database/item/16718) | 225kT
-treasure | <i>[Giraffe (Gaoler)](https://www1.flightrising.com/game-database/item/30143)</i> | 112.5kT
-gems | [Iridescent](https://www1.flightrising.com/game-database/item/562) | 1500g
-treasure | [Jaguar](https://www1.flightrising.com/game-database/item/23238) | 140kT
-treasure | <i>[Jaguar (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=jaguar+%28)</i> | 70kT
-treasure | [Jupiter](https://www1.flightrising.com/game-database/item/18585) | 230kT
-treasure | [Laced](https://www1.flightrising.com/game-database/item/29722) | 140kT
-treasure | <i>[Laced (Banescale)](https://www1.flightrising.com/game-database/item/32528)</i> | 70kT
-treasure | [Leopard](https://www1.flightrising.com/game-database/item/31362) | 140kT
-treasure | [Lionfish](https://www1.flightrising.com/game-database/item/28068) | 250kT
-treasure | <i>[Marble (Banescale)](https://www1.flightrising.com/game-database/item/32527)</i> | 90kT
-gems | [Metallic](https://www1.flightrising.com/game-database/item/19567) | 1500g
+treasure | [Fade](https://www1.flightrising.com/game-database/item/32412) | 106,250T
+treasure | [Falcon](https://www1.flightrising.com/game-database/item/19566) | 144,500T
+treasure | <i>[Falcon (Gaoler)](https://www1.flightrising.com/game-database/item/30161)</i> | 72,250T
+treasure | [Giraffe](https://www1.flightrising.com/game-database/item/16718) | 191,250T
+treasure | <i>[Giraffe (Gaoler)](https://www1.flightrising.com/game-database/item/30143)</i> | 95,625T
+gems | [Iridescent](https://www1.flightrising.com/game-database/item/562) | 1,500g
+treasure | [Jaguar](https://www1.flightrising.com/game-database/item/23238) | 119,000T
+treasure | <i>[Jaguar (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=jaguar+%28)</i> | 59,500T
+treasure | [Jupiter](https://www1.flightrising.com/game-database/item/18585) | 195,500T
+treasure | [Laced](https://www1.flightrising.com/game-database/item/29722) | 119,000T
+treasure | <i>[Laced (Banescale)](https://www1.flightrising.com/game-database/item/32528)</i> | 59,500T
+treasure | [Leopard](https://www1.flightrising.com/game-database/item/31362) | 119,000T
+treasure | [Lionfish](https://www1.flightrising.com/game-database/item/28068) | 212,500T
+treasure | <i>[Marble (Banescale)](https://www1.flightrising.com/game-database/item/32527)</i> | 76,500T
+gems | [Metallic](https://www1.flightrising.com/game-database/item/19567) | 1,500g
 gems | <i>[Metallic (Banescale)](https://www1.flightrising.com/game-database/item/32529)</i> | 750g
-treasure | <i>[Mosaic (Gaoler)](https://www1.flightrising.com/game-database/item/30281) | 150kT
-gems | [Petals](https://www1.flightrising.com/game-database/item/17365) | 1500g
+treasure | <i>[Mosaic (Gaoler)](https://www1.flightrising.com/game-database/item/30281) | 127,500T
+gems | [Petals](https://www1.flightrising.com/game-database/item/17365) | 1,500g
 gems | <i>[Petals (Banescale)](https://www1.flightrising.com/game-database/item/32531)</i> | 750g
 coli | <i>[Phantom (Gaoler)](https://www1.flightrising.com/game-database/item/30290)</i> | <span style="opacity:.5">luck</span>
-treasure | [Piebald](https://www1.flightrising.com/game-database/item/12273) | 235kT
-treasure | <i>[Piebald (Gaoler)](https://www1.flightrising.com/game-database/item/30164)</i> | 117.5kT
-[baldwin](#baldwin-recipes) | [Pinstripe](https://www1.flightrising.com/game-database/item/25467) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Pinstripe (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=pinstripe+%28)</i> | 50kT  
-[baldwin](#baldwin-recipes) | [Poison](https://www1.flightrising.com/game-database/item/14098) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Poison (Banescale)](https://www1.flightrising.com/game-database/item/32533)</i> | 50kT
+treasure | [Piebald](https://www1.flightrising.com/game-database/item/12273) | 199,750T
+treasure | <i>[Piebald (Gaoler)](https://www1.flightrising.com/game-database/item/30164)</i> | 99,875T
+[baldwin](#baldwin-recipes) | [Pinstripe](https://www1.flightrising.com/game-database/item/25467) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Pinstripe (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=pinstripe+%28)</i> | 50,000T  
+[baldwin](#baldwin-recipes) | [Poison](https://www1.flightrising.com/game-database/item/14098) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Poison (Banescale)](https://www1.flightrising.com/game-database/item/32533)</i> | 50,000T
 coli | [Python](https://www1.flightrising.com/game-database/item/26375) | <span style="opacity:.5">luck</span>
-treasure | <i>[Ragged (Banescale)](https://www1.flightrising.com/game-database/item/32536)</i> | 100kT
-treasure | [Ripple](https://www1.flightrising.com/game-database/item/3499) | 250kT
-treasure | [Savannah](https://www1.flightrising.com/game-database/item/20109) | 140kT
-treasure | <i>[Savannah (Banescale)](https://www1.flightrising.com/game-database/item/32530)</i> | 70kT
-treasure | <i>[Shaggy (Gaoler)](https://www1.flightrising.com/game-database/item/30157)</i> | 112.5kT
-[baldwin](#baldwin-recipes) | [Skink](https://www1.flightrising.com/game-database/item/19142) | 95kT
-[baldwin](#baldwin-recipes) | <i>[Skink (Banescale)](https://www1.flightrising.com/game-database/item/32532)</i> | 47.5kT
-[baldwin](#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100kT
-treasure | [Speckle](https://www1.flightrising.com/game-database/item/833) | 125kT
-gems | [Starmap](https://www1.flightrising.com/game-database/item/26607) | 1500g
-treasure | [Tapir](https://www1.flightrising.com/game-database/item/24608) | 185kT
-treasure | <i>[Tapir (Gaoler)](https://www1.flightrising.com/game-database/item/30216)</i> | 92.5kT
-treasure | [Tiger](https://www1.flightrising.com/game-database/item/563) | 135kT
-treasure | <i>[Tiger (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=tiger+%28) | 67.5kT
-treasure | [Vipera](https://www1.flightrising.com/game-database/item/9558) | 235kT
-gems | [Wasp](https://www1.flightrising.com/game-database/item/24312) | 1500g
+treasure | <i>[Ragged (Banescale)](https://www1.flightrising.com/game-database/item/32536)</i> | 85,000T
+treasure | [Ripple](https://www1.flightrising.com/game-database/item/3499) | 212,500T
+treasure | [Savannah](https://www1.flightrising.com/game-database/item/20109) | 119,000T
+treasure | <i>[Savannah (Banescale)](https://www1.flightrising.com/game-database/item/32530)</i> | 59,500T
+treasure | <i>[Shaggy (Gaoler)](https://www1.flightrising.com/game-database/item/30157)</i> | 95,625T
+[baldwin](#baldwin-recipes) | [Skink](https://www1.flightrising.com/game-database/item/19142) | 95,000T
+[baldwin](#baldwin-recipes) | <i>[Skink (Banescale)](https://www1.flightrising.com/game-database/item/32532)</i> | 47,500T
+[baldwin](#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100,000T
+treasure | [Speckle](https://www1.flightrising.com/game-database/item/833) | 106,250T
+gems | [Starmap](https://www1.flightrising.com/game-database/item/26607) | 1,500g
+treasure | [Tapir](https://www1.flightrising.com/game-database/item/24608) | 157,250T
+treasure | <i>[Tapir (Gaoler)](https://www1.flightrising.com/game-database/item/30216)</i> | 78,625T
+treasure | [Tiger](https://www1.flightrising.com/game-database/item/563) | 114,750T
+treasure | <i>[Tiger (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=tiger+%28) | 57,375T
+treasure | [Vipera](https://www1.flightrising.com/game-database/item/9558) | 199,750T
+gems | [Wasp](https://www1.flightrising.com/game-database/item/24312) | 1,500g
 gems | <i>[Wasp (Gaoler)](https://www1.flightrising.com/game-database/item/30146)</i> | 750g
 
 ### Secondary genes
 
 via | <span class="redundant">secondary gene:</span> | price
 --- | ---
-gems | [Alloy](https://www1.flightrising.com/game-database/item/19569) | 1200g
+gems | [Alloy](https://www1.flightrising.com/game-database/item/19569) | 1,200g
 gems | <i>[Alloy (Banescale)](https://www1.flightrising.com/game-database/item/32543)</i> | 600g
-treasure | <i>[Arrow (Banescale)](https://www1.flightrising.com/game-database/item/32548)</i> | 80kT
-gems | [Bee](https://www1.flightrising.com/game-database/item/24311) | 1200g
+treasure | <i>[Arrow (Banescale)](https://www1.flightrising.com/game-database/item/32548)</i> | 68,000T
+gems | [Bee](https://www1.flightrising.com/game-database/item/24311) | 1,200g
 gems | <i>[Bee (Gaoler)](https://www1.flightrising.com/game-database/item/30147)</i> | 600g
-treasure | [Blend](https://www1.flightrising.com/game-database/item/32413) | 100kT
-treasure | <i>[Breakup (Gaoler)](https://www1.flightrising.com/game-database/item/30282)</i> | 100kT
-gems | [Butterfly](https://www1.flightrising.com/game-database/item/14758) | 1200g
+treasure | [Blend](https://www1.flightrising.com/game-database/item/32413) | 85,000T
+treasure | <i>[Breakup (Gaoler)](https://www1.flightrising.com/game-database/item/30282)</i> | 85,000T
+gems | [Butterfly](https://www1.flightrising.com/game-database/item/14758) | 1,200g
 gems | <i>[Butterfly (Banescale)](https://www1.flightrising.com/game-database/item/32545)</i> | 600g
-treasure | [Clouded](https://www1.flightrising.com/game-database/item/31361) | 120kT
-gems | [Constellation](https://www1.flightrising.com/game-database/item/28357) | 1200g
-treasure | [Current](https://www1.flightrising.com/game-database/item/3784) | 165kT
-treasure | [Daub](https://www1.flightrising.com/game-database/item/6019) | 165kT
-treasure | <i>[Daub (Gaoler)](https://www1.flightrising.com/game-database/item/30160)</i> | 82.5kT
-treasure | [Edged](https://www1.flightrising.com/game-database/item/29723) | 120kT
-treasure | <i>[Edged (Banescale)](https://www1.flightrising.com/game-database/item/32542)</i> | 60kT
-treasure | [Eye Spots](https://www1.flightrising.com/game-database/item/782) | 110kT
-gems | [Facet](https://www1.flightrising.com/game-database/item/7642) | 1200g
+treasure | [Clouded](https://www1.flightrising.com/game-database/item/31361) | 102,000T
+gems | [Constellation](https://www1.flightrising.com/game-database/item/28357) | 1,200g
+treasure | [Current](https://www1.flightrising.com/game-database/item/3784) | 140,250T
+treasure | [Daub](https://www1.flightrising.com/game-database/item/6019) | 140,250T
+treasure | <i>[Daub (Gaoler)](https://www1.flightrising.com/game-database/item/30160)</i> | 70,125T
+treasure | [Edged](https://www1.flightrising.com/game-database/item/29723) | 102,000T
+treasure | <i>[Edged (Banescale)](https://www1.flightrising.com/game-database/item/32542)</i> | 51,000T
+treasure | [Eye Spots](https://www1.flightrising.com/game-database/item/782) | 93,500T
+gems | [Facet](https://www1.flightrising.com/game-database/item/7642) | 1,200g
 gems | <i>[Facet (Gaoler)](https://www1.flightrising.com/game-database/item/30288)</i> | 600g
-treasure | [Freckle](https://www1.flightrising.com/game-database/item/784) | 90kT
-treasure | [Hex](https://www1.flightrising.com/game-database/item/16719) | 160kT
-treasure | <i>[Hex (Gaoler)](https://www1.flightrising.com/game-database/item/30144)</i> | 80kT
-treasure | [Hypnotic](https://www1.flightrising.com/game-database/item/9559) | 185kT
+treasure | [Freckle](https://www1.flightrising.com/game-database/item/784) | 76,500T
+treasure | [Hex](https://www1.flightrising.com/game-database/item/16719) | 136,000T
+treasure | <i>[Hex (Gaoler)](https://www1.flightrising.com/game-database/item/30144)</i> | 68,000T
+treasure | [Hypnotic](https://www1.flightrising.com/game-database/item/9559) | 157,250T
 coli | [Morph](https://www1.flightrising.com/game-database/item/26376) | <span style="opacity:.5">luck</span>
-treasure | <i>[Mottle (Banescale)](https://www1.flightrising.com/game-database/item/32541)</i> | 60kT
-treasure | [Noxtide](https://www1.flightrising.com/game-database/item/28080) | 170kT
-treasure | [Paint](https://www1.flightrising.com/game-database/item/12274) | 165kT
-treasure | <i>[Paint (Gaoler)](https://www1.flightrising.com/game-database/item/30165)</i> | 82.5kT
-treasure | [Peregrine](https://www1.flightrising.com/game-database/item/12726) | 140kT
-treasure | <i>[Peregrine (Gaoler)](https://www1.flightrising.com/game-database/item/30162)</i> | 70kT
-treasure | [Rosette](https://www1.flightrising.com/game-database/item/23239) | 100kT
-treasure | <i>[Rosette (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=rosette+%28)</i> | 50kT
-treasure | [Safari](https://www1.flightrising.com/game-database/item/22806) | 98kT
-treasure | <i>[Safari (Banescale)](https://www1.flightrising.com/game-database/item/32544)</i> | 49kT
-treasure | [Saturn](https://www1.flightrising.com/game-database/item/18586) | 160kT
-treasure | [Seraph](https://www1.flightrising.com/game-database/item/1412) | 125kT
-treasure | <i>[Seraph (Banescale)](https://www1.flightrising.com/game-database/item/32537)</i> | 62.5kT
-gems | [Shimmer](https://www1.flightrising.com/game-database/item/564) | 1200g
-[baldwin](#baldwin-recipes) | [Sludge](https://www1.flightrising.com/game-database/item/31639) | 90kT
-[baldwin](#baldwin-recipes) | [Spinner](https://www1.flightrising.com/game-database/item/19143) | 95kT
-[baldwin](#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47.5kT
+treasure | <i>[Mottle (Banescale)](https://www1.flightrising.com/game-database/item/32541)</i> | 51,000T
+treasure | [Noxtide](https://www1.flightrising.com/game-database/item/28080) | 144,500T
+treasure | [Paint](https://www1.flightrising.com/game-database/item/12274) | 140,250T
+treasure | <i>[Paint (Gaoler)](https://www1.flightrising.com/game-database/item/30165)</i> | 70,125T
+treasure | [Peregrine](https://www1.flightrising.com/game-database/item/12726) | 119,000T
+treasure | <i>[Peregrine (Gaoler)](https://www1.flightrising.com/game-database/item/30162)</i> | 59,500T
+treasure | [Rosette](https://www1.flightrising.com/game-database/item/23239) | 42,500T
+treasure | <i>[Rosette (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=rosette+%28)</i> | 42,500T
+treasure | [Safari](https://www1.flightrising.com/game-database/item/22806) | 83,300T
+treasure | <i>[Safari (Banescale)](https://www1.flightrising.com/game-database/item/32544)</i> | 41,650T
+treasure | [Saturn](https://www1.flightrising.com/game-database/item/18586) | 136,000T
+treasure | [Seraph](https://www1.flightrising.com/game-database/item/1412) | 106,250T
+treasure | <i>[Seraph (Banescale)](https://www1.flightrising.com/game-database/item/32537)</i> | 53,125T
+gems | [Shimmer](https://www1.flightrising.com/game-database/item/564) | 1,200g
+[baldwin](#baldwin-recipes) | [Sludge](https://www1.flightrising.com/game-database/item/31639) | 90,000T
+[baldwin](#baldwin-recipes) | [Spinner](https://www1.flightrising.com/game-database/item/19143) | 95,000T
+[baldwin](#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47,500T
 coli | <i>[Spirit (Gaoler)](https://www1.flightrising.com/game-database/item/30291)</i> | <span style="opacity:.5">luck</span>
-treasure | <i>[Streak (Gaoler)](https://www1.flightrising.com/game-database/item/30158)</i> | 80kT
-treasure | [Striaton](https://www1.flightrising.com/game-database/item/24609) | 120kT
-treasure | <i>[Striaton (Gaoler)](https://www1.flightrising.com/game-database/item/30215)</i> | 60kT
-treasure | [Stripes](https://www1.flightrising.com/game-database/item/565) | 90kT
-treasure | <i>[Stripes (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=stripes+%28)</i> | 45kT
+treasure | <i>[Streak (Gaoler)](https://www1.flightrising.com/game-database/item/30158)</i> | 68,000T
+treasure | [Striaton](https://www1.flightrising.com/game-database/item/24609) | 102,000T
+treasure | <i>[Striaton (Gaoler)](https://www1.flightrising.com/game-database/item/30215)</i> | 51,000T
+treasure | [Stripes](https://www1.flightrising.com/game-database/item/565) | 76,500T
+treasure | <i>[Stripes (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=stripes+%28)</i> | 38,250T
 coli | <i>[Sugarplum (Banescale)](https://www1.flightrising.com/game-database/item/32549)</i> | <span style="opacity:.5">luck</span>
-treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/item/32550)</i> | 80kT
-[baldwin](#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50kT
-[baldwin](#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50kT
+treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/item/32550)</i> | 68,000T
+[baldwin](#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50,000T
+[baldwin](#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50,000T
 
 ### Tertiary genes
 
 via | <span class="redundant">tertiary gene:</span> | price
 --- | ---
 [swipp](#swipp-materials) | <i>[Blossom (Gaoler)](https://www1.flightrising.com/game-database/item/30955)</i> | <span style="opacity:.5">n/a</span>
-[baldwin](#baldwin-recipes) | [Capsule](https://www1.flightrising.com/game-database/item/23168) | 110kT
-gems | [Circuit](https://www1.flightrising.com/game-database/item/566) | 1200g
-treasure | [Contour](https://www1.flightrising.com/game-database/item/17664) | 150kT
-treasure | <i>[Contour (Banescale)](https://www1.flightrising.com/game-database/item/32558)</i> | 75kT
-treasure | [Crackle](https://www1.flightrising.com/game-database/item/2216) | 190kT
-treasure | <i>[Crackle (Banescale)](https://www1.flightrising.com/game-database/item/32562)</i> | 95kT
+[baldwin](#baldwin-recipes) | [Capsule](https://www1.flightrising.com/game-database/item/23168) | 110,000T
+gems | [Circuit](https://www1.flightrising.com/game-database/item/566) | 1,200g
+treasure | [Contour](https://www1.flightrising.com/game-database/item/17664) | 127,500T
+treasure | <i>[Contour (Banescale)](https://www1.flightrising.com/game-database/item/32558)</i> | 63,750T
+treasure | [Crackle](https://www1.flightrising.com/game-database/item/2216) | 161,500T
+treasure | <i>[Crackle (Banescale)](https://www1.flightrising.com/game-database/item/32562)</i> | 80,750T
 gems | <i>[Fans (Banescale)](https://www1.flightrising.com/game-database/item/32553)</i> | 500g
-gems | [Filigree](https://www1.flightrising.com/game-database/item/26117) | 1200g
+gems | [Filigree](https://www1.flightrising.com/game-database/item/26117) | 1,200g
 gems | <i>[Filigree (Banescale)](https://www1.flightrising.com/game-database/item/32555)</i> | 500g
 [swipp](#swipp-materials) | [Firefly](https://www1.flightrising.com/game-database/item/26606) | <span style="opacity:.5">n/a</span>
-treasure | [Gembond](https://www1.flightrising.com/game-database/item/1228) | 200kT
-treasure | [Ghost](https://www1.flightrising.com/game-database/item/25782) | 160kT
-treasure | <i>[Ghost (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ghost+%28)</i> | 80kT
-gems | [Glimmer](https://www1.flightrising.com/game-database/item/11810) | 1200g
+treasure | [Gembond](https://www1.flightrising.com/game-database/item/1228) | 170,000T
+treasure | [Ghost](https://www1.flightrising.com/game-database/item/25782) | 136,000T
+treasure | <i>[Ghost (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ghost+%28)</i> | 68,000T
+gems | [Glimmer](https://www1.flightrising.com/game-database/item/11810) | 1,200g
 gems | <i>[Gnarlhorns (Gaoler)](https://www1.flightrising.com/game-database/item/30156)</i> | 500g
-treasure | [Lace](https://www1.flightrising.com/game-database/item/20107) | 155kT
-treasure | <i>[Lace (Banescale)](https://www1.flightrising.com/game-database/item/32556)</i> | 77.5kT
-treasure | [Okapi](https://www1.flightrising.com/game-database/item/8093) | 190kT
-gems | [Opal](https://www1.flightrising.com/game-database/item/20108) | 1200g
+treasure | [Lace](https://www1.flightrising.com/game-database/item/20107) | 131,750T
+treasure | <i>[Lace (Banescale)](https://www1.flightrising.com/game-database/item/32556)</i> | 65,875T
+treasure | [Okapi](https://www1.flightrising.com/game-database/item/8093) | 161,500T
+gems | [Opal](https://www1.flightrising.com/game-database/item/20108) | 1,200g
 gems | <i>[Opal (Gaoler)](https://www1.flightrising.com/game-database/item/30956)</i> | 500g
-treasure | [Peacock](https://www1.flightrising.com/game-database/item/28942) | 150kT
+treasure | [Peacock](https://www1.flightrising.com/game-database/item/28942) | 127,500T
 gems | <i>[Plumage (Banescale)](https://www1.flightrising.com/game-database/item/32563)</i> | 500g
-[baldwin](#baldwin-recipes) | <i>[Porcupine (Banescale)](https://www1.flightrising.com/game-database/item/32561)</i> | 50kT
+[baldwin](#baldwin-recipes) | <i>[Porcupine (Banescale)](https://www1.flightrising.com/game-database/item/32561)</i> | 50,000T
 [swipp](#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
-treasure | [Ringlets](https://www1.flightrising.com/game-database/item/27378) | 155kT
-treasure | <i>[Ringlets (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ringlets+%28)</i> | 77.5kT
-treasure | [Runes](https://www1.flightrising.com/game-database/item/19563) | 190kT
-treasure | <i>[Runes (Gaoler)](https://www1.flightrising.com/game-database/item/30289)</i> | 95kT
-[baldwin](#baldwin-recipes) | [Scales](https://www1.flightrising.com/game-database/item/19568) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Scorpion (Gaoler)](https://www1.flightrising.com/game-database/item/30283)</i> | 45kT
-treasure | <i>[Shardflank (Gaoler)](https://www1.flightrising.com/game-database/item/30155)</i> | 75kT
+treasure | [Ringlets](https://www1.flightrising.com/game-database/item/27378) | 131,750T
+treasure | <i>[Ringlets (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ringlets+%28)</i> | 65,875T
+treasure | [Runes](https://www1.flightrising.com/game-database/item/19563) | 161,500T
+treasure | <i>[Runes (Gaoler)](https://www1.flightrising.com/game-database/item/30289)</i> | 80,750T
+[baldwin](#baldwin-recipes) | [Scales](https://www1.flightrising.com/game-database/item/19568) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Scorpion (Gaoler)](https://www1.flightrising.com/game-database/item/30283)</i> | 45,000T
+treasure | <i>[Shardflank (Gaoler)](https://www1.flightrising.com/game-database/item/30155)</i> | 63,750T
 coli | <i>[Skeletal (Banescale)](https://www1.flightrising.com/game-database/item/32557)</i> | <span style="opacity:.5">luck</span>
-treasure | [Smoke](https://www1.flightrising.com/game-database/item/4555) | 190kT
-treasure | <i>[Smoke (Gaoler)](https://www1.flightrising.com/game-database/item/30163)</i> | 95kT
-treasure | [Spines](https://www1.flightrising.com/game-database/item/7096) | 190kT
+treasure | [Smoke](https://www1.flightrising.com/game-database/item/4555) | 161,500T
+treasure | <i>[Smoke (Gaoler)](https://www1.flightrising.com/game-database/item/30163)</i> | 80,750T
+treasure | [Spines](https://www1.flightrising.com/game-database/item/7096) | 161,500T
 [swipp](#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
-gems | [Stained](https://www1.flightrising.com/game-database/item/16004) | 1200g
-treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 155kT
-treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 77.5kT
-treasure | <i>[Trimmings (Banescale)](https://www1.flightrising.com/game-database/item/32551)</i> | 75kT
-treasure | [Underbelly](https://www1.flightrising.com/game-database/item/1716) | 150kT
-treasure | <i>[Underbelly (Gaoler)](https://www1.flightrising.com/game-database/item/30172) | 75kT
-[baldwin](#baldwin-recipes) | [Veined](https://www1.flightrising.com/game-database/item/32216) | 100kT
-[baldwin](#baldwin-recipes) | <i>[Veined (Gaoler)](https://www1.flightrising.com/game-database/item/32215) | 50kT
+gems | [Stained](https://www1.flightrising.com/game-database/item/16004) | 1,200g
+treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 65,875T
+treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 65,875T
+treasure | <i>[Trimmings (Banescale)](https://www1.flightrising.com/game-database/item/32551)</i> | 63,750T
+treasure | [Underbelly](https://www1.flightrising.com/game-database/item/1716) | 127,500T
+treasure | <i>[Underbelly (Gaoler)](https://www1.flightrising.com/game-database/item/30172) | 63,750T
+[baldwin](#baldwin-recipes) | [Veined](https://www1.flightrising.com/game-database/item/32216) | 100,000T
+[baldwin](#baldwin-recipes) | <i>[Veined (Gaoler)](https://www1.flightrising.com/game-database/item/32215) | 50,000T
 coli | <i>[Weathered (Gaoler)](https://www1.flightrising.com/game-database/item/30292)</i> | <span style="opacity:.5">luck</span>
-treasure | <i>[Wintercoat (Gaoler)](https://www1.flightrising.com/game-database/item/30284)</i> | 95kT
+treasure | <i>[Wintercoat (Gaoler)](https://www1.flightrising.com/game-database/item/30284)</i> | 80,750T
 gems | <i>[Wraith (Banescale)](https://www1.flightrising.com/game-database/item/32560)</i> | 500g
 
 ### Other
@@ -220,9 +220,9 @@ gems | <i>[Wraith (Banescale)](https://www1.flightrising.com/game-database/item/
 via | item | price
 --- | ---
 gems | [Boon of Fertility](https://www1.flightrising.com/game-database/item/745) | 350g
-treasure | [Remove Gene](https://www1.flightrising.com/game-database/items/specialty?name=remove+gene) | 8.5kT
+treasure | [Remove Gene](https://www1.flightrising.com/game-database/items/specialty?name=remove+gene) | 8,500T
 gems | [Scroll of Eternal Youth](https://www1.flightrising.com/game-database/item/572) | 350g
-treasure | [Scroll of Renaming](https://www1.flightrising.com/game-database/item/570) | 5.1kT
+treasure | [Scroll of Renaming](https://www1.flightrising.com/game-database/item/570) | 5,100T
 gems | [Tri-Color Scatterscroll](https://www1.flightrising.com/game-database/item/1566) | 350g
 
 ## Item quickref
