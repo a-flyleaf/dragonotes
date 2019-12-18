@@ -6,7 +6,6 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 
 ## sitemap/to-do
 
-- [ ] dark mode (default?)
 - [ ] About
 	- [ ] bio (about me, about site)
 	- [ ] lairnotes (breeding/buying)
@@ -56,5 +55,6 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- 12/10 site start! basic layout & page template
 	- 12/11 glossary
 	- 12/17 genelist, sitenav update & optional pagenav, credits
+	- 12/18 dark theme
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
