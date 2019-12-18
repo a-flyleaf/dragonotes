@@ -2,7 +2,7 @@
 header,section,footer,#sitenav,nav,main,article,figure{display:block;}
 body{overflow-x:hidden; font-size:1.25em; font-family:'alegreya sans','trebuchet ms',helvetica,sans-serif; line-height:1.35em; color:#232323; background:#dcd6c8;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
-a{color:#731d08; text-decoration:none;} a:hover,a:focus{color:#b0734f;} main a{color:#b70000;}
+a{color:#731d08; text-decoration:none;} a:hover,a:focus{color:#b0734f;}
 blockquote{margin-left:1em; color:#5c5c5c;}
 .tip{background:#f2f2f2; background:linear-gradient(#e5e5e5 0, #f2f2f2 3em); border-radius:1em; padding:.5em 1em; margin:2em 0 1.5em;} .tip h2{margin-top:.5em;} .protip{color:#e5e5e5; display:block; margin-top:-1.45em; pointer-events:none;}
 h2,h3,h4{margin:1em 0 .5rem;}
@@ -29,6 +29,7 @@ h1{line-height:1em; color:#fff; font-size:2em;}
 #sitenav li>ul{display:none;}
 
 main{background:#fff; padding:1rem; padding-bottom:5em;}
+main a{color:#b70000;}
 main ol,ul{line-height:1.25em;}
 
 .pagenav{font-weight:700; margin:2rem 0; text-align:center;}
@@ -58,13 +59,34 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 #glossary p{margin:0;} #glossary sub{margin:.5em 0 0;} #glossary sub p{margin:.5em 0;}
 .rel a{font-weight:700;}
 
+@media (prefers-color-scheme:dark) {
+	body{background:#1d1e25; color:#9494a9;}
+	a,main a{color:#dee0eb;} a:hover,a:focus{color:#aec8ff;}
+	blockquote{color:inherit;}
+	.tip{background:#373846; background:linear-gradient(#3d3f4e 0, #373846 3em);} .protip{color:#3d3f4e;}
+	hr{background:#5e5e67;}
+	li>ul,li>ol{color:#9494a9;}
+	.task-list input{filter:invert(65%) contrast(200%);}
+	table{color:inherit;} tbody tr:nth-child(odd){background:#1d1e25;}
+	::selection{background:rgba(0,0,0,.5);}
+	
+	header{background:#35394b;}
+	h1{color:#a8acc7;}
+	#logo,#sitenav a{color:#8294bd;} #logo:hover,#logo:focus,#sitenav a:hover,#sitenav a:focus{color:#c0d7ff;}
+	
+	main{background:#2a2b34;}
+	
+	.pagenav button{color:inherit;}
+	.genes thead{background:#2a2b34;}
+}
+
 @media only screen and (min-width:40em){
 	table{font-size:1em;}
 	
 	header{padding:5rem 0 .5rem; text-align:left;}
 	#logo,h1{display:inline-block;}
 	#logo{width:22.5%; padding-left:1rem;}
-	h1{margin:0; line-height:1.25em; padding-left:1.5rem;}
+	h1{margin:0; line-height:1.25em; padding-left:1.75rem;}
 	
 	#sitenav,main{display:inline-block; vertical-align:top;}
 	#sitenav{width:22.5%; text-align:left; font-size:1.25em;}
@@ -88,6 +110,11 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	#top{display:none;}
 	
 	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
+	
+	@media (prefers-color-scheme:dark) {
+		.pagenav{background:#373846;}
+		.pagenav a{color:#8294bd;} .pagenav a:hover,.pagenav a:focus{color:#aec8ff;}
+	}
 }
 
 @media only screen and (min-width:63em){
