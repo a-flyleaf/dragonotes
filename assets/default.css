@@ -10,7 +10,7 @@ h2{font-size:1.25em; line-height:1.15em;}
 h4{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-size:.85em; line-height:1.25em;}
 hr{border:0; height:1px; background:#bfbfbf; width:75%; margin:1.5em auto;}
 ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main li{margin:.5em 0;} li>ol,li>ul{margin-top:-.15em; color:#5c5c5c;}
-.task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;} .task-list>li:nth-of-type(n+6)>ul{text-indent:0; margin-top:.15em;}
+.task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;} .task-list:nth-child(3)>li:nth-child(5)>ul:nth-child(3){text-indent:0; margin-top:.15em;}
 p{margin:.5rem 0;}
 .sc{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
@@ -94,6 +94,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	#sitenav ul{padding:1rem 1rem 0 1rem;}
 	#sitenav li{display:block; width:100%;}
 	#sitenav li>ul{display:block; font-size:.85em; padding:0 0 0 1rem; line-height:1.15em;}
+	#sitenav li>ul>li{margin:-.25em 0;}
 	
 	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
 	

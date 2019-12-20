@@ -17,7 +17,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
 	- [ ] goals (by priority)
-		- [ ] fest gear (minus skins)
+		- [ ] fest gear (minus skins) (SOMEONE already put this together)
 		- [ ] fest skins (just list them all)
 		- [x] scrolls/genes
 		- [ ] vistas
@@ -39,10 +39,10 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Frostbite
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
-- [ ] [Resources]({%include url.html%}/resources)
+- [ ] [Reference]({%include url.html%}/ref)
 	- [ ] guides
 	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
-	- [x] [gene obtaining methods]({%include url.html%}/resources/genes)
+	- [x] [gene obtaining methods]({%include url.html%}/ref/genes)
 	- [ ] misc. common knowledge (ex. color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
 	- [ ] AH links
 		- [ ] fodder: adults/hatchlings

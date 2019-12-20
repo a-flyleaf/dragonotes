@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources & Guides
+title: References
 ---
 Useful stuff. Most links lead to FR unless otherwise noted.
 
@@ -18,6 +18,6 @@ Might write a guide here someday. For now, check out these nifty links:
 	
 - [MORE TBA]
 
-## [How to Gene Your Dragon]({%include url.html%}/resources/genes)
+## [How to Gene Your Dragon]({%include url.html%}/ref/genes)
 
 A quick reference for how to get the gene changes (and other relevant Specialty items).
