@@ -18,6 +18,13 @@ Might write a guide here someday. For now, check out these nifty links:
 	
 - [MORE TBA]
 
+## [Festival Skins]({%include url.html%}/ref/fest-skins)
+
+All the skins. All of them. But as a plaintext list.
+
 ## [How to Gene Your Dragon]({%include url.html%}/ref/genes)
 
 A quick reference for how to get the gene changes (and other relevant Specialty items).
+
+## [Glossary ]({%include url.html%}/ref/glossary)
+Some good terms and abbreviations to know, used frequently both throughout this site and the FR community.
