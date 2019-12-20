@@ -31,8 +31,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Starfall Celebration:** Starsinger, Starwood Dryad, Internal Energies, Starlit Arcanist, Arcane Elemental, Binding Energies, Arcane Gift, Warped, Starfall Spell, From the Observatory, Spectral Spellcaster, Scripts of the Apprentic\*
 		- \*this is [not a typo](https://www1.flightrising.com/game-database/item/6072)
 	- **Riot of Rot:** Abberation\*, Plague-Touched, Scavengers Gear\**, Pestilent Acolyte, Living Wound, Dracolich, Embryon, Boneyard Scavengers, Funny Bones, Ecdysis, Stitched Up, Mutant
-		- \*[not a typo](https://www1.flightrising.com/game-database/item/6716)
-		- \*\*also [not a typo](https://www1.flightrising.com/game-database/item/6718)
+		- \*[not a typo](https://www1.flightrising.com/game-database/item/6716) \| \*\*also [not a typo](https://www1.flightrising.com/game-database/item/6718)
 	- **Rockbreaker's Ceremony:** Dioptase, Rich Soil, Malachite's Loyalty, Banded Jasper, Dragonhome Dawn, Earth Descendant, Stonebound, Opaline Wings, Stoneswept Arabesque, Magic Erosion, Wild Jasper, Infused Crown
 	- **Crystalline Gala:** Frozen Berries, Cold Morning, Ice Golem, Icy Impression, Frigid Abyss, Animated Icicle, Snowsquall Souvenir, Frosted Glasswing, Winter Draft, Coldsnap, Icy Coat, Snowy Mane
 	- **Trickmurk Circus:** Circus Mage, Eldritch Spores, Brambled Joker, Mark of the Binder, Dullahan, Trickmurk Tattoos, Nightmothers Lullaby\*, Slimemother, The Fool, Bramble Jester, Darkside of the Moon, Umbral Tears
@@ -69,7 +68,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Brightshine Jubilee:** Bright Ambassador, Sol Seraph, Blazing Sun, By Light Be Purged, Gilded Memories, Goodnight Moonlight, Solar Protection, Lampiona, Bring the Eclipse, Forgotten Child, Radiant Soul, Hewn Hunter, Dawn Chaser, Dusk Tread
 	- **Thundercrack Carnivale:** Haywire, Plasmatronicoatl, Electric Fledge, Metal Enhancement, Mechanical Enhancement, Electronic Bionics, Gears in Motion, Augsneak, Kinetic, Brass Centurion, Plasma Caster, Synth Wave, Antique Cowboy, Electro Fluff
 	- **Flameforger's Festival:** Bogsmog, Lavatic Veneer, Crown of Thorns, Purify the Soul, Spirit Aflame, fire and fury, Warforged, Vents Quetzal, Flowing Ash, Molten Vein, Eclipse the Sun, Night Flares, Serpente Feugo, Queen of Cinders
-	- **Starfall Celebration:** Starcaster, Starstranded, Starwood Seer, Fourpoint Serpens, Starfall Flowerfall, Arcana Crystals, Resplendent Starling, Galactic Watcher, Tale of the Father, Starwood blossom, Spatial Aberration, Fuschia Universe, Celestial Vapors
+	- **Starfall Celebration:** Starlight Smoke, Starcaster, Starstranded, Starwood Seer, Fourpoint Serpens, Starfall Flowerfall, Arcana Crystals, Resplendent Starling, Galactic Watcher, Tale of the Father, Starwood blossom, Spatial Aberration, Fuschia Universe, Celestial Vapors
 	- **Riot of Rot:** Bone Garden, Contagion Cauldron, Cordyceps Crown, Liquid Rot, Massive Attack, Sporiffic, Airborne Contagion, DreadLily Knight, Grave Omen, The Monster Within, Vulture Culture, Toxoplasmosis, Spooky Scary Tundra, Bloodstone Summoner
 	- **Rockbreaker's Ceremony:** Ruin and Ivy, Rock Formation, Jeweled Talisman, Stonemaster, Ivory Carving, Lost Memories, Rainbow Obsidian, Soil Dust, Crystalhide, Eroded, Rooting for You, Opulent Relic, Tiger Tiger, Rockoco
 	- **Crystalline Gala:** Cold Shoulder, Crystal Devil, Frigid Fluffle, Frozen Aurora, Frozen Guilts, Frozen Odf, Ice princess, Cloudscrape Hunter, Frozen Figure, Igloo, King of Sylvan Frost, Permafrozen, Snowjourner, Wraith

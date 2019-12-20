@@ -41,8 +41,15 @@ main ol,ul{line-height:1.25em;}
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
 
+.about-tmp table{font-size:.75em;}
+.about-tmp table td:first-child{font-weight:700;}
+.about-tmp sub{margin-top:-3em; font-size:.5em; padding-left:1em; opacity:.5;}
+.about-tmp main ul{font-size:.85em;} .about-tmp main li{margin:.25em 0;}
+.about-tmp del{opacity:.25;}
+
 .fest main ul{font-weight:700;}
 .fest main li>ul{font-weight:400;}
+.fest main li>ul>li{margin-top:.25em;}
 
 .genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
 .genes sub{text-align:center; width:65%; margin:-2.5rem auto 3.5rem;}
@@ -63,7 +70,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 #glossary p{margin:0;} #glossary sub{margin:.5em 0 0;} #glossary sub p{margin:.5em 0;}
 .rel a{font-weight:700;}
 
-@media (prefers-color-scheme:dark) {
+@media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}
 	a,main a{color:#dee0eb;} a:hover,a:focus{color:#aec8ff;}
 	blockquote{color:inherit;}
@@ -106,7 +113,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.pagenav button:focus,.pagenav button:hover{color:inherit; cursor:pointer; color:#b0734f;}
 	.pagenav [data-expandable][aria-expanded="false"]::before{content: '▲'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
 	.pagenav [data-expandable][aria-expanded="true"]::before{content: '▼'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
-	.pagenav .expandable[aria-hidden="true"] {display: none;}
+	.pagenav .expandable[aria-hidden="true"]{display: none;}
 	.pagenav nav{margin-top:-.5em;}
 	.pagenav li>ul{margin:.15rem 0 0 1rem;}
 	.pagenav a{color:#731d08;} .pagenav a:hover{color:#b0734f;}
@@ -116,7 +123,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	
 	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
 	
-	@media (prefers-color-scheme:dark) {
+	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}
 		.pagenav button:focus,.pagenav button:hover{color:#aec8ff;}
 		.pagenav a{color:#8294bd;} .pagenav a:hover,.pagenav a:focus{color:#aec8ff;}
