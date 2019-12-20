@@ -41,7 +41,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Greenskeeper Gathering:** Leaflace, Garden Guardian, Botanys Back, Bark Warrior, Springly Sprouts, Rafflesia Fairy, Wild Predator, Are You Glade, Orbkeeper, Glade Golem, Dewdrops, Sylvan Swirls
 - <span id="2015-16">2015–2016</span>
 	- **Brightshine Jubilee:** Sunbreak, KingSunglass, Bursting Core, Sundial Stained Glass, Sunbeam Sentinel, Ancient Radiance, Brightheart, Sunstone Sentinel, Keeper of Candor, Sundaze, Shatter The Night, Sun Crystal
-	- **Thundercrack Carnivale:** Creeping Circuits, Result of Science, Dancing Conductor, Electrician's Night, Thunder Spear, Little Bolt, Thundervolt, Down For Maintenance, Storm taken, Mother of Circuit, Surge, Circuit Breaker
+	- **Thundercrack Carnivale:** Creeping Circuits, Result of Science, Dancing Conductor, Electrician's Night, Thunder Spear, Little Bolt, Thundervolt, Down For Maintenance, Storm Taken, Mother of Circuit, Surge, Circuit Breaker
 	- **Flameforger's Festival:** Spirit Ablaze, Furnace Queen, Simply a Flame, Blacksand Creature, Summer Heat, Lava Eater, Kindling King, Rock and Flame, Skogsbrand, Cooling Embers, Ignis, Infernal Fur, Wildfire, Volcanic Queen
 	- **Starfall Celebration:** A Little Universe, Crystalspined, Soul Gems, Quartzen, Crystalspine Aura, Endangered Cosmos, Arcane Dancer, Star Collector, Starwood Golem, Mana Runes, Enchanted Drake, Spelldancer, Spiraling Supernova, Celestial Hues
 	- **Riot of Rot:** Cradle of Goo, Rose Rot, Engulfing Growths, Lich Armor, Boneyard Empress, Wyrmwound Glow, Glowing Contagion, Contaminated, Union of Decay, Cursed Watcher, Plague Child, Rotrock Witch, Rotten Skeleton, Bracket Sporehost
@@ -58,7 +58,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Starfall Celebration:** Stellar Scholar, Ancestral Runes, The Youngest God, Nebula Walker, Ethereal Planet, Starwood Trail, Stardust Witch, Almagest, Spectral Sneak, Celestian Shimmer, Runebone, Cosmic Construct, Spiral Galaxy, Arcanists Accomplice\*
 		- \*[not a typo](https://www1.flightrising.com/game-database/item/19726)
 	- **Riot of Rot:** Bogwyrm, Festering Bogling, Smog Keeper, Shedding Season, Wretched Rot, Mother's Trinkets, Bad Breath, Decayed Sight, Ritual Ravager, Plague Carcass, The Plague Doctor, Plague's Daughter, Plasma Taucher, Haemohelminth
-	- **Rockbreaker's Ceremony:** Coalbound Coatl, Ancient Memories, Pillar of the Ages, Eight Become One, Broken Geode, Pebble Collector, Tomb Keeper, Veined Marble, Sardonyx Cabochon, Ancient Soulwarden, Neglected Caveminder, Sandstone, Unearthed Ancestor, Labradorescence
+	- **Rockbreaker's Ceremony:** Coalbound Coatl, Ancient Memories, Pillar of Ages, Eight Become One, Broken Geode, Pebble Collector, Tomb Keeper, Veined Marble, Sardonyx Cabochon, Ancient Soulwarden, Neglected Caveminder, Sandstone, Unearthed Ancestor, Labradorescence
 	- **Crystalline Gala:** Bogsicle, Snowsquall, Colored Ice, Sleet Footed, Frostbitten Fugitive, Frigid Flight, Cold Hearted, Solstice Rosette, Colorful Ice, Thawed Memories, Aurora Machinery, Spirit of Winter Forest, Runic Roamer, Winterwatch
 	- **Trickmurk Circus:** Bottled Wrath, Ghost Flame Guise, Shadow Within, Ringmaster, Twilight Brambles, Curse of Thorns, Snake Eyes, Faerie Dream, Glowing Inkcap, Onyx Idol, Magie de Cirque, Crescent Gargoyle, Whimsical Night, Five Of A Kind
 	- **Mistral Jamboree:** Windblown Bonsai, Autumn Galestorm, Breezy Swirls, Tattered Maps, Zephyr Damselfly, Face of the Wind, A Night in the Clouds, Windsinger Worshipper, Wind Polished Golem, Springrise Screamer, Fallen Angel, Twisted Bamboo, Skybound, Cloudsong Adornments
@@ -75,7 +75,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Trickmurk Circus:** Faerie Queen, Foxfire Plumage, The Nightmare, Shimmer Trick, Shadow tattoos, Nightingale, Foxfire Guide, Occluded, Moon Glitter, Dark Generation, The Night's Lament, Death Seeker, Other Side, Circus Lion
 	- **Mistral Jamboree:** Triple Happiness, Heart of the Hurricane, Swallow Breeze, Spirit Wings, Zephyr Guide, Wind's Calling, Updraft, Windward, Orchestral Wind, Thriving Song, Bamboo Rhyme, Zenith, Cloudkeeper Bear, Wind's Prodigy
 	- **Wavecrest Saturnalia:** Bog pond, Masquerwave, Mandarinfish Fins, DeepSea Dweller, Go With the Floe, Abyss Pearl, Oceans Vibrant, Nudichromatic, Ilhabela, Deep Below, Hydrothermal, Hyaline, Alligator Snapper Turtle, Noodlebranch
-	- **Greenskeeper Gathering:** Something Putrid, Sneaky Succulents, Tranquil Forest, Abelhinha, Cherry Dryad Lotus, Wilderness Halo, The Great Tree, Call of Spirits, Rejuvinate, Season, Twine, Crown Shyness, Cymbidium Splendor, Chromatic Predator
+	- **Greenskeeper Gathering:** Something Putrid, Sneaky Succulents, Tranquil Forest, Abelhinha, Cherry Dryad Lotus, Wilderness Halo, The Great Tree, Call of Spirits, Rejuvinate, Season, twine, Crown Shyness, Cymbidium Splendor, Chromatic Predator
 - <span id="2018-19">2018–2019</span>
 	- **Brightshine Jubilee:** Elpis, Radiant Dawn, Omniscient, Golden Core, Sol Wisher, Inner Light, Awakened Faith, Optics, Quiescence, Armor of the Ancients, Festive Procession, Raiments of Jupiter, Xanadu, Ceremonial Lightcatcher
 	- **Thundercrack Carnivale:** Corporate Warfare, Spire Wings, Thunder Armor, Mechanical Valkyrie, Ancient Golem, Snappy Conductor, Thunderstruck, Smoke Storm, Automata, Electrolyte, high voltage, Sparked Neon, Platinum Wastes, Electromechanical
@@ -85,17 +85,17 @@ Fancy formatting and/or links coming later, maybe.
 	- **Rockbreaker's Ceremony:** Hoarding Behaviour, Obsidian Amendments, Precious Veins, From the Depths, Earthheart Opalescence, WrappedTurquoise, Fumarole Frieze, Oil Slick, Earth's Guise, Crystal Charge, Ironclad, Carrying Time, Ancestor, Sand Spirit
 	- **Crystalline Gala:** Frozen Find, Winter Blanket, Ice Queen, No Shower, Frost Thruster, Winterberry Queen, Ice Crystal, Frigid Gale, Sweater Weather, Snowdragon Sculpture, Comfort in Cold, Prismatic Winter Coat, Ancient Heritage, Fortress Guardian
 	- **Trickmurk Circus:** Masquerade Night, Wispwillow Spirit, Night Fairy, Lunar Metamorphosis, Darkworld Keepers, Smoke and Mirrors, Dragging Shadows, Mushroom Prince, Gloomy Gardener, Stellae Umbrarum, We're All Mad Here, Umbracourt Jester, Silhouette, Amalfoeti
-	- **Mistral Jamboree:** Fasciatus, Windsinger's Plumes\*, Windy Glow, Spirit on the Wind, Little Friends, Mistral Bells, Whirlwinder, Wind Streaks, Mist Keeper, Reedcleft Ascendant, Windfeather, Weatherfrost, Yie lla So neia, Fluffy Clouds, Wild Sprite
-		- \*incorrectly listed as being from 2018. it is not.
-	- **Wavecrest Saturnalia:** Ghost Ship Navigator, Just Add Fins, AnemoMine, Entangled Tentacles, Poisonous, Bioluminescence, Pastel Lionfish, Hydrothermal Vent, Abyssal Attire, Bubble Soap Snap, Cascade, Thalassic Secrets
-	- **Greenskeeper Gathering:** Menagerie of Life, Green Miracle, Brush of Wings, Pteridomania, Autumnation, Cracked Terracotta, Death by Flower, Ritualist, Plantineas, Empress of Pride, Veiled Valley, Solar Punk, Verdant Adaptations, Moth-Eater
+	- **Mistral Jamboree:** Windsinger's Plumes\*, Windy Glow, Spirit on the Wind, Little Friends, Mistral Bells, Whirlwinder, Wind Streaks, Mist Keeper, Reedcleft Ascendant, Windfeather, Weatherfrost, Yie lla So neia, Fluffy Clouds, Wild Sprite
+		- \*Incorrectly listed as being from 2018.
+	- **Wavecrest Saturnalia:** Fasciatus, Ghost Ship Navigator, Water Mother, Just Add Fins, AnemoMine, Entangled Tentacles, Poisonous, Bioluminescence, Pastel Lionfish, Hydrothermal Vent, Abyssal Attire, Bubble Soap Snap, Cascade, Thalassic Secrets
+	- **Greenskeeper Gathering:** Menagerie of Life, Green Miracle, Brush of Wings, Pteridomania, Autumnation, Cracked Terracotta, Death by Flower, Ritualist, Plantineas, Empress of Pride, Veiled Valley, Solar Punk, Verdant Adaptations, Moth-Eaten
 - <span id="2019-20">2019–2020</span>
 	- **Brightshine Jubilee:** Spirit Boon, Solarium, Suntouched Marble, Lightlock, Midas touch, Enchanted Collector, Auratus Lumen, Perihelion, Exalted, let there be light, Runebound, Spectroscope, NOBLE LIGHT, Afterglow
 	- **Thundercrack Carnivale:** Mechanical Medical Myste, What's Up Danger, Spire Hunter, Beast of Metal, King of the Storm, Security First, Biomechanic, Stormcatcher's Progeny, Lichtenberg, Storm Thrower, Cyan Exposure, Rendering, All Systems Go, Electric core
 	- **Flameforger's Festival:** Flaming Wraith, Heat Pits, Beltane, Song of Flame, Braseira, Reign of Fire, Phoenix King, Kawah Ijen, Herald of Fire, Blazinoct, Love of Hottest Flames, Golden Cicada, Iris Alight, Forge Flare
 	- **Starfall Celebration:** pulse, Starwood fairy, Mystic Regalia, Starcrossed Scholar, Chochin, Stellar Sensation, Astral Hunter, Space Beast, Stardust Runicorn, Wings of Arcane, travel across, Scry Diver, Gifts from Above, Wild Magic
 	- **Riot of Rot:** Acidic Grave, All Eyes on You, Nice View, Blood Mancer, Tongue Out, Low pH, Mushroom Bloom, Plaguespreader, Exossein, Vulture Couture, Battlefield menace, Vermin, Just Like Mother, Shepherd of Affliction
-	- **Rockbreaker's Ceremony:** Quartz Rose, Snakestone, The King Had Wings, She Means Bismuth, the curse of the Midas, Topographic, Crystalcourt Acolyte, Glow Worm Cave, Tower of Pillar, Stibknight, Quartz Reef, Bouldercrag Battlemarks, Points and Druzy
+	- **Rockbreaker's Ceremony:** Quartz Rose, Snakestone, Blackfire, The King Had Wings, She Means Bismuth, the curse of the Midas, Topographic, Crystalcourt Acolyte, Glow Worm Cave, Tower of Pillar, Stibknight, Quartz Reef, Bouldercrag Battlemarks, Points and Druzy
 	
 	--**WE ARE HERE**--
 	- Crystalline Gala

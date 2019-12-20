@@ -45,6 +45,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .about-tmp table td:first-child{font-weight:700;}
 .about-tmp sub{margin-top:-3em; font-size:.5em; padding-left:1em; opacity:.5;}
 .about-tmp main ul{font-size:.85em;} .about-tmp main li{margin:.25em 0;}
+.about-tmp main .pagenav ul{font-size:.95em;} .about-tmp main .pagenav li{font-size:1em; margin:.25em 0;}
 .about-tmp del{opacity:.25;}
 
 .fest main ul{font-weight:700;}
