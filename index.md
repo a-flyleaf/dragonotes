@@ -42,19 +42,21 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [ ] [Reference]({%include url.html%}/ref)
 	- [ ] guides
 	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
-	- [x] [gene obtaining methods]({%include url.html%}/ref/genes)
+	- [x] [Festival Skins]({%include url.html%}/ref/festival-skins)
+	- [x] [Genes]({%include url.html%}/ref/genes)
+	- [x] [Glossary]({%include url.html%}/glossary)
 	- [ ] misc. common knowledge (ex. color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
 	- [ ] AH links
 		- [ ] fodder: adults/hatchlings
 		- [ ] lvl25: gems/treasure/g1
 		- [ ] ~~apparel~~ slime
 		- [ ] fest skins
-- [x] [Glossary]({%include url.html%}/glossary)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- TODO: tumblr archive (no links unless asks/reblog commentary)
 	- 12/10 site start! basic layout & page template
 	- 12/11 glossary
 	- 12/17 genelist, sitenav update & optional pagenav, credits
 	- 12/18 dark theme
+	- 12/19 fest skin list
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
