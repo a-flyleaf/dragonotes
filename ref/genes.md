@@ -31,8 +31,8 @@ treasure | [Mirror](https://www1.flightrising.com/game-database/item/557) | 42,5
 treasure | [Pearlcatcher](https://www1.flightrising.com/game-database/item/558) | 212,500T
 treasure | [Ridgeback](https://www1.flightrising.com/game-database/item/559) | 212,500T
 treasure | [Skydancer](https://www1.flightrising.com/game-database/item/1583) | 340,000T
-treasure | [Snapper](https://www1.flightrising.com/game-database/item/719) | 276,260T
-treasure | [Spiral](https://www1.flightrising.com/game-database/item/560) | 276,260T
+treasure | [Snapper](https://www1.flightrising.com/game-database/item/719) | 276,250T
+treasure | [Spiral](https://www1.flightrising.com/game-database/item/560) | 276,250T
 treasure | [Tundra](https://www1.flightrising.com/game-database/item/561) | 42,500T
 gems | [Wildclaw](https://www1.flightrising.com/game-database/item/717)\* | 2,000g
 

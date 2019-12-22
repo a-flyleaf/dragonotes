@@ -18,7 +18,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] future challenges?
 	- [ ] goals (by priority)
 		- [ ] fest gear (minus skins) (SOMEONE already put this together)
-		- [ ] fest skins (just list them all)
+		- [x] fest skins
 		- [x] scrolls/genes
 		- [ ] vistas
 		- [ ] breeding projects

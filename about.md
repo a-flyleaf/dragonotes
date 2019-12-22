@@ -51,7 +51,7 @@ Skins actually on dragons not included.
 - **Thundercrack Carnivale:** Thunderborn, Storm-Charged Golem, Wildfire, Overload, Stormlight~~, Reactor~~
 - **Flameforger's Festival:** Fallout, Molten Flow, Char, Volcanic Dust, Seraphim, Firekeeper, Foxfire, Scorched Forest 
 - **Starfall Celebration:** Neonate, Arcane Warrior, Starflight, ~~Mind Over Matter,~~ Runesinger, Dusty Nebulae, Magical Tint, Crystalline
-- **Riot of Rot:** Skin and Bones, Virulent Experiment, Patchwork, Contagion, Muscles, Fungus Fae, Plaguetouch, Skingraft, Pestarzt, Wyrmwound Cradle
+- **Riot of Rot:** Skin and Bones, Virulent Experiement, Patchwork, Contagion, Muscles, Fungus Fae, Plaguetouch, Skingraft, Pestarzt, Wyrmwound Cradle
 - **Rockbreaker's Ceremony:** Megalith, Polished Malachite, Refraction, Terra Cotta, Geotransfigure, Boulder Opal, Stonecarver, Stone Sentinel, Turquoise Veins, Wasteland
 
 #### 2014
@@ -78,16 +78,18 @@ Skins actually on dragons not included.
 
 ### May 2014 onwards
 
-From this point on (joining!), I *have* more skins than I *don't.* My **2015–2016** collection is **complete**, and for brevity's sake I'll only list what's necessary below.
+From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My **2015–2016** collection is **complete**\*, and for brevity's sake I'll only list what's necessary below.
 
 #### missing
+- **2015:** Glowing Contagion
+	- \*yes, I have a copy on a dragon. yes, that means it's not in the vault and thus not *completing my collection.* whatzitooya
 - **2017:** Starfall Flowerfall, Galactic Watcher, Starwood blossom; Crystalhide
 - **2018:** Ethereal Phoenix; Opal Nebula, Arcanic Causatum
 - **2019**
 	- **Crystalline Gala:** Frost Thruster, Ice Crystal, Snowdragon Sculpture, Fortress Guardian
-	- **Trickmurk Circus:** Masquerae Night, Wispwillow Spirit, Mushroom Prince, Stellae Umbrarum, Umbracourt Jester, Silhouette, Amalfoeti
-	- **Thundercrack Carnivale:** Mechanical Medical Myste, King of the Storm, Biomechanic, Stormcatcher's Progeny, Storm Thrower, Cyan Exposure, All Systems Go
-	- **Flameforger's Festival:** Song of Flame, Reign of Fire, Kawah Ijen, Herald of Fire, Blazinoct, Love of Hottest Flames, Iris Alight, Forge Flare
+	- **Trickmurk Circus:** Masquerade Night, Wispwillow Spirit, Mushroom Prince, Stellae Umbrarum, Umbracourt Jester, Silhouette, Amalfoeti
+	- **Thundercrack Carnivale:** Mechanical Medical Myste, Biomechanic, Stormcatcher's Progeny, Storm Thrower, Cyan Exposure, All Systems Go
+	- **Flameforger's Festival:** Reign of Fire, Herald of Fire, Blazinoct, Love of Hottest Flames, Forge Flare
 	- **Starfall Celebration:** pulse, Starwood fairy, Mystic Regalia, Starcrossed Scholar, Stellar Sensation, Astral Hunter, Space Beast, Wings of Arcane, travel across, Gifts from Above
 	- **Riot of Rot:** Acidic Grave, Nice View, Low pH, Plaguespreader, Vermin, Just Like Mother
 

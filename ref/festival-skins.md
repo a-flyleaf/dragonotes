@@ -16,7 +16,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Thundercrack Carnivale:** Thunderborn, Storm-Charged Golem, Wildfire, Overload, Stormlight, Reactor
 	- **Flameforger's Festival:** Fallout, Molten Flow, Char, Volcanic Dust, Seraphim, Firekeeper, Foxfire, Scorched Forest 
 	- **Starfall Celebration:** Neonate, Arcane Warrior, Starflight, Mind Over Matter, Runesinger, Dusty Nebulae, Magical Tint, Crystalline
-	- **Riot of Rot:** Skin and Bones, Virulent Experiment, Patchwork, Contagion, Muscles, Fungus Fae, Plaguetouch, Skingraft, Pestarzt, Wyrmwound Cradle
+	- **Riot of Rot:** Skin and Bones, Virulent Experiement, Patchwork, Contagion, Muscles, Fungus Fae, Plaguetouch, Skingraft, Pestarzt, Wyrmwound Cradle
 	- **Rockbreaker's Ceremony:** Megalith, Polished Malachite, Refraction, Terra Cotta, Geotransfigure, Boulder Opal, Stonecarver, Stone Sentinel, Turquoise Veins, Wasteland
 	- **Crystalline Gala:** Frozen Together, Pearlescent Glacier, Icicle, Winterborn, Icefield, Glacial, Icecore, Sculpted, Frost Gathering, Black Ice
 	- **Trickmurk Circus:** Hidden in Shadow, Mystical Glow, Shadowbinder, Dark Fortune, Sheer Shadow, Ossein Horror, Dim Dark, Ghost Shrooms, (Glow, Glow, Glow)\*, Ace of Shades
