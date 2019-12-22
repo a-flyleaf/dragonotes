@@ -7,7 +7,7 @@ The festival cycle begins with Brightshine Jubilee (Light) in **June**, and ends
 
 Follows the same order as IDs; some of the onsite descriptions are out of order.
 
-{%include skipto.html links="<ul><li><a href='#2013-14'>2013–14</a></li><li><a href='#2014-15'>2014–15</a></li><li><a href='#2015-16'>2015–16</a></li><li><a href='#2017-18'>2017–18</a></li><li><a href='#2018-19'>2018–19</a></li><li><a href='#2019-20'>2019–20</a></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#2013-14'>2013–14</a></li><li><a href='#2014-15'>2014–15</a></li><li><a href='#2015-16'>2015–16</a></li><li><a href='#2017-18'>2017–18</a></li><li><a href='#2018-19'>2018–19</a></li><li><a href='#2019-20'>2019–20</a></li></ul>"%}
 
 Fancy formatting and/or links coming later, maybe.
 

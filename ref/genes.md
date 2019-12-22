@@ -13,7 +13,7 @@ Copied from the [Game Database](https://www1.flightrising.com/game-database/item
 
 <i>[Ancient breeds](https://www1.flightrising.com/forums/ann/2666061)</i> have separate, often cheaper genes than the other ("modern") breeds. Not all modern genes have an ancient equivalent and vice versa.
 
-{%include skipto.html links="<ul><li><a href='#quicklist'>Quicklist</a><ul><li><a href='#breed-changes'>Breed changes</a></li><li><a href='#eyes'>Eyes</a></li><li><a href='#primary-genes'>Primary genes</a></li><li><a href='#secondary-genes'>Secondary genes</a></li><li><a href='#tertiary-genes'>Tertiary genes</a></li><li><a href='#other'>Other</a></li></ul></li><li><a href='#item-quickref'>Item quickref</a><ul><li><a href='#baldwin-recipes'>Baldwin recipes</a></li><li><a href='#swipp-materials'>Swipp materials</a></li></ul></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#quicklist'>Quicklist</a><ul><li><a href='#breed-changes'>Breed changes</a></li><li><a href='#eyes'>Eyes</a></li><li><a href='#primary-genes'>Primary genes</a></li><li><a href='#secondary-genes'>Secondary genes</a></li><li><a href='#tertiary-genes'>Tertiary genes</a></li><li><a href='#other'>Other</a></li></ul></li><li><a href='#item-quickref'>Item quickref</a><ul><li><a href='#baldwin-recipes'>Baldwin recipes</a></li><li><a href='#swipp-materials'>Swipp materials</a></li></ul></li></ul>"%}
 
 ## Quicklist
 
