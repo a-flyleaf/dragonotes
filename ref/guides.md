@@ -16,7 +16,7 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 
 	Created before you could view Baldwin recipes before unlocking them, but still a *very* useful reference; includes an FAQ, material drop chances, item search reference, and a breakdown of multi-step recipes (ex. to get such-and-such familiar, you need a Glass Beaker, and to get *that* you need…)
 	
-	Also: **Food = Goo**, **Material=Ooze**, **Apparel=Slime** (black/grey/white), **Familiar = Muck** (bronze/silver/gold), and **Other = Sludge**. You're welcome ;>
+	Also, for even faster reference: **Food = Goo**, **Material=Ooze**, **Apparel=Slime** (black/grey/white), **Familiar = Muck** (bronze/silver/gold), and **Other = Sludge**.
 
 - **[Chronological update reference](https://www1.flightrising.com/forums/gde/2292781)**
 	
