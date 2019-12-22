@@ -3,11 +3,11 @@ layout: default
 title: What’s an Archaeoraptor?
 class: about-tmp
 ---
-idk either man
+I like dragons! I like code! I like menial repetitive tasks! I'm not a huge fan of FR's site design or BBCode! So then this happened.
 
-Stuff will be written here eventually. For now have ~a notedump~.
+Stuff will be written here eventually.
 
-{%include skipto.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-skin-addiction'>fest skin addiction</a><ul><li><a href='#pre-joining'>pre-joining</a></li><li><a href='#may-2014-onwards'>May 2014 onwards</a></li></ul></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-skin-addiction'>fest skin addiction</a><ul><li><a href='#pre-joining'>pre-joining</a></li><li><a href='#may-2014-onwards'>May 2014 onwards</a></li></ul></li></ul>"%}
 
 ## gene projects
 

@@ -12,6 +12,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] art
 		- [ ] other FR art
 		- [ ] commission gallery (NOT HIGHRES, use fancybox)
+	- [x] quicklinks
 	- [ ] tracking
 		- [ ] dom badges
 		- [ ] long drop coli challenge
@@ -40,17 +41,13 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
 - [ ] [Reference]({%include url.html%}/ref)
-	- [ ] guides
-	- [ ] useful/timeless not-guide threads (ex. PUBLIC adoption/trade hubs)
-	- [x] [Festival Skins]({%include url.html%}/ref/festival-skins)
+	- [ ] Festival item hub
+		- [ ] items
+		- [x] [skins]({%include url.html%}/ref/festival-skins)
+		- [ ] NotN
 	- [x] [Genes]({%include url.html%}/ref/genes)
-	- [x] [Glossary]({%include url.html%}/glossary)
-	- [ ] misc. common knowledge (ex. color wheel, apparel/lair slots, basically ripping off from the wiki but with credit)
-	- [ ] AH links
-		- [ ] fodder: adults/hatchlings
-		- [ ] lvl25: gems/treasure/g1
-		- [ ] ~~apparel~~ slime
-		- [ ] fest skins
+	- [x] [Glossary]({%include url.html%}/ref/guides)
+	- [x] [Guides]({%include url.html%}/ref/guides)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- TODO: tumblr archive (no links unless asks/reblog commentary)
 	- 12/10 site start! basic layout & page template
@@ -58,5 +55,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- 12/17 genelist, sitenav update & optional pagenav, credits
 	- 12/18 dark theme
 	- 12/19 fest skin list
+	- 12/21 guides
 	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
+	- also a logo would be cool... switch color scheme to dark as default? wow ~branding~
