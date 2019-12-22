@@ -67,7 +67,7 @@ via | <span class="redundant">familiar</span>
 ? | [Spellbound Tome](https://www1.flightrising.com/game-database/item/15287) | ?
 ? | [Unlikely Alliance](https://www1.flightrising.com/game-database/item/15288) | ?
 ? | [Wooden Marionette](https://www1.flightrising.com/game-database/item/15289) | ?
-[baldwin](#baldwin-recipes) | [Agol](https://www1.flightrising.com/game-database/item/15298) | ?
+[baldwin](#baldwin-recipes) | [Agol](https://www1.flightrising.com/game-database/item/15298) | 3,000T
 ? | [Axe Mimic](https://www1.flightrising.com/game-database/item/20809) | ?
 ? | [Crooked Hatchet](https://www1.flightrising.com/game-database/item/20810) | ?
 ? | [Ball-Jointed Bogsneak](https://www1.flightrising.com/game-database/item/20811) | ?
@@ -82,14 +82,14 @@ via | <span class="redundant">familiar</span>
 ? | [Living Luminance](https://www1.flightrising.com/game-database/item/20820) | ?
 ? | [Masked Phantom](https://www1.flightrising.com/game-database/item/20821) | ?
 ? | [Veiled Vision](https://www1.flightrising.com/game-database/item/20822) | ?
-[baldwin](#baldwin-recipes) | [Autumn Millifae](https://www1.flightrising.com/game-database/item/20823) | ?
-[baldwin](#baldwin-recipes) | [Spring Millifae](https://www1.flightrising.com/game-database/item/20824) | ?
+[baldwin](#baldwin-recipes) | [Autumn Millifae](https://www1.flightrising.com/game-database/item/20823) | 3,000T
+[baldwin](#baldwin-recipes) | [Spring Millifae](https://www1.flightrising.com/game-database/item/20824) | 3,000T
 ? | [Serpentine Lamp](https://www1.flightrising.com/game-database/item/20825) | ?
 ? | [Vulpine Lamp](https://www1.flightrising.com/game-database/item/20826) | ?
 ? | [Animated Armor](https://www1.flightrising.com/game-database/item/20827) | ?
 ? | [Spirit Armor](https://www1.flightrising.com/game-database/item/20828) | ?
-[baldwin](#baldwin-recipes) | [Flutterbun](https://www1.flightrising.com/game-database/item/25161) | ?
-[baldwin](#baldwin-recipes) | [Radiant Flutterbun](https://www1.flightrising.com/game-database/item/25162) | ?
+[baldwin](#baldwin-recipes) | [Flutterbun](https://www1.flightrising.com/game-database/item/25161) | 2,900T
+[baldwin](#baldwin-recipes) | [Radiant Flutterbun](https://www1.flightrising.com/game-database/item/25162) | 2,900T
 ? | [Ravenous Cauldron](https://www1.flightrising.com/game-database/item/25163) | ?
 ? | [Curious Kettle](https://www1.flightrising.com/game-database/item/25164) | ?
 ? | [Colubrid Column](https://www1.flightrising.com/game-database/item/25165) | ?
@@ -106,8 +106,8 @@ via | <span class="redundant">familiar</span>
 ? | [Mischievous Magnifier](https://www1.flightrising.com/game-database/item/28763) | ?
 ? | [Blooming Hedgehide](https://www1.flightrising.com/game-database/item/28764) | ?
 ? | [Overwatered Seedling](https://www1.flightrising.com/game-database/item/28765) | ?
-[baldwin](#baldwin-recipes) | [Fairy Octopus](https://www1.flightrising.com/game-database/item/28766) | ?
-[baldwin](#baldwin-recipes) | [Melon Squirmscoot](https://www1.flightrising.com/game-database/item/28767) | ?
+[baldwin](#baldwin-recipes) | [Fairy Octopus](https://www1.flightrising.com/game-database/item/28766) | 2,900T
+[baldwin](#baldwin-recipes) | [Melon Squirmscoot](https://www1.flightrising.com/game-database/item/28767) | 2,900T
 ? | [Ghostlight Viola](https://www1.flightrising.com/game-database/item/28768) | ?
 ? | [Dirge Fiddlefiend](https://www1.flightrising.com/game-database/item/28769) | ?
 ? | [Pinpush Mirror Doll](https://www1.flightrising.com/game-database/item/28770) | ?
@@ -128,8 +128,8 @@ via | <span class="redundant">familiar</span>
 ? | [Bouncy Broiler](https://www1.flightrising.com/game-database/item/32677) | ?
 ? | [Battered Vase](https://www1.flightrising.com/game-database/item/32678) | ?
 ? | [Glazed Sentry](https://www1.flightrising.com/game-database/item/32679) | ?
-[baldwin](#baldwin-recipes) | [Origami Steward](https://www1.flightrising.com/game-database/item/32682) | ?
-[baldwin](#baldwin-recipes) | [Folded Friend](https://www1.flightrising.com/game-database/item/32683) | ?
+[baldwin](#baldwin-recipes) | [Origami Steward](https://www1.flightrising.com/game-database/item/32682) | 4,000T
+[baldwin](#baldwin-recipes) | [Folded Friend](https://www1.flightrising.com/game-database/item/32683) | 4,000T
 
 <sub>Huge shout-out to [Rosaceae](https://flightrising.com/main.php?p=lair&tab=userpage&id=154165) for compiling this list!</sub>
 
@@ -141,21 +141,103 @@ chest | [Conjurer's Hat](https://www1.flightrising.com/game-database/item/20803)
 chest | [Gossamer Flame](https://www1.flightrising.com/game-database/item/20804) | <span style="opacity:.5">luck</span>
 [treasure](https://flightrising.com/main.php?p=market&tab=spec) | [Glowing Globe](https://www1.flightrising.com/game-database/item/20805) | 250,000T
 [gems](https://flightrising.com/main.php?p=market&tab=spec&type=1) | [Feral Visage](https://www1.flightrising.com/game-database/item/20806) | 600g
-[baldwin](#baldwin-recipes) | [Strange Chest](https://www1.flightrising.com/game-database/item/20808) | ?
-[baldwin](#baldwin-recipes) | [Grimore](https://www1.flightrising.com/game-database/item/25176) | ?
+[baldwin](#baldwin-recipes) | [Strange Chest](https://www1.flightrising.com/game-database/item/20808) | 4,000T
+[baldwin](#baldwin-recipes) | [Grimore](https://www1.flightrising.com/game-database/item/25176) | 4,000T
 chest | [Jester](https://www1.flightrising.com/game-database/item/25178) | <span style="opacity:.5">luck</span>
 chest | [Spectral Shroud](https://www1.flightrising.com/game-database/item/28820) | <span style="opacity:.5">luck</span>
 [treasure](https://flightrising.com/main.php?p=market&tab=spec) | [Dreary Dirge](https://www1.flightrising.com/game-database/item/28839) | 250,000T
 [treasure](https://flightrising.com/main.php?p=market&tab=spec) | [Eye See You](https://www1.flightrising.com/game-database/item/28840) | 250,000T
-[baldwin](#baldwin-recipes) | [Banshee Brooch](https://www1.flightrising.com/game-database/item/32681) | ?
+[baldwin](#baldwin-recipes) | [Banshee Brooch](https://www1.flightrising.com/game-database/item/32681) | 4,000T
 [gems](https://flightrising.com/main.php?p=market&tab=spec&type=1) | [Vigorous Goblet](https://www1.flightrising.com/game-database/item/32762) | 600g
 
 ## Item quickref
 
-[[COMING SOON]](https://www1.flightrising.com/forums/gde/2768916)
+### [Baldwin recipes](https://www1.flightrising.com/trading/baldwin/create)
 
-### Baldwin recipes
+#### Apparel
 
-### Swipp materials
+item | lvl | ingredients
+--- | ---
+[Magician's <b>Cloak</b>](https://www1.flightrising.com/game-database/item/15305) | 5 | x1 Grey Slime, x2 Orange Goo, x2 Green Goo
+[Mgn's <b>Cobwebs</b>](https://www1.flightrising.com/game-database/item/15306) & <b>[Herb Pouch](https://www1.flightrising.com/game-database/item/15308)</b> | 5 | x1 Grey Slime, x1 Orange Ooze, x2 Green Ooze
+[Mgn's <b>Hat</b>](https://www1.flightrising.com/game-database/item/15307) & <b>[Staff](https://www1.flightrising.com/game-database/item/15309)</b> | 5 | x1 Grey Slime, x1 Orange Sludge, x2 Green Sludge
+[Haunted Flame <b>Candles</b>](https://www1.flightrising.com/game-database/item/20836) | 6 | x1 Grey Slime, x2 Orange Sludge, x2 Green Ooze, x1 [Sizzling Phosphorus](https://www1.flightrising.com/game-database/item/10883)
+[HF <b>Cloak</b>](https://www1.flightrising.com/game-database/item/20837) | 6 | x1 Grey Slime, x2 Yellow Sludge, x2 Green Sludge, x1 [Coarse Alchemical Reduction](https://www1.flightrising.com/game-database/item/10875)
+[HF <b>Collar</b>](https://www1.flightrising.com/game-database/item/20838) | 6 | x1 Grey Slime, x2 Purple Goo, x2 Orange Goo
+[HF <b>Headpiece</b>](https://www1.flightrising.com/game-database/item/20839) | 6 | x1 White Slime, x2 Green Goo, x2 Yellow Ooze
+[HF <b>Tail Jewel</b>](https://www1.flightrising.com/game-database/item/20840) | 6 | x1 Black Slime, x2 Red Ooze, x2 Orange Sludge
+[HF <b>Tail Ribbon</b>](https://www1.flightrising.com/game-database/item/20841) | 6 | x1 Grey Slime, x2 Green Sludge, x2 Yellow Goo
+[HF <b>Wing Ribbon</b>](https://www1.flightrising.com/game-database/item/20842) | 6 | x1 Grey Slime, x2 Red Goo, x2 Yellow Sludge
+[Whimsical Jester's <b>Cap</b>](https://www1.flightrising.com/game-database/item/25207) | 8 | x1 White Slime, x1 Purple Goo, x1 Orange Ooze
+[WJ's <b>Cape</b>](https://www1.flightrising.com/game-database/item/25209) | 8 | x1 White Slime, x1 Purple Ooze, x1 Green Sludge
+[WJ's <b>Collar</b>](https://www1.flightrising.com/game-database/item/25208) | 8 | x1 Grey Slime, x1 Red Sludge, x1 Yellow Sludge
+[WJ's <b>Gloves</b>](https://www1.flightrising.com/game-database/item/25210) | 8 | x1 Grey Slime, x1 Orange Goo, x1 Yellow Goo
+[WJ's <b>Stockings</b>](https://www1.flightrising.com/game-database/item/25211) | 8 | x1 Grey Slime, x1 Green Goo, x1 Orange Sludge
+[WJ's <b>Tail Bell</b>](https://www1.flightrising.com/game-database/item/25213) | 8 | x1 Grey Slime, x1 Orange Goo, x1 Green Ooze
+[WJ's <b>Wing Cover</b>](https://www1.flightrising.com/game-database/item/25212) | 8 | x1 Grey Slime, x1 Green Goo, x1 Yellow Ooze
+[Eerie Cyan <b>Clawrings</b>](https://www1.flightrising.com/game-database/item/28818) | 9 | x1 Grey Slime, x1 Green Sludge, x1 Green Ooze, x1 Green Goo
+[EC <b>Forejewels</b>](https://www1.flightrising.com/game-database/item/28816) | 9 | x1 Grey Slime, x1 Orange Goo, x1 Green Ooze
+[EC <b>Ghastgrown</b>](https://www1.flightrising.com/game-database/item/28813) | 9 | x1 White Slime, x1 Purple Sludge, x1 Green Sludge
+[EC <b>Grasp</b>](https://www1.flightrising.com/game-database/item/28815) | 9 | x1 Grey Slime, x1 Orange Sludge, x1 Yellow Goo
+[EC <b>Nightshroud</b>](https://www1.flightrising.com/game-database/item/28819) | 9 | x1 Black Slime, x1 Green Goo, x1 Yellow Ooze
+[EC <b>Pendants</b>](https://www1.flightrising.com/game-database/item/28814) | 9 | x1 White Slime, x1 Purple Goo, x1 Orange Ooze
+[EC <b>Taildecor</b>](https://www1.flightrising.com/game-database/item/28817) | 9 | x1 Grey Slime, x1 Green Goo, x1 Red Sludge
+[Echo Eater <b>Armet</b>](https://www1.flightrising.com/game-database/item/32716) | 10 | x1 White Slime, x1 Red Goo, x5 [Mirror](https://www1.flightrising.com/game-database/item/7694)
+[EE <b>Flightshroud</b>](https://www1.flightrising.com/game-database/item/32718) | 10 | x1 White Slime, x1 Red Sludge, x5 [Nocturne Puppet](https://www1.flightrising.com/game-database/item/7696)
+[EE <b>Forecallouses</b>](https://www1.flightrising.com/game-database/item/32723) | 10 | x1 Grey Slime, x1 Purple Ooze, x5 [Weathered Grimoire](https://www1.flightrising.com/game-database/item/15297)
+[EE <b>Grimplate</b>](https://www1.flightrising.com/game-database/item/32720) | 10 | x1 Black Slime, x1 Red Ooze, x5 [Crystal Ball](https://www1.flightrising.com/game-database/item/15294)
+[EE <b>Hindcallouses</b>](https://www1.flightrising.com/game-database/item/32722) | 10 | x1 Grey Slime, x2 Orange Goo, x5 [Flying Gurnad](https://www1.flightrising.com/game-database/item/15293)
+[EE <b>Spikescarf</b>](https://www1.flightrising.com/game-database/item/32717) | 10 | x1 Grey Slime, x1 Purple Sludge, x5 [Leporidae Guise](https://www1.flightrising.com/game-database/item/15296)
+[EE <b>Tailspine</b>](https://www1.flightrising.com/game-database/item/32721) | 10 | x1 Grey Slime, x1 Purple Goo, x5 [Hourglass](https://www1.flightrising.com/game-database/item/15295)
+[EE <b>Tasset</b>](https://www1.flightrising.com/game-database/item/32719) | 10 | x1 Black Slime, x2 Orange Ooze, x5 [Night Flame](https://www1.flightrising.com/game-database/item/7695)
+
+#### Familiars & Vistas
+
+item | lvl | ingredients
+--- | ---
+<b>[Agol](https://www1.flightrising.com/game-database/item/15298) | 1 | x1 Silver Muck, x1 Gold Muck, x3 Green Goo, x1 [Coarse Alchemical Reduction](https://www1.flightrising.com/game-database/item/10875), x1 [Glass Beaker](https://www1.flightrising.com/game-database/item/10868)
+<b>[Autumn Millifae](https://www1.flightrising.com/game-database/item/20823)</b> | 4 | x2 Copper Muck, x2 Orange Sludge, x2 Yellow Sludge, x1 Glass Beaker
+<b>[Spring Millifae](https://www1.flightrising.com/game-database/item/20824)</b> | 4 | x2 Copper Muck, x3 Green Sludge, x2 Purple Goo, x1 Glass Beaker
+<b>[Flutterbun](https://www1.flightrising.com/game-database/item/25161)</b> | 4 | x1 Silver Muck, x2 Orange Goo, x1 Yellow Sludge, x1 Glass Beaker
+<b>[Radiant Flutterbun](https://www1.flightrising.com/game-database/item/25162)</b> | 4 | x1 Gold Muck, x2 Orange Ooze, x1 Yellow Goo, x1 Glass Beaker
+<b>[Fairy Octopus](https://www1.flightrising.com/game-database/item/28766)</b> | 4 | x1 Gold Muck, x5 Green Ooze, x1 Yellow Goo, x1 Glass Beaker
+<b>[Melon Squirmscoot](https://www1.flightrising.com/game-database/item/28767)</b> | 4 | x1 Silver Muck, x5 Green Goo, x1 Yellow Sludge, x1 Glass Beaker
+<b>[Origami Steward](https://www1.flightrising.com/game-database/item/32682)</b> | 7 | x1 Silver Muck, x10 [Cuckoo](https://www1.flightrising.com/game-database/item/15290), x2 Green Sludge, x1 Glass Beaker
+<b>[Folded Friend](https://www1.flightrising.com/game-database/item/32683)</b> | 7 | x1 Gold Muck, x10 [Chameleon](https://www1.flightrising.com/game-database/item/7686), x2 Green Ooze, x1 Glass Beaker
+
+(familiars, vistas)
+clumpy circle = ooze
+beaker = sludge
+splat = goo
+
+### [Swipp materials](https://www1.flightrising.com/trading/swipp/catalog)
+
+item | trade
+--- | ---
+chests | ????
+vistas | ???
 
 ### Venue guide
+
+venue | drops
+--- | ---
+Training Fields | ?
+Woodland Path | ?
+Scorched Forest | ?
+Sandswept Delta | ?
+Blooming Grove | ?
+Forgotten Cave | ?
+Bamboo Falls | ?
+Thunderhead Savanna | ?
+Redrock Cove | ?
+Waterway | ?
+Arena | ?
+Volcanic Vents | ?
+Rainsong Jungle | ?
+Boreal Wood | ?
+Crystal Pools | ?
+Harpy's Roost | ?
+Ghostlight Ruins | ?
+Mire | ?
+Golem Workshop | ?
+Kelp Beds | ?
