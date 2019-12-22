@@ -54,80 +54,80 @@ chest | [Plasmpool set](https://www1.flightrising.com/game-database/items/appare
 
 via | <span class="redundant">familiar</span>
 --- | ---
-? | [Snarling Mimic](https://www1.flightrising.com/game-database/item/7697) | ?
-? | [Ectoplasmime](https://www1.flightrising.com/game-database/item/7698) | ?
-? | [Jawlocker](https://www1.flightrising.com/game-database/item/7699) | ?
-? | [Animated Statue](https://www1.flightrising.com/game-database/item/15280) | ?
-? | [Deadly Reflection](https://www1.flightrising.com/game-database/item/15281) | ?
-? | [Ensorcelled Volume](https://www1.flightrising.com/game-database/item/15282) | ?
-? | [Living Sculpture](https://www1.flightrising.com/game-database/item/15283) | ?
-? | [Magic Mirror](https://www1.flightrising.com/game-database/item/15284) | ?
-? | [Opposing Forces](https://www1.flightrising.com/game-database/item/15285) | ?
-? | [Painted Marionette](https://www1.flightrising.com/game-database/item/15286) | ?
-? | [Spellbound Tome](https://www1.flightrising.com/game-database/item/15287) | ?
-? | [Unlikely Alliance](https://www1.flightrising.com/game-database/item/15288) | ?
-? | [Wooden Marionette](https://www1.flightrising.com/game-database/item/15289) | ?
+[coli](#venue-guide)/chest| [Snarling Mimic](https://www1.flightrising.com/game-database/item/7697) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Ectoplasmime](https://www1.flightrising.com/game-database/item/7698) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Jawlocker](https://www1.flightrising.com/game-database/item/7699) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Animated Statue](https://www1.flightrising.com/game-database/item/15280) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Deadly Reflection](https://www1.flightrising.com/game-database/item/15281) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Ensorcelled Volume](https://www1.flightrising.com/game-database/item/15282) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Living Sculpture](https://www1.flightrising.com/game-database/item/15283) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Magic Mirror](https://www1.flightrising.com/game-database/item/15284) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Opposing Forces](https://www1.flightrising.com/game-database/item/15285) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Painted Marionette](https://www1.flightrising.com/game-database/item/15286) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Spellbound Tome](https://www1.flightrising.com/game-database/item/15287) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Unlikely Alliance](https://www1.flightrising.com/game-database/item/15288) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Wooden Marionette](https://www1.flightrising.com/game-database/item/15289) | <span style="opacity:.5">luck</span>
 [baldwin](#baldwin-recipes) | [Agol](https://www1.flightrising.com/game-database/item/15298) | 3,000T
-? | [Axe Mimic](https://www1.flightrising.com/game-database/item/20809) | ?
-? | [Crooked Hatchet](https://www1.flightrising.com/game-database/item/20810) | ?
-? | [Ball-Jointed Bogsneak](https://www1.flightrising.com/game-database/item/20811) | ?
-? | [Bogsneak Puppet](https://www1.flightrising.com/game-database/item/20812) | ?
-? | [Calculating Candelabra](https://www1.flightrising.com/game-database/item/20813) | ?
-? | [Smoldering Sconce](https://www1.flightrising.com/game-database/item/20814) | ?
-? | [Crystal Carrier](https://www1.flightrising.com/game-database/item/20815) | ?
-? | [Orbiting Spirit](https://www1.flightrising.com/game-database/item/20816) | ?
-? | [Enchanted Armaments](https://www1.flightrising.com/game-database/item/20817) | ?
-? | [Sorcerous Arms](https://www1.flightrising.com/game-database/item/20818) | ?
-? | [Glowing Globe](https://www1.flightrising.com/game-database/item/20819) | ?
-? | [Living Luminance](https://www1.flightrising.com/game-database/item/20820) | ?
-? | [Masked Phantom](https://www1.flightrising.com/game-database/item/20821) | ?
-? | [Veiled Vision](https://www1.flightrising.com/game-database/item/20822) | ?
+[coli](#venue-guide)/chest| [Axe Mimic](https://www1.flightrising.com/game-database/item/20809) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Crooked Hatchet](https://www1.flightrising.com/game-database/item/20810) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Ball-Jointed Bogsneak](https://www1.flightrising.com/game-database/item/20811) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Bogsneak Puppet](https://www1.flightrising.com/game-database/item/20812) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Calculating Candelabra](https://www1.flightrising.com/game-database/item/20813) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Smoldering Sconce](https://www1.flightrising.com/game-database/item/20814) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Crystal Carrier](https://www1.flightrising.com/game-database/item/20815) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Orbiting Spirit](https://www1.flightrising.com/game-database/item/20816) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Enchanted Armaments](https://www1.flightrising.com/game-database/item/20817) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Sorcerous Arms](https://www1.flightrising.com/game-database/item/20818) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Glowing Globe](https://www1.flightrising.com/game-database/item/20819) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Living Luminance](https://www1.flightrising.com/game-database/item/20820) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Masked Phantom](https://www1.flightrising.com/game-database/item/20821) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Veiled Vision](https://www1.flightrising.com/game-database/item/20822) | <span style="opacity:.5">luck</span>
 [baldwin](#baldwin-recipes) | [Autumn Millifae](https://www1.flightrising.com/game-database/item/20823) | 3,000T
 [baldwin](#baldwin-recipes) | [Spring Millifae](https://www1.flightrising.com/game-database/item/20824) | 3,000T
-? | [Serpentine Lamp](https://www1.flightrising.com/game-database/item/20825) | ?
-? | [Vulpine Lamp](https://www1.flightrising.com/game-database/item/20826) | ?
-? | [Animated Armor](https://www1.flightrising.com/game-database/item/20827) | ?
-? | [Spirit Armor](https://www1.flightrising.com/game-database/item/20828) | ?
+[coli](#venue-guide)/chest| [Serpentine Lamp](https://www1.flightrising.com/game-database/item/20825) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Vulpine Lamp](https://www1.flightrising.com/game-database/item/20826) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Animated Armor](https://www1.flightrising.com/game-database/item/20827) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Spirit Armor](https://www1.flightrising.com/game-database/item/20828) | <span style="opacity:.5">luck</span>
 [baldwin](#baldwin-recipes) | [Flutterbun](https://www1.flightrising.com/game-database/item/25161) | 2,900T
 [baldwin](#baldwin-recipes) | [Radiant Flutterbun](https://www1.flightrising.com/game-database/item/25162) | 2,900T
-? | [Ravenous Cauldron](https://www1.flightrising.com/game-database/item/25163) | ?
-? | [Curious Kettle](https://www1.flightrising.com/game-database/item/25164) | ?
-? | [Colubrid Column](https://www1.flightrising.com/game-database/item/25165) | ?
-? | [Serthis Support](https://www1.flightrising.com/game-database/item/25166) | ?
-? | [Inquisitive Shroud](https://www1.flightrising.com/game-database/item/25167) | ?
-? | [Valorous Cape](https://www1.flightrising.com/game-database/item/25168) | ?
-? | [Poltergeist Pile](https://www1.flightrising.com/game-database/item/25169) | ?
-? | [Transmuted Treasure](https://www1.flightrising.com/game-database/item/25170) | ?
-? | [Antique Chair](https://www1.flightrising.com/game-database/item/25171) | ?
-? | [Spidered Seat](https://www1.flightrising.com/game-database/item/25172) | ?
-? | [Tick-Tock](https://www1.flightrising.com/game-database/item/25173) | ?
-? | [Time Devourer](https://www1.flightrising.com/game-database/item/25174) | ?
-? | [Tricky Telescope](https://www1.flightrising.com/game-database/item/28762) | ?
-? | [Mischievous Magnifier](https://www1.flightrising.com/game-database/item/28763) | ?
-? | [Blooming Hedgehide](https://www1.flightrising.com/game-database/item/28764) | ?
-? | [Overwatered Seedling](https://www1.flightrising.com/game-database/item/28765) | ?
+[coli](#venue-guide)/chest| [Ravenous Cauldron](https://www1.flightrising.com/game-database/item/25163) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Curious Kettle](https://www1.flightrising.com/game-database/item/25164) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Colubrid Column](https://www1.flightrising.com/game-database/item/25165) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Serthis Support](https://www1.flightrising.com/game-database/item/25166) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Inquisitive Shroud](https://www1.flightrising.com/game-database/item/25167) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Valorous Cape](https://www1.flightrising.com/game-database/item/25168) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Poltergeist Pile](https://www1.flightrising.com/game-database/item/25169) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Transmuted Treasure](https://www1.flightrising.com/game-database/item/25170) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Antique Chair](https://www1.flightrising.com/game-database/item/25171) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Spidered Seat](https://www1.flightrising.com/game-database/item/25172) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Tick-Tock](https://www1.flightrising.com/game-database/item/25173) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Time Devourer](https://www1.flightrising.com/game-database/item/25174) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Tricky Telescope](https://www1.flightrising.com/game-database/item/28762) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Mischievous Magnifier](https://www1.flightrising.com/game-database/item/28763) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Blooming Hedgehide](https://www1.flightrising.com/game-database/item/28764) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Overwatered Seedling](https://www1.flightrising.com/game-database/item/28765) | <span style="opacity:.5">luck</span>
 [baldwin](#baldwin-recipes) | [Fairy Octopus](https://www1.flightrising.com/game-database/item/28766) | 2,900T
 [baldwin](#baldwin-recipes) | [Melon Squirmscoot](https://www1.flightrising.com/game-database/item/28767) | 2,900T
-? | [Ghostlight Viola](https://www1.flightrising.com/game-database/item/28768) | ?
-? | [Dirge Fiddlefiend](https://www1.flightrising.com/game-database/item/28769) | ?
-? | [Pinpush Mirror Doll](https://www1.flightrising.com/game-database/item/28770) | ?
-? | [Four-Eyed Phylactery](https://www1.flightrising.com/game-database/item/28771) | ?
-? | [Scroll Stealer](https://www1.flightrising.com/game-database/item/28860) | ?
-? | [Kyorinrin](https://www1.flightrising.com/game-database/item/28861) | ?
-? | [Vigilant Spear](https://www1.flightrising.com/game-database/item/32666) | ?
-? | [Apparition Lance](https://www1.flightrising.com/game-database/item/32667) | ?
-? | [Banshee Brooch](https://www1.flightrising.com/game-database/item/32668) | ?
-? | [Cryptic Cameo](https://www1.flightrising.com/game-database/item/32669) | ?
-? | [Dancing Chalice](https://www1.flightrising.com/game-database/item/32670) | ?
-? | [Vigorous Goblet](https://www1.flightrising.com/game-database/item/32671) | ?
-? | [Swinging Chandelier](https://www1.flightrising.com/game-database/item/32672) | ?
-? | [Pitfall Fixture](https://www1.flightrising.com/game-database/item/32673) | ?
-? | [Spritely Portrait](https://www1.flightrising.com/game-database/item/32674) | ?
-? | [Furious Fawn](https://www1.flightrising.com/game-database/item/32675) | ?
-? | [Seething Stove](https://www1.flightrising.com/game-database/item/32676) | ?
-? | [Bouncy Broiler](https://www1.flightrising.com/game-database/item/32677) | ?
-? | [Battered Vase](https://www1.flightrising.com/game-database/item/32678) | ?
-? | [Glazed Sentry](https://www1.flightrising.com/game-database/item/32679) | ?
+[coli](#venue-guide)/chest| [Ghosthost Viola](https://www1.flightrising.com/game-database/item/28768) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Dirge Fiddlefiend](https://www1.flightrising.com/game-database/item/28769) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Pinpush Mirror Doll](https://www1.flightrising.com/game-database/item/28770) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Four-Eyed Phylactery](https://www1.flightrising.com/game-database/item/28771) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Scroll Stealer](https://www1.flightrising.com/game-database/item/28860) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Kyorinrin](https://www1.flightrising.com/game-database/item/28861) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Vigilant Spear](https://www1.flightrising.com/game-database/item/32666) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Apparition Lance](https://www1.flightrising.com/game-database/item/32667) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Banshee Brooch](https://www1.flightrising.com/game-database/item/32668) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Cryptic Cameo](https://www1.flightrising.com/game-database/item/32669) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Dancing Chalice](https://www1.flightrising.com/game-database/item/32670) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Vigorous Goblet](https://www1.flightrising.com/game-database/item/32671) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Swinging Chandelier](https://www1.flightrising.com/game-database/item/32672) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Pitfall Fixture](https://www1.flightrising.com/game-database/item/32673) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Spritely Portrait](https://www1.flightrising.com/game-database/item/32674) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Furious Fawn](https://www1.flightrising.com/game-database/item/32675) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Seething Stove](https://www1.flightrising.com/game-database/item/32676) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Bouncy Broiler](https://www1.flightrising.com/game-database/item/32677) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Battered Vase](https://www1.flightrising.com/game-database/item/32678) | <span style="opacity:.5">luck</span>
+[coli](#venue-guide)/chest| [Glazed Sentry](https://www1.flightrising.com/game-database/item/32679) | <span style="opacity:.5">luck</span>
 [baldwin](#baldwin-recipes) | [Origami Steward](https://www1.flightrising.com/game-database/item/32682) | 4,000T
 [baldwin](#baldwin-recipes) | [Folded Friend](https://www1.flightrising.com/game-database/item/32683) | 4,000T
 
@@ -225,25 +225,29 @@ item | trade
 
 ### Venue guide
 
+Referenced from [Maki's Festival Coliseum Guide](https://www1.flightrising.com/forums/gde/1388514) as of 2019/12/22.
+
+**Familiar** → potential drops. *All* NotN enemies can drop Strange Chests.
+
 venue | drops
 --- | ---
-Training Fields | ?
-Woodland Path | ?
-Scorched Forest | ?
-Sandswept Delta | ?
-Blooming Grove | ?
-Forgotten Cave | ?
-Bamboo Falls | ?
-Thunderhead Savanna | ?
-Redrock Cove | ?
-Waterway | ?
-Arena | ?
-Volcanic Vents | ?
-Rainsong Jungle | ?
-Boreal Wood | ?
-Crystal Pools | ?
-Harpy's Roost | ?
-Ghostlight Ruins | ?
-Mire | ?
-Golem Workshop | ?
-Kelp Beds | ?
+Training Fields | **[Dancing Chalice](https://www1.flightrising.com/game-database/item/32670)** → [Leaf Insect](https://www1.flightrising.com/game-database/item/7685), [Mirror](https://www1.flightrising.com/game-database/item/7694)<br/>**[Smoldering Scone](https://www1.flightrising.com/game-database/item/20814)** → [Cuckoo](https://www1.flightrising.com/game-database/item/15290), [Crystal Ball](https://www1.flightrising.com/game-database/item/15294)<br/>**[Tick-Tock](https://www1.flightrising.com/game-database/item/25173)** → [Flying Gurnard](https://www1.flightrising.com/game-database/item/15293), [Weathered Grimoire](https://www1.flightrising.com/game-database/item/15297)
+Woodland Path | **[Curious Kettle](https://www1.flightrising.com/game-database/item/25164)** → [Giant Swallowtail Caterpillar](https://www1.flightrising.com/game-database/item/15291), Crystal Ball<br/>**[Painted Marionette](https://www1.flightrising.com/game-database/item/15286)** → Cuckoo, Weathered Grimoire<br/>**[Swinging Chandelier](https://www1.flightrising.com/game-database/item/32672)** → [Lakebottom Flounder](https://www1.flightrising.com/game-database/item/7688), [Night Flame](https://www1.flightrising.com/game-database/item/7695)
+Scorched Forest | **[Bouncy Broiler](https://www1.flightrising.com/game-database/item/32677)** → [Chameleon](https://www1.flightrising.com/game-database/item/7686), [Multi-Lens Magnifier](https://www1.flightrising.com/game-database/item/7693)<br/>**[Colubrid Column](https://www1.flightrising.com/game-database/item/25165)** → [Bee Orchid](https://www1.flightrising.com/game-database/item/15292), [Leporidae Guise](https://www1.flightrising.com/game-database/item/15296)<br/>**Snarling Mimic** → Giant Swallowtail Caterpillar, [Hourglass](https://www1.flightrising.com/game-database/item/15295)
+Sandswept Delta | **[Banshee Brooch](https://www1.flightrising.com/game-database/item/32668)** → Giant Swallowtail Caterpillar, Mirror<br/>**[Serpentine Lamp](https://www1.flightrising.com/game-database/item/20825)** → Bee Orchid, Crystal Ball<br/>**[Unlikely Alliance](https://www1.flightrising.com/game-database/item/15288)** → Bee Orchid, Crystal Ball
+Blooming Grove | **[Antique Chair](https://www1.flightrising.com/game-database/item/25171)** → Bee Orchid, Crystal Ball<br/>**[Spritely Portrait](https://www1.flightrising.com/game-database/item/32674)** → Chameleon, Multi-Lens Magnifier<br/>**[Transmuted Treasure](https://www1.flightrising.com/game-database/item/25170)** → Bee Orchid, Leporidae Guise
+Forgotten Cave | **[Animated Statue](https://www1.flightrising.com/game-database/item/15280)** → Flying Gurnard, Leporidae Guise<br/>**[Bogsneak Puppet](https://www1.flightrising.com/game-database/item/20812)** → Flying Gurnard, Leporidae Guise<br/>**[Vigilant Spear](https://www1.flightrising.com/game-database/item/32666)** → Giant Swallowtail Caterpillar, Crystal Ball
+Bamboo Falls | **[Battered Vase](https://www1.flightrising.com/game-database/item/32678)** → Flying Gurnard, Leporidae Guise<br/>**[Ensorcelled Volume](https://www1.flightrising.com/game-database/item/15282)** → Cuckoo, Weathered Grimoire<br/>**[Vulpine Lamp](https://www1.flightrising.com/game-database/item/20826)** → Cuckoo, Weathered Grimoire
+Thunderhead Savanna | **[Dirge Fiddlefiend](https://www1.flightrising.com/game-database/item/28769)** → Leaf Insect, Multi-Lens Magnifier<br/>**[Scroll Stealer](https://www1.flightrising.com/game-database/item/28860)** → Giant Swallowtail Caterpillar, Weathered Grimoire<br/>**[Tricky Telescope](https://www1.flightrising.com/game-database/item/28762)** → Flying Gurnard, Hourglass
+Redrock Cove | **[Blooming Hedgehide](https://www1.flightrising.com/game-database/item/20812)** → Bee Orchid, Night Flame<br/>**[Crystal Carrier](https://www1.flightrising.com/game-database/item/20815)** → Giant Swallowtail Caterpillar, Weathered Grimoire<br/>**[Veiled Vision](https://www1.flightrising.com/game-database/item/20822)** → Cuckoo, Weathered Grimoire
+Waterway | **[Ectoplasmime](https://www1.flightrising.com/game-database/item/7698)** → Flying Gurnard, Hourglass<br/>**[Ghosthost Viola](https://www1.flightrising.com/game-database/item/28768)** → Cuckoo, Leporidae Guise<br/>**[Sorcerous Arms](https://www1.flightrising.com/game-database/item/20818)** → Flying Gurnard, Hourglass
+Arena | **[Axe Mimic](https://www1.flightrising.com/game-database/item/20809)** → Chameleon, Mirror<br/>**[Kyorinrin](https://www1.flightrising.com/game-database/item/28861)** → Lakebottom Flounder, Crystal Ball<br/>**[Magic Mirror](https://www1.flightrising.com/game-database/item/15284)** → Chameleon, Mirror
+Volcanic Vents | **[Pinpush Mirror Doll](https://www1.flightrising.com/game-database/item/28770)** → [Living Stones](https://www1.flightrising.com/game-database/item/7687), Crystal Ball<br/>**[Serthis Support](https://www1.flightrising.com/game-database/item/25166)** → Giant Swallowtail Caterpillar, Hourglass<br/>**[Valorous Cape](https://www1.flightrising.com/game-database/item/25168)** → Giant Swallowtail Caterpillar, Hourglass
+Rainsong Jungle | **[Glowing Globe](https://www1.flightrising.com/game-database/item/20819)** → Living Stones, [Nocturne Puppet](https://www1.flightrising.com/game-database/item/7696)<br/>**[Mischievous Magnifier](https://www1.flightrising.com/game-database/item/28763)** → Chameleon, Mirror<br/>**[Wooden Marionette](https://www1.flightrising.com/game-database/item/15289)** → Living Stones, Nocturne Puppet
+Boreal Wood | **[Overwatered Seedling](https://www1.flightrising.com/game-database/item/28765)** → Cuckoo, Nocturne Puppet<br/>**[Pitfall Fixture](https://www1.flightrising.com/game-database/item/32673)** → Giant Swallowtail Caterpillar, Hourglass<br/>**[Spellbound Tome](https://www1.flightrising.com/game-database/item/15287)** → Leaf Insect, Night Flame<br/>**[Spirit Armor](https://www1.flightrising.com/game-database/item/20828)** → Lakebottom Flounder, Mirror
+Crystal Pools | **[Ball-Jointed Bogsneak](https://www1.flightrising.com/game-database/item/20811)** → Leaf Insect, Multi-Lens Magnifier<br/>**[Four-Eyed Phylactery](https://www1.flightrising.com/game-database/item/28771)** → Flying Gurnard, Weathered Grimoire<br/>**[Furious Fawn](https://www1.flightrising.com/game-database/item/32675)** → Bee Orchid, Mirror<br/>**[Opposing Forces](https://www1.flightrising.com/game-database/item/15285)** → Leaf Insect, Multi-Lens Magnifier
+Harpy's Roost | **[Deadly Reflection](https://www1.flightrising.com/game-database/item/15281)** → Chameleon, Mirror<br/>**[Enchanted Armaments](https://www1.flightrising.com/game-database/item/20817)** → Chameleon, Mirror<br/>**[Glazed Sentry](https://www1.flightrising.com/game-database/item/32679)** → Living Stones, Crystal Ball<br/>**[Time Devourer](https://www1.flightrising.com/game-database/item/25174)** → Lakebottom Flounder, Nocturne Puppet
+Ghostlight Ruins | **[Apparition Lance](https://www1.flightrising.com/game-database/item/32667)** → Lakebottom Flounder, Hourglass<br/>**[Calculating Candelabra](https://www1.flightrising.com/game-database/item/20813)** → Living Stones, Nocturne Puppet<br/>**[Inquisitive Shroud](https://www1.flightrising.com/game-database/item/25167)** → Chameleon, Mirror<br/>**[Masked Phantom](https://www1.flightrising.com/game-database/item/20821)** → Living Stones, Multi-Lens Magnifier
+Mire | **[Crooked Hatchet](https://www1.flightrising.com/game-database/item/20810)** → Living Stones, Multi-Lens Magnifier<br/>**[Living Sculpture](https://www1.flightrising.com/game-database/item/15283)** → Living Stones, Multi-Lens Magnifier<br/>**[Poltergeist Pile](https://www1.flightrising.com/game-database/item/25169)** → Living Stones, Night Flame<br/>**[Vigorous Goblet](https://www1.flightrising.com/game-database/item/32671)** → Leaf Insect, Leopridae Guise
+Golem Workshop | **[Animated Armor](https://www1.flightrising.com/game-database/item/20827)** → Leaf Insect, Night Flame<br/>**[Living Luminance](https://www1.flightrising.com/game-database/item/20820)** → Lakebottom Flounder, Night Flame<br/>**[Seething Stove](https://www1.flightrising.com/game-database/item/32676)** → Bee Orchid, Weathered Grimoire<br/>**[Spidered Seat](https://www1.flightrising.com/game-database/item/25172)** → Cuckoo, Nocturne Puppet
+Kelp Beds | **[Cryptic Cameo](https://www1.flightrising.com/game-database/item/32669)** → Bee Orchid, Crystal Ball<br/>**[Jawlocker](https://www1.flightrising.com/game-database/item/7699)** → Lakebottom Flounder, Night Flame<br/>**[Orbiting Siprit](https://www1.flightrising.com/game-database/item/20816)** → Lakebottom Flounder, Night Flame<br/>**[Ravenous Cauldron](https://www1.flightrising.com/game-database/item/25163)** → Leaf Insect, Multi-Lens Magnifier
