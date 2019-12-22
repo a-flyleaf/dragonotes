@@ -1,20 +1,22 @@
 ---
 layout: default
 title: References
+class: landing
 ---
-Useful stuff. This will be a formatted landing page thing eventually (think trading post).
+Useful stuff.
 
-## [Festival Skins]({%include url.html%}/ref/fest-skins)
+- **[Exclusive Items]({%include url.html%}/ref/exclusive-items)**
+	
+	Things you may or may not want to keep track of.
 
-All the skins. All of them. But as a plaintext list.
+- **[How to Gene Your Dragon]({%include url.html%}/ref/genes)**
+	
+	A quick reference for how to get the gene changes & other dragon-changing Specialty items.
 
-## [How to Gene Your Dragon]({%include url.html%}/ref/genes)
+- **[Glossary ]({%include url.html%}/ref/glossary)**
+	
+	Some good terms and abbreviations to know, used frequently both throughout this site and the FR community.
 
-A quick reference for how to get the gene changes & other dragon-changing Specialty items.
-
-## [Glossary ]({%include url.html%}/ref/glossary)
-Some good terms and abbreviations to know, used frequently both throughout this site and the FR community.
-
-## [Guides]({%include url.html%}/ref/guides)
-
-And other useful links, both on and off FR.
+- **[Guides]({%include url.html%}/ref/guides)**
+	
+	And other useful links, both on and off FR.

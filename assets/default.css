@@ -7,20 +7,20 @@ blockquote{margin-left:1em; color:#5c5c5c;}
 .tip{background:#f2f2f2; background:linear-gradient(#e5e5e5 0, #f2f2f2 3em); border-radius:1em; padding:.5em 1em; margin:2em 0 1.5em;} .tip h2{margin-top:.5em;} .protip{color:#e5e5e5; display:block; margin-top:-1.45em; pointer-events:none;}
 h2,h3,h4{margin:1em 0 .5rem;}
 h2{font-size:1.25em; line-height:1.15em;}
-h4{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-size:.85em; line-height:1.25em;}
+h4{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-size:.85em; line-height:1.25em;}
 hr{border:0; height:1px; background:#bfbfbf; width:75%; margin:1.5em auto;}
 ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main li{margin:.5em 0;} main li p{margin:.25em 0;} li>ol,li>ul{margin-top:-.15em; color:#5c5c5c;}
 .task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
 p{margin:.5rem 0;}
-.sc{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif;}
+.sc{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
-table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
+table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
 ::selection{background:rgba(189,179,156,.5);} .protip::selection{background:0;}
 
 #wrap{margin:0 auto; max-width:50em;}
 
 header{text-align:center; background:#731d08; padding:1.5rem .5rem;}
-#logo{display:block; color:#e8cc9f; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; padding-bottom:.5rem;} #logo:hover,#logo:focus{color:#fff;}
+#logo{display:block; color:#e8cc9f; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; padding-bottom:.5rem;} #logo:hover,#logo:focus{color:#fff;}
 h1{line-height:1em; color:#fff; font-size:2em;}
 
 #sitenav{text-align:center; font-weight:700;}
@@ -36,7 +36,7 @@ main ol,ul{line-height:1.25em;}
 .pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0; color:#5c5c5c; outline:0;}
 .pagenav ul{list-style-type:none; margin:0; line-height:1em;} .pagenav li{padding:.15em 0;}
 .pagenav li>ul{margin-top:.25em;}
-.pagenav li>ul>li{margin:0; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; font-weight:400;}
+.pagenav li>ul>li{margin:0; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-weight:400;}
 
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
@@ -48,24 +48,31 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .about-tmp main .pagenav ul{font-size:.95em;} .about-tmp main .pagenav li{font-size:1em; margin:.25em 0;}
 .about-tmp table del{opacity:.25;}
 
+.landing main ul{list-style-type:none; margin:0;}
+.landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
+
+.itemlist h2{margin-top:2em;} .itemlist h3{text-align:center; margin:0;}
+.itemlist table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .itemlist thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
+.itemlist th:first-child,.itemlist td:first-child{width:5em;}
+.itemlist th:last-child,.itemlist td:last-child{text-align:right;}
+.itemlist td:last-child{font-family:consolas,monospace; font-size:.85em;}
+.itemlist td:nth-child(2) a{font-weight:700;}
+.itemlist sub{text-align:center; margin:-1.5em auto 3.5em;}
+.redundant{opacity:0;}
+
 .fest main ul{font-weight:700;}
 .fest main li>ul{font-weight:400;}
 .fest main li>ul>li{margin-top:.25em;}
 
-.genes h2{margin-top:2em;} .genes h3{text-align:center; margin:0;}
-.genes sub{text-align:center; width:65%; margin:-2.5rem auto 3.5rem;}
-.genes table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .genes thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
-.genes th:first-child,.genes td:first-child{width:5em;}
-.genes th:last-child,.genes td:last-child{width:15%; text-align:right;}
-.genes table:nth-of-type(-n+6) td:last-child{font-family:consolas,monospace; font-size:.85em; text-align:right;}
-.genes td:nth-child(2) a{font-weight:700;}
+.notn table:nth-of-type(2) th:last-child,.notn table:nth-of-type(2) td:last-child{text-align:left; font-family:'alegreya sans','trebuchet ms',helvetica,sans-serif; font-size:1em;}
+
+.genes td:last-child{width:15%;}
 .genes table sub{margin:0;}
 .genes table:nth-of-type(n+7) th:last-child{text-align:left;}
-.genes table:nth-of-type(n+7) td{font-size:.85em;}
+.genes table:nth-of-type(n+7) td{font-size:.85em; font-family:'alegreya sans','trebuchet ms',sans-serif; line-height:1.25em;}
 .genes table:nth-of-type(n+7) td:last-child a{font-weight:400;}
 .genes table:nth-of-type(n+7) th:nth-child(2){width:1em;}
 .genes table:nth-of-type(n+7) td:last-child{text-align:left; width:65%;}
-.redundant{opacity:0;}
 
 #glossary{margin:2em auto;} #glossary thead{text-transform:lowercase;} #glossary th:first-child{text-align:right;} #glossary td:first-child{font-weight:700; text-align:right;}
 #glossary p{margin:0;} #glossary sub{margin:.5em 0 0;} #glossary sub p{margin:.5em 0;}
@@ -89,6 +96,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	main{background:#2a2b34;}
 	
 	.pagenav button{color:inherit;}
+	
+	.landing main li{background:#373846;}
 	.genes thead{background:#2a2b34;}
 }
 
@@ -119,10 +128,11 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.pagenav li>ul{margin:.15rem 0 0 1rem;}
 	.pagenav a{color:#731d08;} .pagenav a:hover{color:#b0734f;}
 
-	footer{width:77.5%; margin-left:22.5%; padding:1.5rem 0 1rem;} footer span{display:block;} footer p{margin-top:1rem; font-family:'alegreya sans sc',helvetica,'trebuchet ms',sans-serif; text-transform:lowercase;}
+	footer{width:77.5%; margin-left:22.5%; padding:1.5rem 0 1rem;} footer span{display:block;} footer p{margin-top:1rem; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; text-transform:lowercase;}
 	#top{display:none;}
 	
-	.genes table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
+	.itemlist table{font-size:1em; max-width:30rem; margin:0 auto 2em;}
+	.itemlist sub{width:75%;}
 	
 	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}

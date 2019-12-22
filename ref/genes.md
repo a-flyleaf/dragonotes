@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Gene Your Dragon
-class: genes
+class: itemlist genes
 ---
 Copied from the [Game Database](https://www1.flightrising.com/game-database/items/specialty), resorted by item type and with obtaining methods listed for quick reference.
 
@@ -269,5 +269,5 @@ item | trade
 
 - The following items are *extremely difficult* to obtain if you weren't present for initial release: [Imperial scrolls](https://www.kickstarter.com/projects/stormlightworkshop/flight-rising-0), [Scattersights](https://www1.flightrising.com/forums/ann/2452352), anything [clanbound](https://www1.flightrising.com/forums/help/2688565)
 	- [Galore](https://www1.flightrising.com/trading/gift) occasionally offers new clanbound items; if there's something new to pick up, you'll receive an alert.
-- [Nocturne scrolls](https://www1.flightrising.com/game-database/item/7692) and  [the Smirch tertiary](https://www1.flightrising.com/game-database/item/25153) cycle in every Night of the Nocturne, in late December & early January.
+- [Nocturne scrolls](https://www1.flightrising.com/game-database/item/7692) and  [the Smirch tertiary](https://www1.flightrising.com/game-database/item/25153) cycle in every [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn), in late December & early January.
 - You will rarely, if ever, see [maturity scrolls](https://www1.flightrising.com/game-database/item/573) or [cooldown boons](https://www1.flightrising.com/game-database/item/26086) in circulation. Barring first-day-breed-release bragging rights, you're better off saving the gems and waiting it out.
