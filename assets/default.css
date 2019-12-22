@@ -101,7 +101,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.pagenav button{color:inherit;}
 	
 	.landing main li{background:#373846;}
-	.genes thead{background:#2a2b34;}
+	
+	.itemlist thead{background:#2a2b34;}
 }
 
 @media only screen and (min-width:40em){
