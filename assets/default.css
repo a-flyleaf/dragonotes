@@ -41,8 +41,6 @@ main ol,ul{line-height:1.25em;}
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
 
-.task-list:nth-child(3)>li:nth-child(4)>ul,.task-list:nth-child(3)>li:nth-child(5)>ul{text-indent:0; margin-top:.15em;}
-
 .about-tmp table{font-size:.75em;}
 .about-tmp table td:first-child{font-weight:700;}
 .about-tmp sub{margin-top:-3em; font-size:.5em; padding-left:1em; opacity:.5;}
@@ -100,7 +98,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	header{padding:5rem 0 .5rem; text-align:left;}
 	#logo,h1{display:inline-block;}
 	#logo{width:22.5%; padding-left:1rem;}
-	h1{margin:0; line-height:1.25em; padding-left:2rem;}
+	h1{margin:0; line-height:1.25em; padding-left:2rem; width:77.5%;}
 	
 	#sitenav,main{display:inline-block; vertical-align:top;}
 	#sitenav{width:22.5%; text-align:left; font-size:1.25em;}

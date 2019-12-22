@@ -41,21 +41,16 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
 - [ ] [Reference]({%include url.html%}/ref)
-	- [ ] Festival item hub
-		- [ ] items
-		- [x] [skins]({%include url.html%}/ref/festival-skins)
-		- [ ] NotN
+	- [ ] Exclusive items
+		- [x] [Festival skins]({%include url.html%}/ref/festival-skins)
+		- [ ] Night of the Nocturne
+		- [ ] other (frniversary, valentine's, seasonal, microholidays, joxar, other cycling)
 	- [x] [Genes]({%include url.html%}/ref/genes)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
-	- TODO: tumblr archive (no links unless asks/reblog commentary)
-	- 12/10 site start! basic layout & page template
-	- 12/11 glossary
-	- 12/17 genelist, sitenav update & optional pagenav, credits
-	- 12/18 dark theme
-	- 12/19 fest skin list
-	- 12/21 guides
-	- bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
+	- [ ] actually customize the layout
+	- [ ] tumblr archive (no links unless asks/reblog commentary)
+	- [ ] bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
 	- also a logo would be cool... switch color scheme to dark as default? wow ~branding~
