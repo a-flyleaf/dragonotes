@@ -51,7 +51,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .landing main ul{list-style-type:none; margin:0;}
 .landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
 
-.itemlist h2{margin-top:2em;} .itemlist h3{text-align:center; margin:0;} .itemlist h4{text-align:center;}
+.itemlist h2{margin-top:2em;} .itemlist h3{text-align:center; margin:0;}
+.itemlist h4{text-align:center; font-family:'alegreya sans','trebuchet ms',helvetica,sans-serif; font-weight:400; font-style:italic; font-size:1em; opacity:.75;}
 .itemlist table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .itemlist thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .itemlist th:first-child,.itemlist td:first-child{width:5em;}
 .itemlist th:last-child,.itemlist td:last-child{text-align:right;}
@@ -69,6 +70,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .notn table:nth-of-type(n+4) td:last-child a,.genes table:nth-of-type(n+7) td:last-child a{font-weight:400;}
 .notn table:nth-of-type(n+4) th:nth-child(2),.genes table:nth-of-type(n+7) th:nth-child(2){width:1em;}
 .notn table:nth-of-type(n+4) td:last-child,.genes table:nth-of-type(n+7) td:last-child{text-align:left; width:65%;}
+
+.notn table:nth-of-type(7) tr:first-child td{line-height:1.5em;}
 
 .genes td:last-child{width:15%;}
 .genes table sub{margin:0;}

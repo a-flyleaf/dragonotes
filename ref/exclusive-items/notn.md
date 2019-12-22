@@ -5,7 +5,7 @@ class: itemlist notn
 ---
 **Night of the Nocturne** is an annual **two-week** event that features the release of several new apparel sets, familiars, and vistas, along with cycling in previous years' new items.
 
-The **fastest and easiest way** to get NotN gear is by grinding the Coliseum, which has a chance of dropping familiars (by venue) *and* Strange Chests. Chests have a random chance of dropping **any NotN item**, including [Nocturne eggs](https://www1.flightrising.com/game-database/item/7691), [Nocturne breed change scrolls](https://www1.flightrising.com/game-database/item/7692), and [the tertiary gene Smirch](https://www1.flightrising.com/game-database/item/25153). You can also get Chests through **Swipp**, **brewing**, and (random chance) **Gathering**.
+The **fastest and easiest way** to get NotN gear is by grinding the Coliseum, which has a chance of dropping familiars *and* Strange Chests. Chests have a random chance of dropping **any NotN item**, including [Nocturne eggs](https://www1.flightrising.com/game-database/item/7691), [Nocturne breed change scrolls](https://www1.flightrising.com/game-database/item/7692), and [the tertiary gene Smirch](https://www1.flightrising.com/game-database/item/25153). You can also get Chests through **Swipp**, **brewing**, and (random chance) **Gathering**.
 
 {%include tip.html txt="<p>Trading threads for the avid collectors often pop up on <a href='https://www1.flightrising.com/forums/ibaz'>the Items For Sale</a> board. Keep an eye on it for all your duplicate trading and/or liquidating needs!</p>"%}
 
@@ -154,6 +154,13 @@ chest | [Spectral Shroud](https://www1.flightrising.com/game-database/item/28820
 
 ### [Baldwin recipes](https://www1.flightrising.com/trading/baldwin/create)
 
+#### Strange Chests
+
+cost | lvl | ingredients
+--- | ---
+2,000T | 2 | x1 Copper Muck, x2 Yellow Sludge, x2 Yellow Goo, x2 Yellow Ooze, x12 [Mimic Powder](https://www1.flightrising.com/game-database/item/7689)
+3,000T | 3 | x1 Silver Muck, x1 Gold Muck, x1 Red Ooze, x1 Red Goo, x1 Red Sludge
+
 #### Apparel
 
 item | lvl | ingredients
@@ -186,7 +193,7 @@ item | lvl | ingredients
 [EE <b>Flightshroud</b>](https://www1.flightrising.com/game-database/item/32718) | 10 | x1 White Slime, x1 Red Sludge, x5 [Nocturne Puppet](https://www1.flightrising.com/game-database/item/7696)
 [EE <b>Forecallouses</b>](https://www1.flightrising.com/game-database/item/32723) | 10 | x1 Grey Slime, x1 Purple Ooze, x5 [Weathered Grimoire](https://www1.flightrising.com/game-database/item/15297)
 [EE <b>Grimplate</b>](https://www1.flightrising.com/game-database/item/32720) | 10 | x1 Black Slime, x1 Red Ooze, x5 [Crystal Ball](https://www1.flightrising.com/game-database/item/15294)
-[EE <b>Hindcallouses</b>](https://www1.flightrising.com/game-database/item/32722) | 10 | x1 Grey Slime, x2 Orange Goo, x5 [Flying Gurnad](https://www1.flightrising.com/game-database/item/15293)
+[EE <b>Hindcallouses</b>](https://www1.flightrising.com/game-database/item/32722) | 10 | x1 Grey Slime, x2 Orange Goo, x5 [Flying Gurnard](https://www1.flightrising.com/game-database/item/15293)
 [EE <b>Spikescarf</b>](https://www1.flightrising.com/game-database/item/32717) | 10 | x1 Grey Slime, x1 Purple Sludge, x5 [Leporidae Guise](https://www1.flightrising.com/game-database/item/15296)
 [EE <b>Tailspine</b>](https://www1.flightrising.com/game-database/item/32721) | 10 | x1 Grey Slime, x1 Purple Goo, x5 [Hourglass](https://www1.flightrising.com/game-database/item/15295)
 [EE <b>Tasset</b>](https://www1.flightrising.com/game-database/item/32719) | 10 | x1 Black Slime, x2 Orange Ooze, x5 [Night Flame](https://www1.flightrising.com/game-database/item/7695)
@@ -204,18 +211,17 @@ item | lvl | ingredients
 <b>[Melon Squirmscoot](https://www1.flightrising.com/game-database/item/28767)</b> | 4 | x1 Silver Muck, x5 Green Goo, x1 Yellow Sludge, x1 Glass Beaker
 <b>[Origami Steward](https://www1.flightrising.com/game-database/item/32682)</b> | 7 | x1 Silver Muck, x10 [Cuckoo](https://www1.flightrising.com/game-database/item/15290), x2 Green Sludge, x1 Glass Beaker
 <b>[Folded Friend](https://www1.flightrising.com/game-database/item/32683)</b> | 7 | x1 Gold Muck, x10 [Chameleon](https://www1.flightrising.com/game-database/item/7686), x2 Green Ooze, x1 Glass Beaker
-
-(familiars, vistas)
-clumpy circle = ooze
-beaker = sludge
-splat = goo
+[Vista: <b>Strange Chest</b>](https://www1.flightrising.com/game-database/item/20808/acquired-by) | 7 | x1 Black Slime, x1 White Slime, x4 Orange Goo, x1 Strange Chest
+[Vista: <b>Grimore</b>](https://www1.flightrising.com/game-database/item/25176) | 7 | x1 Copper Muck, x5 [Weathered Grimoire](https://www1.flightrising.com/game-database/item/15297), x1 Strange Chest
+[Vista: <b>Banshee Brooch</b>](https://www1.flightrising.com/game-database/item/32681) | 7 | x1 Copper Muck, x5 [Multi-Lens Magnifier](https://www1.flightrising.com/game-database/item/7693), x1 Strange Chest
 
 ### [Swipp materials](https://www1.flightrising.com/trading/swipp/catalog)
 
 item | trade
 --- | ---
-chests | ????
-vistas | ???
+<b>Strange Chest</b> (multiple versions) | x20 [Leporidae Guise](https://www1.flightrising.com/game-database/item/15296), x45 [Cuckoo](https://www1.flightrising.com/game-database/item/15290)<br/>x20 [Hourglass](https://www1.flightrising.com/game-database/item/15295), x45 [Giant Swallowtail Caterpillar](https://www1.flightrising.com/game-database/item/15291)<br/>x20 [Crystal Ball](https://www1.flightrising.com/game-database/item/15294), x45 [Flying Gurnard](https://www1.flightrising.com/game-database/item/15293)<br/>x18 [Mirror](https://www1.flightrising.com/game-database/item/7694), x42 [Leaf Insect](https://www1.flightrising.com/game-database/item/7685)<br/>x18 [Nocturne Puppet](https://www1.flightrising.com/game-database/item/7696), x42 [Living Stones](https://www1.flightrising.com/game-database/item/7687)<br/>x18 [Multi-Lens Magnifier](https://www1.flightrising.com/game-database/item/7693), x42 [Lakebottom Flounder](https://www1.flightrising.com/game-database/item/7688)<br/>x18 [Night Flame](https://www1.flightrising.com/game-database/item/7695), x42 [Chameleon](https://www1.flightrising.com/game-database/item/7686)<br/>x20 [Weathered Grimoire](https://www1.flightrising.com/game-database/item/15297), x45 [Bee Orchid](https://www1.flightrising.com/game-database/item/15292)
+[Vista: <b>Hourglass</b>](https://www1.flightrising.com/game-database/item/15295) | x2 Strange Chest, x20 Hourglass
+[Vista: <b>Living Stones</b>](https://www1.flightrising.com/game-database/item/25177) | x2 Strange Chest, x20 Living Stones
 
 ### Venue guide
 
