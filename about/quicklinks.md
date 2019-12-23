@@ -4,7 +4,7 @@ title: quicklinks
 ---
 Because I was tired of having it take up space in my bookmarks.
 
-**current outfit:** [Dusky Peacekeeping Headband](https://www1.flightrising.com/game-database/item/1550), [Learned Sage Shawl](https://www1.flightrising.com/game-database/item/23109), [Learned Sage Tassel](https://www1.flightrising.com/game-database/item/23111)
+**current outfit:** [Dusky Peacekeeping Headband](https://www1.flightrising.com/game-database/item/1550), [Learned Sage Shawl](https://www1.flightrising.com/game-database/item/23109)
 
 ## AH searches
 

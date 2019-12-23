@@ -42,8 +42,8 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Flight Reaping
 - [ ] [Reference]({%include url.html%}/ref)
 	- [ ] Exclusive items
-		- [x] [Festival skins]({%include url.html%}/ref/festival-skins)
-		- [x] Night of the Nocturne
+		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
+		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn)
 		- [ ] other (frniversary, valentine's, seasonal, microholidays, joxar, other cycling)
 	- [x] [Genes]({%include url.html%}/ref/genes)
 	- [x] [Glossary]({%include url.html%}/ref/guides)

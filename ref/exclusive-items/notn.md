@@ -5,7 +5,7 @@ class: itemlist notn
 ---
 **Night of the Nocturne** is an annual **two-week** event that features the release of several new apparel sets, familiars, and vistas, along with cycling in previous years' new items.
 
-The **fastest and easiest way** to get NotN gear is by grinding the Coliseum, which has a chance of dropping familiars *and* Strange Chests. Chests have a random chance of dropping **any NotN item**, including [Nocturne eggs](https://www1.flightrising.com/game-database/item/7691), [Nocturne breed change scrolls](https://www1.flightrising.com/game-database/item/7692), and [the tertiary gene Smirch](https://www1.flightrising.com/game-database/item/25153). You can also get Chests through **Swipp**, **brewing**, and (random chance) **Gathering**.
+The **fastest and easiest way** to get NotN gear is by grinding the Coliseum, which can drop familiars *and* Strange Chests. Chests have a random chance of dropping **any NotN item**, including [Nocturne eggs](https://www1.flightrising.com/game-database/item/7691), [Nocturne breed change scrolls](https://www1.flightrising.com/game-database/item/7692), and [the tertiary gene Smirch](https://www1.flightrising.com/game-database/item/25153). You can also get Chests through **Swipp**, **brewing**, and (random chance) **Gathering**.
 
 {%include tip.html txt="<p>Trading threads for the avid collectors often pop up on <a href='https://www1.flightrising.com/forums/ibaz'>the Items For Sale</a> board. Keep an eye on it for all your duplicate trading and/or liquidating needs!</p>"%}
 
