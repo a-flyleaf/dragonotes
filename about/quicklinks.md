@@ -4,7 +4,9 @@ title: quicklinks
 ---
 Because I was tired of having it take up space in my bookmarks.
 
-**current outfit:** [Dusky Peacekeeping Headband](https://www1.flightrising.com/game-database/item/1550), [Learned Sage Shawl](https://www1.flightrising.com/game-database/item/23109)
+**current outfit:** [Dusky Peacekeeping Headband](https://www1.flightrising.com/game-database/item/1550)
+
+[obsidian/strawberry xyx](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=168&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_desc&page=1)
 
 ## AH searches
 

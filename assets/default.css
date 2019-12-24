@@ -41,12 +41,10 @@ main ol,ul{line-height:1.25em;}
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
 
-.about-tmp table{font-size:.75em;}
-.about-tmp table td:first-child{font-weight:700;}
-.about-tmp sub{margin-top:-3em; font-size:.5em; padding-left:1em; opacity:.5;}
-.about-tmp main ul:nth-of-type(n+2){font-size:.85em;} .about-tmp main ul:nth-of-type(n+2) li{margin:.25em 0;}
-.about-tmp main .pagenav ul{font-size:.95em;} .about-tmp main .pagenav li{font-size:1em; margin:.25em 0;}
-.about-tmp table del{opacity:.25;}
+.goals ul del{opacity:.25;}
+.goals table{font-size:.75em;}
+.goals table:first-of-type td:nth-child(n+3){font-family:consolas,monospace; font-size:.85em; text-align:right;}
+.goals table:first-of-type th:nth-child(n+3),.goals table:first-of-type tr:last-child{text-align:right;}
 
 .landing main ul{list-style-type:none; margin:0;}
 .landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
