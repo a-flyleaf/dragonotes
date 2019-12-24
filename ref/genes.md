@@ -153,8 +153,8 @@ gems | [Shimmer](https://www1.flightrising.com/game-database/item/564) | 1,200g
 [baldwin](#baldwin-recipes) | <i>[Spinner (Banescale)](https://www1.flightrising.com/game-database/item/32546)</i> | 47,500T
 coli | <i>[Spirit (Gaoler)](https://www1.flightrising.com/game-database/item/30291)</i> | <span style="opacity:.5">luck</span>
 treasure | <i>[Streak (Gaoler)](https://www1.flightrising.com/game-database/item/30158)</i> | 68,000T
-treasure | [Striaton](https://www1.flightrising.com/game-database/item/24609) | 102,000T
-treasure | <i>[Striaton (Gaoler)](https://www1.flightrising.com/game-database/item/30215)</i> | 51,000T
+treasure | [Striation](https://www1.flightrising.com/game-database/item/24609) | 102,000T
+treasure | <i>[Striation (Gaoler)](https://www1.flightrising.com/game-database/item/30215)</i> | 51,000T
 treasure | [Stripes](https://www1.flightrising.com/game-database/item/565) | 76,500T
 treasure | <i>[Stripes (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=stripes+%28)</i> | 38,250T
 coli | <i>[Sugarplum (Banescale)](https://www1.flightrising.com/game-database/item/32549)</i> | <span style="opacity:.5">luck</span>
@@ -206,7 +206,7 @@ treasure | <i>[Smoke (Gaoler)](https://www1.flightrising.com/game-database/item/
 treasure | [Spines](https://www1.flightrising.com/game-database/item/7096) | 161,500T
 [swipp](#swipp-materials) | <i>[Squiggle (Banescale)](https://www1.flightrising.com/game-database/item/32554)</i> | <span style="opacity:.5">n/a</span>
 gems | [Stained](https://www1.flightrising.com/game-database/item/16004) | 1,200g
-treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 65,875T
+treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) | 155,000T
 treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 65,875T
 treasure | <i>[Trimmings (Banescale)](https://www1.flightrising.com/game-database/item/32551)</i> | 63,750T
 treasure | [Underbelly](https://www1.flightrising.com/game-database/item/1716) | 127,500T
@@ -235,7 +235,7 @@ item | lvl | ingredients
 --- | ---
 [Breed Change: <b>Bogsneak</b>](https://www1.flightrising.com/game-database/item/19565) | 16 | x2 [Imbued Sulfur](https://www1.flightrising.com/game-database/item/19446), x3 Grey Slime, x2 Gold Muck, x3 Copper Muck, x1 Blue Sludge
 [Vial of <b>Darkened Sight</b>](https://www1.flightrising.com/game-database/item/28069) | 21 | x2 Gold Muck, x2 Blue Sludge, x1 [Fine Alchemical Reduction](https://www1.flightrising.com/game-database/item/19445), x1 Reinforced Glass Beaker
-[Primary Gene: <b>Pinstripe</b>](https://www1.flightrising.com/game-database/item/25467) | 20 | x1 Imbued Sulfur, x1 Blue Sludge, x2 Copper Muck, x8 [Snail Husk](https://www1.flightrising.com/game-database/item/25316)
+[Primary Gene: <b>Pinstripe</b>](https://www1.flightrising.com/game-database/item/25467) | 20 | x1 Imbued Sulfur, x1 Blue Sludge, x2 Gold Muck, x8 [Snail Husk](https://www1.flightrising.com/game-database/item/25316)
 <i>[Primary Gene: <b>Pinstripe (Banescale)</b>](https://www1.flightrising.com/game-database/item/32525)</i> | 24 | x1 Imbued Sulfur, x2 Red Sludge, x1 Gold Muck, x4 Snail Husk
 <i>[Primary Gene: <b>Pinstripe (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30166)</i> | 22 | x1 Imbued Sulfur, x2 Purple Sludge, x1 Silver Muck, x4 Snail Husk
 [Primary Gene: <b>Poison</b>](https://www1.flightrising.com/game-database/item/14098) | 10 | x2 Siver Muck, x2 Black Slime, x1 Blue Ooze, x2 [Irradiated Alchemical Reduction](https://www1.flightrising.com/game-database/item/13084), x20 [Powerful Serthis Potion](https://www1.flightrising.com/game-database/item/6350)
