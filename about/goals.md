@@ -137,7 +137,7 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 - Bewitching Ruby: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, Ghastcrown
 - Fiendish Emerald: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, ~~Ghastcrown~~
 
-## breeding project hell
+## breeding projects
 
 ### not mine
 
