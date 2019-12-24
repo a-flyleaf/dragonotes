@@ -173,7 +173,7 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 --- | ---
 [zero](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=96&bodygene=15&breed=13&element=5&eyetype=0&gender=0&tert=3&tertgene=5&winggene=20&wings=117&auth=08248af07ab4c0c1794c1dae3b2600aac3427e59&dummyext=prev.png)\* | [SO CLOSE](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=96&d_wings=117&d_tert_range=2-131&nocollapse=1&collapse=1) | M | lightning | abyss | cerulean | orca
 [burning](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=48&bodygene=56&breed=18&element=11&eyetype=3&gender=1&tert=98&tertgene=48&winggene=56&wings=172&auth=bd8ba4947dd7fed4f97b643d99a8792f276d6b70&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=133-158&d_wings_range=84-105&d_tert_range=91-8&nocollapse=1&collapse=1) | F | fire | fire | sunset | *gloom*
-[capitalist](https://flightrising.com/dgen/preview/dragon?age=1&body=107&bodygene=24&breed=8&element=1&eyetype=7&gender=0&tert=4&tertgene=21&winggene=17&wings=124&auth=c53e7b0eaeb9c6dc5a6b417a1b993ef68b077dcf&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=107&d_wings=124&d_tert_range=4-97&nocollapse=1&collapse=1) | M | earth glowing | brick | tarnish | *platinum*
+[capitalist](https://flightrising.com/dgen/preview/dragon?age=1&body=107&bodygene=24&breed=8&element=1&eyetype=7&gender=0&tert=4&tertgene=21&winggene=17&wings=124&auth=c53e7b0eaeb9c6dc5a6b417a1b993ef68b077dcf&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=107&d_wings=124&d_tert_range=4-97&nocollapse=1&collapse=1), [mom2](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_breed=8&d_body=107&d_wings=124&d_tert_range=4-91&nocollapse=1&collapse=1) | M | earth glowing | brick | tarnish | *platinum*
 [bummer dude](https://flightrising.com/dgen/preview/dragon?age=1&body=7&bodygene=19&breed=14&element=5&eyetype=3&gender=0&tert=130&tertgene=6&winggene=17&wings=140&auth=c5b972f442911e48812b13e7413e09e664c44b39&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_wings=140&d_tert=130&d_body_range=146-70&nocollapse=1&collapse=1) | M | lightning *rare* | *charcoal* | metals | radioactive
 [rifraf](https://flightrising.com/dgen/preview/dragon?age=1&body=106&bodygene=6&breed=11&element=3&eyetype=1&gender=0&tert=6&tertgene=18&winggene=23&wings=121&auth=7753eefaff84b2f4b05a87209b406744aaf4d890&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=95-166&d_wings_range=59-107&d_tert_range=146-129&nocollapse=1&collapse=1) | M | wind common | clay | *sanguine* | grey
 [CYAN,](https://flightrising.com/dgen/preview/dragon?age=1&body=89&bodygene=11&breed=13&element=6&eyetype=0&gender=1&tert=60&tertgene=17&winggene=12&wings=126&auth=ded535da739bd7fbb451ec37383a3a6eb14a974f&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=89&d_tert=60&d_wings_range=22-89&nocollapse=1&collapse=1) | F | ice | cyan | overcast | blood
@@ -181,3 +181,27 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [rusty gears](https://flightrising.com/dgen/preview/dragon?age=1&body=94&bodygene=10&breed=11&element=5&eyetype=3&gender=1&tert=96&tertgene=18&winggene=21&wings=124&auth=483d30cd00f86e18e7df1217a5691d04e2d4a729&dummyext=prev.png) | [XYZ](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_body=57%2C94%2C140%2C124&d_wings=124%2C94%2C57%2C140&d_tert=96%2C176%2C151&d_element=5&d_pattern=XYZ&nocollapse=1&collapse=1), [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=94-57&d_wings_range=162-55&d_tert_range=96-27&nocollapse=1&collapse=1) | F | lightning | *rust* | *tarnish* | *abyss*
 [pepe silvia](https://flightrising.com/dgen/preview/dragon?age=1&body=139&bodygene=14&breed=4&element=8&eyetype=0&gender=0&tert=124&tertgene=20&winggene=15&wings=97&auth=daf9939dcc03eed27d957b7ca563cfc7c24e2980&dummyext=prev.png)\* | [exact](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=139&d_wings=97&d_tert=124&nocollapse=1&collapse=1) | M | light | flaxen | antique | tarnish
 [4](https://flightrising.com/dgen/preview/dragon?age=0&body=81&bodygene=11&breed=7&element=11&eyetype=0&gender=0&tert=79&tertgene=22&winggene=4&wings=59&auth=db76de9e8617e86a685d2000e14fd5f0290ebd81&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=101-134&d_wings_range=86-161&d_tert_range=34-79&nocollapse=1&collapse=1) | M | fire | hunter | *crimson* | *mantis*
+
+### ranges
+
+malware | 0 | 0 | 0
+pearlcatchers | 0 | **9** | 0
+seasky | 0 | **5** | **7**
+zero | 0 | **2** | **4**
+burning | **2** | **5** | **7**
+capitalist | 0 | 0 | **>10**
+bummer | **>10** | 0 | 0
+cyan | 0 | **>10** | 0
+nature | 0 | **5** | 0
+that guy\* | **3** | **4** | **2**
+4 | **8** | 0 | **3**
+01 | **9** | 0 | 0
+
+1. 0: malware (F MULTIGAZE... PLEASE....)
+1. 5: nature
+1. 6: zero
+1. 9: pearlcatchers, that guy (\*w/ Aidziam), 01
+1. 11: 4
+1. 12: seasky
+1. 14: burning
+1. \>10: capitalist, bummer, cyan
