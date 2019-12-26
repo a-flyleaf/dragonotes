@@ -99,10 +99,10 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 
 ## fest gear
 
-*familiars* in italics
+*familiars* in italics, see above for skins
 
-- have everything **2013**, **2014**, and **2016**
-	- exception: all sprites
+- **2013:** literally everything
+- **2014:** all apparel, sprites
 - **2015**
 	- **Crystalspine Gala:** Chillspike Collar, Frigid Sash
 	- **Trickmurk Circus:** Moonglow Thorns, Shady Sash
