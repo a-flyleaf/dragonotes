@@ -10,6 +10,7 @@ h2{font-size:1.25em; line-height:1.15em;}
 h4{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-size:.85em; line-height:1.25em;}
 hr{border:0; height:1px; background:#bfbfbf; width:75%; margin:1.5em auto;}
 ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main li{margin:.5em 0;} main li p{margin:.25em 0;} li>ol,li>ul{margin-top:-.15em; color:#5c5c5c;}
+.shortlist main li{margin:.25em 0;}
 .task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
 p{margin:.5rem 0;}
 .sc{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif;}
