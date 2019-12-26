@@ -79,6 +79,10 @@ Services that, despite activity being entirely up to one user, have been 1) acti
 - [Peixes' **color range generator**](http://fr.fintastic.net/)
 	
 	TL;DR of the color wheel: hatchling colors are randomized based on the parents' range. This lets you see them at a glance.
+
+- [Sylvandyr's **coliseum skills + enemy stats**](https://fir-fr-coli-skills.firebaseapp.com/)
+	
+	Displays some basic Coliseum enemy stats, most importantly including the minimum amount of STR needed for a knockout. For technical explanations, see [the forum guide](https://www1.flightrising.com/forums/gde/967048).
 	
 - [Akrona's **size comparison tool**](https://emcall.github.io/dragonsizes/)
 	
