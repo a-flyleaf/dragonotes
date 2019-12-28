@@ -18,12 +18,11 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
 	- [ ] goals (by priority)
-		- [ ] fest gear (minus skins) (SOMEONE already put this together)
+		- [x] fest gear (minus skins)
 		- [x] fest skins
 		- [x] scrolls/genes
 		- [ ] vistas
-		- [ ] breeding projects
-		- [ ] other familiars
+		- [x] breeding projects
 - [ ] Lore
 	- [ ] general notes
 	- [ ] dragon profiles
@@ -41,7 +40,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
 - [ ] [Reference]({%include url.html%}/ref)
-	- [ ] Exclusive items
+	- [ ] Exclusive items (main page for fest gear?)
 		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
 		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn)
 		- [ ] other (frniversary, valentine's, seasonal, microholidays, joxar, other cycling)
