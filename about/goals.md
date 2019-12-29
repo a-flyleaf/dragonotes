@@ -38,7 +38,7 @@ dragon | gene(s) | T | G
 
 *May* be willing to trade anything I have duplicates of (x#). Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
 
-Skins actually on dragons not included.
+Skins actually on dragons not included unless otherwise noted. Links to AH search.
 
 ### pre-joining
 
@@ -77,20 +77,19 @@ Skins actually on dragons not included.
 From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My **2015–2016** collection is **complete**\*, and for brevity's sake I'll only list what's necessary below.
 
 #### missing
-- **2015:** Glowing Contagion
+- **2015:** [Glowing Contagion](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Glowing+Contagion)
 	- \*yes, I have a copy on a dragon. yes, that means it's not in the vault and thus not *completing my collection.* whatzitooya
-- **2017:** Starfall Flowerfall, Galactic Watcher, Starwood blossom; Crystalhide
-- **2018:** Ethereal Phoenix; Opal Nebula, Arcanic Causatum
+- **2017:** [Starfall Flowerfall](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starfall+Flowerfall), [Galactic Watcher](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Galactic+Watcher), [Starwood blossom](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Starwood+blossom); [Crystalhide](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Crystalhide)
+- **2018:** [Ethereal Phoenix](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Ethereal+Phoenix); [Opal Nebula](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Opal+Nebula), [Arcanic Causatum](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Arcanic+Causatum)
 - **2019**
-	- **Crystalline Gala:** Frost Thruster, Ice Crystal, Snowdragon Sculpture, Fortress Guardian
-	- **Trickmurk Circus:** Masquerade Night, Wispwillow Spirit, Mushroom Prince, Stellae Umbrarum, Umbracourt Jester, Silhouette, Amalfoeti
-	- **Thundercrack Carnivale:** Mechanical Medical Myste, Biomechanic, Stormcatcher's Progeny, Storm Thrower, Cyan Exposure, All Systems Go
-	- **Flameforger's Festival:** Reign of Fire, Herald of Fire, Blazinoct, Love of Hottest Flames, Forge Flare
-	- **Starfall Celebration:** pulse, Starwood fairy, Mystic Regalia, Starcrossed Scholar, Stellar Sensation, Astral Hunter, Space Beast, Wings of Arcane, travel across, Gifts from Above
-	- **Riot of Rot:** Acidic Grave, Nice View, Low pH, Plaguespreader, Vermin, Just Like Mother
+	- **Crystalline Gala:** [Frost Thruster](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Frost+Thruster), [Ice Crystal](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Ice+Crystal), [Snowdragon Sculpture](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Snowdragon+Sculpture), [Fortress Guardian](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Fortress+Guardian)
+	- **Trickmurk Circus:** [Masquerade Night](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Masquerade+Night), [Wispwillow Spirit](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Wispwillow+Spirit), [Mushroom Prince](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Mushroom+Prince), [Stellae Umbrarum](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Stellae+Umbrarum), [Umbracourt Jester](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Umbracourt+Jester), [Silhouette](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Silhouette), [Amalfoeti](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Amalfoeti)
+	- **Thundercrack Carnivale:** [Mechanical Medical Myste](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Mechanical+Medical+Myste), [Biomechanic](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Biomechanic), [Stormcatcher's Progeny](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Stormcatcher%27s+Progeny), [Storm Thrower](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Storm+Thrower), [Cyan Exposure](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Cyan+Exposure), [All Systems Go](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+All+Systems+Go)
+	- **Flameforger's Festival:** [Reign of Fire](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Reign+of+Fire), [Herald of Fire](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Herald+of+Fire), [Blazinoct](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Blazinoct), [Love of Hottest Flames](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Love+of+Hottest+Flames)
+	- **Starfall Celebration:** [pulse](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+pulse), [Starwood fairy](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starwood+fairy), [Starcrossed Scholar](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Starcrossed+Scholar), [Stellar Sensation](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Stellar+Sensation), [Space Beast](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Space+Beast), [Wings of Arcane](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Wings+of+Arcane), [travel across](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+travel+across), [Gifts from Above](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Gifts+from+Above)
+	- **Riot of Rot:** [Acidic Grave](https://www1.flightrising.com/game-database/item/32045), [Nice View](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Nice+View), [Low pH](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Low+pH), [Plaguespreader](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Plaguespreader), [Vermin](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Vermin), [Just Like Mother](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Just+Like+Mother)
 
 #### duplicates
-
 - **2015:** Result of Science, Surge; Union of Decay, Rotrock Witch
 - **2016:** Glacial Warden (x2); Wispwillow Magician; Bamboo Queen; Pelagic Grotto, Shrieking Striker; Hydrone; Coalbound Coatl; Pillar of Ages
 - **2017**: Frostbitten Fugitive, Frigid Flight; Fallen Angel; It Rained Whole Day; Sol Seraph (x2), By Light Be Purged; Plasmatronicoatl, Bogsmog, Molten Vein (x2), Queen of Cinders
