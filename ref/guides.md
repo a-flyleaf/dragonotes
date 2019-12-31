@@ -40,6 +40,10 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 	
 	Widely-considered **required reading** for anyone looking to use the Coliseum, for lack of official guidance. Although (as of this writing) it hasn't been updated since 2017, a *vast* majority of the information is still up-to-date, and it contains the **simplest builds for farming and fodder grinding**. (What do those terms mean? *~Read to find out~*)
 
+- **[Image Assets](https://www1.flightrising.com/forums/gde/2135618)**
+	
+	Most if not all **official high-quality assets** used throughout the site, including Coliseum backgrounds, jigsaw puzzles, and other hard-to-find images.
+
 ## Useful threads
 - **[Adopt-a-Dragon](https://www1.flightrising.com/forums/drt/2157925)** & **[Free Dragon Hub](https://www1.flightrising.com/forums/drt/1841235)**
 
