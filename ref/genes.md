@@ -162,7 +162,7 @@ treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/ite
 [baldwin](#baldwin-recipes) | [Toxin](https://www1.flightrising.com/game-database/item/14099) | 100,000T
 [baldwin](#baldwin-recipes) | <i>[Toxin (Banescale)](https://www1.flightrising.com/game-database/item/32547) | 50,000T
 [baldwin](#baldwin-recipes) | [Trail](https://www1.flightrising.com/game-database/item/25468) | 100,000T
-[baldwin](#baldwin-recipes) | <i>[Trail (Gaoler)](https://www1.flightrising.com/game-database/item/30167)</i> | 50,000T
+[baldwin](#baldwin-recipes) | <i>[Trail (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=trail+%28)</i> | 50,000T
 
 ### Tertiary genes
 
@@ -249,6 +249,7 @@ item | lvl | ingredients
 [Secondary Gene: <b>Toxin</b>](https://www1.flightrising.com/game-database/item/14099) | 10 | x2 Gold Muck, x2 White slime, x1 Blue Sludge, x2 [Sizzling Phosphorus](https://www1.flightrising.com/game-database/item/10883), x20 [Unstable Serthis Collection](https://www1.flightrising.com/game-database/item/6351)
 <i>[Secondary Gene: <b>Toxin (Banescale)</b>](https://www1.flightrising.com/game-database/item/32547)</i> | 24 | x1 Gold Muck, x1 White Slime, x1 Blue Sludge, x1 Sizzling Phosphorus, x10 Unstable Serthis Collection
 [Secondary Gene: <b>Trail</b>](https://www1.flightrising.com/game-database/item/25468) | 20 | x1 Imbued Sulfur, x1 Blue Ooze, x2 Silver Muck, x8 [Seaside Trumpet](https://www1.flightrising.com/game-database/item/25315)
+<i>[Secondary Gene: <b>Trail (Banescale)</b>](https://www1.flightrising.com/game-database/item/32539)</i> | 24 | x1 Imbued Sulfur, x2 Red Ooze, x1 Silver Muck, x4 Seaside Trumpet
 <i>[Secondary Gene: <b>Trail (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30167)</i> | 22 | x1 Imbued Sulfur, x2 Purple Ooze, x1 Gold Muck, x4 Seaside Trumpet
 [Tertiary Gene: <b>Capsule</b>](https://www1.flightrising.com/game-database/item/23168) | 19 | x3 Silver Muck, x2 Grey Slime, x4 Orange Sludge, x3 Yellow Ooze, x1 Reinforced Glass Beaker
 <i>[Tertiary Gene: <b>Porcupine (Banescale)</b>](https://www1.flightrising.com/game-database/item/32561)</i> | 24 | x2 [Infused Fragment](https://www1.flightrising.com/game-database/item/15132), x2 Irradiated Alchemical Reduction, x1 Black Slime, x3 Red Sludge, x1 Reinforced Glass Beaker
