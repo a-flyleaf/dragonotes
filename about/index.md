@@ -2,6 +2,4 @@
 layout: default
 title: What’s an Archaeoraptor?
 ---
-I like dragons! I like code! I like menial repetitive tasks! I got tired of wrangling BBCode! So then this happened.
-
-Stuff will be written here eventually.
+Hiya, I'm Archaeoraptor and I like dragons, HTML/CSS, and menial repetitive tasks. I don't like wrangling BBCode or throwing everything onto dragon profiles. So here we are. The site's *far* from finished, but feel free to poke around!
