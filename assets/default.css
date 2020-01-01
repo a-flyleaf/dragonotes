@@ -82,9 +82,9 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 
 .vistas h2{margin-left:.25em;}
 .vistas table{margin-top:-2.15em; font-family:inherit;}
-.vistas td:first-child{width:8.5em; line-height:1.25em;}
+.vistas td:first-child{width:8.5em;}
 .vistas td:first-child a{font-weight:700;}
-.vistas table:nth-of-type(2) td:nth-child(3),.vistas table:nth-of-type(3) td:last-child{font-size:.85em;}
+.vistas table:nth-of-type(2) td:nth-child(3),.vistas table:nth-of-type(3) td:last-child{font-size:.85em; line-height:1.25em;}
 .vistas ol,ul{font-size:1em;}
 .vistas ol{list-style-type:none; margin:0; overflow:auto; text-align:center; font-weight:700;} .vistas ol li{width:50%; float:left;}
 .vistas #notable{height:1px; opacity:0;}
