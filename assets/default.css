@@ -88,6 +88,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .vistas ol,ul{font-size:1em;}
 .vistas ol{list-style-type:none; margin:0; overflow:auto; text-align:center; font-weight:700;} .vistas ol li{width:50%; float:left;}
 .vistas #notable{height:1px; opacity:0;}
+/*dummy edit to make the thing update*/
 
 @media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}
