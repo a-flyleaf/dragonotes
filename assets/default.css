@@ -46,6 +46,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .goals table{font-size:.75em;}
 .goals table:last-of-type{width:25%; float:left; margin:0 3em 1em 0;}
 .goals table:last-of-type td:nth-child(n+2){text-align:center;}
+.goals ul:last-of-type li{margin:.15em 0;}
 
 .landing main ul{list-style-type:none; margin:0;}
 .landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
@@ -69,7 +70,6 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .notn table:nth-of-type(n+4) td:last-child a,.genes table:nth-of-type(n+7) td:last-child a{font-weight:400;}
 .notn table:nth-of-type(n+4) th:nth-child(2),.genes table:nth-of-type(n+7) th:nth-child(2){width:1em;}
 .notn table:nth-of-type(n+4) td:last-child,.genes table:nth-of-type(n+7) td:last-child{text-align:left; width:65%;}
-
 .notn table:nth-of-type(n+7) tr:first-child td{line-height:1.5em;}
 .notn table:last-child td:first-child,.notn table:last-child td:last-child strong a{font-weight:700;}
 
@@ -79,6 +79,15 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 #glossary{margin:2em auto;} #glossary thead{text-transform:lowercase;} #glossary th:first-child{text-align:right;} #glossary td:first-child{font-weight:700; text-align:right;}
 #glossary p{margin:0;} #glossary sub{margin:.5em 0 0;} #glossary sub p{margin:.5em 0;}
 .rel a{font-weight:700;}
+
+.vistas h2{margin-left:.25em;}
+.vistas table{margin-top:-2.15em; font-family:inherit;}
+.vistas td:first-child{width:8.5em;}
+.vistas td:first-child a{font-weight:700;}
+.vistas table:nth-of-type(2) td:nth-child(3),.vistas table:nth-of-type(3) td:last-child{font-size:.85em;}
+.vistas ol,ul{font-size:1em;}
+.vistas ol{list-style-type:none; margin:0; overflow:auto; text-align:center; font-weight:700;} .vistas ol li{width:50%; float:left;}
+.vistas #notable{height:1px; opacity:0;}
 
 @media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}
@@ -121,7 +130,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	
 	main{width:77.5%; padding:1rem 2rem; padding-bottom:3em;}
 	
-	.pagenav{position:fixed; left:0; bottom:0; margin:0; width:22.5%; text-align:left; padding:0 1rem; background:#dcdc8;}
+	.pagenav{position:fixed; left:0; bottom:0; margin:0; width:22.5%; text-align:left; padding:0 1rem; background:#dcd6c8;}
 	.pagenav button{text-align:left; padding:.75em; line-height:.85em; text-indent:-.85em;}
 	.pagenav button:focus,.pagenav button:hover{color:inherit; cursor:pointer; color:#b0734f;}
 	.pagenav [data-expandable][aria-expanded="false"]::before{content: '▲'; font-size:.65em; vertical-align:middle; padding-right:.35em;}
@@ -138,6 +147,9 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.itemlist sub{width:75%;}
 	
 	.notn table:nth-of-type(n+4){max-width:40rem;}
+	.vistas h2{text-align:center; margin-left:0;}
+	.vistas table,.vistas ol{margin:0 auto; max-width:30rem;}
+	.vistas table td:first-child{width:10em;}
 	
 	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}

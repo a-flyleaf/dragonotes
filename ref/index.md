@@ -20,3 +20,7 @@ Useful stuff.
 - **[Guides]({%include url.html%}/ref/guides)**
 	
 	And other useful links, both on and off FR.
+
+- **[Vistas]({%include url.html%}/ref/vistas)**
+	
+	All the forum avatar decorations. All of them.

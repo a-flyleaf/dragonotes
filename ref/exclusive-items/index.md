@@ -3,8 +3,6 @@ layout: default
 title: Exclusive Items
 class: landing
 ---
-landing page… 2!
-
 - **[Festival Skins]({%include url.html%}/ref/exclusive-items/festival-skins)**
 	
 	All the skins. All of them. But as a plaintext list.

@@ -17,11 +17,11 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] dom badges
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
-	- [ ] goals (by priority)
+	- [x] goals (by priority)
 		- [x] fest gear (minus skins)
 		- [x] fest skins
 		- [x] scrolls/genes
-		- [ ] vistas
+		- [x] vistas
 		- [x] breeding projects
 - [ ] Lore
 	- [ ] general notes
@@ -47,6 +47,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [x] [Genes]({%include url.html%}/ref/genes)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
+	- [x] [Vistas]({%include url.html%}/ref/vistas)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- [ ] actually customize the layout
 	- [ ] tumblr archive (no links unless asks/reblog commentary)
