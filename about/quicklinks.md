@@ -4,6 +4,11 @@ title: quicklinks
 ---
 Because I was tired of having it take up space in my bookmarks.
 
+## outfit searches
+- nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
+- siren sylvan [anklets](https://www1.flightrising.com/game-database/item/15695), [filigree](https://www1.flightrising.com/game-database/item/15728), [twist](https://www1.flightrising.com/game-database/item/15736)
+- [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
+
 ## AH searches
 
 - **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1) / [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc)

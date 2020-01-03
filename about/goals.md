@@ -17,11 +17,11 @@ dragon | breed/other | primary | secondary | tertiary
 [Exuberant](https://flightrising.com/main.php?dragon=30271918) | spiral | starmap | alloy | opal
 [shadowbane](https://flightrising.com/main.php?dragon=57362847) | | chevron | trail | wraith
 [magentaguard](https://flightrising.com/main.php?dragon=3474932) | banescale | ragged | arrow | ???
-[Holly](https://flightrising.com/main.php?dragon=57441139) | | skink\* | toxin\* | ghost
-[earthbane](https://flightrising.com/main.php?dragon=57625604) | ~~swirl~~ | chevron | toxin\* | plumage
+[earthbane](https://flightrising.com/main.php?dragon=57625604) | ~~swirl~~ | chevron | toxin\* | plumage?
 [waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | arrow | fans
-[firebane](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
-[newnoc](https://flightrising.com/main.php?dragon=57992771) | | leopard | current | peacock
+[SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
+[Toxic](https://flightrising.com/main.php?dragon=57992771) | | leopard | current | peacock
+[windbane](https://flightrising.com/main.php?dragon=57539357) | | ragged | trail | fans
 ["Beat"](https://flightrising.com/main.php?dragon=50340433) | permabab, mirror | piebald | trail\* | crackle
 [Serena](https://flightrising.com/main.php?dragon=51317268) | mirror | falcon | trail\* | opal
 ["Shadow"](https://flightrising.com/main.php?dragon=56514106) | | slime\* | sludge\* | stained?
@@ -73,7 +73,7 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 
 #### missing
 - **2015:** [Glowing Contagion](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Glowing+Contagion)
-- **2017:** [Starfall Flowerfall](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starfall+Flowerfall), [Galactic Watcher](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Galactic+Watcher), [Starwood blossom](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Starwood+blossom); [Crystalhide](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Crystalhide)
+- **2017:** [Twilight Brambles](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Twilight+Brambles), [Starfall Flowerfall](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starfall+Flowerfall), [Galactic Watcher](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Galactic+Watcher), [Starwood blossom](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Starwood+blossom); [Crystalhide](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Crystalhide)
 - **2018:** [Ethereal Phoenix](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Ethereal+Phoenix); [Opal Nebula](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Opal+Nebula), [Arcanic Causatum](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Arcanic+Causatum)
 - **2019**
 	- **Crystalline Gala:** [Frost Thruster](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Frost+Thruster), [Ice Crystal](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Ice+Crystal), [Snowdragon Sculpture](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Snowdragon+Sculpture), [Fortress Guardian](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Fortress+Guardian)
@@ -138,7 +138,7 @@ Only listing the ones I don't have. Bullet points by priority. (Baldwin isn't mi
 
 - **fest/other** [Icewarden](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Vista%3A+Icewarden), ~~3rd Anniversary, NotN, festivals, deities except Icewarden,~~ Sticker Star
 - **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
-- **swipp:** ~~Foxfire Grove,~~ Fungi, ~~Hourglass, Living Stones, Ribbons and Bows,~~ Stagcrest, Swan Lake, Swap Stand, Succulents
+- **swipp:** ~~Foxfire Grove,~~ Fungi, ~~Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake, Swap Stand, Succulents
 - **treasure:**
 - **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, Harpy’s Roost, ~~Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~
 
