@@ -6,7 +6,7 @@ Because I was tired of having it take up space in my bookmarks.
 
 ## outfit searches
 - nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
-- siren sylvan [anklets](https://www1.flightrising.com/game-database/item/15695), [filigree](https://www1.flightrising.com/game-database/item/15728), [twist](https://www1.flightrising.com/game-database/item/15736)
+- [siren sylvan twist](https://www1.flightrising.com/game-database/item/15736)
 - [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
 
 ## AH searches
