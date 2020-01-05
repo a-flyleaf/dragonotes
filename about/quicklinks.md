@@ -15,3 +15,12 @@ Because I was tired of having it take up space in my bookmarks.
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
+
+## gathering
+
+- hunting: shadow/arcane
+- **fishing: earth/ice/light/nature**
+- insect catching: earth/water/lightning/ice/shadow/light/nature
+- foraging: earth/ice/light
+- **digging: water**
+- scavenging: ice/shadow
