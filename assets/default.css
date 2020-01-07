@@ -7,21 +7,22 @@ blockquote{margin-left:1em; color:#5c5c5c;}
 .tip{background:#f2f2f2; background:linear-gradient(#e5e5e5 0, #f2f2f2 3em); border-radius:1em; padding:.5em 1em; margin:2em 0 1.5em;} .tip h2{margin-top:.5em;} .protip{color:#e5e5e5; display:block; margin-top:-1.45em; pointer-events:none;}
 h2,h3,h4{margin:1em 0 .5rem;}
 h2{font-size:1.25em; line-height:1.15em;}
-h4{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-size:.85em; line-height:1.25em;}
+h4{font-size:.85em; line-height:1.25em;}
 hr{border:0; height:1px; background:#bfbfbf; width:75%; margin:1.5em auto;}
+img{max-width:100%; height:auto;}
 ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main li{margin:.5em 0;} main li p{margin:.25em 0;} li>ol,li>ul{margin-top:-.15em; color:#5c5c5c;}
 .shortlist main li{margin:.25em 0;}
 .task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
 p{margin:.5rem 0;}
-.sc{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif;}
+.sc,h4,th,#logo,.pagenav li>ul>li,.profile tbody td:first-child{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; text-transform:lowercase;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
-table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
+table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
 ::selection{background:rgba(189,179,156,.5);} .protip::selection{background:0;}
 
 #wrap{margin:0 auto; max-width:50em;}
 
 header{text-align:center; background:#731d08; padding:1.5rem .5rem;}
-#logo{display:block; color:#e8cc9f; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; padding-bottom:.5rem;} #logo:hover,#logo:focus{color:#fff;}
+#logo{display:block; color:#e8cc9f; padding-bottom:.5rem; text-transform:none;} #logo:hover,#logo:focus{color:#fff;}
 h1{line-height:1em; color:#fff; font-size:2em;}
 
 #sitenav{text-align:center; font-weight:700;}
@@ -37,7 +38,7 @@ main ol,ul{line-height:1.25em;}
 .pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0; color:#5c5c5c; outline:0;}
 .pagenav ul{list-style-type:none; margin:0; line-height:1em;} .pagenav li{padding:.15em 0;}
 .pagenav li>ul{margin-top:.25em;}
-.pagenav li>ul>li{margin:0; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-weight:400; text-transform:lowercase;}
+.pagenav li>ul>li{margin:0; font-weight:400;}
 
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
@@ -52,7 +53,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
 
 .itemlist h2{margin-top:2em;} .itemlist h3{text-align:center; margin:0;}
-.itemlist h4{text-align:center; font-family:'alegreya sans','trebuchet ms',helvetica,sans-serif; font-weight:400; font-style:italic; font-size:1em; opacity:.75;}
+.itemlist h4{text-align:center; font-weight:400; font-style:italic; font-size:1em; opacity:.75;}
 .itemlist table{margin:0 0 3em 0; font-size:.75em; font-size:4vw;} .itemlist thead{position:sticky; top:0; background:#fff; padding-top:.5em; z-index:100;}
 .itemlist th:first-child,.itemlist td:first-child{width:5em;}
 .itemlist th:last-child,.itemlist td:last-child{text-align:right;}
@@ -88,6 +89,21 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .vistas ol,ul{font-size:1em;}
 .vistas ol{list-style-type:none; margin:0; overflow:auto; text-align:center; font-weight:700;} .vistas ol li{width:50%; float:left;}
 .vistas #notable{height:1px; opacity:0;}
+
+.profile figure,.profile h2{text-align:center;}
+.profile table{background:#eee; display:block; padding:.5em; border-radius:1em; max-width:15em; margin:3em auto 0;}
+.profile thead,.profile thead tr,.profile thead tr td,.profile tbody{display:block; width:100%;}
+.profile table h2,.profile h3{margin:0; line-height:0;}
+.profile tr{background:0 !important;}
+.profile tbody td:first-child{font-weight:700; text-align:right;}
+.profile table h2{margin-top:-.85em; font-size:3em; line-height:0;}
+.profile #stats{margin:-1em 0 -.35em .5em;}
+.profile table ul{list-style-type:none; margin:0;} .profile table li{padding:0; width:50%; display:inline-block; font-family:consolas,monospace; line-height:0; font-size:.85em;}
+.profile h3{font-size:1.25em; margin:.75em 0 .5em; text-align:center;}
+.profile #size,.profile #genes{margin:.5em auto;}
+.profile #size{margin-left:.4em;}
+.profile #size td,.profile #genes td{padding:.15em .5em;}
+.profile section h2{font-size:2em;}
 
 @media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}
@@ -151,6 +167,12 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.vistas table,.vistas ol{margin:0 auto; max-width:30rem;}
 	.vistas table td:first-child{width:10em;}
 	
+	#profile{text-align:center;}
+	.profile figure,.profile table{width:49%; display:inline-block; vertical-align:middle;}
+	.profile table{margin-top:0; font-size:.75em; font-size:2vw; margin-left:4%; text-align:left;}
+	.profile table h2{display:none;}
+	.profile section h2{font-size:1.5em; margin-top:.5em;}
+	
 	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}
 		.pagenav button:focus,.pagenav button:hover{color:#aec8ff;}
@@ -164,4 +186,6 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.pagenav{width:11.15em; left:auto; right:auto; margin-left:-16rem;}
 	
 	#glossary{width:75%;}
+	
+	.profile table{font-size:1em;}
 }
