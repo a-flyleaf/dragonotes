@@ -17,8 +17,8 @@ dragon | breed/other | primary | secondary | tertiary
 [Exuberant](https://flightrising.com/main.php?dragon=30271918) | spiral | starmap | alloy | opal
 [shadowbane](https://flightrising.com/main.php?dragon=57362847) | | chevron | trail | wraith
 [magentaguard](https://flightrising.com/main.php?dragon=3474932) | banescale | ragged | arrow | ???
-[earthbane](https://flightrising.com/main.php?dragon=57625604) | ~~swirl~~ | chevron | toxin\* | plumage?
-[waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | arrow | fans
+[earthbane](https://flightrising.com/main.php?dragon=57625604) | | chevron | toxin\* | plumage?
+[waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | alloy | fans
 [SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
 [Toxic](https://flightrising.com/main.php?dragon=57992771) | | leopard | current | peacock
 [windbane](https://flightrising.com/main.php?dragon=57539357) | | ragged | trail | fans
@@ -128,6 +128,7 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 - Witty Jester's: Cap, Tail Bell, Gloves, Cape, Collar, Wing Cover, Stockings
 - Bewitching Ruby: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, Ghastcrown
 - Fiendish Emerald: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, ~~Ghastcrown~~
+- Unearthly Onyx Grasp
 - Tar-Trap: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
 - Dread Dancer: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
 - Voidflow: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
@@ -148,16 +149,6 @@ Only listing the ones I don't have. Bullet points by priority. (Baldwin isn't mi
 
 scry | search | m/f | eyes | primary | secondary | tertiary
 --- | ---
-??? | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?currency=0&d_gender=1&d_body=2&d_tert=89&d_wings_range=73-2&nocollapse=1&collapse=1) | [?](https://flightrising.com/main.php?p=lair&tab=userpage&id=373015) | lightning | white | pink | cyan
-[Dani](https://cdn.discordapp.com/attachments/351871720862253078/556690760410333195/Screenshot_20190316-235955_Chrome.jpg) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=66&wings=130&tert=96&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F | wind common | pink | radioactive | abyss
-[Laz](https://cdn.discordapp.com/attachments/351871720862253078/556690842367164416/Screenshot_20190317-001010_Chrome.jpg) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=36&wings=126&tert=95&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | shadow rare | swamp | overcast | taupe
-[Comet]() | | M | eyes | 1 | 2 | 3
-[Chase]() | | M | earth? | 1 | 2 | 3
-[Callie](https://i.imgur.com/MHebQ6p.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=11&wings=66&tert=10&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F | light | midnight | pink | obsidian
-[Marie](https://i.imgur.com/KaOTAfs.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=11&wings=39&tert=10&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F | light | obsidian | leaf | midnight
-[Miku](https://media.discordapp.net/attachments/351871720862253078/575753541885493248/dragon.png) | [primal F](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_element=5&d_eye=6&nocollapse=1&collapse=1) | F | lightning primal | orca | robin? | cyan
-[Zim](https://www1.flightrising.com/scrying/predict?morph=163137) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=79&wings=170&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | arcane faceted | mantis | fuchsia | fuchsia
-[Dib](https://www1.flightrising.com/scrying/predict?morph=163148) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=96&wings=24&tert=23&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | ice common | abyss | stonewash | sky
 ??? | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=168&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_desc&page=1) | ? | plague $smthnCool | obsidian | strawberry | obsidian
 [eldritch](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=96&bodygene=23&breed=3&element=11&eyetype=0&gender=1&tert=96&tertgene=15&winggene=23&wings=75&auth=75170e1bd8ece0b64055bca736b02aec6b4a531d&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=126-28&d_wings_range=167-172&d_tert_range=126-28&collapse=1), [mate](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_tert=96&d_body_range=96-28&d_wings_range=75-84&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=96&wings=75&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F |  fire | abyss | marigold | abyss
 [seasky](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=148&bodygene=23&breed=2&element=4&eyetype=0&gender=0&tert=104&tertgene=38&winggene=42&wings=23&auth=0d39e0b58922a486c945ce9166907b01693cdf74&dummyext=prev.png) | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=148&d_wings_range=22-24&d_tert_range=104-167&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=148&wings=23&tert=104&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | water | lapis | sky | yellow
@@ -187,8 +178,7 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 
 ### ranges
 
-malware | 0 | 0 | 0
-pearlcatchers | 0 | **9** | 0
+strawberry | 0 | 0 | 0
 seasky | 0 | **5** | **7**
 burning | **2** | **5** | **7**
 capitalist | 0 | 0 | **>10**
@@ -198,8 +188,8 @@ that guy\* | **3** | **4** | **2**
 4 | **8** | 0 | **3**
 01 | **9** | 0 | 0
 
-1. 0: malware (F MULTIGAZE... PLEASE....)
-1. 9: pearlcatchers, that guy (\*w/ Aidziam), 01
+1. 0: strawberry (eyes though)
+1. 9: that guy (\*w/ Aidziam), 01
 1. 11: 4
 1. 12: seasky
 1. 14: burning
