@@ -37,7 +37,7 @@ main ol,ul{line-height:1.25em;}
 .pagenav button{display:block; border:0; background:0; font-family:inherit; font-weight:700; width:100%; padding:.25em 0; color:#5c5c5c; outline:0;}
 .pagenav ul{list-style-type:none; margin:0; line-height:1em;} .pagenav li{padding:.15em 0;}
 .pagenav li>ul{margin-top:.25em;}
-.pagenav li>ul>li{margin:0; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-weight:400;}
+.pagenav li>ul>li{margin:0; font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; font-weight:400; text-transform:lowercase;}
 
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
