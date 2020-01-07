@@ -91,7 +91,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .vistas #notable{height:1px; opacity:0;}
 
 .profile figure,.profile h2{text-align:center;}
-.profile table{background:#eee; display:block; padding:.5em; border-radius:1em; max-width:15em; margin:3em auto 0;}
+.profile table{background:#f2f2f2; display:block; padding:.5em; border-radius:1em; max-width:15em; margin:3em auto 0;}
 .profile thead,.profile thead tr,.profile thead tr td,.profile tbody{display:block; width:100%;}
 .profile table h2,.profile h3{margin:0; line-height:0;}
 .profile tr{background:0 !important;}
@@ -127,6 +127,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.landing main li{background:#373846;}
 	
 	.itemlist thead{background:#2a2b34;}
+	
+	.profile table{background:#373846;}
 }
 
 @media only screen and (min-width:40em){
