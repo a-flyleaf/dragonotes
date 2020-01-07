@@ -1,12 +1,11 @@
 ---
 layout: default
-title: quicklinks
+title: quicklinks & other notes
 ---
 Because I was tired of having it take up space in my bookmarks.
 
 ## outfit searches
 - nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
-- [siren sylvan twist](https://www1.flightrising.com/game-database/item/15736)
 - [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
 
 ## AH searches
@@ -18,9 +17,9 @@ Because I was tired of having it take up space in my bookmarks.
 
 ## gathering
 
-- hunting: shadow/arcane
+- **hunting: shadow/arcane**
 - **fishing: earth/ice/light/nature**
-- insect catching: earth/water/lightning/ice/shadow/light/nature
+- **insect catching: ice/shadow/light/nature**
 - foraging: earth/ice/light
 - **digging: water**
 - scavenging: ice/shadow
