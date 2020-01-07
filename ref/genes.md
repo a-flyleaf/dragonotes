@@ -175,7 +175,7 @@ treasure | [Contour](https://www1.flightrising.com/game-database/item/17664) | 1
 treasure | <i>[Contour (Banescale)](https://www1.flightrising.com/game-database/item/32558)</i> | 63,750T
 treasure | [Crackle](https://www1.flightrising.com/game-database/item/2216) | 161,500T
 treasure | <i>[Crackle (Banescale)](https://www1.flightrising.com/game-database/item/32562)</i> | 80,750T
-gems | <i>[Fans (Banescale)](https://www1.flightrising.com/game-database/item/32553)</i> | 500g
+gems | <i>[Fans (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=fans+%28)</i> | 500g
 gems | [Filigree](https://www1.flightrising.com/game-database/item/26117) | 1,200g
 gems | <i>[Filigree (Banescale)](https://www1.flightrising.com/game-database/item/32555)</i> | 500g
 [swipp](#swipp-materials) | [Firefly](https://www1.flightrising.com/game-database/item/26606) | <span style="opacity:.5">n/a</span>
@@ -210,7 +210,7 @@ treasure | [Thylacine](https://www1.flightrising.com/game-database/item/15573) |
 treasure | <i>[Thylacine (Gaoler)](https://www1.flightrising.com/game-database/item/30168)</i> | 65,875T
 treasure | <i>[Trimmings (Banescale)](https://www1.flightrising.com/game-database/item/32551)</i> | 63,750T
 treasure | [Underbelly](https://www1.flightrising.com/game-database/item/1716) | 127,500T
-treasure | <i>[Underbelly (Gaoler)](https://www1.flightrising.com/game-database/item/30172) | 63,750T
+treasure | <i>[Underbelly (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=underbelly+%28) | 63,750T
 [baldwin](#baldwin-recipes) | [Veined](https://www1.flightrising.com/game-database/item/32216) | 100,000T
 [baldwin](#baldwin-recipes) | <i>[Veined (Gaoler)](https://www1.flightrising.com/game-database/item/32215) | 50,000T
 coli | <i>[Weathered (Gaoler)](https://www1.flightrising.com/game-database/item/30292)</i> | <span style="opacity:.5">luck</span>
