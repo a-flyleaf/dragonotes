@@ -16,7 +16,7 @@ ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main 
 p{margin:.5rem 0;}
 .sc,h4,th,#logo,.pagenav li>ul>li,.profile tbody td:first-child{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; text-transform:lowercase;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
-table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
+table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd),#dragolist tbody:nth-child(even){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
 ::selection{background:rgba(189,179,156,.5);} .protip::selection{background:0;}
 
 #wrap{margin:0 auto; max-width:50em;}
@@ -42,6 +42,15 @@ main ol,ul{line-height:1.25em;}
 
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
+
+.ql table del,.ql table s{opacity:.35; text-decoration:none;}
+.ql table{font-size:.75em; margin:0 auto;}
+#dragolist{max-width:25em;}
+#dragolist tr{background:0;}
+#dragolist th:last-child,#dragolist td:last-child{font-family:inherit; padding-left:.75em;}
+#dragolist td{font-family:consolas,monospace; padding:.1em .25em;}
+#dragolist span{margin-left:-.5em;}
+#dragolist tbody tr:first-child td{padding-top:.25em;} #dragolist tbody tr:last-child{padding-bottom:.25em;}
 
 .goals ul del{opacity:.25;}
 .goals table{font-size:.75em;}
@@ -113,7 +122,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	hr{background:#5e5e67;}
 	li>ul,li>ol{color:#9494a9;}
 	.task-list input{filter:invert(65%) contrast(200%);}
-	table{color:inherit;} tbody tr:nth-child(odd){background:#1d1e25;}
+	table{color:inherit;} tbody tr:nth-child(odd),#dragolist tbody:nth-child(even){background:#1d1e25;}
 	::selection{background:rgba(0,0,0,.5);}
 	
 	header{background:#35394b;}

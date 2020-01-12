@@ -1,8 +1,9 @@
 ---
 layout: default
 title: quicklinks & other notes
+class: ql
 ---
-Because I was tired of having it take up space in my bookmarks.
+miscellaneous stuff for my own reference
 
 ## outfit searches
 - nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
@@ -23,3 +24,91 @@ Because I was tired of having it take up space in my bookmarks.
 - foraging: earth/ice/light
 - **digging: water**
 - scavenging: ice/shadow
+
+## fest haul
+
+- **~570kT** (490kT skins + 80kT crate)
+- x190 fest currency
+- x3 tokens (crate + baldwin)
+
+## tracking
+
+should have its own about/ page eventually
+
+- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/562#post_41749126)
+	- later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206)
+- badge tracker: [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
+
+### coli fams
+
+~~Training Fields~~ | ~~✓~~
+~~Woodland Path~~ | ~~✓~~
+~~Scorched Forest~~ | ~~✓~~
+~~Sandswept Delta~~ | ~~✓~~
+Blooming Grove | <u>Mossy Pohip</u>, Maned Cerdae
+~~Forgotten Cave~~ | ~~✓~~
+~~Bamboo Falls~~ | ~~✓~~
+Thunderhead Savanna | Coursing Skira
+Redrock Cove | **Deeprealm Hunter, Highfin Sea Serpent, <u>Spiney Whale</u>, Redfin Wavespinner, Maren Sorceress**
+Waterway | Blueridge Greatshell, Sewer Toridae
+Arena | <u>Undying Featherback</u>, Armored Greatowl, Greenwing Razorclaw
+Volcanic Vents | **Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
+Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>, Hippocampus, Deadwood Boar
+Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
+Crystal Pools | <u>Hawksbill Gloatih</u>
+Harpy's Roost | **Cardinal Hippogriff, <u>Roc</u>**
+Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
+Mire | <u>Molten Wartoad</u>
+Golem Workshop | **<u>Frost Delver</u>, Mistral Minion, Swift Volt**
+~~Kelp Beds~~ | ~~✓~~
+
+### dragon order
+
+<table id="dragolist">
+	<thead class="x"><tr><th>YYYY</th><th>MM</th><th>DD</th><th>dragon(s)</th></tr></thead>
+	<tbody>
+		<tr><td rowspan="8">2015</td><td>04</td><td>08</td><td><s>Maelstrom, Lapilli, Altostatus, Solar</s></td></tr>
+		<tr><td>05</td><td>25</td><td><s>Pestilence, Drosera, Schism</s></td></tr>
+		<tr><td rowspan="2">07</td><td>??</td><td><s>Fern</s></td></tr>
+		<tr><td>28</td><td>Skiptrace</td></tr>
+		<tr><td rowspan="3">08</td><td>04</td><td><s>Delphi</s></td></tr>
+		<tr><td>21</td><td>Riviniana</td></tr>
+		<tr><td><span><27</span></td><td><s>Notturno</s></td></tr>
+	</tbody>
+	<tbody>
+		<tr><td rowspan="5">2016</td><td>01</td><td>14</td><td>Gizmo</td></tr>
+		<tr><td>02</td><td>05</td><td><s>Galena</s></td></tr>
+		<tr><td><span><08</span></td><td>??</td><td><s>Rothide</s></td></tr>
+		<tr><td>09</td><td>??</td><td><s>Avi</s></td></tr>
+		<tr><td>11</td><td>03</td><td><s>Soleil</s></td></tr>
+	</tbody>
+	<tbody>
+		<tr><td rowspan="3">2017</td><td>04</td><td>18</td><td><s>Eavn</s></td></tr>
+		<tr><td>08</td><td>30</td><td><s>Azrael & Zara</s></td></tr>
+		<tr><td>09</td><td><span><04</span></td><td><s>Kieran</s></td></tr>
+	</tbody>
+	<tbody><tr><td>????</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
+	<tbody>
+		<tr><td rowspan="4">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
+		<tr><td>16</td><td><s>Midst</s></td></tr>
+		<tr><td>04</td><td>22</td><td><s>Augustus</s></td></tr>
+		<tr><td>11</td><td>19</td><td>Exuberant</td></tr>
+	</tbody>
+	<tbody>
+		<tr><td rowspan="10">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
+		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
+		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
+		<tr><td>25</td><td>Crake</td></tr>
+		<tr><td rowspan="6">12</td><td>09</td><td>shadowbane, naturebane<s>, Hestia</s></td></tr>
+		<tr><td>11</td><td><s>Holly</s></td></tr>
+		<tr><td>16</td><td>earthbane, waterbane, SerriBaneProg</td></tr>
+		<tr><td>18</td><td><s>Jester</s></td></tr>
+		<tr><td>23</td><td>daevauscale</td></tr>
+		<tr><td>27</td><td>stormynoc</td></tr>
+	</tbody>
+	<tbody>
+		<tr><td rowspan="3">2020</td><td rowspan="3">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
+		<tr><td>11</td><td>Cave</td></tr>
+	</tbody>
+</table>
