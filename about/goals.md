@@ -13,15 +13,6 @@ KEY: baldwin\* ~~coli~~ *swipp*
 
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
-[Soleil](https://flightrising.com/main.php?dragon=28210287) | | sludge\*
-[Exuberant](https://flightrising.com/main.php?dragon=30271918) | spiral | starmap | alloy | opal
-[shadowbane](https://flightrising.com/main.php?dragon=57362847) | | chevron | trail | wraith
-[magentaguard](https://flightrising.com/main.php?dragon=3474932) | banescale | ragged | arrow | ???
-[earthbane](https://flightrising.com/main.php?dragon=57625604) | | chevron | toxin\* | plumage?
-[waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | alloy | fans
-[SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
-[Toxic](https://flightrising.com/main.php?dragon=57992771) | | leopard | current | peacock
-[windbane](https://flightrising.com/main.php?dragon=57539357) | | ragged | trail | fans
 ["Beat"](https://flightrising.com/main.php?dragon=50340433) | permabab, mirror | piebald | trail\* | crackle
 [Serena](https://flightrising.com/main.php?dragon=51317268) | mirror | falcon | trail\* | opal
 ["Shadow"](https://flightrising.com/main.php?dragon=56514106) | | slime\* | sludge\* | stained?
@@ -33,6 +24,16 @@ dragon | breed/other | primary | secondary | tertiary
 [3](https://flightrising.com/main.php?dragon=19946368) | gaoler | shaggy | streak | ghost
 [02](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | clouded | ghost
 [04](https://flightrising.com/main.php?dragon=57320803) | | poison\* | toxin\* | veined\*
+[Exuberant](https://flightrising.com/main.php?dragon=30271918) | spiral & innocent | starmap | alloy | opal
+[shadowbane](https://flightrising.com/main.php?dragon=57362847) | | chevron | trail\* | wraith
+[magentaguard](https://flightrising.com/main.php?dragon=3474932) | banescale | ragged | arrow | ???
+[earthbane](https://flightrising.com/main.php?dragon=57625604) | | chevron | toxin\* | ???
+[waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | alloy | fans
+[SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
+[Toxic](https://flightrising.com/main.php?dragon=57539357) | | ragged | trail\* | fans
+[blackberrymirror](https://flightrising.com/main.php?dragon=50385938) | ridgeback & dark sclera | pinstripe\* | trail\* | peacock
+[Douna](https://flightrising.com/main.php?dragon=57379426) | | ragged | sugarplum | ghost
+[Cave](https://flightrising.com/main.php?dragon=57377993) | | ragged | arrow | filigree
 
 ## fest skins
 
@@ -141,11 +142,11 @@ Only listing the ones I don't have. Bullet points by priority. (Baldwin isn't mi
 - **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
 - **swipp:** ~~Foxfire Grove,~~ Fungi, ~~Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake, Swap Stand, Succulents
 - **treasure:**
-- **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, Harpy’s Roost, ~~Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~
+- **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, ~~Harpy’s Roost, Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~
 
 ## breeding projects
 
-### not mine
+### [i cannot be stopped](https://flightrising.com/main.php?p=lair&id=154165&tab=dragon&did=24247054#bio)
 
 scry | search | m/f | eyes | primary | secondary | tertiary
 --- | ---
@@ -154,12 +155,12 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [seasky](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=148&bodygene=23&breed=2&element=4&eyetype=0&gender=0&tert=104&tertgene=38&winggene=42&wings=23&auth=0d39e0b58922a486c945ce9166907b01693cdf74&dummyext=prev.png) | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=148&d_wings_range=22-24&d_tert_range=104-167&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=148&wings=23&tert=104&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | water | lapis | sky | yellow
 [arcane1](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=155&bodygene=29&breed=17&element=9&eyetype=0&gender=1&tert=66&tertgene=26&winggene=28&wings=66&auth=848c155f76226fde0ba09687b5dc07ee40cc68af&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=130-123&d_wings_range=160-85&d_tert_range=160-85&collapse=1), [mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=0&body=&wings=&tert=66&element=&body_range=155-123&wings_range=66-85&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=155&wings=66&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F | arcane | chartreuse | pink | pink
 [arcane2](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=115&bodygene=29&breed=17&element=9&eyetype=0&gender=0&tert=66&tertgene=26&winggene=29&wings=155&auth=ef9c52347c444d64f54b054dc53b34d3bcb63e0c&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=173-93&d_wings_range=130-123&d_tert_range=160-85&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=115&wings=155&tert=66&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | arcane | moss | chartreuse | pink
-[doge](https://www1.flightrising.com/dgen/preview/dragon?age=0&body=10&bodygene=0&breed=12&element=1&eyetype=11&gender=0&tert=76&tertgene=14&winggene=3&wings=76&auth=46d3927f0a56773325472a7fc98d1a06a3ca570e&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=76&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | earth innocent | obsidian | tan | tan
-[F](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=126&bodygene=47&breed=18&element=4&eyetype=5&gender=0&tert=62&tertgene=42&winggene=54&wings=10&auth=587bcb2207fa87e81f48320d912522df8cb2e855&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=126&wings=10&tert=62&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | water multigaze | overcast | obsidian | red
-[it's fine](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=86&bodygene=52&breed=18&element=7&eyetype=6&gender=0&tert=2&tertgene=42&winggene=55&wings=10&auth=1173d2b3ed8acc7b5d522e47411b927b22740ced&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=86&wings=10&tert=2&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [primal](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_element=7&d_eye=6&nocollapse=1&collapse=1) | M | shadow primal | ruby | obsidian | white
-[#blazeIt](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=50&breed=18&element=11&eyetype=6&gender=0&tert=10&tertgene=48&winggene=54&wings=169&auth=7ec34fa366d263a28b2f0249ef862133a017c91c&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=169&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [primal](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_element=11&d_eye=6&nocollapse=1&collapse=1) | M | fire primal | obsidian | vermillion | obsidian
+[doge](https://www1.flightrising.com/dgen/preview/dragon?age=0&body=10&bodygene=0&breed=12&element=1&eyetype=11&gender=0&tert=76&tertgene=14&winggene=3&wings=76&auth=46d3927f0a56773325472a7fc98d1a06a3ca570e&dummyext=prev.png) | [AH](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=10&d_wings=76&d_pattern=XYY&collapse=1), [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=9-176&d_wings_range=50-51&d_tert_range=50-51&nocollapse=1&collapse=1) [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=76&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | earth innocent | obsidian | tan | tan
+[F](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=126&bodygene=47&breed=18&element=4&eyetype=5&gender=0&tert=62&tertgene=42&winggene=54&wings=10&auth=587bcb2207fa87e81f48320d912522df8cb2e855&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=23-26&d_wings_range=70-11&d_tert_range=169-161&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=126&wings=10&tert=116&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [multigaze](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=0&d_element=4&d_eye=5&nocollapse=1&collapse=1) | M | water multigaze | overcast | obsidian | cherry
+[it's fine](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=86&bodygene=52&breed=18&element=7&eyetype=6&gender=0&tert=2&tertgene=42&winggene=55&wings=10&auth=1173d2b3ed8acc7b5d522e47411b927b22740ced&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=58-59&d_wings_range=70-11&d_tert_range=109-163&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=86&wings=10&tert=85&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [primal](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=0&d_element=7&d_eye=6&nocollapse=1&collapse=1) | M | shadow primal | ruby | obsidian | pearl
+[#blazeIt](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=50&breed=18&element=11&eyetype=6&gender=0&tert=10&tertgene=48&winggene=54&wings=169&auth=7ec34fa366d263a28b2f0249ef862133a017c91c&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=169&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_desc&page=1&nocollapse=1) | M | fire primal | obsidian | vermillion | obsidian
 [neon](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=65&bodygene=54&breed=18&element=3&eyetype=6&gender=1&tert=89&tertgene=42&winggene=54&wings=65&auth=fb25bf4444d02d4f4f1efdeb8dbdcab06fa53c45&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=65&wings=&tert=89&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XXY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=120-170&d_wings_range=120-170&d_tert_range=117-99&nocollapse=1&collapse=1), [primal](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_element=3&d_eye=6&nocollapse=1&collapse=1) | F | wind primal | magenta | magenta | cyan
-[eyes](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=18&breed=7&element=6&eyetype=8&gender=0&tert=98&tertgene=24&winggene=5&wings=90&auth=06d5a757cd5aba46749a36ee5c8836ac8592fcc5&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=90&tert=98&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | ice | obsidian | ultramarine | gloom
+[eyes](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=18&breed=7&element=6&eyetype=8&gender=0&tert=98&tertgene=24&winggene=5&wings=90&auth=06d5a757cd5aba46749a36ee5c8836ac8592fcc5&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=10&d_wings_range=20-135&d_tert_range=91-98&nocollapse=1&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=90&tert=98&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | ice | obsidian | ultramarine | gloom
 
 ### eventually
 
@@ -175,22 +176,29 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [rusty gears](https://flightrising.com/dgen/preview/dragon?age=1&body=94&bodygene=10&breed=11&element=5&eyetype=3&gender=1&tert=96&tertgene=18&winggene=21&wings=124&auth=483d30cd00f86e18e7df1217a5691d04e2d4a729&dummyext=prev.png) | [XYZ](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=1&d_body=57%2C94%2C140%2C124&d_wings=124%2C94%2C57%2C140&d_tert=96%2C176%2C151&d_element=5&d_pattern=XYZ&nocollapse=1&collapse=1), [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=94-57&d_wings_range=162-55&d_tert_range=96-27&nocollapse=1&collapse=1) | F | lightning | *rust* | *tarnish* | *abyss*
 [pepe silvia](https://flightrising.com/dgen/preview/dragon?age=1&body=139&bodygene=14&breed=4&element=8&eyetype=0&gender=0&tert=124&tertgene=20&winggene=15&wings=97&auth=daf9939dcc03eed27d957b7ca563cfc7c24e2980&dummyext=prev.png)\* | [exact](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=139&d_wings=97&d_tert=124&nocollapse=1&collapse=1) | M | light | flaxen | antique | tarnish
 [4](https://flightrising.com/dgen/preview/dragon?age=0&body=81&bodygene=11&breed=7&element=11&eyetype=0&gender=0&tert=79&tertgene=22&winggene=4&wings=59&auth=db76de9e8617e86a685d2000e14fd5f0290ebd81&dummyext=prev.png)\* | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=101-134&d_wings_range=86-161&d_tert_range=34-79&nocollapse=1&collapse=1) | M | fire | hunter | *crimson* | *mantis*
+[01](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=86&bodygene=0&breed=1&element=6&eyetype=0&gender=1&tert=2&tertgene=5&winggene=0&wings=2&auth=3e633d1819f5d5940c7f9fec325cce9bf378d6a9&dummyext=prev.png) | [AH](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=62&d_wings=2&d_pattern=XYY&nocollapse=1&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=62&wings=2&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_desc&page=1&nocollapse=1) | F | ice | red | white | white
 
 ### ranges
 
-strawberry | 0 | 0 | 0
 seasky | 0 | **5** | **7**
+strawberry | 0 | 0 | 0
+zero | 0 | 0 | 0
 burning | **2** | **5** | **7**
 capitalist | 0 | 0 | **>10**
 bummer | **>10** | 0 | 0
 cyan | 0 | **>10** | 0
-that guy\* | **3** | **4** | **2**
+that guy-A | 0 | **2** | **>10**
+that guy-B | **3** | **4** | **2**
+that guy-C | **3** | **3** | **2**
 4 | **8** | 0 | **3**
-01 | **9** | 0 | 0
+01-A | **9** | 0 | 0
+01-B | **4** | 0 | 0
 
-1. 0: strawberry (eyes though)
-1. 9: that guy (\*w/ Aidziam), 01
+1. 0: zero, strawberry (eyes though)
+1. 4: 01-B
+1. 8: that guy-C
+1. 9: that guy-B, 01-A
 1. 11: 4
 1. 12: seasky
 1. 14: burning
-1. \>10: capitalist, bummer, cyan
+1. \>10: capitalist, bummer, cyan, that guy-A
