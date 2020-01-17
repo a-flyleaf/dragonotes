@@ -5,16 +5,17 @@ class: ql
 ---
 miscellaneous stuff for my own reference
 
-## outfit searches
-- nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
-- [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
-
 ## AH searches
 
 - **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1) / [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
+
+## MP searches
+- nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
+- [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
+- plaguedom: [velvet floracat](https://www1.flightrising.com/game-database/item/4882), [gladeveins needletooth](https://www1.flightrising.com/game-database/item/16256), [blackline bicorn whale](https://www1.flightrising.com/game-database/item/25407), [seaglass swimmer](https://www1.flightrising.com/game-database/item/25408)
 
 ## gathering
 
@@ -35,32 +36,32 @@ miscellaneous stuff for my own reference
 
 should have its own about/ page eventually
 
-- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/562#post_41749126)
-	- later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206)
+- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/566#post_41938303)
+- later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206), [Fodderlocke](https://www1.flightrising.com/forums/qnc/2806527)
 - badge tracker: [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
 
 ### coli fams
 
-~~Training Fields~~ | ~~✓~~
-~~Woodland Path~~ | ~~✓~~
-~~Scorched Forest~~ | ~~✓~~
-~~Sandswept Delta~~ | ~~✓~~
-Blooming Grove | <u>Mossy Pohip</u>, Maned Cerdae
-~~Forgotten Cave~~ | ~~✓~~
-~~Bamboo Falls~~ | ~~✓~~
+~~Training Fields~~ | <s>✓</s>
+~~Woodland Path~~ | <s>✓</s>
+~~Scorched Forest~~ | <s>✓</s>
+~~Sandswept Delta~~ | <s>✓</s>
+Blooming Grove | <u>Mossy Pohip</u>
+~~Forgotten Cave~~ | <s>✓</s>
+~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | **Deeprealm Hunter, Highfin Sea Serpent, <u>Spiney Whale</u>, Redfin Wavespinner, Maren Sorceress**
 Waterway | Blueridge Greatshell, Sewer Toridae
 Arena | <u>Undying Featherback</u>, Armored Greatowl, Greenwing Razorclaw
 Volcanic Vents | **Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
-Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>, Hippocampus, Deadwood Boar
+Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>, Hippocampus
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
-Harpy's Roost | **Cardinal Hippogriff, <u>Roc</u>**
+Harpy's Roost | Cardinal Hippogriff, <u>Roc</u>
 Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
 Mire | <u>Molten Wartoad</u>
 Golem Workshop | **<u>Frost Delver</u>, Mistral Minion, Swift Volt**
-~~Kelp Beds~~ | ~~✓~~
+~~Kelp Beds~~ | <s>✓</s>
 
 ### dragon order
 
@@ -107,8 +108,11 @@ Golem Workshop | **<u>Frost Delver</u>, Mistral Minion, Swift Volt**
 		<tr><td>27</td><td>stormynoc</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="3">2020</td><td rowspan="3">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td rowspan="6">2020</td><td rowspan="6">01</td><td>02</td><td>Toxic</td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
 		<tr><td>11</td><td>Cave</td></tr>
+		<tr><td>12</td><td>screaming meanie</td></tr>
+		<tr><td>14</td><td>floaty glitch gao</td></tr>
+		<tr><td>15</td><td>alias</td></tr>
 	</tbody>
 </table>
