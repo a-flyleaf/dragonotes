@@ -17,12 +17,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] dom badges
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
-	- [x] goals (by priority)
-		- [x] fest gear (minus skins)
-		- [x] fest skins
-		- [x] scrolls/genes
-		- [x] vistas
-		- [x] breeding projects
+	- [x] [wishlist]({%include url.html%}/about/wishlist)
 - [ ] Lore
 	- [ ] general notes
 	- [ ] dragon profiles

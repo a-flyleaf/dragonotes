@@ -57,7 +57,10 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .goals table{font-size:.75em;}
 .goals table:last-of-type{width:25%; float:left; margin:0 3em 1em 0;}
 .goals table:last-of-type td:nth-child(n+2){text-align:center;}
-.goals ul:last-of-type li{margin:.15em 0;}
+.goals main ul:last-of-type li{margin:.15em 0;}
+
+.items h3{margin-top:0;}
+.items main ul:nth-of-type(-n+2) li{margin:.25em 0;}
 
 .landing main ul{list-style-type:none; margin:0;}
 .landing main li{background:#f2f2f2; padding:.5em 1em; border-radius:1em; margin:1em 0;}
@@ -94,9 +97,10 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .vistas h2{margin-left:.25em;}
 .vistas table{margin-top:-2.15em; font-family:inherit;}
 .vistas td:first-child{width:8.5em;}
+.vistas table:first-of-type td:first-child{width:auto;}
 .vistas td:first-child a{font-weight:700;}
 .vistas table:nth-of-type(2) td:nth-child(3),.vistas table:nth-of-type(3) td:last-child{font-size:.85em; line-height:1.25em;}
-.vistas ol,ul{font-size:1em;}
+.vistas main ol,ul{font-size:1em;}
 .vistas ol{list-style-type:none; margin:0; overflow:auto; text-align:center; font-weight:700;} .vistas ol li{width:50%; float:left;}
 .vistas #notable{height:1px; opacity:0;}
 
