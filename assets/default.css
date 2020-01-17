@@ -43,6 +43,7 @@ main ol,ul{line-height:1.25em;}
 footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-align:center;}
 #top{margin-top:-.25em;}
 
+.ql main li{margin:.25em 0;}
 .ql table del,.ql table s{opacity:.35; text-decoration:none;}
 .ql table{font-size:.75em; margin:0 auto;}
 #dragolist{max-width:25em;}
