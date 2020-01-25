@@ -13,23 +13,19 @@ KEY: baldwin\* ~~coli~~ *swipp*
 
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
-["Beat"](https://flightrising.com/main.php?dragon=50340433) | permabab, mirror | piebald | trail\* | crackle
-[Serena](https://flightrising.com/main.php?dragon=51317268) | mirror | falcon | trail\* | opal
+["Beat"](https://flightrising.com/main.php?dragon=50340433) | permabab | piebald | trail\* | crackle
+[Serena](https://flightrising.com/main.php?dragon=51317268) | | falcon | trail\* | opal
 ["Shadow"](https://flightrising.com/main.php?dragon=56514106) | | slime\* | sludge\* | stained?
 [Levi](https://flightrising.com/main.php?dragon=50610501) | coatl, dark sclera | lionfish | noxtide | spines
 [1](https://flightrising.com/main.php?dragon=50613119) | spiral | | | circuit
-[3](https://flightrising.com/main.php?dragon=19946368) | gaoler | shaggy | streak | ghost
-[02](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | clouded | ghost
-[04](https://flightrising.com/main.php?dragon=57320803) | | poison\* | toxin\*
-[shadowbane](https://flightrising.com/main.php?dragon=57362847) | | chevron | trail\* | wraith
-[magentaguard](https://flightrising.com/main.php?dragon=3474932) | banescale | ragged | arrow | ???
-[earthbane](https://flightrising.com/main.php?dragon=57625604) | | chevron | toxin\* | ???
-[waterbane](https://flightrising.com/main.php?dragon=57589801) | | ragged | alloy | fans
+[02](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | | ghost
+[shadowbane](https://flightrising.com/main.php?dragon=57362847) | | | trail\* | wraith
+[earthbane](https://flightrising.com/main.php?dragon=57625604) | | | toxin\* | ???
+[waterbane](https://flightrising.com/main.php?dragon=57589801) | | | alloy | fans
 [SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
-[Toxic](https://flightrising.com/main.php?dragon=57539357) | | ragged | trail\* | fans
-[Douna](https://flightrising.com/main.php?dragon=57379426) | | ragged | sugarplum | ghost
-[Cave](https://flightrising.com/main.php?dragon=57377993) | | ragged | arrow | filigree
-[falsework](https://flightrising.com/main.php?dragon=58430435) | banescale | chevron | arrow | trimmings
+[Toxic](https://flightrising.com/main.php?dragon=57539357) | | | trail\* | fans
+[Douna](https://flightrising.com/main.php?dragon=57379426) | | | sugarplum
+[Cave](https://flightrising.com/main.php?dragon=57377993) | | | | filigree
 
 ## fest skins
 
