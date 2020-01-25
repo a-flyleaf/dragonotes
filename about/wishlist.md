@@ -18,10 +18,10 @@ Links to game database for easier price checking.
 
 ### treasure
 
-- breed: [Gaoler](https://www1.flightrising.com/game-database/item/30148), [Mirror](https://www1.flightrising.com/game-database/item/557), [Spiral](https://www1.flightrising.com/game-database/item/560)
-- primary: [Chevron](https://www1.flightrising.com/game-database/item/32534) x3, [Lionfish](https://www1.flightrising.com/game-database/item/28068), [Piebald](https://www1.flightrising.com/game-database/item/12273), [Ragged](https://www1.flightrising.com/game-database/item/32536) x6, [Shaggy](https://www1.flightrising.com/game-database/item/30157)
-- secondary: [Arrow](https://www1.flightrising.com/game-database/item/32548) x3, [Noxtide](https://www1.flightrising.com/game-database/item/28080), [Streak](https://www1.flightrising.com/game-database/item/30158), [Sugarplum](https://www1.flightrising.com/game-database/item/32549)
-- tertiary: [Circuit](https://www1.flightrising.com/game-database/item/566), [Crackle](https://www1.flightrising.com/game-database/item/2216), [Ghost (Banescale)](https://www1.flightrising.com/game-database/item/32559), [Ghost (Gaoler)](https://www1.flightrising.com/game-database/item/30145), [Spines](https://www1.flightrising.com/game-database/item/7096), [Trimmings](https://www1.flightrising.com/game-database/item/32551)
+- breed: [Spiral](https://www1.flightrising.com/game-database/item/560)
+- primary: [Lionfish](https://www1.flightrising.com/game-database/item/28068), [Piebald](https://www1.flightrising.com/game-database/item/12273)
+- secondary: [Noxtide](https://www1.flightrising.com/game-database/item/28080), [Sugarplum](https://www1.flightrising.com/game-database/item/32549)
+- tertiary: [Circuit](https://www1.flightrising.com/game-database/item/566), [Crackle](https://www1.flightrising.com/game-database/item/2216), [Ghost](https://www1.flightrising.com/game-database/item/25782), [Spines](https://www1.flightrising.com/game-database/item/7096)
 
 ## festival skins
 
@@ -85,7 +85,7 @@ Familiars in *italics.*
 
 - **apparel:** Spectral Fuchsia [Forejewels](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Forejewels) & [Nightshroud](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Nightshroud)
 - **familiars:** Sköll, Hati, Mock Firebird, Dunhoof Ambassador, Dwarf Unicorn, Black Dwarf Unicorn, Downy Fox Rat, Fawn Fox Rat, Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
-	- all 250g
+	- all 250g except for the reedjumper (325g)
 - **vistas:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
 	- all 600g
 - **NotN:** [Enchanter's Tatters](https://www1.flightrising.com/auction-house/buy/realm/other?itemname=Enchanter%27s+Tatters), [Gossamer Flame Regalia](https://www1.flightrising.com/auction-house/buy/realm/other?itemname=Gossamer+Flame+Regalia), [Sarcastic Jester's Motley](https://www1.flightrising.com/auction-house/buy/realm/other?itemname=Sarcastic+Jester%27s+Motley), [Spectral Fuchsia Trunk](https://www1.flightrising.com/auction-house/buy/realm/other?itemname=Spectral+Fuchsia+Trunk), [Fiendflesh Terrorbox](https://www1.flightrising.com/auction-house/buy/realm/other?itemname=Fiendflesh+Terrorbox)
