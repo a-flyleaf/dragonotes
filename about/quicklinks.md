@@ -12,18 +12,13 @@ miscellaneous stuff for my own reference
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
-## MP searches
-- nightfall starsilk [sleeves](https://www1.flightrising.com/game-database/item/30837), [tailwrap](https://www1.flightrising.com/game-database/item/30829)
-- [opulent nightshade tailtaille](https://www1.flightrising.com/game-database/item/28015)
-- plaguedom: [velvet floracat](https://www1.flightrising.com/game-database/item/4882), [gladeveins needletooth](https://www1.flightrising.com/game-database/item/16256), [blackline bicorn whale](https://www1.flightrising.com/game-database/item/25407), [seaglass swimmer](https://www1.flightrising.com/game-database/item/25408)
-
 ## gathering
 
-- **hunting: shadow/arcane**
+- **hunting: ice/shadow/arcane**
 - **fishing: earth/ice/light/nature**
-- **insect catching: ice/shadow/light/nature**
+- **insect catching:** anywhere BUT plague/wind/arcane/fire
 - foraging: earth/ice/light
-- **digging: water**
+- **digging: water/arcane**
 - scavenging: ice/shadow
 
 ## fest haul
@@ -59,8 +54,8 @@ Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | Cardinal Hippogriff, <u>Roc</u>
 Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
-Mire | <u>Molten Wartoad</u>
-Golem Workshop | **<u>Frost Delver</u>, Mistral Minion, Swift Volt**
+~~Mire~~ | <s>✓</s>
+Golem Workshop | **<u>Frost Delver</u>**
 ~~Kelp Beds~~ | <s>✓</s>
 
 ### dragon order
@@ -108,11 +103,12 @@ Golem Workshop | **<u>Frost Delver</u>, Mistral Minion, Swift Volt**
 		<tr><td>27</td><td>stormynoc</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="6">2020</td><td rowspan="6">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td rowspan="7">2020</td><td rowspan="7">01</td><td>02</td><td>Toxic</td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
 		<tr><td>11</td><td>Cave</td></tr>
 		<tr><td>12</td><td>screaming meanie</td></tr>
 		<tr><td>14</td><td>floaty glitch gao</td></tr>
 		<tr><td>15</td><td>alias</td></tr>
+		<tr><td>17</td><td>Norbera, pinkbane, Tzopilotl, Kima</td></tr>
 	</tbody>
 </table>
