@@ -96,6 +96,7 @@ Fancy formatting and/or links coming later, maybe.
 	- **Starfall Celebration:** pulse, Starwood fairy, Mystic Regalia, Starcrossed Scholar, Chochin, Stellar Sensation, Astral Hunter, Space Beast, Stardust Runicorn, Wings of Arcane, travel across, Scry Diver, Gifts from Above, Wild Magic
 	- **Riot of Rot:** Acidic Grave, All Eyes on You, Nice View, Blood Mancer, Tongue Out, Low pH, Mushroom Bloom, Plaguespreader, Exossein, Vulture Couture, Battlefield menace, Vermin, Just Like Mother, Shepherd of Affliction
 	- **Rockbreaker's Ceremony:** Quartz Rose, Snakestone, Blackfire, The King Had Wings, She Means Bismuth, the curse of the Midas, Topographic, Crystalcourt Acolyte, Glow Worm Cave, Tower of Pillar, Stibknight, Quartz Reef, Bouldercrag Battlemarks, Points and Druzy
+	- **Crystalline Gala:** Remember Their Song, Melted Free, Thawed Out, Four Feet in Snow, Frigid collector, Winter Spirits, If Looks Could Chill, Crevice, Unfettered, Frost Chrysalis, Dry Ice, Frosty Fluff, Shard of the Ancients, Phantom Scientist
 	
 	--**WE ARE HERE**--
 	- Crystalline Gala
