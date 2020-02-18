@@ -19,10 +19,10 @@ dragon | breed/other | primary | secondary | tertiary
 [Levi](https://flightrising.com/main.php?dragon=50610501) | coatl, dark sclera | lionfish | noxtide | spines
 [1](https://flightrising.com/main.php?dragon=50613119) | spiral | | | circuit
 [02](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | | ghost
-[shadowbane](https://flightrising.com/main.php?dragon=57362847) | | | trail\* | wraith
-[earthbane](https://flightrising.com/main.php?dragon=57625604) | | | toxin\* | ???
-[waterbane](https://flightrising.com/main.php?dragon=57589801) | | | alloy | fans
-[SerriBaneProg](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
+[Andante](https://flightrising.com/main.php?dragon=57362847) | | | trail\* | wraith
+[Trill](https://flightrising.com/main.php?dragon=57625604) | | | toxin\* | ~~squiggle~~
+[Glissando](https://flightrising.com/main.php?dragon=57589801) | | | alloy | fans
+[Contralto](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
 [Toxic](https://flightrising.com/main.php?dragon=57539357) | | | trail\* | fans
 [Douna](https://flightrising.com/main.php?dragon=57379426) | | | sugarplum
 [Cave](https://flightrising.com/main.php?dragon=57377993) | | | | filigree
@@ -131,7 +131,7 @@ Only listing the ones I don't have. Bullet points by priority. (Baldwin isn't mi
 
 - **fest/other:** Icewarden, ~~3rd Anniversary, NotN, festivals, deities except Icewarden,~~ Sticker Star
 - **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
-- **swipp:** ~~Foxfire Grove,~~ Fungi, ~~Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake, Swap Stand, Succulents
+- **swipp:** ~~Foxfire Grove, Fungi, Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake, ~~Swap Stand,~~ Succulents
 - **treasure:**
 - **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, ~~Harpy’s Roost, Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~
 

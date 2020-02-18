@@ -7,19 +7,19 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1) / [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc)
+- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1) \| hatchlings: [6kT plant](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=0&sort=name_desc) / [6kT unnamed](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=0)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
 ## gathering
 
-- **hunting: ice/shadow/arcane**
-- **fishing: earth/ice/light/nature**
-- **insect catching:** anywhere BUT plague/wind/arcane/fire
-- foraging: earth/ice/light
-- **digging: water/arcane**
-- scavenging: ice/shadow
+- hunting: ice/shadow/arcane
+- fishing: earth/ice/light/nature
+- insect catching: anywhere BUT plague/wind/arcane/fire
+- digging: water/arcane
+
+NO foraging/scavenging
 
 ## fest haul
 
@@ -68,11 +68,11 @@ Golem Workshop | **<u>Frost Delver</u>**
 		<tr><td rowspan="2">07</td><td>??</td><td><s>Fern</s></td></tr>
 		<tr><td>28</td><td>Skiptrace</td></tr>
 		<tr><td rowspan="3">08</td><td>04</td><td><s>Delphi</s></td></tr>
-		<tr><td>21</td><td>Riviniana</td></tr>
+		<tr><td>21</td><td><s>Riviniana</s></td></tr>
 		<tr><td><span><27</span></td><td><s>Notturno</s></td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="5">2016</td><td>01</td><td>14</td><td>Gizmo</td></tr>
+		<tr><td rowspan="5">2016</td><td>01</td><td>14</td><td><s>Gizmo</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Galena</s></td></tr>
 		<tr><td><span><08</span></td><td>??</td><td><s>Rothide</s></td></tr>
 		<tr><td>09</td><td>??</td><td><s>Avi</s></td></tr>
@@ -88,27 +88,29 @@ Golem Workshop | **<u>Frost Delver</u>**
 		<tr><td rowspan="4">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
 		<tr><td>16</td><td><s>Midst</s></td></tr>
 		<tr><td>04</td><td>22</td><td><s>Augustus</s></td></tr>
-		<tr><td>11</td><td>19</td><td>Exuberant</td></tr>
+		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
 	</tbody>
 	<tbody>
 		<tr><td rowspan="10">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
 		<tr><td>25</td><td>Crake</td></tr>
-		<tr><td rowspan="6">12</td><td>09</td><td>shadowbane, naturebane<s>, Hestia</s></td></tr>
+		<tr><td rowspan="6">12</td><td>09</td><td>Andante, Vivace<s>, Hestia</s></td></tr>
 		<tr><td>11</td><td><s>Holly</s></td></tr>
-		<tr><td>16</td><td>earthbane, waterbane, SerriBaneProg</td></tr>
+		<tr><td>16</td><td>Trill, Glissando, Contralto</td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
-		<tr><td>23</td><td>daevauscale</td></tr>
-		<tr><td>27</td><td>stormynoc</td></tr>
+		<tr><td>23</td><td>[daevauscale]</td></tr>
+		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="7">2020</td><td rowspan="7">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td rowspan="9">2020</td><td rowspan="8">01</td><td>02</td><td>Toxic</td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
 		<tr><td>11</td><td>Cave</td></tr>
-		<tr><td>12</td><td>screaming meanie</td></tr>
-		<tr><td>14</td><td>floaty glitch gao</td></tr>
-		<tr><td>15</td><td>alias</td></tr>
-		<tr><td>17</td><td>Norbera, pinkbane, Tzopilotl, Kima</td></tr>
+		<tr><td>12</td><td>[screaming meanie]</td></tr>
+		<tr><td>14</td><td>Crux</td></tr>
+		<tr><td>15</td><td>Falsework</td></tr>
+		<tr><td>16</td><td>[lightbane]</td></tr>
+		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
+		<tr><td>02</td><td>03</td><td>Sweetling</td></tr>
 	</tbody>
 </table>
