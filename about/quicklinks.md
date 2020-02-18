@@ -55,7 +55,7 @@ Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | Cardinal Hippogriff, <u>Roc</u>
 Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
 ~~Mire~~ | <s>✓</s>
-Golem Workshop | **<u>Frost Delver</u>**
+Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate Longmech, Longmech, Tribeam Hunter, Tribeam Lurker, Jelly Drone, Workshop Monitor, Gearspring Pocketmouse, Wind-Up Pocketmouse, Robotic Tender, Mechanical Destroyer**
 ~~Kelp Beds~~ | <s>✓</s>
 
 ### dragon order
@@ -96,14 +96,15 @@ Golem Workshop | **<u>Frost Delver</u>**
 		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
 		<tr><td>25</td><td>Crake</td></tr>
 		<tr><td rowspan="6">12</td><td>09</td><td>Andante, Vivace<s>, Hestia</s></td></tr>
-		<tr><td>11</td><td><s>Holly</s></td></tr>
+		<tr><td>11</td><td><s>Holly</s>, !Sempre</td></tr>
 		<tr><td>16</td><td>Trill, Glissando, Contralto</td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>23</td><td>[daevauscale]</td></tr>
 		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="9">2020</td><td rowspan="8">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td rowspan="10">2020</td><td rowspan="9">01</td><td>02</td><td>Toxic</td></tr>
+		<tr><td>07</td><td><s>Burin</s></td></tr.
 		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
 		<tr><td>11</td><td>Cave</td></tr>
 		<tr><td>12</td><td>[screaming meanie]</td></tr>
