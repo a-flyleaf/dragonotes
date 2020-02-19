@@ -3,15 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<title>{{page.title}} | dragonotes</title>
-	<link href="{%include url.html%}/assets/default.css" type="text/css" rel="stylesheet"/>
-	<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,400i,600|Alegreya+Sans:400,400i,700,700i" rel="stylesheet">
+	<title>{{page.title}} | Lorebook @dragonotes</title>
+	<link href="{%include url.html%}/assets/lore.css" type="text/css" rel="stylesheet"/>
+	<link href="https://fonts.googleapis.com/css?family=Alegreya+SC:400,400i,600|Alegreya:400,400i,700,700i" rel="stylesheet">
 </head>
 
-<body><div id="wrap" class="{{page.class}}">
-	<header><a href="{%include url.html%}" id="logo">dragonotes</a><h1>{{page.title}}</h1></header>
-	<aside id="sitenav">{%include mainnav.html%}</aside><main id="skip">{{content}}</main>
-	<footer><p id="top"><a href="#skip">back to top</a></p><span><a href="https://flightrising.com">Flight Rising</a> and all related content ©2013–2020 Stormlight Workshop, LLC.</span> <span>Site base code, writing, and (unless otherwise noted) art ©2020 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a> (<a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor</a>).</span><p><a href="{%include url.html%}/credits">Credits</a></p></footer>
+<body><div id="wrap">
+	<header class="mid"><a href="{%include url.html%}/lore" id="title">dragonotes Lorebook</a><nav id="lorenav">{%include lorenav.html%}</nav></header>
+	<main id="skip" class="mid"><h1>{{page.title}}</h1>{{content}}
+	</main>
+	<footer><sub>
+		<p id="update"><i>last updated {{page.update}}</i></p>
+		<p id="top"><a href="#skip">back to top</a></p>
+		<p><a href="https://flightrising.com">Flight Rising</a> and all related content ©2013–2020 Stormlight Workshop, LLC.</span> <span>Site base code, writing, and (unless otherwise noted) art ©2020 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a> (<a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor</a>).</span>
+	</sub></footer>
 </div>
 <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
 <script>
