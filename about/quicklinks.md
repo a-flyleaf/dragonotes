@@ -103,15 +103,16 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="10">2020</td><td rowspan="9">01</td><td>02</td><td>Toxic</td></tr>
-		<tr><td>07</td><td><s>Burin</s></td></tr.
-		<tr><td>10</td><td>Delphi-bane, Toc, Douna</td></tr>
-		<tr><td>11</td><td>Cave</td></tr>
+		<tr><td rowspan="11">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td>07</td><td><s>Burin</s></td></tr>
+		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
+		<tr><td>11</td><td>Revebr</td></tr>
 		<tr><td>12</td><td>[screaming meanie]</td></tr>
 		<tr><td>14</td><td>Crux</td></tr>
 		<tr><td>15</td><td>Falsework</td></tr>
-		<tr><td>16</td><td>[lightbane]</td></tr>
+		<tr><td>16</td><td>Reprise</td></tr>
 		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
-		<tr><td>02</td><td>03</td><td>Sweetling</td></tr>
+		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
+		<tr><td>06</td><td>Katsura</td></tr>
 	</tbody>
 </table>
