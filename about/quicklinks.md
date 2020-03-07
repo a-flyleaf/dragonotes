@@ -7,7 +7,9 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1) \| hatchlings: [6kT plant](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=0&sort=name_desc) / [6kT unnamed](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=0)
+- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1)
+	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6499&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6500&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6999&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=7000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc)
+	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -17,7 +19,7 @@ miscellaneous stuff for my own reference
 - hunting: ice/shadow/arcane
 - fishing: earth/ice/light/nature
 - insect catching: anywhere BUT plague/wind/arcane/fire
-- digging: water/arcane
+- digging: shadow
 
 NO foraging/scavenging
 
@@ -104,9 +106,9 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 	</tbody>
 	<tbody>
 		<tr><td rowspan="11">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
-		<tr><td>07</td><td><s>Burin</s></td></tr>
+		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
-		<tr><td>11</td><td>Revebr</td></tr>
+		<tr><td>11</td><td>Reverb</td></tr>
 		<tr><td>12</td><td>[screaming meanie]</td></tr>
 		<tr><td>14</td><td>Crux</td></tr>
 		<tr><td>15</td><td>Falsework</td></tr>

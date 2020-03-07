@@ -7,14 +7,14 @@ Ordered roughly by priority, highest > lowest.
 
 ## genes
 
-Links to game database for easier price checking.
+Links to game database for easier price checking. Gems in bold.
 
 ### gem
 
-- [Scroll of Eternal Youth](https://www1.flightrising.com/game-database/item/572), [Vial of Glowing Sight](https://www1.flightrising.com/game-database/item/26775)
 - breed: [Coatl](https://www1.flightrising.com/game-database/item/2424), [Wildclaw](https://www1.flightrising.com/game-database/item/717)
 - secondary: [Alloy (Banescale)](https://www1.flightrising.com/game-database/item/32543), [Butterfly (Banescale)](https://www1.flightrising.com/game-database/item/32545)
-- tertiary: [Fans (Banescale)](https://www1.flightrising.com/game-database/item/32553) x2, [Filigree (Banescale)](https://www1.flightrising.com/game-database/item/32555), [Stained](https://www1.flightrising.com/game-database/item/16004), [Wraith](https://www1.flightrising.com/game-database/item/32560)
+- tertiary: [Fans (Banescale)](https://www1.flightrising.com/game-database/item/32553) x2, [Filigree (Banescale)](https://www1.flightrising.com/game-database/item/32555), [Stained](https://www1.flightrising.com/game-database/item/16004)
+- other: [Scroll of Eternal Youth](https://www1.flightrising.com/game-database/item/572), [Vial of Glowing Sight](https://www1.flightrising.com/game-database/item/26775)
 
 ### treasure
 
@@ -81,10 +81,10 @@ Familiars in *italics.*
 	- **Starfall Celebration:** [Starfall Crystalcloak](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Starfall+Crystalcloak), [*Crystalspine Gem Guardian*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Crystalspine+Gem+Guardian)
 	- **Riot of Rot:** [Riot Hazebeacon](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Riot+Hazebeacon)
 
-## <span id="gem">other gem things I'm too cheap to buy myself</span>
+## <span id="gem">gem things I'm too cheap to buy myself</span>
 
 - **apparel:** Spectral Fuchsia [Forejewels](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Forejewels) & [Nightshroud](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Nightshroud)
-- **familiars:** Sköll, Hati, Mock Firebird, Dunhoof Ambassador, Dwarf Unicorn, Black Dwarf Unicorn, Downy Fox Rat, Fawn Fox Rat, Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
+- **familiars:** Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
 	- all 250g except for the reedjumper (325g)
 - **vistas:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
 	- all 600g
