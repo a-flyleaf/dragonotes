@@ -98,6 +98,7 @@ treasure | <i>[Shaggy (Gaoler)](https://www1.flightrising.com/game-database/item
 [baldwin](#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100,000T
 treasure | [Speckle](https://www1.flightrising.com/game-database/item/833) | 106,250T
 gems | [Starmap](https://www1.flightrising.com/game-database/item/26607) | 1,500g
+treasure | [Swirl](https://www1.flightrising.com/game-database/item/33633) | 127,500T
 treasure | [Tapir](https://www1.flightrising.com/game-database/item/24608) | 157,250T
 treasure | <i>[Tapir (Gaoler)](https://www1.flightrising.com/game-database/item/30216)</i> | 78,625T
 treasure | [Tiger](https://www1.flightrising.com/game-database/item/563) | 114,750T
@@ -133,6 +134,7 @@ treasure | [Freckle](https://www1.flightrising.com/game-database/item/784) | 76,
 treasure | [Hex](https://www1.flightrising.com/game-database/item/16719) | 136,000T
 treasure | <i>[Hex (Gaoler)](https://www1.flightrising.com/game-database/item/30144)</i> | 68,000T
 treasure | [Hypnotic](https://www1.flightrising.com/game-database/item/9559) | 157,250T
+treasure | [Marbled](https://www1.flightrising.com/game-database/item/33634) | 110,500T
 coli | [Morph](https://www1.flightrising.com/game-database/item/26376) | <span style="opacity:.5">luck</span>
 treasure | <i>[Mottle (Banescale)](https://www1.flightrising.com/game-database/item/32541)</i> | 51,000T
 treasure | [Noxtide](https://www1.flightrising.com/game-database/item/28080) | 144,500T
