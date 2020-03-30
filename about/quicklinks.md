@@ -8,20 +8,22 @@ miscellaneous stuff for my own reference
 ## AH searches
 
 - **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1)
-	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6499&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6500&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6999&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=7000&d_breed=14%2C17%2C6&d_age=0&collapse=1&sort=name_desc)
-	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
+	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6&collapse=1&sort=name_desc)
+	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
 ## gathering
 
-- hunting: ice/shadow/arcane
+- hunting: shadow/arcane
+	- onyx & opal cobras (x90 **maned cobra**), black swan (x40 vista)
 - fishing: earth/ice/light/nature
+	- **hippojay**
 - insect catching: anywhere BUT plague/wind/arcane/fire
-- digging: shadow
+	- dragonfly (x20 **vermillion epiptite**), giant darner (x20 **longwing eppiptite**)
 
-NO foraging/scavenging
+NO digging/foraging/scavenging
 
 ## fest haul
 
@@ -48,13 +50,13 @@ Blooming Grove | <u>Mossy Pohip</u>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | **Deeprealm Hunter, Highfin Sea Serpent, <u>Spiney Whale</u>, Redfin Wavespinner, Maren Sorceress**
-Waterway | Blueridge Greatshell, Sewer Toridae
+Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>, Armored Greatowl, Greenwing Razorclaw
 Volcanic Vents | **Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
 Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>, Hippocampus
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
-Harpy's Roost | Cardinal Hippogriff, <u>Roc</u>
+Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
 ~~Mire~~ | <s>✓</s>
 Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate Longmech, Longmech, Tribeam Hunter, Tribeam Lurker, Jelly Drone, Workshop Monitor, Gearspring Pocketmouse, Wind-Up Pocketmouse, Robotic Tender, Mechanical Destroyer**
@@ -105,7 +107,7 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="11">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td rowspan="12">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
 		<tr><td>11</td><td>Reverb</td></tr>
@@ -116,5 +118,6 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
+		<tr><td>03</td><td>19</td><td>anandte2</td></tr>
 	</tbody>
 </table>

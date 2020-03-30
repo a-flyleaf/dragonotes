@@ -99,8 +99,8 @@ Fancy formatting and/or links coming later, maybe.
 	- **Crystalline Gala:** Remember Their Song, Melted Free, Thawed Out, Four Feet in Snow, Frigid collector, Winter Spirits, If Looks Could Chill, Crevice, Unfettered, Frost Chrysalis, Dry Ice, Frosty Fluff, Shard of the Ancients, Phantom Scientist
 	- **Trickmurk Circus:** Moonlit glas\*, Patchwork Doll, Fake Out\*\*, Lingered Too Long, Vanishing Act, Cover of Night, Shadowslime Mirror mirror on the wal\*, nethersent, Beyond the Veil, Like Moths to Smoke, Ehcroaching Shadows, Future Seer, Trickmurk carousel
 		- \* [these](https://www1.flightrising.com/game-database/item/33515) are [not typos](https://www1.flightrising.com/game-database/item/33522) \| \*\* [missing a space in the name](https://www1.flightrising.com/game-database/item/33517)
+	- **Mistral Jamboree:** Kite party, Imposter of Winds, Breeze Ribbon, Cartografae, Featherbound Wayfarer, Esteemed Aeromancer, Wind's Grace, Soaring Wayfarer, Pipe Dreams, Here Be Dragons, Whirlwind Markings, Trade Winds, Paper Airplane, flow
 	
 	--**WE ARE HERE**--
-	- Mistral Jamboree
 	- Wavecrest Saturnalia
 	- Greenskeeper Gathering

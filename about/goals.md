@@ -3,9 +3,9 @@ layout: default
 title: goals
 class: goals
 ---
-This is fine.
+This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs gems** and **festival [skins](#fest-skins)/[other items](#fest-gear)**.
 
-{%include pagenav.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-skins'>fest skins</a><ul><li><a href='#pre-joining'>pre-joining</a></li><li><a href='#may-2014-onwards'>May 2014 onwards</a></li></ul></li><li><a href='#fest-gear'>fest gear</a></li><li><a href='#vistas'>vistas</a></li><li><a href='#breeding-projects'>breeding projects</a></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-skins'>fest skins</a><ul><li><a href='#pre-joining'>pre-joining</a></li><li><a href='#may-2014-onwards'>May 2014 onwards</a></li><li><a href='#duplicates'>duplicates</a></li></ul></li><li><a href='#fest-gear'>fest gear</a></li><li><a href='#vistas'>vistas</a></li><li><a href='#other-gem-items'>other gem items</a></li><li><a href='#breeding-projects'>breeding projects</a></li></ul>"%}
 
 ## gene projects
 
@@ -17,18 +17,21 @@ dragon | breed/other | primary | secondary | tertiary
 [Serena](https://flightrising.com/main.php?dragon=51317268) | | falcon | trail\* | opal
 ["Shadow"](https://flightrising.com/main.php?dragon=56514106) | | slime\* | sludge\* | stained?
 [Levi](https://flightrising.com/main.php?dragon=50610501) | coatl, dark sclera | lionfish | noxtide | spines
-[1](https://flightrising.com/main.php?dragon=50613119) | spiral | | | circuit
-[02](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | | ghost
+[invalidValue](https://flightrising.com/main.php?dragon=50613119) | spiral | | | circuit
+[setLaunch](https://flightrising.com/main.php?dragon=59776948) | spiral, permabab | | marbled
+[del](https://flightrising.com/main.php?dragon=59897894) | fae | remove | remove
+[bigBrother](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap | | ghost
+[Sempre](https://flightrising.com/main.php?dragon=3474932) | | | | crackle
 [Trill](https://flightrising.com/main.php?dragon=57625604) | | | toxin\* | ~~squiggle~~
 [Glissando](https://flightrising.com/main.php?dragon=57589801) | | | alloy | fans
 [Contralto](https://flightrising.com/main.php?dragon=57364249) | | ragged | butterfly | ~~squiggle~~
-[Chromatic](https://flightrising.com/main.php?dragon=57539357) | | | | fans
-[Encore](https://flightrising.com/main.php?dragon=57379426) | | | sugarplum
 [Reverb](https://flightrising.com/main.php?dragon=57377993) | | | | filigree
+[Reprise](https://flightrising.com/main.php?dragon=58826801) | | pinstripe\* | arrow | filligree
+[Staccato]() | dark sclera\* | poison\* | arrow | porcupine\*
 
 ## fest skins
 
-*May* be willing to trade anything I have duplicates of. Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
+*May* be willing to trade anything I have [duplicates](#duplicates) of. Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
 
 Skins actually on dragons don't count.
 
@@ -74,12 +77,13 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 	- **Flameforger's Festival:** [Reign of Fire](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Reign+of+Fire), [Herald of Fire](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Herald+of+Fire), [Blazinoct](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Blazinoct), [Love of Hottest Flames](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Love+of+Hottest+Flames)
 	- **Starfall Celebration:** [pulse](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+pulse), [Starcrossed Scholar](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Starcrossed+Scholar), [Stellar Sensation](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Stellar+Sensation), [Space Beast](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Space+Beast), [Wings of Arcane](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Wings+of+Arcane), [travel across](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+travel+across), [Gifts from Above](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Gifts+from+Above)
 	- **Riot of Rot:** [Acidic Grave](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Acidic+Grave), [Nice View](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Nice+View), [Low pH](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Low+pH), [Plaguespreader](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Plaguespreader), [Vermin](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Vermin), [Just Like Mother](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Just+Like+Mother)
+- **2020 Mistral Jamboree:** [Wind's Grace](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Wind%27s+Grace)
 
 #### duplicates
 - **2015:** Result of Science, Surge; Union of Decay, Rotrock Witch
 - **2016:** Glacial Warden (x2); Wispwillow Magician; Bamboo Queen; Pelagic Grotto, Shrieking Striker; Hydrone; Coalbound Coatl; Pillar of Ages
 - **2017**: Frostbitten Fugitive, Frigid Flight; Fallen Angel; It Rained Whole Day; Sol Seraph (x2), By Light Be Purged; Plasmatronicoatl, Bogsmog, Molten Vein (x2), Queen of Cinders
-- **2018:** Dark Generation; Iron Stomach, Heraldic Pyre, Plasma Professor; Mandarinfish Fins, Hyaline, Noodlebranch; Rejuvinate (x2); Quiescence; I Hunger, Mutilated Horror; Hoarding Behaviour, Precious Veins. From the Depths, WrappedTurquoise, Fumarole Frieze, Oil Slick, Earth's Guise
+- **2018:** Dark Generation (x2); Iron Stomach, Heraldic Pyre, Plasma Professor; Mandarinfish Fins, Hyaline, Noodlebranch; Rejuvinate (x2); Quiescence; I Hunger, Mutilated Horror; Hoarding Behaviour, Precious Veins. From the Depths, WrappedTurquoise, Fumarole Frieze, Oil Slick, Earth's Guise
 - **2019:** Prismatic Winter Coat; Windfeather; Abyssal Attire; Brush of Wings, Veiled Valley, Verdant Adaptations; Enchanted Collector; Lichtenberg, Electric core; All Eyes on You, Exossein, Battlefield menace
 - **2020:** Frost Chrysalis, Dry ice; Moonlit glas, Fake Out, Like Moths to Smoke, Encroaching Shadows
 - also the curse of the Midas or Vanishing Act, whichever I don't use on 03
@@ -96,7 +100,7 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 	- **Wavecrest Saturnalia:** [Seashell Mantle](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Seashell+Mantle), [Diver Sash](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Diver+Sash)
 - **2017/8:** [Carapace Arm](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Carapace+Arm), [Luminous Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Luminous+Halo)
 - **2019**
-	- **Crystalline Gala:** [Glitterfreeze Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Glitterfreeze+Halo), [*Glitterfreeze Ambassador*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Glitterfreeze+Ambassador), [Vista: Icewarden](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Vista%3A+Icewarden)
+	- **Crystalline Gala:** [Glitterfreeze Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Glitterfreeze+Halo), [*Glitterfreeze Ambassador*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Glitterfreeze+Ambassador)
 	- **Trickmurk Circus:** [Murkmirth Tailcoat](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Murkmirth+Tailcoat), [Murkmirth Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Murkmirth+Halo), [*Murkmirth Ambassador*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Murkmirth+Ambassador)
 	- **Starfall Celebration:** [Starfall Crystalcloak](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Starfall+Crystalcloak), [*Crystalspine Gem Guardian*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Crystalspine+Gem+Guardian)
 	- **Riot of Rot:** [Riot Hazebeacon](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Riot+Hazebeacon)
@@ -128,13 +132,21 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 
 ## vistas
 
-Only listing the ones I don't have. Bullet points by priority. (Baldwin isn't missing, I've just brewed 'em all.)
+Ordered by priority, highest to lowest. (Baldwin isn't missing, I've just brewed 'em all.)
 
 - **fest/other:** Icewarden, ~~3rd Anniversary, NotN, festivals, deities except Icewarden,~~ Sticker Star
 - **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
-- **swipp:** ~~Foxfire Grove, Fungi, Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake, ~~Swap Stand,~~ Succulents
-- **treasure:**
+- **swipp:** ~~Foxfire Grove, Fungi, Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake~~, Swap Stand, Succulents~~
+- **treasure:** Treasure Hoarder, Spring, Summer, Autumn, Winter, Archer's Way, Snowy Owl, Something Swarming, Gaoler Dragons, all breeds
 - **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, ~~Harpy’s Roost, Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~
+
+## other gem items
+
+I am a cheapskate and will probably never buy these for myself.
+
+- **apparel:** Spectral Fuchsia [Forejewels](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Forejewels) & [Nightshroud](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Spectral+Fuchsia+Nightshroud)
+- **familiars:** Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
+	- all 250g except for the reedjumper (325g)
 
 ## breeding projects
 
@@ -147,7 +159,7 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [seasky](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=148&bodygene=23&breed=2&element=4&eyetype=0&gender=0&tert=104&tertgene=38&winggene=42&wings=23&auth=0d39e0b58922a486c945ce9166907b01693cdf74&dummyext=prev.png) | [parents](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=148&d_wings_range=22-24&d_tert_range=104-167&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=148&wings=23&tert=104&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | water | lapis | sky | yellow
 [arcane1](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=155&bodygene=29&breed=17&element=9&eyetype=0&gender=1&tert=66&tertgene=26&winggene=28&wings=66&auth=848c155f76226fde0ba09687b5dc07ee40cc68af&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=130-123&d_wings_range=160-85&d_tert_range=160-85&collapse=1), [mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=0&body=&wings=&tert=66&element=&body_range=155-123&wings_range=66-85&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=155&wings=66&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | F | arcane | chartreuse | pink | pink
 [arcane2](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=115&bodygene=29&breed=17&element=9&eyetype=0&gender=0&tert=66&tertgene=26&winggene=29&wings=155&auth=ef9c52347c444d64f54b054dc53b34d3bcb63e0c&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=173-93&d_wings_range=130-123&d_tert_range=160-85&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=115&wings=155&tert=66&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | arcane | moss | chartreuse | pink
-[doge](https://www1.flightrising.com/dgen/preview/dragon?age=0&body=10&bodygene=0&breed=12&element=1&eyetype=11&gender=0&tert=76&tertgene=14&winggene=3&wings=76&auth=46d3927f0a56773325472a7fc98d1a06a3ca570e&dummyext=prev.png) | [AH](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=10&d_wings=76&d_pattern=XYY&collapse=1), [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=9-176&d_wings_range=50-51&d_tert_range=50-51&nocollapse=1&collapse=1) [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=76&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | earth innocent | obsidian | tan | tan
+[doge](https://www1.flightrising.com/dgen/preview/dragon?age=0&body=10&bodygene=0&breed=12&element=1&eyetype=11&gender=0&tert=76&tertgene=14&winggene=3&wings=76&auth=46d3927f0a56773325472a7fc98d1a06a3ca570e&dummyext=prev.png) | [AH](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body=10&d_wings=76&d_pattern=XYY&collapse=1), [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=9-176&d_wings_range=50-51&d_tert_range=50-51&nocollapse=1&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=76&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYY&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | earth innocent | obsidian | tan | tan
 [F](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=126&bodygene=47&breed=18&element=4&eyetype=5&gender=0&tert=62&tertgene=42&winggene=54&wings=10&auth=587bcb2207fa87e81f48320d912522df8cb2e855&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=23-26&d_wings_range=70-11&d_tert_range=169-161&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=126&wings=10&tert=116&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [multigaze](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=0&d_element=4&d_eye=5&nocollapse=1&collapse=1) | M | water multigaze | overcast | obsidian | cherry
 [it's fine](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=86&bodygene=52&breed=18&element=7&eyetype=6&gender=0&tert=2&tertgene=42&winggene=55&wings=10&auth=1173d2b3ed8acc7b5d522e47411b927b22740ced&dummyext=prev.png) | [range](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_body_range=58-59&d_wings_range=70-11&d_tert_range=109-163&collapse=1), [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=86&wings=10&tert=85&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1), [primal](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_gender=0&d_element=7&d_eye=6&nocollapse=1&collapse=1) | M | shadow primal | ruby | obsidian | pearl
 [#blazeIt](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=50&breed=18&element=11&eyetype=6&gender=0&tert=10&tertgene=48&winggene=54&wings=169&auth=7ec34fa366d263a28b2f0249ef862133a017c91c&dummyext=prev.png) | [site](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=169&tert=&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYX&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_desc&page=1&nocollapse=1) | M | fire primal | obsidian | vermillion | obsidian
@@ -182,15 +194,10 @@ cyan | 0 | **>10** | 0
 that guy-A | 0 | **2** | **>10**
 that guy-B | **3** | **4** | **2**
 that guy-C | **3** | **3** | **2**
-4 | **8** | 0 | **3**
-01-A | **9** | 0 | 0
-01-B | **4** | 0 | 0
 
 1. 0: zero, strawberry (eyes though)
-1. 4: 01-B
 1. 8: that guy-C
-1. 9: that guy-B, 01-A
-1. 11: 4
+1. 9: that guy-B
 1. 12: seasky
 1. 14: burning
 1. \>10: capitalist, bummer, cyan, that guy-A
