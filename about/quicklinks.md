@@ -8,7 +8,7 @@ miscellaneous stuff for my own reference
 ## AH searches
 
 - **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1)
-	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6&collapse=1&sort=name_desc)
+	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc)
 	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
@@ -51,9 +51,9 @@ Blooming Grove | <u>Mossy Pohip</u>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | **Deeprealm Hunter, Highfin Sea Serpent, <u>Spiney Whale</u>, Redfin Wavespinner, Maren Sorceress**
 Waterway | Sewer Toridae
-Arena | <u>Undying Featherback</u>, Armored Greatowl, Greenwing Razorclaw
-Volcanic Vents | **Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
-Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>, Hippocampus
+Arena | <u>Undying Featherback</u>
+Volcanic Vents | **Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
+Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
