@@ -7,7 +7,7 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6&collapse=1)
+- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1)
 	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc)
 	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
@@ -113,11 +113,12 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>11</td><td>Reverb</td></tr>
 		<tr><td>12</td><td>[screaming meanie]</td></tr>
 		<tr><td>14</td><td>Crux</td></tr>
-		<tr><td>15</td><td>Falsework</td></tr>
+		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td>16</td><td>Reprise</td></tr>
 		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td>03</td><td>19</td><td>anandte2</td></tr>
+		<tr><td>04</td><td>05</td><td>King</td></tr>
 	</tbody>
 </table>
