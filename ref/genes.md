@@ -6,10 +6,10 @@ class: itemlist genes
 Copied from the [Game Database](https://www1.flightrising.com/game-database/items/specialty), resorted by item type and with obtaining methods listed for quick reference.
 
 - Item names link to the database entry, which shows availability automatically.
-- Treasure items use the maximum dom discount prices (15% off, or normalPrice x 0.85). Spreadsheet of mathematical validation [here](https://docs.google.com/spreadsheets/d/1k9E23wqG4gmIyocG0TDNtXGx1j_ooa83qSYmTiYh6Cg/edit?usp=sharing).
+- Treasure items use the maximum dom discount prices (15% off, or normalPrice × 0.85). Spreadsheet of mathematical validation [here](https://docs.google.com/spreadsheets/d/1k9E23wqG4gmIyocG0TDNtXGx1j_ooa83qSYmTiYh6Cg/edit?usp=sharing).
 - Coliseum items have a chance to drop from any venue.
 
-{%include tip.html txt="<p>Flight never wins dominance? Want a Baldwin gene you’re underleveled for? Consider checking <a href='https://www1.flightrising.com/forums/ibaz'>the Item Sales forum</a> for user-run shops! Look out for keywords like <b>dom shop</b> and <strong>brew</strong> or <b>cauldron</b>, respectively.</p>"%}
+{%include tip.html txt="<p>Flight never wins dominance? Want a Baldwin gene you’re underleveled for? Checking <a href='https://www1.flightrising.com/forums/ibaz'>the Item Sales forum</a> for user-run shops! Look out for keywords like <b>dom shop</b> and <strong>brew</strong> or <b>cauldron</b>, respectively.</p>"%}
 
 <i>[Ancient breeds](https://www1.flightrising.com/forums/ann/2666061)</i> have separate, often cheaper genes than the other ("modern") breeds. Not all modern genes have an ancient equivalent and vice versa.
 
@@ -254,6 +254,7 @@ item | lvl | ingredients
 <i>[Secondary Gene: <b>Trail (Banescale)</b>](https://www1.flightrising.com/game-database/item/32539)</i> | 24 | x1 Imbued Sulfur, x2 Red Ooze, x1 Silver Muck, x4 Seaside Trumpet
 <i>[Secondary Gene: <b>Trail (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30167)</i> | 22 | x1 Imbued Sulfur, x2 Purple Ooze, x1 Gold Muck, x4 Seaside Trumpet
 [Tertiary Gene: <b>Capsule</b>](https://www1.flightrising.com/game-database/item/23168) | 19 | x3 Silver Muck, x2 Grey Slime, x4 Orange Sludge, x3 Yellow Ooze, x1 Reinforced Glass Beaker
+[Tertiary Gene: <b>Keel</b>](https://www1.flightrising.com/game-database/item/34031) | 25 | x2 Gold Muck, x2 Grey Slime, x3 Orange Ooze, x5 [Overly-Engineered Buckler](https://www1.flightrising.com/game-database/item/33336), x1 Reinforced Glass Beaker
 <i>[Tertiary Gene: <b>Porcupine (Banescale)</b>](https://www1.flightrising.com/game-database/item/32561)</i> | 24 | x2 [Infused Fragment](https://www1.flightrising.com/game-database/item/15132), x2 Irradiated Alchemical Reduction, x1 Black Slime, x3 Red Sludge, x1 Reinforced Glass Beaker
 [Tertiary Gene: <b>Scales</b>](https://www1.flightrising.com/game-database/item/19568) | 7 | x3 Silver Muck, x2 Black Slime, x6 Yellow Sludge, x7 Green Goo, x1 Glass Beaker
 <i>[Tertiary Gene: <b>Scorpion (Gaoler)</b>](https://www1.flightrising.com/game-database/item/30283) | 22 | x2 Infused Fragment, x2 Irradiated Alchemicalr Reduction, x1 Grey Slime, x3 Orange Ooze, x1 Reinforced Glass Beaker
