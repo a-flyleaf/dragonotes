@@ -185,6 +185,7 @@ treasure | [Gembond](https://www1.flightrising.com/game-database/item/1228) | 17
 treasure | [Ghost](https://www1.flightrising.com/game-database/item/25782) | 136,000T
 treasure | <i>[Ghost (ancient)](https://www1.flightrising.com/game-database/items/specialty?name=ghost+%28)</i> | 68,000T
 gems | [Glimmer](https://www1.flightrising.com/game-database/item/11810) | 1,200g
+gems | [Glowtail](https://www1.flightrising.com/game-database/item/34374) | 1,200g
 gems | <i>[Gnarlhorns (Gaoler)](https://www1.flightrising.com/game-database/item/30156)</i> | 500g
 treasure | [Lace](https://www1.flightrising.com/game-database/item/20107) | 131,750T
 treasure | <i>[Lace (Banescale)](https://www1.flightrising.com/game-database/item/32556)</i> | 65,875T
