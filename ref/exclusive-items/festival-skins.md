@@ -101,8 +101,18 @@ Fancy formatting and/or links coming later, maybe.
 		- \* [these](https://www1.flightrising.com/game-database/item/33515) are [not typos](https://www1.flightrising.com/game-database/item/33522) \| \*\* [missing a space in the name](https://www1.flightrising.com/game-database/item/33517)
 	- **Mistral Jamboree:** Kite party, Imposter of Winds, Breeze Ribbon, Cartografae, Featherbound Wayfarer, Esteemed Aeromancer, Wind's Grace, Soaring Wayfarer, Pipe Dreams, Here Be Dragons, Whirlwind Markings, Trade Winds, Paper Airplane, flow
 	- **Wavecrest Saturnalia:** Lagoona Queen, Floral Squid M, Halitrephes, Wave From Neptune, Mariner's Guidance, Father's Affection, Ancient Highfin, Octomane, Sunset Jelly, Ghost Ship, Koi Medium, Coral pearl drops, Sharkbite, Jewels of the Kraken
+	- **Greenskeeper Gathering:** Cephalotus, Neon tropics, Loveblooms Eternal, Ancient tree, Fauna de la lune, Araceae Seviera, Grow Nouveau, Autumnal Vagrant, Floral Overgrowth, Barkhide, Harvest Celebration, Caladium Queen, Mother's Guard, Nature's Breeze
 	
 	--**WE ARE HERE**--
-	- Greenskeeper Gathering
 - 2020/2021
-	- Brightshine Jubilee?
+	- Brightshine Jubilee
+	- Thundercrack Carnivale
+	- Flameforger's Festival
+	- Starfall Celebration
+	- Riot of Rot
+	- Rockbreaker's Ceremony
+	- Crystalline Gala
+	- Trickmurk Circus
+	- Mistral Jamboree
+	- Wavecrest Saturnalia
+	- Greenskeeper Gathering
