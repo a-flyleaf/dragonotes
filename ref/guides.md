@@ -24,7 +24,7 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 	
 - **[Coli Builds 2.0](https://www1.flightrising.com/forums/gde/2441268)**
 	
-	Once you get the hang of the Coliseum (see below), here's a comprehensive linkhub of different ways to stat your dragons.
+	Once you get the hang of the Coliseum (see below), here's a comprehensive linkhub of different ways to stat your dragons. Also see the [updated best element per venue listing](https://www1.flightrising.com/forums/gde/2858083).
 
 - **[Familiar Tracker for collectors](https://www1.flightrising.com/forums/gde/2158659)**
 	

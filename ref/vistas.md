@@ -97,6 +97,7 @@ Some venues were revamped after the release of public vistas, hence the multiple
 1. [Mire](https://www1.flightrising.com/game-database/item/18347)
 1. [Golem Workshop](https://www1.flightrising.com/game-database/item/18349)
 1. [Kelp Beds](https://www1.flightrising.com/game-database/item/18348)
+1. [Forbidden Portal](https://www1.flightrising.com/game-database/item/34763)
 
 ## Exclusive
 
