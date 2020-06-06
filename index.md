@@ -17,7 +17,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] dom badges
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
-	- [x] [wishlist]({%include url.html%}/about/wishlist)
+	- [x] [goals/wishlist]({%include url.html%}/about/goals)
 - [ ] Lore
 	- [ ] general notes
 	- [ ] dragon profiles

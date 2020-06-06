@@ -35,7 +35,7 @@ NO digging/foraging/scavenging
 
 should have its own about/ page eventually
 
-- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/566#post_41938303)
+- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/565#post_41938303)
 - later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206), [Fodderlocke](https://www1.flightrising.com/forums/qnc/2806527)
 - badge tracker: [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
 
@@ -107,18 +107,25 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="12">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td rowspan="20">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
 		<tr><td>11</td><td>Reverb</td></tr>
-		<tr><td>12</td><td>[screaming meanie]</td></tr>
+		<tr><td>12</td><td>[cyanA]</td></tr>
 		<tr><td>14</td><td>Crux</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td>16</td><td>Reprise</td></tr>
 		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
-		<tr><td>03</td><td>19</td><td>anandte2</td></tr>
-		<tr><td>04</td><td>05</td><td>King</td></tr>
+		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
+		<tr><td>09</td><td>[cyanB]</td></tr>
+		<tr><td rowspan="5">04</td><td>04</td><td>[cyanAB], [cyanC], [cyanD]</td></tr>
+		<tr><td>05</td><td>King</td></tr>
+		<tr><td>16</td><td>[tapir]</td></tr>
+		<tr><td>18</td><td>Seren</td></tr>
+		<tr><td>20</td><td>Pumpkin [cyanE]</td></tr>
+		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
+		<tr><td>28</td><td>Miasma</td></tr>
 	</tbody>
 </table>
