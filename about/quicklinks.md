@@ -28,7 +28,7 @@ NO digging/foraging/scavenging
 ## fest haul
 
 - **~570kT** (490kT skins + 80kT crate)
-- x190 fest currency
+- x240 fest currency (2 scenes; normally 190)
 - x3 tokens (crate + baldwin)
 
 ## tracking
@@ -111,7 +111,7 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
 		<tr><td>11</td><td>Reverb</td></tr>
-		<tr><td>12</td><td>[cyanA]</td></tr>
+		<tr><td>12</td><td>[neonA]</td></tr>
 		<tr><td>14</td><td>Crux</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td>16</td><td>Reprise</td></tr>
@@ -119,12 +119,12 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
-		<tr><td>09</td><td>[cyanB]</td></tr>
-		<tr><td rowspan="5">04</td><td>04</td><td>[cyanAB], [cyanC], [cyanD]</td></tr>
+		<tr><td>09</td><td>[neonB]</td></tr>
+		<tr><td rowspan="5">04</td><td>04</td><td>[neonAB], [neonC], [neonD]</td></tr>
 		<tr><td>05</td><td>King</td></tr>
 		<tr><td>16</td><td>[tapir]</td></tr>
 		<tr><td>18</td><td>Seren</td></tr>
-		<tr><td>20</td><td>Pumpkin [cyanE]</td></tr>
+		<tr><td>20</td><td>Pumpkin [neonE]</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td>Miasma</td></tr>
 	</tbody>
