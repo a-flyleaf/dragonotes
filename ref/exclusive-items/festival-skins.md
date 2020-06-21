@@ -7,7 +7,7 @@ The festival cycle begins with Brightshine Jubilee (Light) in **June**, and ends
 
 Follows the same order as IDs; some of the onsite descriptions are out of order.
 
-{%include pagenav.html links="<ul><li><a href='#2013-14'>2013–14</a></li><li><a href='#2014-15'>2014–15</a></li><li><a href='#2015-16'>2015–16</a></li><li><a href='#2017-18'>2017–18</a></li><li><a href='#2018-19'>2018–19</a></li><li><a href='#2019-20'>2019–20</a></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#2013-14'>2013–14</a></li><li><a href='#2014-15'>2014–15</a></li><li><a href='#2015-16'>2015–16</a></li><li><a href='#2017-18'>2017–18</a></li><li><a href='#2018-19'>2018–19</a></li><li><a href='#2019-20'>2019–20</a></li><li><a href='#2020-21'>2020–21</a></li></ul>"%}
 
 Fancy formatting and/or links coming later, maybe.
 
@@ -102,10 +102,10 @@ Fancy formatting and/or links coming later, maybe.
 	- **Mistral Jamboree:** Kite party, Imposter of Winds, Breeze Ribbon, Cartografae, Featherbound Wayfarer, Esteemed Aeromancer, Wind's Grace, Soaring Wayfarer, Pipe Dreams, Here Be Dragons, Whirlwind Markings, Trade Winds, Paper Airplane, flow
 	- **Wavecrest Saturnalia:** Lagoona Queen, Floral Squid M, Halitrephes, Wave From Neptune, Mariner's Guidance, Father's Affection, Ancient Highfin, Octomane, Sunset Jelly, Ghost Ship, Koi Medium, Coral pearl drops, Sharkbite, Jewels of the Kraken
 	- **Greenskeeper Gathering:** Cephalotus, Neon tropics, Loveblooms Eternal, Ancient tree, Fauna de la lune, Araceae Seviera, Grow Nouveau, Autumnal Vagrant, Floral Overgrowth, Barkhide, Harvest Celebration, Caladium Queen, Mother's Guard, Nature's Breeze
+- <span id="2019-20">2019–2020</span>
+	- **Brightshine Jubilee:** Affero Lucem, Behold the Sun, Liberator, Sun's First Rays, Breath of Light, Prismatic Sunrise, Starpiece, Shepherd's Beacon, Ichor Breakout, Glow Away, Shining Crystalclouds, Brilliant Ruin, Ethereal Observer, Syrah
 	
 	--**WE ARE HERE**--
-- 2020/2021
-	- Brightshine Jubilee
 	- Thundercrack Carnivale
 	- Flameforger's Festival
 	- Starfall Celebration
