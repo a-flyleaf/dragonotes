@@ -42,6 +42,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [x] [Genes]({%include url.html%}/ref/genes)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
+	- [ ] Scenes
 	- [x] [Vistas]({%include url.html%}/ref/vistas)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- [ ] actually customize the layout
