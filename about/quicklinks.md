@@ -16,12 +16,12 @@ miscellaneous stuff for my own reference
 
 ## gathering
 
-- hunting: shadow/arcane
-	- onyx & opal cobras (x90 **maned cobra**), black swan (x40 vista)
+- hunting: arcane
+	- onyx cobra (x90 **maned cobra**), black swan (x40 vista)
 - fishing: earth/ice/light/nature
 	- **hippojay**
-- insect catching: anywhere BUT plague/wind/arcane/fire
-	- dragonfly (x20 **vermillion epiptite**), giant darner (x20 **longwing eppiptite**)
+- insect catching: lightning/ice/shadow
+	- giant darner (x20 **longwing eppiptite**)
 
 NO digging/foraging/scavenging
 
@@ -35,9 +35,9 @@ NO digging/foraging/scavenging
 
 should have its own about/ page eventually
 
-- [Long Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1971573/565#post_41938303)
+- [Long Drop Coliseum Challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent)
 - later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206), [Fodderlocke](https://www1.flightrising.com/forums/qnc/2806527)
-- badge tracker: [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
+- badges on [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
 
 ### coli fams
 
@@ -49,7 +49,7 @@ Blooming Grove | <u>Mossy Pohip</u>
 ~~Forgotten Cave~~ | <s>✓</s>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | **Deeprealm Hunter, Highfin Sea Serpent, <u>Spiney Whale</u>, Redfin Wavespinner, Maren Sorceress**
+Redrock Cove | **<u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch**
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | **Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
@@ -61,6 +61,7 @@ Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
 ~~Mire~~ | <s>✓</s>
 Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate Longmech, Longmech, Tribeam Hunter, Tribeam Lurker, Jelly Drone, Workshop Monitor, Gearspring Pocketmouse, Wind-Up Pocketmouse, Robotic Tender, Mechanical Destroyer**
 ~~Kelp Beds~~ | <s>✓</s>
+Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern**
 
 ### dragon order
 
@@ -107,25 +108,20 @@ Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate
 		<tr><td>27</td><td>[stormynoc]</td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="20">2020</td><td rowspan="9">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td rowspan="20">2020</td><td rowspan="6">01</td><td>02</td><td>Chromatic</td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
-		<tr><td>11</td><td>Reverb</td></tr>
 		<tr><td>12</td><td>[neonA]</td></tr>
-		<tr><td>14</td><td>Crux</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
-		<tr><td>16</td><td>Reprise</td></tr>
-		<tr><td>17</td><td>Norbera, [pinkbane], Tzopilotl, Kima</td></tr>
+		<tr><td>17</td><td>[pinkbane], Tzopilotl, Kima</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
 		<tr><td>09</td><td>[neonB]</td></tr>
-		<tr><td rowspan="5">04</td><td>04</td><td>[neonAB], [neonC], [neonD]</td></tr>
-		<tr><td>05</td><td>King</td></tr>
+		<tr><td rowspan="3">04</td><td>04</td><td>[neonAB], [neonC], [neonD]</td></tr>
 		<tr><td>16</td><td>[tapir]</td></tr>
-		<tr><td>18</td><td>Seren</td></tr>
 		<tr><td>20</td><td>Pumpkin [neonE]</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
-		<tr><td>28</td><td>Miasma</td></tr>
+		<tr><td>28</td><td><s>Miasma</s></td></tr>
 	</tbody>
 </table>
