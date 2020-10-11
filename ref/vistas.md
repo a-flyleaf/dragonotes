@@ -33,6 +33,7 @@ Obtainable vistas copied from the [Game Database](https://www1.flightrising.com/
 [Lantern Forest](https://www1.flightrising.com/game-database/item/18309) | [600g](https://flightrising.com/main.php?p=market&type=1&tab=spec)
 [Lovebirds](https://www1.flightrising.com/game-database/item/21524)\* | 250kT
 [Night Sky](https://www1.flightrising.com/game-database/item/23515) | [600g](https://flightrising.com/main.php?p=market&type=1&tab=spec)
+[Pirate's Life](https://www1.flightrising.com/game-database/item/35960)\* | 250kT
 [Rainy Day](https://www1.flightrising.com/game-database/item/18310)\* | [600g](https://flightrising.com/main.php?p=market&type=1&tab=spec)
 [Snowy Owl](https://www1.flightrising.com/game-database/item/27381) | 175kT
 [Solar](https://www1.flightrising.com/game-database/item/23516) | [600g](https://flightrising.com/main.php?p=market&type=1&tab=spec)
