@@ -104,11 +104,11 @@ Fancy formatting and/or links coming later, maybe.
 	- **Greenskeeper Gathering:** Cephalotus, Neon tropics, Loveblooms Eternal, Ancient tree, Fauna de la lune, Araceae Seviera, Grow Nouveau, Autumnal Vagrant, Floral Overgrowth, Barkhide, Harvest Celebration, Caladium Queen, Mother's Guard, Nature's Breeze
 - <span id="2019-20">2019–2020</span>
 	- **Brightshine Jubilee:** Affero Lucem, Behold the Sun, Liberator, Sun's First Rays, Breath of Light, Prismatic Sunrise, Starpiece, Shepherd's Beacon, Ichor Breakout, Glow Away, Shining Crystalclouds, Brilliant Ruin, Ethereal Observer, Syrah
+	- **Thundercrack Carnivale:** Ancient Technology, Handy Ma'am, Abandoned Factory, Storm Current, Gamer Girl, Sssstrike!, Rainbow Lightning, Lightning Fish, Clockwork Assistant, Tesla Coil, Porcelain Automaton, Circuitattoos, Coiled Cables, Lurker
+	- **Flameforger's Festival:** The Elder's Fall, Solar Flare, Lavadrop Bombardier, Magma Heart, Golden Lord, Fiery blossoms, Molten Velvet, FireFire, Where There's Smoke, Wings of Firebird, Igniting Feathers, Firebird's Favorite, Tete brule, Flowers of fire
+	- **Starfall Celebration:** Arc Construct, Spellcaster's Hubris, Starsighted, Sweet Star Fae, Dreamland, Shattered Galactic Wings, Starwood Glass, Outer Being, Crystal Spinocturne, Arcane Alterations, Novatorn, Star Garden, Zodiac Hula Hoops, Potion Accident
 	
 	--**WE ARE HERE**--
-	- Thundercrack Carnivale
-	- Flameforger's Festival
-	- Starfall Celebration
 	- Riot of Rot
 	- Rockbreaker's Ceremony
 	- Crystalline Gala
