@@ -3,6 +3,9 @@ layout: default
 title: How to Gene Your Dragon
 class: itemlist genes
 ---
+<!--I should probably just turn this whole thing into a spreadsheet because damn is it hard to reference as-is-->
+
+
 Copied from the [Game Database](https://www1.flightrising.com/game-database/items/specialty), resorted by item type and with obtaining methods listed for quick reference.
 
 - Item names link to the database entry, which shows availability automatically.
@@ -77,6 +80,7 @@ treasure | [Lionfish](https://www1.flightrising.com/game-database/item/28068) | 
 treasure | <i>[Marble (Banescale)](https://www1.flightrising.com/game-database/item/32527)</i> | 76,500T
 gems | [Metallic](https://www1.flightrising.com/game-database/item/19567) | 1,500g
 gems | <i>[Metallic (Banescale)](https://www1.flightrising.com/game-database/item/32529)</i> | 750g
+treasure | [Mosaic](https://www1.flightrising.com/game-database/item/35367) | 127,600T
 treasure | <i>[Mosaic (Gaoler)](https://www1.flightrising.com/game-database/item/30281) | 127,500T
 gems | [Petals](https://www1.flightrising.com/game-database/item/17365) | 1,500g
 gems | <i>[Petals (Banescale)](https://www1.flightrising.com/game-database/item/32531)</i> | 750g
@@ -98,6 +102,7 @@ treasure | <i>[Shaggy (Gaoler)](https://www1.flightrising.com/game-database/item
 [baldwin](#baldwin-recipes) | [Slime](https://www1.flightrising.com/game-database/item/31638) | 100,000T
 treasure | [Speckle](https://www1.flightrising.com/game-database/item/833) | 106,250T
 gems | [Starmap](https://www1.flightrising.com/game-database/item/26607) | 1,500g
+[baldwin](#baldwin-recipes) | [Stitched](https://www1.flightrising.com/game-database/item/35873) | 100,000T
 treasure | [Swirl](https://www1.flightrising.com/game-database/item/33633) | 127,500T
 treasure | [Tapir](https://www1.flightrising.com/game-database/item/24608) | 157,250T
 treasure | <i>[Tapir (Gaoler)](https://www1.flightrising.com/game-database/item/30216)</i> | 78,625T
@@ -117,6 +122,7 @@ treasure | <i>[Arrow (Banescale)](https://www1.flightrising.com/game-database/it
 gems | [Bee](https://www1.flightrising.com/game-database/item/24311) | 1,200g
 gems | <i>[Bee (Gaoler)](https://www1.flightrising.com/game-database/item/30147)</i> | 600g
 treasure | [Blend](https://www1.flightrising.com/game-database/item/32413) | 85,000T
+treasure | [Breakup](https://www1.flightrising.com/game-database/item/35368) | 170,000T
 treasure | <i>[Breakup (Gaoler)](https://www1.flightrising.com/game-database/item/30282)</i> | 85,000T
 gems | [Butterfly](https://www1.flightrising.com/game-database/item/14758) | 1,200g
 gems | <i>[Butterfly (Banescale)](https://www1.flightrising.com/game-database/item/32545)</i> | 600g
@@ -140,6 +146,7 @@ treasure | <i>[Mottle (Banescale)](https://www1.flightrising.com/game-database/i
 treasure | [Noxtide](https://www1.flightrising.com/game-database/item/28080) | 144,500T
 treasure | [Paint](https://www1.flightrising.com/game-database/item/12274) | 140,250T
 treasure | <i>[Paint (Gaoler)](https://www1.flightrising.com/game-database/item/30165)</i> | 70,125T
+[baldwin](#baldwin-recipes) | [Patchwork](https://www1.flightrising.com/game-database/item/35874) | 100,000T
 treasure | [Peregrine](https://www1.flightrising.com/game-database/item/12726) | 119,000T
 treasure | <i>[Peregrine (Gaoler)](https://www1.flightrising.com/game-database/item/30162)</i> | 59,500T
 treasure | [Rosette](https://www1.flightrising.com/game-database/item/23239) | 42,500T
@@ -171,6 +178,7 @@ treasure | <i>[Tear (Banescale)](https://www1.flightrising.com/game-database/ite
 via | <span class="redundant">tertiary gene:</span> | price
 --- | ---
 [swipp](#swipp-materials) | <i>[Blossom (Gaoler)](https://www1.flightrising.com/game-database/item/30955)</i> | <span style="opacity:.5">n/a</span>
+treasure | <i>[Braids (Gaoler)](https://www1.flightrising.com/game-database/item/35005)</i> | 72,250T
 [baldwin](#baldwin-recipes) | [Capsule](https://www1.flightrising.com/game-database/item/23168) | 110,000T
 gems | [Circuit](https://www1.flightrising.com/game-database/item/566) | 1,200g
 treasure | [Contour](https://www1.flightrising.com/game-database/item/17664) | 127,500T
@@ -246,10 +254,12 @@ item | lvl | ingredients
 [Primary Gene: <b>Skink</b>](https://www1.flightrising.com/game-database/item/19142) | 8 | x2 Silver Muck, x2 Grey Slime, x8 Yellow Ooze, x8 Orange Ooze, x1 [Glass Beaker](https://www1.flightrising.com/game-database/item/10868)
 <i>[Primary Gene: <b>Skink (Banescale)</b>](https://www1.flightrising.com/game-database/item/32532)</i> | 23 | x1 Silver Muck, x1 Grey Slime, x4 Yellow Ooze, x4 Orange Ooze, x1 Glass Beaker
 [Primary Gene: <b>Slime</b>](https://www1.flightrising.com/game-database/item/31638) | 22 | x2 Grey Slime, x2 Gold Muck, x1 Blue Ooze, x1 [Radioactive Slime](https://www1.flightrising.com/game-database/item/638), x1 [Reinforced Glass Beaker](https://www1.flightrising.com/game-database/item/19444)
+[Primary Gene: <b>Stitched</b>](https://www1.flightrising.com/game-database/item/35873) | 14 | x2 [Sizzling Phosphorus](https://www1.flightrising.com/game-database/item/10883), x2 Silver Muck, x2 Black Slime, x4 Orange Goo, x15 [Igueel Leather](https://www1.flightrising.com/game-database/item/35761)
+[Secondary Gene: <b>Patchwork</b>](https://www1.flightrising.com/game-database/item/35874) | 14 | x2 Sizzling Phosphorus, x2 Gold Muck, x2 White Slime, x4 Orange Sludge, x15 [Toxic Igueel Fan](https://www1.flightrising.com/game-database/item/35760)
 [Secondary Gene: <b>Sludge</b>](https://www1.flightrising.com/game-database/item/31639) | 22 | x2 Copper Muck, x2 Black Slime, x1 Blue Goo, x1 [River Muck](https://www1.flightrising.com/game-database/item/637), x1 Reinforced Glass Beaker
 [Secondary Gene: <b>Spinner</b>](https://www1.flightrising.com/game-database/item/19143) | 8 | x2 Gold Muck, x2 White Slime, x4 Red Ooze, x8 Orange Sludge, x1 Glass Beaker
 <i>[Secondary Gene: <b>Spinner (Banescale)</b>](https://www1.flightrising.com/game-database/item/32546) | 23 | x1 Gold Muck, x1 White Slime, x2 Red Ooze, x4 Orange Sludge, x1 Glass Beaker
-[Secondary Gene: <b>Toxin</b>](https://www1.flightrising.com/game-database/item/14099) | 10 | x2 Gold Muck, x2 White slime, x1 Blue Sludge, x2 [Sizzling Phosphorus](https://www1.flightrising.com/game-database/item/10883), x20 [Unstable Serthis Collection](https://www1.flightrising.com/game-database/item/6351)
+[Secondary Gene: <b>Toxin</b>](https://www1.flightrising.com/game-database/item/14099) | 10 | x2 Gold Muck, x2 White slime, x1 Blue Sludge, x2 Sizzling Phosphorus, x20 [Unstable Serthis Collection](https://www1.flightrising.com/game-database/item/6351)
 <i>[Secondary Gene: <b>Toxin (Banescale)</b>](https://www1.flightrising.com/game-database/item/32547)</i> | 24 | x1 Gold Muck, x1 White Slime, x1 Blue Sludge, x1 Sizzling Phosphorus, x10 Unstable Serthis Collection
 [Secondary Gene: <b>Trail</b>](https://www1.flightrising.com/game-database/item/25468) | 20 | x1 Imbued Sulfur, x1 Blue Ooze, x2 Silver Muck, x8 [Seaside Trumpet](https://www1.flightrising.com/game-database/item/25315)
 <i>[Secondary Gene: <b>Trail (Banescale)</b>](https://www1.flightrising.com/game-database/item/32539)</i> | 24 | x1 Imbued Sulfur, x2 Red Ooze, x1 Silver Muck, x4 Seaside Trumpet
