@@ -86,7 +86,7 @@ One of each unless otherwise noted.
 - **2017**: Frostbitten Fugitive, Frigid Flight; Fallen Angel; It Rained Whole Day; Sol Seraph (x2), By Light Be Purged; Plasmatronicoatl, Bogsmog, Molten Vein (x2), Queen of Cinders
 - **2018:** Dark Generation (x2); Iron Stomach, Heraldic Pyre, Plasma Professor; Mandarinfish Fins, Hyaline, Noodlebranch; Rejuvinate (x2); Quiescence; I Hunger, Mutilated Horror; Hoarding Behaviour, Precious Veins, From the Depths, WrappedTurquoise, Fumarole Frieze, Oil Slick, Earth's Guise; Frozen Figure
 - **2019:** Prismatic Winter Coat; Windfeather; Abyssal Attire; Brush of Wings, Veiled Valley, Verdant Adaptations; Enchanted Collector; Lichtenberg, Electric core; All Eyes on You, Exossein, Battlefield menace
-- **2020:** the curse of the Midas; Frost Chrysalis, Dry ice; Moonlit glas, Fake Out, Vanishing Act, Like Moths to Smoke, Encroaching Shadows; Neon tropics, Autumnal Vagrant;
+- **2020:** the curse of the Midas; Frost Chrysalis, Dry ice; Moonlit glas, Fake Out, Vanishing Act, Like Moths to Smoke, Encroaching Shadows; Neon tropics, Autumnal Vagrant; Vanitas
 
 ## fest gear
 

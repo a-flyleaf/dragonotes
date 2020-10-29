@@ -107,9 +107,9 @@ Fancy formatting and/or links coming later, maybe.
 	- **Thundercrack Carnivale:** Ancient Technology, Handy Ma'am, Abandoned Factory, Storm Current, Gamer Girl, Sssstrike!, Rainbow Lightning, Lightning Fish, Clockwork Assistant, Tesla Coil, Porcelain Automaton, Circuitattoos, Coiled Cables, Lurker
 	- **Flameforger's Festival:** The Elder's Fall, Solar Flare, Lavadrop Bombardier, Magma Heart, Golden Lord, Fiery blossoms, Molten Velvet, FireFire, Where There's Smoke, Wings of Firebird, Igniting Feathers, Firebird's Favorite, Tete brule, Flowers of fire
 	- **Starfall Celebration:** Arc Construct, Spellcaster's Hubris, Starsighted, Sweet Star Fae, Dreamland, Shattered Galactic Wings, Starwood Glass, Outer Being, Crystal Spinocturne, Arcane Alterations, Novatorn, Star Garden, Zodiac Hula Hoops, Potion Accident
+	- **Riot of Rot:** Mycelium Maestro, Fae Decay, Lycogala Filigree, Helicoprinus, Queenly Carapace, Graveyard Spoils, Vanitas, Boneyard Gnawer, WyrmwundBorn, Curse of the Slain, Wormtongue, All Ears, Spore Ribs, Zombie Veins
 	
 	--**WE ARE HERE**--
-	- Riot of Rot
 	- Rockbreaker's Ceremony
 	- Crystalline Gala
 	- Trickmurk Circus
