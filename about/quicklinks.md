@@ -46,7 +46,7 @@ should have its own about/ page eventually
 ~~Scorched Forest~~ | <s>✓</s>
 ~~Sandswept Delta~~ | <s>✓</s>
 Blooming Grove | <u>Mossy Pohip</u>
-~~Forgotten Cave~~ | <s>✓</s>
+Forgotten Cave | **Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden**
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | **<u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch**
