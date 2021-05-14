@@ -17,7 +17,7 @@ miscellaneous stuff for my own reference
 ## gathering
 
 - hunting: arcane
-	- onyx cobra (x90 **maned cobra**), black swan (x40 vista)
+	- ~~onyx cobra (x90 maned cobra), black swan (x40 vista)~~ (gathered, need to trade)
 - fishing: earth/ice/light/nature
 	- **hippojay**
 - insect catching: lightning/ice/shadow
@@ -99,22 +99,22 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td rowspan="10">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
-		<tr><td>25</td><td>Crake</td></tr>
-		<tr><td rowspan="6">12</td><td>09</td><td>Andante, Vivace<s>, Hestia</s></td></tr>
-		<tr><td>11</td><td><s>Holly</s>, !Sempre</td></tr>
-		<tr><td>16</td><td>Trill, Glissando, Contralto</td></tr>
+		<tr><td>25</td><td><s>Crake</s></td></tr>
+		<tr><td rowspan="6">12</td><td>09</td><td><s>Andante, Vivace, Hestia</s></td></tr>
+		<tr><td>11</td><td><s>Holly, !Sempre</s></td></tr>
+		<tr><td>16</td><td>Trill<s>, Glissando, Contralto</s></td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>23</td><td>[daevauscale]</td></tr>
-		<tr><td>27</td><td>[stormynoc]</td></tr>
+		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="20">2020</td><td rowspan="6">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td>Chromatic</td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
 		<tr><td>12</td><td>[neonA]</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td>17</td><td>[pinkbane], Tzopilotl, Kima</td></tr>
-		<tr><td rowspan="2">02</td><td>03</td><td>Staccato</td></tr>
+		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
 		<tr><td>09</td><td>[neonB]</td></tr>
@@ -123,5 +123,7 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td>20</td><td>Pumpkin [neonE]</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
+		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
+	<tbody><tr><td>2021</td><td>01</td><td>21</td><td>Mallow</td></tr></tbody>
 	</tbody>
 </table>
