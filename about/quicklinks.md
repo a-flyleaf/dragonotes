@@ -16,20 +16,12 @@ miscellaneous stuff for my own reference
 
 ## gathering
 
-- hunting: arcane
-	- ~~onyx cobra (x90 maned cobra), black swan (x40 vista)~~ (gathered, need to trade)
 - fishing: earth/ice/light/nature
 	- **hippojay**
 - insect catching: lightning/ice/shadow
-	- giant darner (x20 **longwing eppiptite**)
+	- giant darner (x20 **longwing epiptite**)
 
-NO digging/foraging/scavenging
-
-## fest haul
-
-- **~570kT** (490kT skins + 80kT crate)
-- x240 fest currency (2 scenes; normally 190)
-- x3 tokens (crate + baldwin)
+NO hunting/digging/foraging/scavenging; hunting items gathered, trades pending
 
 ## tracking
 
@@ -49,7 +41,7 @@ Blooming Grove | <u>Mossy Pohip</u>
 Forgotten Cave | **Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden**
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | **<u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch**
+Redrock Cove | **<u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Surf Strider, Coast Charger, Toxic Igueel, Igueel Matriarch**
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | **Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
@@ -124,6 +116,6 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
-	<tbody><tr><td>2021</td><td>01</td><td>21</td><td>Mallow</td></tr></tbody>
+	<tbody><tr><td>2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr></tbody>
 	</tbody>
 </table>
