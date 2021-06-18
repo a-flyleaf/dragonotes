@@ -94,13 +94,13 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td>25</td><td><s>Crake</s></td></tr>
 		<tr><td rowspan="6">12</td><td>09</td><td><s>Andante, Vivace, Hestia</s></td></tr>
 		<tr><td>11</td><td><s>Holly, !Sempre</s></td></tr>
-		<tr><td>16</td><td>Trill<s>, Glissando, Contralto</s></td></tr>
+		<tr><td>16</td><td><s>Trill, Glissando, Contralto</s></td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>23</td><td>[daevauscale]</td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td>Chromatic</td></tr>
+		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
 		<tr><td>12</td><td>[neonA]</td></tr>
