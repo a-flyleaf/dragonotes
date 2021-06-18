@@ -21,7 +21,7 @@ miscellaneous stuff for my own reference
 - insect catching: lightning/ice/shadow
 	- giant darner (x20 **longwing epiptite**)
 
-NO hunting/digging/foraging/scavenging; hunting items gathered, trades pending
+NO hunting/digging/foraging/scavenging
 
 ## tracking
 
@@ -116,6 +116,9 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
-	<tbody><tr><td>2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr></tbody>
+	<tbody>
+		<tr><td rowspan="2">2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr>
+		<tr><td>06</td><td>17</td><td>Seafoam</td></tr>
+	</tbody>
 	</tbody>
 </table>
