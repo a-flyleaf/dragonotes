@@ -13,14 +13,12 @@ KEY: baldwin\* *swipp* **treasure**
 
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
-["Beat"](https://flightrising.com/main.php?dragon=50340433) | permabab | **piebald** | trail\* | **crackle**
+["Beat"](https://flightrising.com/main.php?dragon=50340433) | | **piebald** | trail\* | **crackle**
 [Serena](https://flightrising.com/main.php?dragon=51317268) | | **falcon** | trail\* | opal
 ["Shadow"](https://flightrising.com/main.php?dragon=56514106) | | slime\* | sludge\* | stained?
-[Levi](https://flightrising.com/main.php?dragon=50610501) | coatl, dark sclera | **lionfish** | **noxtide** | **spines**
+[Levi](https://flightrising.com/main.php?dragon=50610501) | coatl | **lionfish** | **noxtide** | **spines**
 [Enter](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap
 [Tab](https://flightrising.com/main.php?dragon=60290700) | glowing | **basic** | facet | circuit
-[Trill](https://flightrising.com/main.php?dragon=57625604) | | | | *squiggle*
-[Contralto](https://flightrising.com/main.php?dragon=57364249) | | | butterfly | *squiggle*
 
 ## fest skins
 
@@ -75,6 +73,7 @@ From Greenskeeper Gathering 2014 onwards I *have* more skins than I *don't.* My 
 	- **Thundercrack Carnivale:** [Ancient Technology](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Ancient+Technology), [Handy Ma'am](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Handy+Ma%27am), [Storm Current](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Storm+Current), [Gamer Girl](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Gamer+Girl), [Sssstrike!](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Sssstrike%21) x2<!--Enter-->, [Clockwork Assistant](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Clockwork+Assistant), [Tesla Coil](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Tesla+Coil), [Circuitattoos](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Circuitattoos), [Coiled Cables](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Coiled+Cables) x2<!--invalidValue-->, [Lurker](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Lurker)
 	- **Flameforger's Festival:** [The Elder's Fall](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+The+Elder%27s+Fall), [Solar Flare](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Solar+Flare), [Magma Heart](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Magma+Heart), [Golden Lord](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Golden+Lord), [Fiery blossoms](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Fiery+blossoms), [Molten Velvet](https://www1.flightrising.com/game-database/item/35694), [Where There's Smoke](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Where+There%27s+Smoke), [Wings of Firebird](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Wings+of+Firebird), [Igniting Feathers](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Igniting+Feathers), [Firebird's Favorite](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Firebird%27s+Favorite), [Tete brule](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Tete+brule), [Flowers of fire](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Flowers+of+fire)
 	- **Starfall Celebration:** [Arc Construct](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Arc+Construct), [Spellcaster's Hubris](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Spellcaster%27s+Hubris), [Starsighted](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starsighted) x2<!--Shauna-->, [Sweet Star Fae](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Sweet+Star+Fae), [Dreamland](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Dreamland), [Shattered Galactic Wings](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Shattered+Galactic+Wings), [Starwood Glass](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Starwood+Glass), [Arcane Alterations](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Skin%3A+Arcane+Alterations), [Zodiac Hula Hoops](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Zodiac+Hula+Hoops), [Potion Accident](https://www1.flightrising.com/auction-house/buy/realm/skins?itemname=Accent%3A+Potion+Accident)
+- \[inactive from **Rockbreaker's Ceremony 2020** to the end of the season; subsequently decided to cool it with the hoarding]
 
 
 #### duplicates
@@ -108,8 +107,11 @@ One of each unless otherwise noted.
 	- **Thundercrack Carnivale:** [Voltvolley Implements](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Voltvolley+Implements), [Scene: Stormcatcher's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Stormcatcher%27s+Domain) x4<!-- 1 for keeps, 1 for Rivi/Gizmo/Alto-->, [Crackling Leo](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Crackling+Leo)
 	- **Flameforger's Festival:** [Igneous Iguana](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Igneous+Iguana), [Scene: Flamecaller's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Flamecaller%27s+Domain), [Burning Virgo](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Burning+Virgo)
 	- **Starfall Celebration:** [Feathery Fallout](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Feathery+Fallout), [Scene: Arcanist's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Arcanist%27s+Domain) x2<!--extra for Usami-->, [Enchanted Libra](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Enchanted+Libra)
+- \[inactive from **Rockbreaker's Ceremony 2020** to the end of the season; subsequently decided to cool it with the hoarding]
 
 ### NotN
+
+Missing **everything** from 2020 (not noted below).
 
 - Enchanter's Tatters (set & individual)
 - Gossamer Flame Regalia (set & individual)
@@ -139,10 +141,11 @@ One of each unless otherwise noted.
 Ordered by priority, highest to lowest. (Baldwin isn't missing, I've just brewed 'em all.)
 
 - **fest/other:** Icewarden, ~~3rd Anniversary, NotN, festivals, deities except Icewarden,~~ Pirate's Life, Sticker Star
-- **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet
+- **gems:** Axolotl, Black Rose, Black Widow, Boneyard, Butterflies, Chandelier, ~~Feral Visage,~~ Gem Hoarder, Lantern Forest, Night Sky, Rainy Day, Solar, Twilight Firefly, Vigorous Goblet, Corgi Sploot
 - **swipp:** ~~Foxfire Grove, Fungi, Hourglass, Living Stones, Ribbons and Bows, Stagcrest,~~ Swan Lake~~, Swap Stand, Succulents~~
-- **treasure:** Treasure Hoarder, Spring, Summer, Autumn, Winter, Archer's Way, Snowy Owl, Something Swarming, Gaoler Dragons, all breeds
-- **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, ~~Harpy’s Roost, Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~, Forbidden Portal
+- **treasure:** Treasure Hoarder, Spring, Summer, Autumn, Winter, Archer's Way, Snowy Owl, Something Swarming, Cozy Harvest, Blighted Pines, Starksand Dunes, all breeds
+- **coli:** Training Fields, ~~Training Fields II,~~ Woodland Path, Scorched Forest, Sandswept Delta, Blooming Grove, Forgotten Cave, Forgotten Cave II, ~~Bamboo Falls,~~ Thunderhead Savanna, ~~Redrock Cove,~~ Waterway, Waterway II, ~~Arena,~~ Arena II, ~~Volcanic Vents,~~ Rainsong Jungle, Boreal Wood, ~~Boreal Wood II,~~ Crystal Pools, ~~Harpy’s Roost, Ghostlight Ruins, Mire,~~ Golem Workshop, ~~Kelp Beds~~, Forbidden Portal
+- **NotN 2020:** Broken Mirror (brewable), Spidered Seat (chest), Tinkered Clock (250kT)
 
 ## other gem items
 
