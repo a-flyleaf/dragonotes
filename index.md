@@ -4,6 +4,8 @@ title: here goes nothin
 ---
 And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make all my FR stuff its own website. I totally won’t regret this at all.
 
+<b>June 16, 2021:</b> Stopped updating the database stuff in [October/November 2020](https://www1.flightrising.com/forums/gde/2678477/35), but leaving it up for archival. Personal goal updates constitute a majority of updates now.
+
 ## sitemap/to-do
 
 - [ ] About
