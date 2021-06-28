@@ -103,7 +103,7 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
-		<tr><td>12</td><td>[neonA]</td></tr>
+		<tr><td>12</td><td>Spectral</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td>17</td><td>[pinkbane], Tzopilotl, Kima</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
