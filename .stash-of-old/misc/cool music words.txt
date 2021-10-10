@@ -1,0 +1,61 @@
+-a
+	Aria/Arietta: self-contained for one voice
+	Cadenza: solo flexing
+	(a) Capella: vocals only
+	Fermata: slightly longer
+	Melisma: changing pitch
+	Senza: without
+	Volta: time
+
+-e
+	Andante: slow, walking pace (plaguebane?)
+	Cadence: resolving notes
+	Cantabile: singing
+	Dolce: sweetly
+	Dolente: sorrowly
+	Encore: again
+	Forte: loud
+	Fugue: piece with increasing complexity
+	Minore: minor
+	Prelude: introduction
+	Reprise: repeat
+	Retrograde: backwards
+	Segue: without pause
+	Sempre: always
+	Vivace: fast, lively (naturebane?)
+
+-o
+	Adagio: slowly, expressive
+	Allegro: faster
+	Arioso: airy
+	Arpeggio: like a harp
+	Canto: chorus
+	Contralto: low female voice
+	Crescendo: growing
+	Falsetto: high voice
+	Fortissimo: louder
+	Fuoco: fiery
+	Glissando: sliding notes
+	Legato: joined
+	Lento: slowly
+	Martellato: forcefully
+	Mesto: sad
+	Mezzo: half
+	Molto: very
+	Pianissimo: quietly
+	Poco: a little (lightbane?)
+	Rondo: repeating section
+	Rubato: expressive
+	Scherzo: light, playful (earthbane?)
+	Silenzio: silence
+	Sonata: played
+	Staccatto: brief, detached (Sweetling?)
+	Vibrato: vibrating
+	Virtuoso: exceptional
+
+other
+	Syncopation: interruption of norm
+	Tacet: silent
+	Tenor: second-lowest vocal range
+	Tonic: tonal
+	Trill: two notes real fast
