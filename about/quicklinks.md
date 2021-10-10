@@ -51,7 +51,7 @@ Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
 ~~Mire~~ | <s>✓</s>
-Golem Workshop | **<u>Frost Delver</u>, Geartoggle Smith, War Smith, Copperplate Longmech, Longmech, Tribeam Hunter, Tribeam Lurker, Jelly Drone, Workshop Monitor, Gearspring Pocketmouse, Wind-Up Pocketmouse, Robotic Tender, Mechanical Destroyer**
+Golem Workshop | **Copperplate Longmech**
 ~~Kelp Beds~~ | <s>✓</s>
 Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern**
 
