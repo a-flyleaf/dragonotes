@@ -14,7 +14,7 @@ ol,ul{margin:.5rem 0 .5rem 1rem; font-size:.95em;} li{padding-left:.25em;} main 
 .shortlist main li{margin:.25em 0;}
 .task-list{list-style-type: none; margin-left:1em; text-indent:-1.15em;} .task-list input{display:inline-block; vertical-align:middle; margin-right:.5em;} .task-list li{margin:.5em 0;} .task-list ul.task-list{margin:0 0 0 1em; opacity:.75;} .task-list ul>li{margin:0;}
 p{margin:.5rem 0;}
-.sc,h4,th,#logo,.pagenav li>ul>li,.profile tbody td:first-child{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; text-transform:lowercase;}
+.sc,h4,th,#logo,.pagenav li>ul>li,.profile tbody td:first-child,.badges .date{font-family:'alegreya sans sc','trebuchet ms',helvetica,sans-serif; text-transform:lowercase;}
 sub{font-size:.85em; display:block; line-height:1.25em; margin-top:1em;}
 table{border-collapse:collapse; width:100%; font-size:.85em; line-height:1.25em; color:#5c5c5c;} th{padding:.5em; text-align:left; vertical-align:bottom; line-height:115%;} tbody tr:nth-child(odd),#dragolist tbody:nth-child(even){background:#f2f2f2;} td{padding:.5em; vertical-align:top;}
 ::selection{background:rgba(189,179,156,.5);} .protip::selection{background:0;}
@@ -116,6 +116,10 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .profile #size td,.profile #genes td{padding:.15em .5em;}
 .profile section h2{font-size:2em;}
 
+.badges #badges{text-align:center; margin-top:1em;}
+.badges figure{background:#f2f2f2; display:inline-block; width:40%; padding:.5em; margin:.25em; line-height:115%; vertical-align:top;}
+.badges .goal{font-size:.85em; line-height:115%; margin-top:.5em; display:inline-block;}
+
 @media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}
 	a,main a{color:#dee0eb;} a:hover,a:focus{color:#aec8ff;}
@@ -140,9 +144,11 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.itemlist thead{background:#2a2b34;}
 	
 	.profile table{background:#373846;}
+	
+	.badges figure{background:#1d1e25;} .badges img{background:#fff; padding:5px;}
 }
 
-@media only screen and (min-width:40em){
+@media only screen and (min-width:41em){
 	table{font-size:1em;}
 	
 	header{padding:5rem 0 .5rem; text-align:left;}
@@ -185,6 +191,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.profile table{margin-top:0; font-size:.75em; font-size:2vw; margin-left:4%; text-align:left;}
 	.profile table h2{display:none;}
 	.profile section h2{font-size:1.5em; margin-top:.5em;}
+	
+	.badges figure{width:200px;}
 	
 	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}
