@@ -1,26 +1,28 @@
 ---
 layout: default
-title: here goes nothin
+title: notes for dragons
 ---
 And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make all my FR stuff its own website. I totally won’t regret this at all.
 
-<b>June 16, 2021:</b> Stopped updating the database stuff in [October/November 2020](https://www1.flightrising.com/forums/gde/2678477/35), but leaving it up for archival. Personal goal updates constitute a majority of updates now.
+<b>June 16, 2021:</b> Stopped updating the database stuff in [October/November 2020](https://www1.flightrising.com/forums/gde/2678477/35), but leaving it up for archival. A majority of edits are personal goal updates now.
+
+<b>Octobe 10, 2021:</b> Did some housekeeping. Maybe I will slowly revive this thing.
 
 ## sitemap/to-do
 
-- [ ] About
+- [ ] [About]({%include url.html%}/about)
 	- [ ] bio (about me, about site)
 	- [ ] lairnotes (breeding/buying)
 	- [ ] art
 		- [ ] other FR art
 		- [ ] commission gallery (NOT HIGHRES, use fancybox)
-	- [x] quicklinks
+	- [x] [quicklinks]({%include url.html%}/about/quicklinks)
 	- [ ] tracking
 		- [ ] dom badges
 		- [ ] long drop coli challenge
 		- [ ] future challenges?
-	- [x] [goals/wishlist]({%include url.html%}/about/goals)
-- [ ] Lore
+	- [x] [goals]({%include url.html%}/about/goals)
+- [ ] Lore—<span class="sc">on hold indefinitely</span>
 	- [ ] general notes
 	- [ ] dragon profiles
 		- [ ] stats (ex. size, genes, age)
@@ -40,7 +42,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] Exclusive items (main page for fest gear?)
 		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
 		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn)
-		- [ ] other (frniversary, valentine's, seasonal, microholidays, joxar, other cycling)
+		- [ ] other (FRniversary, Valentine's, seasonal, microholidays, Joxar, other cycling)
 	- [x] [Genes]({%include url.html%}/ref/genes)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
@@ -50,5 +52,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 	- [ ] actually customize the layout
 	- [ ] tumblr archive (no links unless asks/reblog commentary)
 	- [ ] bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
-- [ ] BEFORE LAUNCH: css.min (KEEP ORIGINAL, use min in code)
-	- also a logo would be cool... switch color scheme to dark as default? wow ~branding~
+- [ ] misc tweaks (optional)
+	- [ ] use minified CSS
+	- [ ] logo?
+	- [x] dark mode color scheme
