@@ -11,11 +11,10 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 ## sitemap/to-do
 
 - [ ] [About]({%include url.html%}/about)
-	- [ ] bio (about me, about site)
-	- [ ] lairnotes (breeding/buying)
+	- [x] bio (about me, about site)
 	- [ ] art
+		- [ ] commission gallery (NOT HIGHRES)
 		- [ ] other FR art
-		- [ ] commission gallery (NOT HIGHRES, use fancybox)
 	- [x] [quicklinks]({%include url.html%}/about/quicklinks)
 	- [x] [goals]({%include url.html%}/about/goals)
 	- [x] [badges]({%include url.html%}/about/badges)
