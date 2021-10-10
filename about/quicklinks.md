@@ -9,7 +9,6 @@ miscellaneous stuff for my own reference
 
 - **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1)
 	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc)
-	- unnamed: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6500&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?&treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
 - **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -23,15 +22,9 @@ miscellaneous stuff for my own reference
 
 NO hunting/digging/foraging/scavenging
 
-## tracking
+## coli fams
 
-should have its own about/ page eventually
-
-- [Long Drop Coliseum Challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent)
-- later: [10 Drop Coliseum Challenge](https://www1.flightrising.com/forums/qnc/1832206), [Fodderlocke](https://www1.flightrising.com/forums/qnc/2806527)
-- badges on [Schism](https://flightrising.com/main.php?p=lair&id=138250&tab=dragon&did=12788530#bio) & [Soleil](https://flightrising.com/main.php?dragon=28210287#bio)
-
-### coli fams
+bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update
 
 ~~Training Fields~~ | <s>✓</s>
 ~~Woodland Path~~ | <s>✓</s>
@@ -55,7 +48,9 @@ Golem Workshop | **Copperplate Longmech**
 ~~Kelp Beds~~ | <s>✓</s>
 Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern**
 
-### dragon order
+## dragon order
+
+gray = hibernating
 
 <table id="dragolist">
 	<thead class="x"><tr><th>YYYY</th><th>MM</th><th>DD</th><th>dragon(s)</th></tr></thead>
@@ -102,23 +97,23 @@ Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Gi
 	<tbody>
 		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
-		<tr><td>10</td><td>Delphi-bane, Toc, Encore</td></tr>
+		<tr><td>10</td><td>Encore</td></tr>
 		<tr><td>12</td><td>Spectral</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
-		<tr><td>17</td><td>[pinkbane], Tzopilotl, Kima</td></tr>
+		<tr><td>17</td><td>[pinkbane], Tzopilotl</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
 		<tr><td>09</td><td>[neonB]</td></tr>
-		<tr><td rowspan="3">04</td><td>04</td><td>[neonAB], [neonC], [neonD]</td></tr>
-		<tr><td>16</td><td>[tapir]</td></tr>
-		<tr><td>20</td><td>Pumpkin [neonE]</td></tr>
+		<tr><td>04</td><td>16</td><td>[tapir]</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
 	<tbody>
-		<tr><td rowspan="2">2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr>
-		<tr><td>06</td><td>17</td><td>Seafoam</td></tr>
+		<tr><td rowspan="4">2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr>
+		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
+		<tr><td>21</td><td>Fissure</td></tr>
+		<tr><td>10</td><td>08</td><td>Chondrite</td></tr>
 	</tbody>
 	</tbody>
 </table>
