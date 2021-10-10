@@ -116,7 +116,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 .profile #size td,.profile #genes td{padding:.15em .5em;}
 .profile section h2{font-size:2em;}
 
-.badges #badges{text-align:center; margin-top:1em;}
+.badges #badges{text-align:center; margin-top:1em; font-size:.85em;}
 .badges figure{background:#f2f2f2; display:inline-block; width:40%; padding:.5em; margin:.25em; line-height:115%; vertical-align:top;}
 .badges .goal{font-size:.85em; line-height:115%; margin-top:.5em; display:inline-block;}
 @supports (display:flex) {
@@ -195,7 +195,7 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 	.profile table h2{display:none;}
 	.profile section h2{font-size:1.5em; margin-top:.5em;}
 	
-	.badges figure{width:200px;}
+	.badges figure{width:30%;}
 	
 	@media (prefers-color-scheme:dark){
 		.pagenav{background:#1d1e25;}
