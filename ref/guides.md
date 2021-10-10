@@ -4,6 +4,8 @@ title: Guides & Other Resources
 ---
 Links of varying usefulness. **Not** comprehensive; [the guide forum](https://www1.flightrising.com/forums/gde) is an endless source of helpful knowledge!
 
+Last reviewed October 10, 2021.
+
 {%include pagenav.html links="<ul><li><a href='#guides-and-reference'>Guides & reference</a></li><li><a href='#guides-and-reference'>Guides & reference</a></li><li><a href='#useful-threads'>Useful threads</a><ul><li><a href='#single-user-run-services'>Single-user-run services</a></li></ul></li><li><a href='#offsite'>Offsite</a></li></ul>"%}
 
 ## Guides & Reference
@@ -14,11 +16,11 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 
 - **[Baldwin's Bubbling Brew Visual Guide 3.0](https://www1.flightrising.com/forums/gde/2135917)**
 
-	Created before you could view Baldwin recipes before unlocking them, but still a *very* useful reference; includes an FAQ, material drop chances, item search reference, and a breakdown of multi-step recipes (ex. to get such-and-such familiar, you need a Glass Beaker, and to get *that* you need…)
+	Created before you could view locked Baldwin recipes, but still a *very* useful reference; includes an FAQ, material drop chances, item search reference, and a breakdown of multi-step recipes (ex. to get such-and-such familiar, you need a Glass Beaker, and to get *that* you need…)
 	
 	Also, for even faster reference: **Food = Goo**, **Material=Ooze**, **Apparel=Slime** (black/grey/white), **Familiar = Muck** (bronze/silver/gold), and **Other = Sludge**.
 
-- **[Chronological update reference](https://www1.flightrising.com/forums/gde/2292781)**
+- **[Chronological update reference](https://www1.flightrising.com/forums/gde/3053598)**
 	
 	The entirety of FR's newspost history, summarizing the big developments. Great for quickly seeing when *that one thing* was released, and/or catching up after a hiatus.
 	
@@ -34,15 +36,17 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 
 - **[Gathering Reference](https://www1.flightrising.com/forums/gde/2317182)**
 	
-	Maintained by a moderator, it's every*thing* you can get every*where.* Like the Database at a glance.
+	Maintained by a moderator, it's every*thing* you can get every*where.* Like the Database at a glance. (Somewhat outdated.)
 	
 - **[How to Train Your Dragon, By Duke](https://www1.flightrising.com/forums/gde/1040710)**
 	
-	Widely-considered **required reading** for anyone looking to use the Coliseum, for lack of official guidance. Although (as of this writing) it hasn't been updated since 2017, a *vast* majority of the information is still up-to-date, and it contains the **simplest builds for farming and fodder grinding**. (What do those terms mean? *~Read to find out~*)
+	Widely-considered **required reading** for anyone looking to use the Coliseum, for lack of official guidance. Although it hasn't been updated since 2017, a good chunk of information is still up-to-date, and it contains the **simplest builds for farming and fodder grinding**.
+	
+	Thanks to the guide's infamy, the thread is still fairly active. Check out the newest pages for answers and links to more up-to-date info!
 
 - **[Image Assets](https://www1.flightrising.com/forums/gde/2135618)**
 	
-	Most if not all **official high-quality assets** used throughout the site, including Coliseum backgrounds, jigsaw puzzles, and other hard-to-find images.
+	Most if not all **official high-quality assets** used throughout the site, including Coliseum backgrounds, jigsaw puzzles, and other hard-to-find images. (Somewhat outdated; people are still posting new assets in the thread.)
 
 ## Useful threads
 - **[Adopt-a-Dragon](https://www1.flightrising.com/forums/drt/2157925)** & **[Free Dragon Hub](https://www1.flightrising.com/forums/drt/1841235)**
@@ -51,15 +55,17 @@ Links of varying usefulness. **Not** comprehensive; [the guide forum](https://ww
 
 - **[Site Status/News Alerts](https://www1.flightrising.com/forums/gde/2678477)**
 	
-	A **publially-maintained** thread that takes advantage of forum subscriptions to deliver news updates directly to your inbox. (You might see me pop up here every once in a while; anyone is free to contribute, just make sure you're not double-posting first!)
+	A **publically-maintained** thread that takes advantage of forum subscriptions to deliver news updates directly to your inbox. Anyone is free to contribute; just make sure no one beat you to it!
 
 ### Single-user-run services
 
 Services that, despite activity being entirely up to one user, have been 1) active for years and 2) extremely useful in my personal experience.
 
+<!--aw, this went inactive :(
 - **[Familiar Trading Hub](https://www1.flightrising.com/forums/ibaz/2189722)**
 	
 	For non-boss Coliseum familiars.
+-->
 
 - **[Flipp's Supplementary Swap Stand](https://www1.flightrising.com/forums/ibaz/1935358)**
 	
@@ -90,4 +96,4 @@ Services that, despite activity being entirely up to one user, have been 1) acti
 	
 - [Akrona's **size comparison tool**](https://emcall.github.io/dragonsizes/)
 	
-	A fun tool that generates an infinitely-resizable page comparing your dragons' sizes. (Breeds are only available up to and including Bogsneak.)
+	A fun tool that generates an infinitely-resizable page comparing your dragons' sizes. (Missing obelisks.)
