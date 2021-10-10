@@ -17,11 +17,9 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] other FR art
 		- [ ] commission gallery (NOT HIGHRES, use fancybox)
 	- [x] [quicklinks]({%include url.html%}/about/quicklinks)
-	- [ ] tracking
-		- [ ] dom badges
-		- [ ] long drop coli challenge
-		- [ ] future challenges?
 	- [x] [goals]({%include url.html%}/about/goals)
+	- [x] [badges]({%include url.html%}/about/badges)
+		- [ ] merge with tracking for the Long Drop Coli Challenge & anything else?
 - [ ] Lore—<span class="sc">on hold indefinitely</span>
 	- [ ] general notes
 	- [ ] dragon profiles

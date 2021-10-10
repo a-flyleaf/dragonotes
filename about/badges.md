@@ -343,5 +343,66 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		title="Plague Profit Squad: XXXIV"
 		date="December 30, 2018"
 		goal="earned 250,000 treasure"
+	%}{%include badge.html
+		url="raf/2777443"
+		img="https://i.imgur.com/WiodMLg.png"
+		artist="Linnet#86"
+		title="<a href='https://www1.flightrising.com/forums/raf/2777443'>Harvest Festival</a>"
+		date="November 2019"
+		goal="sent 500 levels"
+	%}{%include badge.html
+		url="raf/2803738"
+		img="https://i.imgur.com/cF0aEtH.png"
+		artist="Postmodern#53518"
+		title="<a href='https://www1.flightrising.com/forums/raf/2803738'>Masquerade Ball</a>"
+		date="January 2020"
+		goal="sent 500 levels"
+	%}{%include badge.html
+		url="raf/2815805"
+		img="https://i.imgur.com/SYw0OMM.png"
+		artist="Joydom#83368"
+		title="<a href='https://www1.flightrising.com/forums/raf/2815805'>Valightines</a>"
+		date="February 2020"
+		goal="sent 400 levels"
+	%}{%include badge.html
+		url="raf/2821554"
+		img="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60b248fe-bc1a-43a2-af32-7c287075873f/dbi65tb-2edf8b83-0ba2-4fb6-aea0-3f61025269cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82MGIyNDhmZS1iYzFhLTQzYTItYWYzMi03YzI4NzA3NTg3M2YvZGJpNjV0Yi0yZWRmOGI4My0wYmEyLTRmYjYtYWVhMC0zZjYxMDI1MjY5Y2QuZ2lmIn1dXX0.2CwJIhPFuRsyA4Lu8JfFI_I8sf16BfcK1dXDhDuHlv4"
+		artist="??? (four credited in-thread, not specific)"
+		title="<a href='https://www1.flightrising.com/forums/raf/2821554'>Cave Exploration Raffle</a>"
+		date="February 2020"
+		goal="sent 500 levels"
+	%}{%include badge.html
+		url="drw/2824772"
+		img="https://media.discordapp.net/attachments/657482032124919811/666102745647808533/strawberry.png"
+		artist="brit#54041"
+		title="<a href='https://www1.flightrising.com/forums/drw/2824772'>LEAP</a>"
+		date="February 2020"
+		goal="sent dragons on Sunday"
+	%}<figure>
+	<a href="https://www1.flightrising.com/forums/fd2/2845080"><img src="https://i.postimg.cc/F1tgxVYx/l84.png" alt="badge by ???"/><img src="https://i.postimg.cc/7Lq9c9ms/l53.png" alt=""/></a>
+	<figcaption><b>Goals & Incentives: Memes & Water</b><br/>
+	<span class="date">April 18, 2020</span><br/>
+	<span class="goal">exalted 25 <span class='sc'>lvl</span>8s · exalted 50 <span class='sc'>lvl</span>5s</span></figcaption>
+</figure>{%include badge.html
+		url="fd2/2845075"
+		img="https://i.imgur.com/JVDVBna.png"
+		artist="ratjima#91097"
+		title="Meme Push"
+		date="April 18, 2021"
+		goal="exalted 500 levels"
+	%}{%include badge.html
+		url="fd2/2845634"
+		img="https://i.imgur.com/9HF3Z7S.png"
+		artist="“x”?"
+		title="Army of Rot"
+		date="April 19, 2020"
+		goal="exalted 500 levels"
+	%}{%include badge.html
+		url="fl2/2845067"
+		img="https://i.postimg.cc/d3FGktpW/NEWPPStier4.png"
+		artist="KyraG#61693 (lineart) & SummerMiko#136554 (coloring)"
+		title="Plague Profit Squad L"
+		date="May 2, 2020"
+		goal="earned 1,000,000 treasure"
 	%}
 </div>
