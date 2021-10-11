@@ -6,6 +6,6 @@ layout: blog1
 	<main>{{content}}</main>
 	{%if page.date%}<footer>
 		<section class="date">{{page.date|date:"%B %d, %Y"}}</section>
-		<section class="tags">{%for tag in page.tags%}<a href="{{tag}}">{{tag}}</a>{%endfor%}</section>
+		<section class="tags">{%for tag in page.tags%}<a href="{{tag}}">#{{tag|replace:"-"," "}}</a>{%endfor%}</section>
 	</footer>{%endif%}
 </article>

@@ -1,13 +1,13 @@
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
 .x,.notitle h2{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
-body{overflow-x:hidden; background-color:#1d2224; background:url(/assets/blog1/bg-main.png) fixed; color:#1d2224; font-family:verdana,geneva,tahoma,arial,sans-serif; font-size:1.15em; line-height:1.4em;}
+body{overflow-x:hidden; background-color:#1d2224; background:url(/assets/blog1/bg-main.png) fixed; color:#1d2224; font-family:verdana,geneva,tahoma,arial,sans-serif; line-height:1.5em;}
 header,aside,main,nav,article,section,footer{display:block;}
 
 ::selection{background:#0086ce; color:#f1f3ff;}
 a{color:#0086ce; text-decoration:none;} a:hover,a:active,a:focus{color:inherit;}
 aside{background:url(/assets/blog1/bg-side.png); padding:1rem;}
 #sidebox,article{background:#f1f3ff; margin:1em; padding:1em; border-radius:15px;}
-ul{margin-left:1em;}
+ul{margin:1em 0 1em 1em;}
 h1{text-transform:uppercase; font-weight:normal; font-size:2em; padding:.25em 0; line-height:100%;}
 body>main{padding:1rem;} body>footer{padding-bottom:1rem;}
 h2{font-size:1.5em; margin-bottom:1rem;} h2 a{color:inherit;} h2 a:hover,h2 a:active,h2 a:focus{color:#0086ce;}
@@ -19,11 +19,12 @@ nav ul{list-style-type:none; margin:0;} nav ul li:last-child{font-size:.75em; ma
 #fiend{text-align:center;} #fiend img{height:200px;}
 article footer{font-size:.85em; margin-top:2rem;}
 .date{text-align:right;}
+.tags a{margin-right:.5em;}
 
 @media only screen and (min-width:40em) {
 	aside{width:35%; position:fixed; height:100%; z-index:1;} body>main{padding:3rem 0 3rem 35%;}
 	#fiend{position:fixed; z-index:2; bottom:5px; left:10px;}
 	
 	#sidebox{max-width:20em; margin:3.5rem auto 0;}
-	article{max-width:30em; padding:1.5rem; margin: 3rem 0 2rem 2rem;} article:first-of-type{margin-top:1rem;}
+	article{max-width:30em; padding:1.5rem; margin: 3rem 2rem 2rem;} article:first-of-type{margin-top:1rem;}
 }
