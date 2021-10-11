@@ -8,14 +8,22 @@ a{color:#0086ce; text-decoration:none;} a:hover,a:active,a:focus{color:inherit;}
 aside{background:url(/assets/blog1/bg-side.png); padding:1rem;}
 #sidebox,article{background:#f1f3ff; margin:1em; padding:1em; border-radius:15px;}
 ul{margin-left:1em;}
-h1{text-transform:uppercase; font-weight:normal; font-size:2em; padding:.25em 0;}
+h1{text-transform:uppercase; font-weight:normal; font-size:2em; padding:.25em 0; line-height:100%;}
 body>main{padding:1rem;} body>footer{padding-bottom:1rem;}
 h2{font-size:1.5em; margin-bottom:1rem;} h2 a{color:inherit;} h2 a:hover,h2 a:active,h2 a:focus{color:#0086ce;}
 p{margin:1em 0;} main p:first-of-type{margin-top:0;} main p:last-of-type{margin-bottom:0;}
 img{max-width:100%; height:auto;}
 
-#sidebox{text-align:center;}
+#sidebox{text-align:center; font-size:.85em; line-height:150%;}
 nav ul{list-style-type:none; margin:0;} nav ul li:last-child{font-size:.75em; margin-top:.5em;}
 #fiend{text-align:center;} #fiend img{height:200px;}
-article footer{font-size:.85em; margin-top:1rem;}
+article footer{font-size:.85em; margin-top:2rem;}
 .date{text-align:right;}
+
+@media only screen and (min-width:40em) {
+	aside{width:35%; position:fixed; height:100%; z-index:1;} body>main{padding:3rem 0 3rem 35%;}
+	#fiend{position:fixed; z-index:2; bottom:5px; left:10px;}
+	
+	#sidebox{max-width:20em; margin:3.5rem auto 0;}
+	article{max-width:30em; padding:1.5rem; margin: 3rem 0 2rem 2rem;} article:first-of-type{margin-top:1rem;}
+}
