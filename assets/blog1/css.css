@@ -1,5 +1,5 @@
 *{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
-.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+.x,.notitle h2{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 body{overflow-x:hidden; background-color:#1d2224; background:url(/assets/blog1/bg-main.png) fixed; color:#1d2224; font-family:verdana,geneva,tahoma,arial,sans-serif; font-size:1.15em; line-height:1.4em;}
 header,aside,main,nav,article,section,footer{display:block;}
 

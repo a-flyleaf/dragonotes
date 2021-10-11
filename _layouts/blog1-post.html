@@ -1,7 +1,7 @@
 ---
 layout: blog1
 ---
-<article>
+<article{%if page.class%} class="{{page.class}}"{%endif%}>
 	<h2>{{page.title}}</h2>
 	<main>{{content}}</main>
 	{%if page.date%}<footer>

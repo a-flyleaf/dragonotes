@@ -4,7 +4,7 @@ title: archaeoraptor-archive
 permalink: /blog/archive1/
 ---
 <section>
-  {%for post in site.posts%}{%if post.path contains 'blog1'%}<article>
+  {%for post in site.posts reversed%}{%if post.path contains 'blog1'%}<article{%if post.class%} class="{{post.class}}"{%endif%}>
 		<h2><a href="{{post.url}}">{{post.title}}</a></h2>
 		<main>{{post.content}}</main>
 		<footer>
