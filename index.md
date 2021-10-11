@@ -48,6 +48,10 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- [ ] actually customize the layout
 	- [ ] tumblr archive (no links unless asks/reblog commentary)
+		- [x] base layout 1
+		- [ ] all posts 1
+		- [ ] base layout 2
+		- [ ] all posts 2
 	- [ ] bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] misc tweaks (optional)
 	- [ ] use minified CSS
