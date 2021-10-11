@@ -10,12 +10,12 @@ aside{background:url(/assets/blog1/bg-side.png); padding:1rem;}
 ul{margin-left:1em;}
 h1{text-transform:uppercase; font-weight:normal; font-size:2em; padding:.25em 0;}
 body>main{padding:1rem;} body>footer{padding-bottom:1rem;}
-h2{font-size:1.5em; margin-bottom:1rem;}
+h2{font-size:1.5em; margin-bottom:1rem;} h2 a{color:inherit;} h2 a:hover,h2 a:active,h2 a:focus{color:#0086ce;}
 p{margin:1em 0;} main p:first-of-type{margin-top:0;} main p:last-of-type{margin-bottom:0;}
 img{max-width:100%; height:auto;}
 
 #sidebox{text-align:center;}
 nav ul{list-style-type:none; margin:0;} nav ul li:last-child{font-size:.75em; margin-top:.5em;}
 #fiend{text-align:center;} #fiend img{height:200px;}
-
-.tags{font-size:.85em; background:yellow; height:1em;}
+article footer{font-size:.85em; margin-top:1rem;}
+.date{text-align:right;}

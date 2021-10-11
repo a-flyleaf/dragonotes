@@ -4,8 +4,8 @@ layout: blog1
 <article>
 	<h2>{{page.title}}</h2>
 	<main>{{content}}</main>
-	<footer>
+	{%if page.date%}<footer>
 		<section class="date">{{page.date|date:"%B %d, %Y"}}</section>
-		{%if page.tags%}<section class="tags">{%for tag in page.tags%}<a href="{{tag}}">{{tag}}</a>{%endfor%}</section>{%endif%}
-	</footer>
+		<section class="tags">{%for tag in page.tags%}<a href="{{tag}}">{{tag}}</a>{%endfor%}</section>
+	</footer>{%endif%}
 </article>
