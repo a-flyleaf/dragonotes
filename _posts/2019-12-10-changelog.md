@@ -19,3 +19,6 @@ Only noting significant changes/additions; little things are tweaked constantly.
 - 1/7 dragon profile test
 - 2/18 overhaul: renamed site (formerly ArchaeoRising), split FR & lore sections, base lore layout
 - 4/11 added base lore
+
+**2021**
+- 10/10 housekeeping; stashed old code & badges
