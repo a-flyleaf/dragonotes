@@ -6,7 +6,7 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 
 <b>June 16, 2021:</b> Stopped updating the database stuff in [October/November 2020](https://www1.flightrising.com/forums/gde/2678477/35), but leaving it up for archival. A majority of edits are personal goal updates now.
 
-<b>Octobe 10, 2021:</b> Did some housekeeping. Maybe I will slowly revive this thing.
+<b>October 10, 2021:</b> Did some housekeeping. Maybe I will slowly revive this thing.
 
 ## sitemap/to-do
 
