@@ -3,9 +3,9 @@ layout: default
 title: goals
 class: goals
 ---
-This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs gems** and **festival [skins](#fest-skins) + [other items](#fest-gear)**.
+This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs gems** and **[festival gear](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing)**.
 
-{%include pagenav.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-skins'>fest skins</a></li><li><a href='#fest-gear'>fest gear</a></li><li><a href='#vistas'>vistas</a></li><li><a href='#other-gem-items'>other gem items</a></li><li><a href='#breeding-projects'>breeding projects</a></li></ul>"%}
+{%include pagenav.html links="<ul><li><a href='#gene-projects'>gene projects</a></li><li><a href='#fest-gear'>fest gear</a></li><li><a href='#vistas'>vistas</a></li><li><a href='#other-gem-items'>other gem items</a></li><li><a href='#breeding-projects'>breeding projects</a></li></ul>"%}
 
 ## gene projects
 
@@ -19,37 +19,20 @@ dragon | breed/other | primary | secondary | tertiary
 [Enter](https://flightrising.com/main.php?dragon=57236211) | glowing | starmap
 [Tab](https://flightrising.com/main.php?dragon=60290700) | glowing | | facet | circuit
 
-## fest skins
-
-*May* be willing to trade anything I have [duplicates](#duplicates) of. Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
-
-Skins actually on dragons don't count.
-
-<b>[Moved to a spreadsheet!](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing)
-
 ## fest gear
 
-*familiars* in italics, see above for skins
+<b>Both skins and gear have been [moved to a spreadsheet](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing)!</b> Primarily missing:
 
-- **2013–14** literally everything EXCEPT Plague and Earth Sprites
-- **2015**
-	- **Crystalspine Gala:** [Chillspike Collar](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Chillspike+Collar), [Frigid Sash](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Frigid+Sash)
-	- **Trickmurk Circus:** [Moonglow Thorns](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Moonglow+Thorns), [Shady Sash](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Shady+Sash)
-	- **Mistral Jamboree:** [Gustborne Balloon](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Gustborne+Balloon), [Whirlwind Sash](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Whirlwind+Sash)
-	- **Wavecrest Saturnalia:** [Seashell Mantle](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Seashell+Mantle), [Diver Sash](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Diver+Sash)
-- **2017/8:** [Carapace Arm](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Carapace+Arm), [Luminous Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Luminous+Halo)
-- **2019**
-	- **Crystalline Gala:** [Glitterfreeze Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Glitterfreeze+Halo), [*Glitterfreeze Ambassador*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Glitterfreeze+Ambassador)
-	- **Trickmurk Circus:** [Murkmirth Halo](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Murkmirth+Halo), [*Murkmirth Ambassador*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Murkmirth+Ambassador)
-	- **Starfall Celebration:** [*Crystalspine Gem Guardian*](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Crystalspine+Gem+Guardian)
-	- **Riot of Rot:** [Riot Hazebeacon](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Riot+Hazebeacon)
-- **2020**
-	- **Thundercrack Carnivale:** [Voltvolley Implements](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Voltvolley+Implements), [Scene: Stormcatcher's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Stormcatcher%27s+Domain) x4<!-- 1 for keeps, 1 for Rivi/Gizmo/Alto-->, [Crackling Leo](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Crackling+Leo)
-	- **Flameforger's Festival:** [Igneous Iguana](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=Igneous+Iguana), [Scene: Flamecaller's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Flamecaller%27s+Domain), [Burning Virgo](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Burning+Virgo)
-	- **Starfall Celebration:** [Scene: Arcanist's Domain](https://www1.flightrising.com/auction-house/buy/realm/specialty?itemname=Scene%3A+Arcanist%27s+Domain) x2<!--extra for Usami-->, [Enchanted Libra](https://www1.flightrising.com/auction-house/buy/realm/fam?itemname=Enchanted+Libra)
-- \[inactive from **Rockbreaker's Ceremony 2020** to the end of the season; subsequently decided to cool it with the hoarding]
+- everything <b>before Greenskeeper 2015</b> (when I joined)
+- skins <b>after Brightshine 2020</b> (although I've taken a break from hoarding them from that year on, for sanity's sake)
+- gear from <b>late 2020</b>
+- and assorted skins, familiars, apparel, and specialty items that don't fit into the above date ranges.
+
+<span class="sc">Skins only:</span> *May* be willing to trade anything I have duplicates of. Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
 
 ### NotN
+
+<span class="sc">[needs review]</span>
 
 Missing **everything** from 2020 (not noted below).
 
@@ -77,6 +60,8 @@ Missing **everything** from 2020 (not noted below).
 - Voidflow: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
 
 ## vistas
+
+<span class="sc">[needs review?]</span>
 
 Ordered by priority, highest to lowest. (Baldwin and Swipp aren't missing, I've just collected 'em all.)
 
@@ -110,6 +95,8 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [eyes](https://www1.flightrising.com/dgen/preview/dragon?age=1&body=10&bodygene=18&breed=7&element=6&eyetype=8&gender=0&tert=98&tertgene=24&winggene=5&wings=90&auth=06d5a757cd5aba46749a36ee5c8836ac8592fcc5&dummyext=prev.png)\* | [mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=1&body=10&wings=&tert=98&element=&body_range=&wings_range=135-90&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_asc&page=1&nocollapse=1), [exact](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=10&wings=90&tert=98&element=&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&sort=id_asc&page=1&nocollapse=1) | M | ice | obsidian | ultramarine | gloom
 
 ### eventually
+
+<span class="sc">[needs review]</span>
 
 *italics* = ideal but not necessary
 
