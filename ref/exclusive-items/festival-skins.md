@@ -120,9 +120,8 @@ Fancy formatting and/or links coming later, maybe.
 	- <b>Thundercrack Carnivale:</b> Lightning dancer, Atomic Bonding, Metallic Metamorphosis, Prismatic Huntress, Skyflash Spire, Powerbeast, Crackling Lion Armor, Jaeger, Turbulence, Canyon Crawler, point of origin, Ancient Energy, Thunder, Stormchaser
 	- <b>Flameforger's Festival:</b> Fire Opal, Magma Tube Menace, Ooh, Burn, Born for Burning, Melted, Core Principles, Overflow, Curling Combustion, garden of fire, Candlelit Secrets, Pyromanticist, In Flama Viva, Blazing Necromancer, Esteemed Metalsmith
 	- <b>Starfall Celebration:</b> Acranization Prayer, Caelum Stratus, Arcana na na na, Crystal keeper, Fractured Cosmos, Starlight Guardian, Lost in Thought, Gilded Sight, Aquila, Crystalspine Guardian, STARBREAKER, Starwood Witch, metaphysic, Capriccio
-	
+	- <b>Riot of Rot:</b> Bottled Terror, all these mouths to feed, Mutant wings, Glass Explosion, Marinated Rot, Eye of the Swarm, Tales of The Hunt, Sentinel's Corpus, stranger in red, Centipede, Mother Told Me To Live, We Carrion, Survive the Fight, Rot n’ Roll
 	--<b style="text-transform:uppercase;">we are here</b>--
-	- <b>Riot of Rot:</b> 
 	- <b>Rockbreaker's Ceremony:</b> 
 	- <b>Crystalline Gala:</b> 
 	- <b>Trickmurk Circus:</b> 
