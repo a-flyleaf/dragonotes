@@ -73,9 +73,8 @@ gray = hibernating; !name = date obtained not noted
 	</tbody>
 	<tbody><tr><td>????</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
 	<tbody>
-		<tr><td rowspan="4">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
+		<tr><td rowspan="3">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
 		<tr><td>16</td><td><s>Midst</s></td></tr>
-		<tr><td>04</td><td>22</td><td><s>Augustus</s></td></tr>
 		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
 	</tbody>
 	<tbody>
