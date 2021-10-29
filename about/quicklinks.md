@@ -7,50 +7,46 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- **fodder** [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1)
-	- plant: [6000T](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6500](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6500&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [7kT](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc)
-- [~~apparel~~ **slime**](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
-- **[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)**
-- **lvl25** [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) / [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) / [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
+- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+- [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
+- <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
+- <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
 ## gathering
 
-- fishing: earth/ice/light/nature
-	- **hippojay**
-- insect catching: lightning/ice/shadow
-	- giant darner (x20 **longwing epiptite**)
+literally just that gosh dang <b>hippojay</b> (fishing in earth/ice/light/nature)
 
-NO hunting/digging/foraging/scavenging
+also need runestones for hibden but not worried about that yet
 
 ## coli fams
 
-bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update
+bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
 
 ~~Training Fields~~ | <s>✓</s>
 ~~Woodland Path~~ | <s>✓</s>
 ~~Scorched Forest~~ | <s>✓</s>
 ~~Sandswept Delta~~ | <s>✓</s>
 Blooming Grove | <u>Mossy Pohip</u>
-Forgotten Cave | **Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden**
+Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | **<u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Surf Strider, Coast Charger, Toxic Igueel, Igueel Matriarch**
+Redrock Cove | <b><u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Surf Strider, Coast Charger, Toxic Igueel, Igueel Matriarch</b>
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
-Volcanic Vents | **Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u>**
+Volcanic Vents | <b>Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u></b>
 Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
-Ghostlight Ruins | **<u>Malevolent Spirit, Disoriented Spirit</u>**
-~~Mire~~ | <s>✓</s>
-Golem Workshop | **Copperplate Longmech**
+Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
+Mire | <b>\[will probably pick them all up again sooner or later, but haven't done The Challenge]</b>
+Golem Workshop | <b>Copperplate Longmech</b>
 ~~Kelp Beds~~ | <s>✓</s>
-Forbidden Portal | **Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern**
+Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern</b>
 
 ## dragon order
 
-gray = hibernating
+gray = hibernating; !name = date obtained not noted
 
 <table id="dragolist">
 	<thead class="x"><tr><th>YYYY</th><th>MM</th><th>DD</th><th>dragon(s)</th></tr></thead>
@@ -100,20 +96,20 @@ gray = hibernating
 		<tr><td>10</td><td>Encore</td></tr>
 		<tr><td>12</td><td>Spectral</td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
-		<tr><td>17</td><td>[pinkbane], Tzopilotl</td></tr>
+		<tr><td>17</td><td>Tesseract, Tzopilotl</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
-		<tr><td rowspan="2">03</td><td>19</td><td>[anandte2]</td></tr>
-		<tr><td>09</td><td>[neonB]</td></tr>
-		<tr><td>04</td><td>16</td><td>[tapir]</td></tr>
+		<tr><td>03</td><td>19</td><td>[anandte2]</td></tr>
+		<tr><td>04</td><td>16</td><td>MiamiTriggerfish</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
 	<tbody>
-		<tr><td rowspan="4">2021</td><td>01</td><td>21</td><td>Mallow, blueimp</td></tr>
+		<tr><td rowspan="5">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td>Fissure</td></tr>
-		<tr><td>10</td><td>08</td><td>Chondrite</td></tr>
+		<tr><td rowspan="2">10</td><td>08</td><td>Chondrite</td></tr>
+		<tr><td>26</td><td>CabochonLuster</td></tr>
 	</tbody>
 	</tbody>
 </table>
