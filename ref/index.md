@@ -9,9 +9,9 @@ Useful stuff.
 	
 	Things you may or may not want to keep track of.
 
-- **[How to Gene Your Dragon]({%include url.html%}/ref/genes)**
+- **[Specialty Items]({%include url.html%}/ref/specialty)**
 	
-	A quick reference for how to get the gene changes & other dragon-changing Specialty items.
+	The amalgamation of the gene and vista pages, now with genes and other stuff.
 
 - **[Glossary ]({%include url.html%}/ref/glossary)**
 	
@@ -20,7 +20,3 @@ Useful stuff.
 - **[Guides]({%include url.html%}/ref/guides)**
 	
 	And other useful links, both on and off FR.
-
-- **[Vistas]({%include url.html%}/ref/vistas)**
-	
-	All the forum avatar decorations. All of them.

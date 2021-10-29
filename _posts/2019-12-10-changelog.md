@@ -22,3 +22,4 @@ Only noting significant changes/additions; little things are tweaked constantly.
 
 **2021**
 - 10/10 housekeeping; stashed old code & badges
+- 10/29 genes & vistas folded into specialty page ft. offsite spreadsheet
