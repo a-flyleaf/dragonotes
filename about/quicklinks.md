@@ -11,6 +11,7 @@ miscellaneous stuff for my own reference
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
+- (not AH) [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 
 ## gathering
 
@@ -90,7 +91,7 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody>
 	<tbody>
-		<tr><td rowspan="21">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
+		<tr><td rowspan="22">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Encore</td></tr>
 		<tr><td>12</td><td>Spectral</td></tr>
@@ -102,13 +103,15 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td>04</td><td>16</td><td>MiamiTriggerfish</td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
-		<tr><td>06</td><td>24</td><td><s>Ghost</s></td></tr>
+		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
+		<tr><td>11</td><td>[seaskymom]</td></tr>
 	<tbody>
-		<tr><td rowspan="5">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
+		<tr><td rowspan="6">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td>Fissure</td></tr>
-		<tr><td rowspan="2">10</td><td>08</td><td>Chondrite</td></tr>
+		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
 		<tr><td>26</td><td>CabochonLuster</td></tr>
+		<tr><td>31</td><td>Koirin</td></tr>
 	</tbody>
 	</tbody>
 </table>
