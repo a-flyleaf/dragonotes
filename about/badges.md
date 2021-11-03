@@ -379,7 +379,7 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		date="February 2020"
 		goal="sent dragons on Sunday"
 	%}<figure>
-	<a href="https://www1.flightrising.com/forums/fd2/2845080"><img src="https://i.postimg.cc/F1tgxVYx/l84.png" alt="badge by ???"/><img src="https://i.postimg.cc/7Lq9c9ms/l53.png" alt=""/></a>
+	<a href="https://www1.flightrising.com/forums/fd2/2845080"><img src="https://i.postimg.cc/F1tgxVYx/l84.png" alt="badges by ???"/><img src="https://i.postimg.cc/7Lq9c9ms/l53.png" alt=""/></a>
 	<figcaption><b>Goals & Incentives: Memes & Water</b><br/>
 	<span class="date">April 18, 2020</span><br/>
 	<span class="goal">exalted 25 <span class='sc'>lvl</span>8s · exalted 50 <span class='sc'>lvl</span>5s</span></figcaption>
@@ -404,5 +404,34 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		title="Plague Profit Squad L"
 		date="May 2, 2020"
 		goal="earned 1,000,000 treasure"
+	%}{%include badge.html
+		url="fd2/3066779"
+		img="https://i.imgur.com/1T5yLGD.png"
+		artist="LithoLab#387850"
+		title="Army of Rot"
+		date="October 23, 2021"
+		goal="exalted 2,000 levels"
+	%}<figure>
+	<a href="https://www1.flightrising.com/forums/fd2/3066883"><img src="https://i.imgur.com/QkuKtfn.png" alt="badges by ???"/><img src="https://i.imgur.com/eyzBfOp.png" alt=""/><img src="https://i.imgur.com/BYigzuB.png" alt=""/><img src="https://i.imgur.com/deDu2IR.png" alt=""/></a>
+	<figcaption><b>Goals & Incentives: Riot of Rot</b><br/>
+	<span class="date">October 23, 2021</span><br/>
+	<span class="goal">exalted 100 <span class='sc'>lvl</span>5s · exalted 25 <span class='sc'>lvl</span>8s · sniped/aged 10 dragons · exalted 1 dragon with daily bonuses</span></figcaption></figure>{%include badge.html
+		url="fd2/3066866"
+		img="https://i.imgur.com/NFQB1hS.png"
+		artist="Kahvinporo#11138"
+		title="The Great Cryptid Search Raffle"
+		date="October 23, 2021"
+		goal="exalted 500 levels"
+	%}<figure>
+	<a href="https://www1.flightrising.com/forums/qnc/3066797"><img src="https://i.imgur.com/aLtpPSl.png" alt="badges by Gwythaint#453574"/><img src="https://i.imgur.com/PUsRNUT.png" alt=""/></a>
+	<figcaption><b><a href='https://www1.flightrising.com/forums/qnc/3066797'>Riot of Rot Scavenger Hunt</a></b><br/>
+	<span class="date">October 23, 2021</span><br/>
+	<span class="goal">5,000 points · 100 unique drops</span></figcaption></figure>{%include badge.html
+		url="fd2/2984407"
+		img="https://i.postimg.cc/mrPFBGc6/medaille-1.png"
+		artist="VonGacy#310038"
+		title="Spite the Sprite"
+		date="October 30, 2021"
+		goal="won against the Sprite once"
 	%}
 </div>
