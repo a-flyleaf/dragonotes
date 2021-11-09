@@ -21,7 +21,6 @@ miscellaneous stuff for my own reference
 	- [Geils](https://www1.flightrising.com/dragon/46881192) >
 		- [Alana](https://www1.flightrising.com/dragon/52910054)
 		- [Galahad](https://www1.flightrising.com/dragon/59455788) > [Wedo](https://www1.flightrising.com/dragon/67550922) & [Thylacine](https://www1.flightrising.com/dragon/67550923)
-	- [Aelia](https://www1.flightrising.com/dragon/52661891)
 
 ## gathering
 
@@ -116,14 +115,15 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td>[seaskymom]</td></tr>
 	<tbody>
-		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
+		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td>Fissure</td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
 		<tr><td>26</td><td>CabochonLuster</td></tr>
 		<tr><td>31</td><td>Koirin</td></tr>
-		<tr><td rowspan="2">11</td><td>02</td><td>Badru</td></tr>
+		<tr><td rowspan="3">11</td><td>02</td><td>Badru</td></tr>
 		<tr><td>03</td><td>Axius</td></tr>
+		<tr><td>07</td><td>Wian</td></tr>
 	</tbody>
 	</tbody>
 </table>
