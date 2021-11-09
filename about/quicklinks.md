@@ -11,7 +11,17 @@ miscellaneous stuff for my own reference
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
-- (not AH) [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
+
+## misc
+- [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
+- actively-breeding Seerose descendants
+	- [Iuriti](https://www1.flightrising.com/dragon/40696728)
+	- [Smaug](https://www1.flightrising.com/dragon/28812565) > [Shenzyk](https://www1.flightrising.com/dragon/40413273)
+	- [Maguire](https://www1.flightrising.com/dragon/48384560)
+	- [Geils](https://www1.flightrising.com/dragon/46881192) >
+		- [Alana](https://www1.flightrising.com/dragon/52910054)
+		- [Galahad](https://www1.flightrising.com/dragon/59455788) > [Wedo](https://www1.flightrising.com/dragon/67550922) & [Thylacine](https://www1.flightrising.com/dragon/67550923)
+	- [Aelia](https://www1.flightrising.com/dragon/52661891)
 
 ## gathering
 
@@ -106,12 +116,14 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td>[seaskymom]</td></tr>
 	<tbody>
-		<tr><td rowspan="6">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
+		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td>Fissure</td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
 		<tr><td>26</td><td>CabochonLuster</td></tr>
 		<tr><td>31</td><td>Koirin</td></tr>
+		<tr><td rowspan="2">11</td><td>02</td><td>Badru</td></tr>
+		<tr><td>03</td><td>Axius</td></tr>
 	</tbody>
 	</tbody>
 </table>
