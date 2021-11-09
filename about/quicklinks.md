@@ -7,7 +7,7 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_breed=14%2C17%2C6%2C8%2C2&collapse=1&sort=name_desc) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2&sort=name_desc&nocollapse=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -15,10 +15,9 @@ miscellaneous stuff for my own reference
 ## misc
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 - actively-breeding Seerose descendants
-	- [Iuriti](https://www1.flightrising.com/dragon/40696728)
-	- [Smaug](https://www1.flightrising.com/dragon/28812565) > [Shenzyk](https://www1.flightrising.com/dragon/40413273)
+	- [<b>nests</b>](https://flightrising.com/main.php?p=lair&id=228967&tab=hatchery): [Iuriti](https://www1.flightrising.com/dragon/40696728), [Smaug](https://www1.flightrising.com/dragon/28812565) > [Shenzyk](https://www1.flightrising.com/dragon/40413273)
 	- [Maguire](https://www1.flightrising.com/dragon/48384560)
-	- [Geils](https://www1.flightrising.com/dragon/46881192) >
+	- [<b>nests</b>](https://flightrising.com/main.php?p=lair&id=399660&tab=hatchery): [Geils](https://www1.flightrising.com/dragon/46881192) >
 		- [Alana](https://www1.flightrising.com/dragon/52910054)
 		- [Galahad](https://www1.flightrising.com/dragon/59455788) > [Wedo](https://www1.flightrising.com/dragon/67550922) & [Thylacine](https://www1.flightrising.com/dragon/67550923)
 
@@ -49,7 +48,7 @@ Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
-Mire | <b>\[will probably pick them all up again sooner or later, but haven't done The Challenge]</b>
+Mire | <b>✓</b>
 Golem Workshop | <b>Copperplate Longmech</b>
 ~~Kelp Beds~~ | <s>✓</s>
 Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern</b>

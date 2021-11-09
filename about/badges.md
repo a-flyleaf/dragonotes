@@ -367,7 +367,7 @@ Ordered chronologically by date earned, which is usually based on the event end.
 	%}{%include badge.html
 		url="raf/2821554"
 		img="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60b248fe-bc1a-43a2-af32-7c287075873f/dbi65tb-2edf8b83-0ba2-4fb6-aea0-3f61025269cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82MGIyNDhmZS1iYzFhLTQzYTItYWYzMi03YzI4NzA3NTg3M2YvZGJpNjV0Yi0yZWRmOGI4My0wYmEyLTRmYjYtYWVhMC0zZjYxMDI1MjY5Y2QuZ2lmIn1dXX0.2CwJIhPFuRsyA4Lu8JfFI_I8sf16BfcK1dXDhDuHlv4"
-		artist="??? (four credited in-thread, not specific)"
+		artist="??? (four artists credited in-thread, not specific)"
 		title="<a href='https://www1.flightrising.com/forums/raf/2821554'>Cave Exploration Raffle</a>"
 		date="February 2020"
 		goal="sent 500 levels"
@@ -433,5 +433,12 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		title="Spite the Sprite"
 		date="October 30, 2021"
 		goal="won against the Sprite once"
+	%}{%include badge.html
+		url="raf/3070041"
+		img="https://i.imgur.com/e5splgD.png"
+		artist="??? (eleven artists credited in-thread, not specific)"
+		title="<a href='https://www1.flightrising.com/forums/raf/3070041'>Shadow vs Ice Public Buy</a>"
+		date="November 05+06, 2021"
+		goal="<b class='sc' style='font-weight:normal;'>chaos, chaos</b> (sent dragons for Chaos Cash)"
 	%}
 </div>

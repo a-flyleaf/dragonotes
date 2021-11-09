@@ -38,15 +38,14 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [ ] [Reference]({%include url.html%}/ref)
 	- [ ] Exclusive items (main page for fest gear?)
 		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
-		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn)
+		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn) (2019...)
 		- [ ] other (FRniversary, Valentine's, seasonal, microholidays, Joxar, other cycling)
-	- [x] [Specialty items]({%include url.html%}/ref/genes) (replaced genes, scenes, and vistas)
+	- [x] [Specialty items]({%include url.html%}/ref/genes) (replaced separate subcategory pages)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
 	- [ ] actually customize the layout
 	- [ ] tumblr archive (no links unless asks/reblog commentary)
-	- [ ] bonus round: find & repost Significant Forum Posts, if any (lore? milestones?)
 - [ ] misc tweaks (optional)
 	- [ ] use minified CSS
 	- [ ] logo?
