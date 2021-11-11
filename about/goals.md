@@ -73,8 +73,8 @@ Ordered by priority, highest to lowest. (Baldwin and Swipp aren't missing, I've 
 I am a cheapskate and will probably never buy these for myself.
 
 <!-- - <b>apparel</b>: currently none, keeping this section in case it becomes relevant again anyway-->
-- <b>familiars</b>: Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
-	- all 250g except for the reedjumper (325g)
+- <b>familiars</b>: Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper, Supernal Brightbeast
+	- all 250g except for the reedjumper and brightbeast (325g)
 
 ## breeding projects
 
