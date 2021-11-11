@@ -12,8 +12,6 @@ This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
 [Ren](https://flightrising.com/main.php?dragon=56514106) | | | | koi
-[Levi](https://flightrising.com/main.php?dragon=50610501) | coatl
-[Enter](https://flightrising.com/main.php?dragon=57236211) | glowing
 [Tab](https://flightrising.com/main.php?dragon=60290700) | glowing | | facet | circuit
 
 ## fest gear
@@ -73,8 +71,8 @@ Ordered by priority, highest to lowest. (Baldwin and Swipp aren't missing, I've 
 I am a cheapskate and will probably never buy these for myself.
 
 <!-- - <b>apparel</b>: currently none, keeping this section in case it becomes relevant again anyway-->
-- <b>familiars</b>: Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper
-	- all 250g except for the reedjumper (325g)
+- <b>familiars</b>: Sköll, Hati, ~~Mock Firebird, Dunhoof Ambassador,~~ Dwarf Unicorn, Black Dwarf Unicorn, ~~Downy Fox Rat, Fawn Fox Rat,~~ Fluted Pukasloth, Spotted Pukasloth, Rivermouth Flatbill, Candycane Xolo, Shimmering Xolo, Melprin, Roundhorn Melprin, Glasswing Flutter, Ruffle Glasswing, Longhorn Capricat, Prancing Capricat, Regenerating Reedjumper, Supernal Brightbeast
+	- all 250g except for the reedjumper and brightbeast (325g)
 
 ## breeding projects
 
