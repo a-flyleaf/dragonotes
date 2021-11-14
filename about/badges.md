@@ -427,18 +427,25 @@ Ordered chronologically by date earned, which is usually based on the event end.
 	<figcaption><b><a href='https://www1.flightrising.com/forums/qnc/3066797'>Riot of Rot Scavenger Hunt</a></b><br/>
 	<span class="date">October 23, 2021</span><br/>
 	<span class="goal">5,000 points · 100 unique drops</span></figcaption></figure>{%include badge.html
-		url="fd2/2984407"
-		img="https://i.postimg.cc/mrPFBGc6/medaille-1.png"
-		artist="VonGacy#310038"
-		title="Spite the Sprite"
-		date="October 30, 2021"
-		goal="won against the Sprite once"
-	%}{%include badge.html
 		url="raf/3070041"
 		img="https://i.imgur.com/e5splgD.png"
 		artist="??? (eleven artists credited in-thread, not specific)"
 		title="<a href='https://www1.flightrising.com/forums/raf/3070041'>Shadow vs Ice Public Buy</a>"
 		date="November 05+06, 2021"
 		goal="<b class='sc' style='font-weight:normal;'>chaos, chaos</b> (sent dragons for Chaos Cash)"
+	%}{%include badge.html
+		url="fl2/3071109"
+		img="https://i.imgur.com/EoxFPbp.png"
+		artist="KyraG#61693 (lineart) & SummerMiko#136554 (coloring)"
+		title="Plague Profit Squad LVIV"
+		date="November 13, 2021"
+		goal="earned 2,000,000 treasure"
+	%}{%include badge.html
+		url="fd2/2984407"
+		img="https://i.postimg.cc/7LwQWmf6/PS-1-pouty.png"
+		artist="VonGacy#310038"
+		title="Spite the Sprite"
+		date="November 13, 2021"
+		goal="won against the Sprite three times in a row"
 	%}
 </div>
