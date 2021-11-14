@@ -63,7 +63,7 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td rowspan="8">2015</td><td>04</td><td>08</td><td><s>Maelstrom, Lapilli, Altostatus, Solar</s></td></tr>
 		<tr><td>05</td><td>25</td><td><s>Pestilence, Drosera, Schism</s></td></tr>
 		<tr><td rowspan="2">07</td><td>??</td><td><s>Fern</s></td></tr>
-		<tr><td>28</td><td>Skiptrace</td></tr>
+		<tr><td>28</td><td><s>Skiptrace</s></td></tr>
 		<tr><td rowspan="3">08</td><td>04</td><td><s>Delphi</s></td></tr>
 		<tr><td>21</td><td><s>Riviniana</s></td></tr>
 		<tr><td><span><27</span></td><td><s>Notturno</s></td></tr>
@@ -80,7 +80,7 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td>08</td><td>30</td><td><s>Azrael & Zara</s></td></tr>
 		<tr><td>09</td><td><span><04</span></td><td><s>Kieran</s></td></tr>
 	</tbody>
-	<tbody><tr><td>????</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
+	<tbody><tr><td>2017</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
 	<tbody>
 		<tr><td rowspan="3">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
 		<tr><td>16</td><td><s>Midst</s></td></tr>
