@@ -12,7 +12,7 @@ This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
 [Ren](https://flightrising.com/main.php?dragon=56514106) | | | | koi
-[Tab](https://flightrising.com/main.php?dragon=60290700) | glowing | | facet | circuit
+[Levi](https://flightrising.com/main.php?dragon=50610501) | coatl
 
 ## fest gear
 
