@@ -16,43 +16,14 @@ dragon | breed/other | primary | secondary | tertiary
 
 ## fest gear
 
-<b>Both skins and gear have been [moved to a spreadsheet](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing)!</b> Missing:
+Items from elemental festivals, Night of the Nocturne, and (eventually) other cycling events are now [on <b>a spreadsheet</b>](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing). Primarily missing the following:
 
-- skins & gear <b>before Greenskeeper 2015</b> (when I joined)
+- fest skins & gear <b>before Greenskeeper 2015</b> (when I joined)
 - most skins <b>after Brightshine 2020</b> and <b>before Riot of Rot 2021</b> (an intentional break but at what cost)
-- gear from <b>late 2020</b>
+- gear from <b>late 2020</b>, including <b>nearly everything from NotN 2020</b>
 - and assorted fest stuff that don't fit into the above date ranges.
 
 <span class="sc">Skins only:</span> *May* be willing to trade anything I have duplicates of. Otherwise I am a shameless hoarder and these will collect virtual dust in the vault forever.
-
-### NotN
-
-<span class="sc">[needs review]</span>
-
-Missing <b>everything</b> from 2020 (not noted below).
-
-- Enchanter's Tatters (set & individual)
-- Gossamer Flame Regalia (set & individual)
-- Sarcastic Jester's Motley (set & individual)
-- Spectral Fuchsia set(/individual)
-- Fiendflesh Terrorbox (set & individual)
-- Vista: Vigorous Goblet
-
-#### treasure/individual pieces
-
-- Sorcerer's: Cloak, Cobwebs, Hat, Herb Pouch, Staff
-- Witch's: Cloak, Cobwebs, Hat, Herb Pouch, Staff
-- Ethereal Flame: Candles, Cloak, Tail Ribbon, Headpiece, Wing Ribbon, Tail Jewel, Collar
-- Solar Flame: Tail Ribbon, Collar, ~~Candles,~~ Wing Ribbon, Tail Jewel, Cloak
-- Clever Jester's: Cap, Tail Bell, Gloves, Cape, Collar, Wing Cover, Stockings
-- Deadpan Jester's: Cap, Tail Bell, Gloves, Cape, Collar, Wing Cover, Stockings
-- Witty Jester's: Cap, Tail Bell, Gloves, Cape, Collar, Wing Cover, Stockings
-- Bewitching Ruby: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, Ghastcrown
-- Fiendish Emerald: Pendants, Nightshroud, Grasp, Forejewels, Taildecor, Clawrings, ~~Ghastcrown~~
-- Unearthly Onyx Grasp
-- Tar-Trap: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
-- Dread Dancer: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
-- Voidflow: Armet, Spikescarf, Flightshroud, Tasset, Grimplate, Tailspine, Hindcallouses, Forecallouses
 
 ## vistas
 
@@ -126,4 +97,4 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 1. 14: burning
 1. ≥10: eldritch, capitalist, zombie
 
-<span style="font-size:.85em;">note on burning: skydancers aren't paired, F range is worse than Synchronicity and M has no tert range. could be useful for mate breeding?</span>
+<span style="font-size:.85em;">note on "burning": skydancers are siblings; Alabaster x F-dancer range is worse than AxSyn, and Synchronicity x M-dancer has no tert range. dancers could still be useful for mate breeding?</span>

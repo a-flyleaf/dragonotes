@@ -38,9 +38,9 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 - [ ] [Reference]({%include url.html%}/ref)
 	- [ ] Exclusive items (main page for fest gear?)
 		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
-		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn) (2019...)
+		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn) (spreadsheet)
 		- [ ] other (FRniversary, Valentine's, seasonal, microholidays, Joxar, other cycling)
-	- [x] [Specialty items]({%include url.html%}/ref/genes) (replaced separate subcategory pages)
+	- [x] [Specialty items]({%include url.html%}/ref/specialty) (replaced separate subcategory pages; spreadsheet)
 	- [x] [Glossary]({%include url.html%}/ref/guides)
 	- [x] [Guides]({%include url.html%}/ref/guides)
 - [ ] [Blog]({%include url.html%}/blog)/update feed
