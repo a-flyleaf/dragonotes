@@ -11,12 +11,13 @@ This is fine. Doubles as a wishlist of sorts; I prioritize **anything that costs
 
 dragon | breed/other | primary | secondary | tertiary
 --- | ---
-[Ren](https://flightrising.com/main.php?dragon=56514106) | | | | koi
 [Levi](https://flightrising.com/main.php?dragon=50610501) | coatl
+
++silhouette scroll <!--non-->
 
 ## fest gear
 
-Items from elemental festivals, Night of the Nocturne, and (eventually) other cycling events are now [on <b>a spreadsheet</b>](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing). Primarily missing the following:
+Items from elemental festivals, Night of the Nocturne, and (eventually) other cycling events are now [on <b>a spreadsheet</b>](https://docs.google.com/spreadsheets/d/1-mLVoA-2ItW951fS9JMNEpV1myB50YQLFdc545EiBGU/edit?usp=sharing). Missing the following:
 
 - fest skins & gear <b>before Greenskeeper 2015</b> (when I joined)
 - most skins <b>after Brightshine 2020</b> and <b>before Riot of Rot 2021</b> (an intentional break but at what cost)
@@ -27,7 +28,7 @@ Items from elemental festivals, Night of the Nocturne, and (eventually) other cy
 
 ## vistas
 
-Ordered by priority, highest to lowest. (Baldwin and Swipp aren't missing, I've just collected 'em all.)
+Ordered by priority, highest to lowest; ~~strikethrough~~ = have it. (Baldwin and Swipp aren't missing, I've just collected 'em all.)
 
 - <b>fest/other</b>: Icewarden, ~~3rd Anniversary, NotN, festivals, deities except Icewarden,~~ Pirate's Life, Sticker Star, Broken Spear, Practice Weaopns
 	- would also not complain about duplicates of vistas I have applied, for vaulting purposes, but ^those are preferred
@@ -47,8 +48,9 @@ I am a cheapskate and will probably never buy these for myself.
 
 ## breeding projects
 
-\* = have a pair  
-searches should be sorted by <b>lowest ID first</b> to weed out inactive and/or perma dragons
+\* = have a pair
+
+Searches should be sorted by <b>highest ID first</b> to weed out inactive and/or perma dragons. AH links indicate I haven't updated in a while; might be intentionally putting these on hold while I search & breed the rest.
 
 ### [i cannot be stopped](https://flightrising.com/main.php?p=lair&id=154165&tab=dragon&did=24247054)
 
@@ -72,8 +74,8 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [zombie](https://www1.flightrising.com/scrying/predict?breed=14&gender=0&age=1&bodygene=57&body=7&winggene=17&wings=140&tertgene=6&tert=130&element=5&eyetype=3)\* | [parents](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=&wings=140&tert=130&element=&body_range=146-70&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | M | lightning *rare* | *charcoal* | metals | radioactive
 [rifraf](https://www1.flightrising.com/scrying/predict?breed=11&gender=0&age=1&bodygene=6&body=106&winggene=23&wings=121&tertgene=18&tert=6&element=3&eyetype=1)\* | [range](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=106&wings=&tert=6&element=&body_range=&wings_range=57-107&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | M | wind uncommon | clay | *sanguine* | grey
 [rust](https://www1.flightrising.com/scrying/predict?breed=11&gender=1&age=1&bodygene=10&body=94&winggene=57&wings=124&tertgene=18&tert=96&element=5&eyetype=0) | [XYZ](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=1&body=57%2C94%2C140%2C124&wings=124%2C94%2C57%2C140&tert=96%2C176%2C151&element=5&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYZ&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc), [parents](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=&wings=&tert=&element=&body_range=94-57&wings_range=162-55&tert_range=96-27&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | F | lightning | *copper* | *tarnish* | *abyss*
-[joel](https://www1.flightrising.com/scrying/predict?breed=15&gender=1&age=1&bodygene=0&body=41&winggene=59&wings=115&tertgene=38&tert=41&element=1&eyetype=3) |  [range](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=&wings=&tert=&element=&body_range=115-103&wings_range=142-41&tert_range=115-103&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc), [XYX](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=41&wings=&tert=41&element=&body_range=&wings_range=123-115&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc), [XXY](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=&body=&wings=115&tert=41&element=&body_range=123-103&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | F | earth rare | goldenrod (or [moss](https://www1.flightrising.com/scrying/predict?breed=15&gender=1&age=1&bodygene=4&body=115&winggene=59&wings=115&tertgene=38&tert=41&element=1&eyetype=3)?) | moss | goldenrod
-[sus](https://www1.flightrising.com/scrying/predict?breed=19&gender=1&age=1&bodygene=71&body=12&winggene=70&wings=10&tertgene=64&tert=97&element=8&eyetype=13)\* | [mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=19&bodygene=&winggene=&tertgene=&gender=1&body=12&wings=10&tert=&element=&body_range=&wings_range=&tert_range=97-127&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc&page=1) | F | light bright | shadow | obsidian | antique
+[joel](https://www1.flightrising.com/scrying/predict?breed=15&gender=1&age=1&bodygene=0&body=41&winggene=59&wings=115&tertgene=38&tert=41&element=1&eyetype=3) |  [materange](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=0&body=&wings=&tert=&element=&body_range=115-103&wings_range=142-41&tert_range=115-103&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc), [XYX mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=0&body=41&wings=&tert=41&element=&body_range=&wings_range=142-41&tert_range=&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | F | earth rare | goldenrod | moss | goldenrod
+[sus](https://www1.flightrising.com/scrying/predict?breed=19&gender=1&age=1&bodygene=71&body=12&winggene=70&wings=10&tertgene=64&tert=97&element=8&eyetype=13)\* | [mate](https://www1.flightrising.com/search/dragons?page=1&sort=id_asc&name=&exalted=0&progen=&breed=19&bodygene=&winggene=&tertgene=&gender=1&body=12&wings=10&tert=&element=&body_range=&wings_range=&tert_range=97-127&age=&rtb=&gen1=&pattern=&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc) | F | light bright | shadow | obsidian | antique
 [girlboss](https://www1.flightrising.com/scrying/predict?breed=4&gender=1&age=1&bodygene=40&body=46&winggene=5&wings=171&tertgene=13&tert=2&element=3&eyetype=1) | [idek](https://www1.flightrising.com/search/dragons?sort=id_asc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=1&body=75%2C46%2C84%2C172%2C105%2C171%2C47%2C133%2C158%2C49&wings=75%2C46%2C84%2C172%2C105%2C171%2C47%2C133%2C158%2C49&tert=1%2C163%2C97%2C2%2C74%2C38%2C113%2C79%2C101%2C39%2C102%2C144%2C155%2C40%2C123&element=3&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYZ&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc&nocollapse=1) | F | wind uncommon | *orangey* | *orangey* | *whitish*
 [jock](https://www1.flightrising.com/scrying/predict?breed=9&gender=0&age=1&bodygene=3&body=157&winggene=4&wings=165&tertgene=5&tert=166&element=4&eyetype=0) | [idek](https://www1.flightrising.com/search/dragons?sort=id_desc&name=&exalted=0&progen=&breed=&bodygene=&winggene=&tertgene=&gender=0&body=157%2C165%2C166&wings=165%2C157%2C166&tert=166%2C165%2C157&element=4%2C10&body_range=&wings_range=&tert_range=&age=&rtb=&gen1=&pattern=XYZ&id_length=&level_min=&level_max=&eyetype=&hibernal_cooldown_status=&ancient=&named=&hibernal=&silhouette_unlocked=&sort=id_desc&nocollapse=1) | M | nature or water | *umber* | *driftwood* | *auburn*
 [camp](https://www1.flightrising.com/scrying/predict?breed=2&gender=1&age=1&bodygene=6&body=110&winggene=21&wings=104&tertgene=8&tert=11&element=7&eyetype=3) | [hmst](https://www1.flightrising.com/search/dragons?gender=1&body=110%2C139%2C76%2C51&tert=11&wings_range=140-41&sort=id_desc) | F | shadow rare | *yellow* | *yellow* | *dark (bluish)*
@@ -88,13 +90,13 @@ scry | search | m/f | eyes | primary | secondary | tertiary
 [burning](http://fr.fintastic.net/?id=123,124,114,118,15,21,1,1,Alabaster,Synchronicity) | <b>2</b> | <b>5</b> | <b>7</b>
 [capitalist](http://fr.fintastic.net/?id=164,164,143,143,10,171,1,1,unnamed,Wyze) | 0 | 0 | <b>>10</b>
 [zombie](http://fr.fintastic.net/?id=18,133,113,113,92,92,1,1,Blake,Brandt) | <b>>10</b> | 0 | 0
-[rifraf](http://fr.fintastic.net/?id=18,133,113,113,92,92,1,1,Blake,Brandt) | <b>2</b> | X | <b>2</b>
+[rifraf](http://fr.fintastic.net/?id=138,138,159,162,11,11,1,1,unnamed-skydancer,unnamed-nocturne) | 0 | - | 0
 [sus](http://fr.fintastic.net/?id=24,24,21,21,2,26,1,1,unnamed,Anesia) | 0 | 0 | <b>>10</b>
 
+1. -: rifraf
 1. 2: eyes
 1. 3: zero
-1. 4: rifraf
 1. 14: burning
-1. ≥10: eldritch, capitalist, zombie
+1. ≥10: eldritch, capitalist, zombie, sus
 
-<span style="font-size:.85em;">note on "burning": skydancers are siblings; Alabaster x F-dancer range is worse than AxSyn, and Synchronicity x M-dancer has no tert range. dancers could still be useful for mate breeding?</span>
+<span style="font-size:.85em;">note on "burning": skydancers are siblings; Alabaster×F-dancer range is worse than A×Syn, and Synchronicity×M-dancer has no tert range. dancers could still be useful for mate breeding?</span>

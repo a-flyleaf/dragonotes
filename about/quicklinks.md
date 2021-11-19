@@ -7,19 +7,17 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2&sort=name_desc&nocollapse=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
-## misc
+## other links
+
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
-- actively-breeding Seerose descendants
-	- [<b>nests</b>](https://flightrising.com/main.php?p=lair&id=228967&tab=hatchery): [Iuriti](https://www1.flightrising.com/dragon/40696728), [Smaug](https://www1.flightrising.com/dragon/28812565) > [Shenzyk](https://www1.flightrising.com/dragon/40413273)
-	- [Maguire](https://www1.flightrising.com/dragon/48384560)
-	- [<b>nests</b>](https://flightrising.com/main.php?p=lair&id=399660&tab=hatchery): [Geils](https://www1.flightrising.com/dragon/46881192) >
-		- [Alana](https://www1.flightrising.com/dragon/52910054)
-		- [Galahad](https://www1.flightrising.com/dragon/59455788) > [Wedo](https://www1.flightrising.com/dragon/67550922) & [Thylacine](https://www1.flightrising.com/dragon/67550923)
+- challenges: [fodderlocke](https://www1.flightrising.com/forums/qnc/3053421) \| [stock the pond](https://www1.flightrising.com/forums/qnc/3007022)
+- post tracking: [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) \| [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent)
 
 ## gathering
 
@@ -112,17 +110,20 @@ gray = hibernating; !name = date obtained not noted
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
-		<tr><td>11</td><td>[seaskymom]</td></tr>
+		<tr><td>11</td><td>Caspian</td></tr>
 	<tbody>
-		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
+		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td>Fissure</td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
 		<tr><td>26</td><td>CabochonLuster</td></tr>
 		<tr><td>31</td><td>Koirin</td></tr>
-		<tr><td rowspan="3">11</td><td>02</td><td>Badru</td></tr>
+		<tr><td rowspan="6">11</td><td>02</td><td>Badru</td></tr>
 		<tr><td>03</td><td>Axius</td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
+		<tr><td>12</td><td>Odessa, Xylophone, Cen</td></tr>
+		<tr><td>14</td><td>[astraeuskid]</td></tr>
+		<tr><td>18</td><td>dashcon</td></tr>
 	</tbody>
 	</tbody>
 </table>
