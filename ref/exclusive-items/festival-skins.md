@@ -121,8 +121,8 @@ Fancy formatting and/or links coming later, maybe.
 	- <b>Flameforger's Festival:</b> Fire Opal, Magma Tube Menace, Ooh, Burn, Born for Burning, Melted, Core Principles, Overflow, Curling Combustion, garden of fire, Candlelit Secrets, Pyromanticist, In Flama Viva, Blazing Necromancer, Esteemed Metalsmith
 	- <b>Starfall Celebration:</b> Acranization Prayer, Caelum Stratus, Arcana na na na, Crystal keeper, Fractured Cosmos, Starlight Guardian, Lost in Thought, Gilded Sight, Aquila, Crystalspine Guardian, STARBREAKER, Starwood Witch, metaphysic, Capriccio
 	- <b>Riot of Rot:</b> Bottled Terror, all these mouths to feed, Mutant wings, Glass Explosion, Marinated Rot, Eye of the Swarm, Tales of The Hunt, Sentinel's Corpus, stranger in red, Centipede, Mother Told Me To Live, We Carrion, Survive the Fight, Rot n’ Roll
+	- <b>Rockbreaker's Ceremony:</b> Encased in Stone, Shattered Topaz, Kintsugi, Fossilized, Ancient Painter, far and away, Opalized, Born From Stone, This Means Bismuth, Fossil Walker, Princess of Pyrite, Precious Heart, Bumblebee Frieze, Solid Wings  
 	--<b style="text-transform:uppercase;">we are here</b>--
-	- <b>Rockbreaker's Ceremony:</b> 
 	- <b>Crystalline Gala:</b> 
 	- <b>Trickmurk Circus:</b> 
 	- <b>Mistral Jamboree:</b> 
