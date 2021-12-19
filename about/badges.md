@@ -431,7 +431,7 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		img="https://i.imgur.com/e5splgD.png"
 		artist="??? (eleven artists credited in-thread, not specific)"
 		title="<a href='https://www1.flightrising.com/forums/raf/3070041'>Shadow vs Ice Public Buy</a>"
-		date="November 05+06, 2021"
+		date="November 5+6, 2021"
 		goal="<b class='sc' style='font-weight:normal;'>chaos, chaos</b> (sent dragons for Chaos Cash)"
 	%}{%include badge.html
 		url="fl2/3071109"
@@ -440,12 +440,30 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		title="Plague Profit Squad LVIV"
 		date="November 13, 2021"
 		goal="earned 2,000,000 treasure"
+	%}<figure>
+	<a href="https://www1.flightrising.com/forums/fd2/3075442"><img src="https://i.imgur.com/T0xl7cc.png" alt="badges by Gwythaint#453574"/><img src="https://i.imgur.com/VH8JBXy.png" alt=""/></a>
+	<figcaption><b>In-Flight Scavenger Hunt</b><br/>
+	<span class="date">November 28, 2021</span><br/>
+	<span class="goal">5,000 points · 100 unique drops</span></figcaption></figure>{%include badge.html
+		url="fl2/3077127"
+		img="https://i.imgur.com/56HMgBa.png"
+		artist="KyraG#61693 (lineart) & SummerMiko#136554 (coloring)"
+		title="Plague Profit Squad LX"
+		date="December 4, 2021"
+		goal="earned 2,000,000 treasure"
 	%}{%include badge.html
 		url="fd2/2984407"
-		img="https://i.postimg.cc/7LwQWmf6/PS-1-pouty.png"
+		img="https://i.postimg.cc/cHJksC7G/PS-2-firendly.png"
 		artist="VonGacy#310038"
 		title="Spite the Sprite"
-		date="November 13, 2021"
-		goal="won against the Sprite three times in a row"
+		date="[ongoing]"
+		goal="won against the Sprite seven times in a row"
 	%}
 </div>
+
+## PPS records
+net profit $$$; lvl25s are gross profits, taxes already subtracted
+
+1. LVIV (Oct 31--Nov 13, 2021): 4,362,641T; sold 3 lvl25s (232,650/ea)
+1. LX (Nov 21--Dec 04, 2021): 3,825,254T; sold 3 lvl25s (prices vary), includes art commissions
+1. XXIX (Jun 25--Jul 7, 2018): 2,623,278T; sold 2 lvl25s (222,750/ea)
