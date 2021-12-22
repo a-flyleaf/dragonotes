@@ -7,7 +7,7 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2%2C13&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
 	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2%2C13&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
@@ -54,7 +54,7 @@ Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, G
 
 ## dragon order
 
-gray = hibernating; !name = date obtained not noted
+gray = hibernating; ! = date obtained not noted; \* = traveler
 
 <table id="dragolist">
 	<thead class="x"><tr><th>YYYY</th><th>MM</th><th>DD</th><th>dragon(s)</th></tr></thead>
@@ -115,16 +115,16 @@ gray = hibernating; !name = date obtained not noted
 	<tbody>
 		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
-		<tr><td>21</td><td>Fissure</td></tr>
+		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
 		<tr><td>26</td><td>CabochonLuster</td></tr>
-		<tr><td>31</td><td>Koirin</td></tr>
-		<tr><td rowspan="6">11</td><td>02</td><td>Badru</td></tr>
+		<tr><td>31</td><td><s>Koirin</s></td></tr>
+		<tr><td rowspan="6">11</td><td>02</td><td><s>Badru*</s></td></tr>
 		<tr><td>03</td><td>Axius</td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
 		<tr><td>12</td><td>Odessa, Xylophone, Cen</td></tr>
 		<tr><td>14</td><td>[astraeuskid]</td></tr>
-		<tr><td>18</td><td>dashcon</td></tr>
+		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody>
 	</tbody>
 </table>
