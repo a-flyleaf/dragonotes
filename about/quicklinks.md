@@ -42,7 +42,7 @@ Redrock Cove | <b><u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | <b>Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u></b>
-Rainsong Jungle | <u>Overcharged Silverbeast, Goldenbeast</u>
+Rainsong Jungle | <u>Goldenbeast</u>
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
