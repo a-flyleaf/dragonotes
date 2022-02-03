@@ -8,7 +8,7 @@ miscellaneous stuff for my own reference
 ## AH searches
 
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2%2C13&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
-	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2%2C13&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2%2C13&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -66,15 +66,13 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="3">08</td><td>04</td><td><s>Delphi</s></td></tr>
 		<tr><td>21</td><td><s>Riviniana</s></td></tr>
 		<tr><td><span><27</span></td><td><s>Notturno</s></td></tr>
-	</tbody>
-	<tbody>
+	</tbody><tbody>
 		<tr><td rowspan="5">2016</td><td>01</td><td>14</td><td><s>Gizmo</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Galena</s></td></tr>
 		<tr><td><span><08</span></td><td>??</td><td><s>Rothide</s></td></tr>
 		<tr><td>09</td><td>??</td><td><s>Avi</s></td></tr>
 		<tr><td>11</td><td>03</td><td><s>Soleil</s></td></tr>
-	</tbody>
-	<tbody>
+	</tbody><tbody>
 		<tr><td rowspan="3">2017</td><td>04</td><td>18</td><td><s>Eavn</s></td></tr>
 		<tr><td>08</td><td>30</td><td><s>Azrael & Zara</s></td></tr>
 		<tr><td>09</td><td><span><04</span></td><td><s>Kieran</s></td></tr>
@@ -84,8 +82,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="3">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
 		<tr><td>16</td><td><s>Midst</s></td></tr>
 		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
-	</tbody>
-	<tbody>
+	</tbody><tbody>
 		<tr><td rowspan="10">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
@@ -96,14 +93,12 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>23</td><td>[daevauscale]</td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
-	</tbody>
-	<tbody>
-		<tr><td rowspan="22">2020</td><td rowspan="6">01</td><td>02</td><td><s>Chromatic</s></td></tr>
+	</tbody><tbody>
+		<tr><td rowspan="21">2020</td><td rowspan="5">01</td><td>02</td><td><s>Chromatic</s></td></tr>
 		<tr><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>10</td><td>Encore</td></tr>
-		<tr><td>12</td><td>Spectral</td></tr>
+		<tr><td>12</td><td><s>Spectral</s></td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
-		<tr><td>17</td><td>Tesseract, Tzopilotl</td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td>03</td><td>19</td><td>[anandte2]</td></tr>
@@ -112,7 +107,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td>Caspian</td></tr>
-	<tbody>
+	</tbody><tbody>
 		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
@@ -125,6 +120,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>12</td><td>Odessa, Xylophone, Cen</td></tr>
 		<tr><td>14</td><td>[astraeuskid]</td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
-	</tbody>
+	</tbody><tbody>
+		<tr><td>2022</td><td>01</td><td>05</td><td>[plaguenoc]</td></tr>
 	</tbody>
 </table>
