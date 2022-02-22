@@ -38,7 +38,7 @@ Blooming Grove | <u>Mossy Pohip</u>
 Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | <b><u>Spiney Whale</u>, Maren Sorceress, Coastline Sawbeak, Green-breasted Sawbeak, Surf Strider, Coast Charger, Toxic Igueel, Igueel Matriarch</b>
+Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Coast Charger, Toxic Igueel, Igueel Matriarch</b>
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | <b>Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u></b>
@@ -102,7 +102,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td>03</td><td>19</td><td>[anandte2]</td></tr>
-		<tr><td>04</td><td>16</td><td>MiamiTriggerfish</td></tr>
+		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
@@ -121,6 +121,8 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>14</td><td>[astraeuskid]</td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td>2022</td><td>01</td><td>05</td><td>[plaguenoc]</td></tr>
+		<tr><td rowspan="3">2022</td><td rowspan="2">01</td><td>05</td><td>[plaguenoc]</td></tr>
+		<tr><td>09</td><td>Disappointius</td></tr>
+		<tr><td>02</td><td>21</td><td>!Fred</td></tr>
 	</tbody>
 </table>
