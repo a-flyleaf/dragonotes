@@ -7,8 +7,8 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 
-- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&d_breed=14%2C17%2C6%2C8%2C2%2C13&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
-	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&d_breed=14%2C17%2C6%2C8%2C2%2C13&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
+- <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -106,9 +106,9 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="2">05</td><td>09</td><td>Bluebell</td></tr>
 		<tr><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
-		<tr><td>11</td><td>Caspian</td></tr>
+		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td>Mallow, Astraeus</td></tr>
+		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td><s>Mallow,</s> Astraeus</td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
@@ -118,11 +118,13 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>03</td><td>Axius</td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
 		<tr><td>12</td><td>Odessa, Xylophone, Cen</td></tr>
-		<tr><td>14</td><td>[astraeuskid]</td></tr>
+		<tr><td>14</td><td>Zachariah</td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="3">2022</td><td rowspan="2">01</td><td>05</td><td>[plaguenoc]</td></tr>
+		<tr><td rowspan="5">2022</td><td rowspan="2">01</td><td>05</td><td>[spring aber]</td></tr>
 		<tr><td>09</td><td>Disappointius</td></tr>
-		<tr><td>02</td><td>21</td><td>!Fred</td></tr>
+		<tr><td rowspan="3">02</td><td>18</td><td>Paperclip</td></tr>
+		<tr><td>21</td><td>!Fred</td></tr>
+		<tr><td>24</td><td>Halloween, Scarecrow</td></tr>
 	</tbody>
 </table>
