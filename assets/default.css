@@ -122,6 +122,8 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 @supports (display:flex) {
 	.badges #badges{display:flex; flex-wrap:wrap; justify-content: center;}
 }
+.badges table{font-size:.85em;}
+.badges table td:nth-child(3){font-weight:bold;}
 
 @media (prefers-color-scheme:dark){
 	body{background:#1d1e25; color:#9494a9;}

@@ -17,14 +17,13 @@ miscellaneous stuff for my own reference
 
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
-- challenges: [fodderlocke](https://www1.flightrising.com/forums/qnc/3053421) \| [stock the pond](https://www1.flightrising.com/forums/qnc/3007022)
-- post tracking: [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) \| [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent)
+- post tracking: [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) \| [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent)
 
 ## gathering
 
 literally just that gosh dang <b>hippojay</b> (fishing in earth/ice/light/nature)
 
-also need runestones for hibden but not worried about that yet
+also need runestones for hibden but might just cave and buy em
 
 ## coli fams
 
@@ -49,7 +48,7 @@ Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 Mire | <b>✓</b>
 Golem Workshop | <b>Copperplate Longmech</b>
-~~Kelp Beds~~ | <s>✓</s>
+Kelp Beds | <b>Eggull, Blue-Footed Eggull, Ruche Slug, Ruched Sojourner, Maren Fisher, Maren Seahunter, Kelp Caretaker, Maren Harvester</b>
 Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern</b>
 
 ## dragon order
@@ -117,14 +116,19 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="6">11</td><td>02</td><td><s>Badru*</s></td></tr>
 		<tr><td>03</td><td>Axius</td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
-		<tr><td>12</td><td>Odessa, Xylophone, Cen</td></tr>
+		<tr><td>12</td><td>Odessa, Cen</td></tr>
 		<tr><td>14</td><td>Zachariah</td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2022</td><td rowspan="2">01</td><td>05</td><td>[spring aber]</td></tr>
+		<tr><td rowspan="10">2022</td><td rowspan="2">01</td><td>05</td><td>[spring aber]</td></tr>
 		<tr><td>09</td><td>Disappointius</td></tr>
 		<tr><td rowspan="3">02</td><td>18</td><td>Paperclip</td></tr>
-		<tr><td>21</td><td>!Fred</td></tr>
+		<tr><td>21</td><td><s>!Fred</s></td></tr>
 		<tr><td>24</td><td>Halloween, Scarecrow</td></tr>
+		<tr><td rowspan="5">03</td><td>02</td><td>Secret</td></tr>
+		<tr><td>03</td><td>[sonabog]</td></tr>
+		<tr><td>04</td><td>Chestnut</td></tr>
+		<tr><td>07</td><td>JynWeyThek<s>, Dimitri</s></td></tr>
+		<tr><td>09</td><td>Aegis</td></tr>
 	</tbody>
 </table>

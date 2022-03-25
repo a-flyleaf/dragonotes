@@ -7,6 +7,8 @@ Collectible trinkets from usermade challenges. 90% coliseum-related because exal
 
 Ordered chronologically by date earned, which is usually based on the event end. Badges link to forum threads, most of which aren't visible to those outside the Plague flight (unless the title is also clickable). Artist credit in the alt text.
 
+(Side note: Public buy tracking has been spotty. Probably missing a bunch of those but *I have been on this site for years* and can't be bothered to spreadsheet-dig >:V)
+
 <div id="badges">
 	{%include badge.html
 		url="fl2/1550792"
@@ -452,18 +454,85 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		date="December 4, 2021"
 		goal="earned 2,000,000 treasure"
 	%}{%include badge.html
+		url="fl2/3084280"
+		img="https://i.imgur.com/eyjvwzo.png"
+		artist="KyraG#61693 (lineart) & SummerMiko#136554 (coloring)"
+		title="Joint Profit Squad"
+		date="January 8, 2022"
+		goal="earned 2,000,000 treasure"
+	%}{%include badge.html
+		url="fd2/3065640"
+		img="https://i.imgur.com/EJmqiTy.png"
+		artist="???"
+		title="Bragging Blights S8"
+		date="January 11, 2022"
+		goal="350 exalts"
+	%}{%include badge.html
+		url="raf/3092788"
+		img="https://i.imgur.com/OPgGa70.png"
+		artist="Hwa#553789"
+		title="<a href='https://www1.flightrising.com/forums/raf/3092788'>Nature Public Buy</a>"
+		date="January 15, 2022"
+		goal="sent dragons on Thursday"
+	%}{%include badge.html
+		url="raf/3091693"
+		img="https://i.imgur.com/vpi1KQ7.png"
+		artist="??? (nine artists credited in-thread, not specific)"
+		title="<a href='https://www1.flightrising.com/forums/raf/3091693'>Ice Raffle</a>"
+		date="January 22, 2022"
+		goal="sent 300 levels"
+	%}{%include badge.html
+		url="drw/3101203"
+		img="https://media.discordapp.net/attachments/919083832735596574/939635691443351693/OOf_badge.png"
+		artist="??? (three artists credited in-thread, not specific)"
+		title="<a href='https://www1.flightrising.com/forums/drw/3101203'>Valight</a>"
+		date="February 12, 2022"
+		goal="sent 300 levels"
+	%}{%include badge.html
+		url="raf/3102055"
+		img="https://orig13.deviantart.net/81fa/f/2017/210/d/d/p4_by_empressfiraya-dbi65t6.gif"
+		artist="AlienaCordis#144520"
+		title="<a href='https://www1.flightrising.com/forums/raf/3102055'>Run Away Shadows Raffle</a>"
+		date="February 19, 2022"
+		goal="sent 1,000 levels (cumulative)"
+	%}{%include badge.html
+		url="fd2/3106593"
+		img="https://imgur.com/JQb3tVt.png"
+		artist="Phenri#135667"
+		title="Little Greenhouse of Horrors IFR"
+		date="March 12, 2022"
+		goal="exalted 1,000 levels"
+	%}{%include badge.html
+		url="fd2/3111145"
+		img="https://i.imgur.com/MHQh1ab.png"
+		artist="LithoLab#387850"
+		title="Army of Rot: Nature vs Plague"
+		date="March 12, 2022"
+		goal="exalted 2,000 levels"
+	%}{%include badge.html
 		url="fd2/2984407"
-		img="https://i.postimg.cc/cHJksC7G/PS-2-firendly.png"
+		img="https://i.postimg.cc/5tgkdLCm/PS-3-lov-lov.png"
 		artist="VonGacy#310038"
 		title="Spite the Sprite"
-		date="[ongoing]"
-		goal="won against the Sprite seven times in a row"
+		date="March 12, 2022"
+		goal="won against the Sprite 15 times in a row"
+	%}{%include badge.html
+		url="fd2/3065640"
+		img="https://i.imgur.com/HhNKQaL.png"
+		artist="Phenri#135667"
+		title="Bragging Blights S9"
+		date="March 13, 2022"
+		goal="900 exalts"
 	%}
+	<!--bragging blights S10 badges by Wolfdawn#521954-->
 </div>
 
 ## PPS records
-net profit $$$; lvl25s are gross profits, taxes already subtracted
+For every time I made a net profit of over 2,000,000T. I don't know how this has happened multiple times either.
 
-1. LVIV (Oct 31--Nov 13, 2021): 4,362,641T; sold 3 lvl25s (232,650/ea)
-1. LX (Nov 21--Dec 04, 2021): 3,825,254T; sold 3 lvl25s (prices vary), includes art commissions
-1. XXIX (Jun 25--Jul 7, 2018): 2,623,278T; sold 2 lvl25s (222,750/ea)
+round | timeframe | $$$ | notes
+--- | ---
+LVIV | Oct 31--Nov 13, 2021 | 4,362,641 | sold 3 lvl25s (232,650/ea)
+LX | Nov 21--Dec 04, 2021 | 3,825,254T | sold 3 lvl25s (prices vary), includes art commissions
+Joint | Dec 19, 2021--Jan 8, 2022 | 3,116,842T | sold 10 lvl25s (prices vary)
+XXIX | Jun 25--Jul 7, 2018 | 2,623,278T | sold 2 lvl25s (222,750/ea)

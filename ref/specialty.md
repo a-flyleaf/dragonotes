@@ -7,15 +7,15 @@ title: Specialty Items
 Specialty items are sorted into three broad subcategories onsite (Specialty Items, Vistas, Scenes):
 - <b>"Specialty Items"</b> encompasses genes (dragon markings), vials (dragon eyes), and miscellaneous items like [the "permabab" scroll](https://www1.flightrising.com/game-database/item/35896) and [a silhouette switcher](https://www1.flightrising.com/game-database/item/35896).
 - <b>Vistas</b> are avatar decorations, visible primarily on forum posts in each comment's sidebar and (optionally) on individual dragon bios.
-- <b>Scenes</b> change background of your individual dragons. Unlike vistas, which are universally applied, scenes work more like other specialty items in that multiple dragons need multiple scenes.
+- <b>Scenes</b> change background of your individual dragons. Unlike vistas, which are universally applied, scenes work like apparel: if you want multiple dragons with the same scene, you need multiple copies of the scene.
 
 ## Where'd the data tables go?
-This site used to have separate pages for genes and vistas; I found it unwieldy, and now they're all in [one giant spreadsheet](https://docs.google.com/spreadsheets/d/1_xmZ4mfrTLWatwiccmim1Mxxw3AyzNV64yV9JWvPyjM/edit?usp=sharing). At the time of writing it's a little rough around the edges, but should be easier to reference than clicking through the Game Database one item at a time ;V
+This site used to have separate pages for genes and vistas; I found it unwieldy, and now they're all in [one giant spreadsheet](https://docs.google.com/spreadsheets/d/1_xmZ4mfrTLWatwiccmim1Mxxw3AyzNV64yV9JWvPyjM/edit?usp=sharing). It's a little rough around the edges, but should be easier to reference than clicking through the Game Database one item at a time ;V
 - Ancient genes can't be applied to modern breeds and vice versa. (The difference in a nutshell, besides genes: ancients can't wear apparel. More about why that's a thing [in the teaser announcement from 2019](https://www1.flightrising.com/forums/ann/2666061).)
 - There are no hidden columns in Ba Sing Se. (It's just data that makes things less repetitive for me to edit.)
 - Marketplace-T = costs treasure, -G = costs gems
 - "w/ dom" refers to the 15% treasure marketplace discount you get if your flight is [dominating](https://flightrising.com/main.php?p=dominance). See below for a tip on taking advantage of it even if you're not in the lead!
-- "event+" needs a better name, but basically it's stuff you can get just by clicking around the site and doing things; usually these little activities will yield a chest, which has a chance of containing one of several exclusive items. It's free lootbox estate!
+- cycling and [NotN](https://docs.google.com/spreadsheets/d/10p5NiG6_1LdvtF_Dyvu4-frcKwUepDkGl46hX440vGc/edit?usp=sharing) items are available once a year, and (unless otherwise noted) can be obtained just by clicking around the site and doing things. It's free lootbox estate!
 - If the notes are cut off, click the offending cel and look up. On desktop, the cel's full content is visible around the top of the page, in a line between the Google Sheets header and the actual spreadsheet. (I make no promises for mobile.)
 
 ## Tips & Trivia
