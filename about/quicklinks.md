@@ -125,15 +125,15 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="3">02</td><td>18</td><td>Paperclip</td></tr>
 		<tr><td>21</td><td><s>!Fred</s></td></tr>
 		<tr><td>24</td><td>Halloween, Scarecrow</td></tr>
-		<tr><td rowspan="6">03</td><td>02</td><td>Secret</td></tr>
+		<tr><td rowspan="5">03</td><td>02</td><td>Secret</td></tr>
 		<tr><td>03</td><td>[sonabog]</td></tr>
 		<tr><td>07</td><td>JynWeyThek<s>, Dmitri</s></td></tr>
 		<tr><td>10</td><td>Novak</td></tr>
-		<tr><td>26</td><td>Outcast</td></tr>
 		<tr><td>27</td><td>Layes</td></tr>
 		<tr><td>04</td><td>24</td><td>Evergreen</td></tr>
 		<tr><td rowspan="3">05</td><td>02</td><td>Tonic</td></tr>
 		<tr><td>17</td><td>Art, Min</td></tr>
-		<tr><td>18</td><td>[earthkid]</td></tr>
+		<tr><td>18</td><td>Scylla</td></tr>
+		<tr><td>06</td><td>05</td><td>Ascher</td></tr>
 	</tbody>
 </table>
