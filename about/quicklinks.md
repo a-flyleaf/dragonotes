@@ -30,14 +30,14 @@ also need runestones for hibden but might just cave and buy em
 bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
 
 ~~Training Fields~~ | <s>✓</s>
-~~Woodland Path~~ | <s>✓</s>
+Woodland Path | <b>Aurelian Porcupine, Trumpet Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Featherfoot Spingy, Spongy Spingy, Flying Fawn, Velvet Fawn</b>
 ~~Scorched Forest~~ | <s>✓</s>
 ~~Sandswept Delta~~ | <s>✓</s>
 Blooming Grove | <u>Mossy Pohip</u>
 Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Coast Charger, Toxic Igueel, Igueel Matriarch</b>
+Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch</b>
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | <b>Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u></b>
@@ -107,20 +107,20 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td><s>Mallow,</s> Astraeus</td></tr>
+		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td><s>Mallow, Astraeus</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
-		<tr><td>26</td><td>CabochonLuster</td></tr>
+		<tr><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
 		<tr><td rowspan="6">11</td><td>02</td><td><s>Badru*</s></td></tr>
-		<tr><td>03</td><td>Axius</td></tr>
+		<tr><td>03</td><td><s>Axius</s></td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
 		<tr><td>12</td><td>Odessa, Cen</td></tr>
 		<tr><td>14</td><td>Zachariah</td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="15">2022</td><td rowspan="2">01</td><td>05</td><td>Asclepius</td></tr>
+		<tr><td rowspan="16">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
 		<tr><td rowspan="3">02</td><td>18</td><td>Paperclip</td></tr>
 		<tr><td>21</td><td><s>!Fred</s></td></tr>
@@ -135,5 +135,6 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>17</td><td>Art, Min</td></tr>
 		<tr><td>18</td><td>Scylla</td></tr>
 		<tr><td>06</td><td>05</td><td>Ascher</td></tr>
+		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 	</tbody>
 </table>

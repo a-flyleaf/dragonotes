@@ -29,12 +29,14 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] art
 		- [ ] old bio(s)
 	- [ ] loredumps
-	- [ ] clans
+	- [ ] clans/other lore groups
 		- [ ] Viral Evolution
 		- [ ] Incessant Inferno
 		- [ ] Frostbite
 		- [ ] Cryptocelus
 		- [ ] Flight Reaping
+		- [ ] Banesquad
+		- [ ] Hibiscus Inn
 - [ ] [Reference]({%include url.html%}/ref)
 	- [ ] Exclusive items (main page for fest gear?)
 		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
