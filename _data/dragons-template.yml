@@ -1,14 +1,16 @@
-- id: 
-  nm: 
+- nm: 
+  id: 
   element: 
   sex: 
   age: OPTIONAL if bab
   breed: 
   gen: OPTIONAL if 1
-  lvl: OPTIONAL defaults 1, if 1 then ignore stats
+  lvl: OPTIONAL defaults lvl1, if 1 then ignore stats
   stats:
-    bld: OPTIONAL
+    bld: build name
     lnk: gde/1040710 (culex farmer default)
+    by: username
+    id: userid
   msr:
     length: 
     wings: 
@@ -40,4 +42,5 @@
     vista: 
     scene: 
     broadcast: string, same as site
-  cat: [lore,other]
+  cat: [lore,other,song,banescale]
+#

@@ -1,15 +1,17 @@
 # add in order obtained, fandragons notwithstanding; they can have a separate data file. (see ygbtdm/gallery/all for combined data)
-# names (dragon and familiar) capitalized, else lowercase (use CSS)
-- id: 12116084
-  nm: Maelstrom
+# names (dragon, familiar, venues) capitalized, else lowercase (use CSS)
+- nm: Maelstrom
+  id: 12116084
   element: plague
   sex: m
   breed: mirror
   gen: 1
   lvl: 25
   stats:
-    bld: Culex farmer
+    bld: farmer
     lnk: gde/1040710
+    by: Culex
+    id: 34505
   msr:
     length: 5.08
     wings: 4.44
@@ -40,16 +42,18 @@
     scene: 1
     broadcast: custom progen
   cat: [lore]
-- id: 12116085
-  nm: Lapilli
+- nm: Lapilli
+  id: 12116085
   element: plague
   sex: f
   breed: fae
   gen: 1
   lvl: 25
   stats:
-    bld: Culex farmer
+    bld: farmer
     lnk: gde/1040710
+    by: Culex
+    id: 34505
   msr:
     length: 1.1
     wings: 0.96
@@ -81,15 +85,17 @@
     scene: 1
     broadcast: random progen
   cat: [lore]
-- id: 11966926
-  nm: Altostratus
+- nm: Altostratus
+  id: 11966926
   element: lightning
   sex: f
   breed: skydancer
   lvl: 25
   stats:
-    bld: Culex farmer
+    bld: farmer
     lnk: gde/1040710
+    by: Culex
+    id: 34505
   msr:
     length: 4.78
     wings: 6.35
@@ -121,15 +127,17 @@
     scene: 0
     broadcast: first bought/third ever dragon
   cat: [lore]
-- id: 6594794
-  nm: solar
+- nm: solar
+  id: 6594794
   element: arcane
   sex: m
   breed: coatl
   lvl: 25
   stats:
-    bld: Culex farmer
+    bld: farmer
     lnk: gde/1040710
+    by: Culex
+    id: 34505
   msr:
     length: 7.48
     wings: 10.73
@@ -161,15 +169,17 @@
     scene: 0
     broadcast: first gift dragon
   cat: [lore]
-- id: 13483458
-  nm: Pestilence
+- nm: Pestilence
+  id: 13483458
   element: plague
   sex: m
   breed: bogsneak
   lvl: 25
   stats:
-    bld: Culex farmer
+    bld: farmer
     lnk: gde/1040710
+    by: Culex
+    id: 34505
   msr:
     length: 0.99
     wings: 0.92
@@ -200,8 +210,8 @@
     scene: 0
     broadcast: first dream dragon
   cat: [lore]
-- id: 12989339
-  nm: Drosera
+- nm: Drosera
+  id: 12989339
   element: nature
   sex: f
   breed: mirror
@@ -236,15 +246,17 @@
     scene: 0
     broadcast: first (and only) flight rep
   cat: [lore]
-- id: 12788530
-  nm: Schism
+- nm: Schism
+  id: 12788530
   element: arcane
   sex: f
   breed: imperial
   lvl: 25
   stats:
-    bld: "wormwood mire flyer"
+    bld: "Mire flyer"
     lnk: fl2/1278279
+    by: wormwood
+    id: 39986
   msr:
     length: 29.92
     wings: 17.36
@@ -276,8 +288,8 @@
     scene: 1
     broadcast: first retired mire flyer
   cat: [lore]
-- id: 13567780
-  nm: Fern
+- nm: Fern
+  id: 13567780
   element: lightning
   sex: f
   breed: spiral
@@ -312,16 +324,18 @@
     scene: 0
     broadcast: first hatchling letter
   cat: [lore]
-- id: 14639592
-  nm: Skiptrace
+- nm: Skiptrace
+  id: 14639592
   element: arcane
   sex: m
   breed: mirror
   gen: 1
   lvl: 25
   stats:
-    bld: brokenstone mire flyer
+    bld: Mire flyer
     lnk: gde/2234398
+    by: brokenstone
+    id: 90693
   msr:
     length: 6.41
     wings: 3.95
@@ -353,15 +367,17 @@
     scene: 1
     broadcast: first G1 fodder rescue, second retired mire flyer
   cat: [lore]
-- id: 15585543
-  nm: Delphi
+- nm: Delphi
+  id: 15585543
   element: plague
   sex: m
   breed: mirror
   lvl: 25
   stats:
-    bld: Maki build (of some sort, outdated)
+    bld: [outdated build of some sort]
     lnk: gde/1344211
+    by: Maki
+    id: 19069
   msr:
     length: 7.65
     wings: 6.6
@@ -392,16 +408,18 @@
     scene: 0
     broadcast: [n/a]
   cat: [lore]
-- id: 16051687
-  nm: Riviniana
+- nm: Riviniana
+  id: 16051687
   element: wind
   sex: m
   breed: fae
   gen: 1
   lvl: 25
   stats:
-    bld: celelorien workshop cleric
+    bld: Workshop cleric
     lnk: gde/1666709
+    by: celelorien
+    id: 76431
   msr:
     length: 0.93
     wings: 1.4
@@ -433,16 +451,18 @@
     scene: 1
     broadcast: retired workshop cleric
   cat: [lore]
-- id: 9359734
-  nm: Notturno
+- nm: Notturno
+  id: 9359734
   element: nature
   sex: f
   breed: nocturne
   gen: 1
   lvl: 25
   stats:
-    bld: Sylvandyr Ghostlight trainer
+    bld: Ghostlight trainer
     lnk: gde/967048/50#post_37570620
+    by: Sylvandyr
+    id: 12049
   msr:
     length: 4.07
     wings: 6.45
@@ -473,16 +493,18 @@
     vista: 0
     scene: 0
   cat: [lore]
-- id: 18345336
-  nm: Gizmo
+- nm: Gizmo
+  id: 18345336
   element: fire
   sex: m
   breed: fae
   gen: 1
   lvl: 25
   stats:
-    bld: celelorien workshop warrior
+    bld: Workshop warrior
     lnk: gde/1666709
+    by: celelorien
+    id: 76431
   msr:
     length: 0.73
     wings: 1.35
@@ -514,8 +536,8 @@
     scene: 1
     broadcast: retired workshop warrior
   cat: [lore]
-- id: 20722709
-  nm: Galena
+- nm: Galena
+  id: 20722709
   element: ice
   sex: f
   breed: mirror
@@ -550,8 +572,8 @@
     vista: 0
     scene: 0
   cat: [lore]
-- id: 22837102
-  nm: Rothide
+- nm: Rothide
+  id: 22837102
   element: arcane
   sex: m
   breed: mirror
@@ -586,8 +608,8 @@
     scene: 0
     broadcast: "[TBA] first fodder breeder"
   cat: [other]
-- id: 26634365
-  nm: Avi
+- nm: Avi
+  id: 26634365
   element: ice
   sex: f
   breed: wildclaw
@@ -623,16 +645,18 @@
     scene: 1
     broadcast: "Ohai thar :V"
   cat: [other]
-- id: 28210287
-  nm: Soleil
+- nm: Soleil
+  id: 28210287
   element: light
   sex: f
   breed: mirror
   gen: 1
   lvl: 25
   stats:
-    bld: Rhabdo's Kelp Beds beast
+    bld: Kelp Beds beast
     lnk: gde/2450522#post_33495975
+    by: Rhabdo
+    id: 230692
   msr:
     length: 4.95
     wings: 5.11
@@ -664,8 +688,8 @@
     scene: 0
   cat: [lore,other]
   # idk how to categorize this one, if I like the water ancient she's getting a breed change but that's so far off....
-- id: 31950543
-  nm: Eavn
+- nm: Eavn
+  id: 31950543
   element: plague
   sex: m
   breed: ridgeback
@@ -700,8 +724,8 @@
     scene: 0
     broadcast: "[TBA] first prize dragon"
   cat: [lore]
-- id: 35545223
-  nm: Azrael
+- nm: Azrael
+  id: 35545223
   element: plague
   sex: m
   breed: mirror
@@ -734,8 +758,8 @@
     scene: 0
     broadcast: "[TBA] former fodder breeder"
   cat: [other]
-- id: 35545221
-  nm: Zara
+- nm: Zara
+  id: 35545221
   element: plague
   sex: f
   breed: guardian
@@ -768,8 +792,8 @@
     scene: 0
     broadcast: "[TBA] former fodder breeder"
   cat: [other]
-- id: 35267877
-  nm: Kieran
+- nm: Kieran
+  id: 35267877
   element: wind
   sex: m
   breed: skydancer
@@ -803,15 +827,17 @@
     vista: 0
     scene: 0
   cat: [lore]
-- id: 397435
-  nm: Carnation
+- nm: Carnation
+  id: 397435
   element: shadow
   sex: f
   breed: wildclaw
   lvl: 25
   stats:
-    bld: Redfoot boreal brawler
+    bld: Boreal brawler
     lnk: gde/1777804
+    by: Redfoot
+    id: 176141
   msr:
     length: 5.03
     wings: 5.6
@@ -843,8 +869,8 @@
     scene: 1
     broadcast: old boreal brawler
   cat: [lore]
-- id: 40109738
-  nm: Raizel
+- nm: Raizel
+  id: 40109738
   element: lightning
   sex: f
   breed: skydancer
@@ -879,8 +905,8 @@
     scene: 0
     broadcast: haughty bartender
   cat: [lore]
-- id: 25542349
-  nm: Midst
+- nm: Midst
+  id: 25542349
   element: ice
   sex: m
   breed: spiral
@@ -914,16 +940,18 @@
     vista: 0
     scene: 0
   cat: [lore]
-- id: 30271918
-  nm: Exuberant
+- nm: Exuberant
+  id: 30271918
   element: water
   sex: m
   breed: spiral
   gen: 1
   lvl: 25
   stats:
-    bld: Mohenjo leviathan leveler
+    bld: leviathan leveler
     lnk: gde/2469655
+    by: Mohenjo
+    id: 372448
   msr:
     length: 4.49
     wings: 2.5
@@ -955,3 +983,512 @@
     vista: 1
     scene: 1
   cat: [other]
+- nm: Comet
+  id: 50298426
+  element: wind
+  sex: m
+  breed: wildclaw
+  lvl: 25
+  stats:
+    bld: Roost/Pools trainer
+    lnk: gde/1799039
+    by: Redfoot
+    id: 176141
+  msr:
+    length: 5.32
+    wings: 6.3
+    weight: 504.24
+  genes:
+    pri:
+      num: 51
+      clr: periwinkle
+      gn: lionfish
+    sec:
+      num: 117
+      clr: sunset
+      gn: noxtide
+    tert:
+      num: 117
+      clr: sunset
+      gn: capsule
+  dates:
+    hatch: 2019-03-20
+    obtain: 2019-03-21
+    hibern: 2019-11-08
+  has:
+    familiar: Chalcedony Snipper
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 1
+  cat: [other,song]
+- nm: Amaranta
+  id: 51712457
+  element: lightning
+  sex: m
+  breed: spiral
+  msr:
+    length: 3.65
+    wings: 2.54
+    weight: 103.98
+  genes:
+    pri:
+      num: 84
+      clr: algae
+      gn: cherub
+    sec:
+      num: 82
+      clr: forest
+      gn: shimmer
+    tert:
+      num: 76
+      clr: thicket
+      gn: okapi
+    eye: rare
+  dates:
+    hatch: 2019-05-10
+    hibern: 2019-11-23
+  has:
+    familiar: Amaranth Moth
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] first new eyes"
+  cat: [lore,song]
+- nm: Iko
+  id: 34085678
+  element: water
+  sex: m
+  breed: spiral
+  gen: 1
+  lvl: 11
+  msr:
+    length: 2.78
+    wings: 2.7
+    weight: 79.94
+  genes:
+    pri:
+      num: 47
+      clr: navy
+      gn: python
+    sec:
+      num: 92
+      clr: radioactive
+      gn: morph
+    tert:
+      num: 162
+      clr: cerise
+      gn: basic
+    eye: dark sclera
+  dates:
+    hatch: 2017-06-29
+    obtain: 2019-11-08
+    hibern: 2020-01-12
+  has:
+    familiar: Barking Jester
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [other]
+- nm: Crake
+  id: 56667516
+  element: arcane
+  sex: m
+  breed: skydancer
+  msr:
+    length: 4.85
+    wings: 3.68
+    weight: 789.99
+  genes:
+    pri:
+      num: 169
+      clr: magenta
+      gn: speckle
+    sec:
+      num: 156
+      clr: sanguine
+      gn: freckle
+    tert:
+      num: 157
+      clr: blood
+      gn: crackle
+    eye: faceted
+  dates:
+    hatch: 2019-11-09
+    obtain: 2019-11-25
+    hibern: 2021-01-21
+  has:
+    familiar: Shale Thresher
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore,other]
+- nm: Andante
+  id: 57362847
+  element: shadow
+  sex: m
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 8.75
+    wings: 5.28
+    weight: 541.23
+  genes:
+    pri:
+      num: 164
+      clr: brick
+      gn: chevron
+    sec:
+      num: 154
+      clr: crimson
+      gn: trail
+    tert:
+      num: 42
+      clr: iris
+      gn: wraith
+    eye: rare
+  dates:
+    hatch: 2019-12-09
+    hibern: 2021-01-21
+  has:
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Vivace
+  id: 57362941
+  element: nature
+  sex: f
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 8.55
+    wings: 4.12
+    weight: 824.86
+  genes:
+    pri:
+      num: 80
+      clr: jungle
+      gn: basic
+    sec:
+      num: 61
+      clr: phthalo
+      gn: basic
+    tert:
+      num: 100
+      clr: moss
+      gn: basic
+  dates:
+    hatch: 2019-12-09
+    hibern: 2021-01-21
+  has:
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Hestia
+  id: 46487059
+  element: fire
+  sex: f
+  breed: wildclaw
+  gen: 1
+  lvl: 25
+  stats:
+    bld: unknown
+  msr:
+    length: 6.25
+    wings: 9.28
+    weight: 387.92
+  genes:
+    pri:
+      num: 145
+      clr: brown
+      gn: python
+    sec:
+      num: 112
+      clr: gold
+      gn: bee
+    tert:
+      num: 2
+      clr: cream
+      gn: spines
+    eye: rare
+  dates:
+    hatch: 2018-10-31
+    obtain: 2019-12-08
+    hibern: 2020-01-12
+  has:
+    familiar: Wasteland Collector
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+- nm: Holly
+  id: 57441139
+  element: ice
+  sex: f
+  age: bab
+  breed: banescale
+  gen: 1
+  lvl: 12
+  msr:
+    length: 1.75
+    wings: 1.41
+    weight: 13.74
+  genes:
+    pri:
+      num: 82
+      clr: forest
+      gn: skink
+    sec:
+      num: 70
+      clr: spruce
+      gn: toxin
+    tert:
+      num: 7
+      clr: orca
+      gn: ghost
+  dates:
+    hatch: 2019-12-10
+    obtain: 2019-12-11
+    hibern: 2020-01-12
+  has:
+    familiar: Poultrygeist
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 1
+  cat: [lore]
+- nm: Sempre
+  id: 3474932
+  element: plague
+  sex: f
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 7.78
+    wings: 4.65
+    weight: 806.6
+  genes:
+    pri:
+      num: 58
+      clr: steel
+      gn: ragged
+    sec:
+      num: 169
+      clr: magenta
+      gn: arrow
+    tert:
+      num: 158
+      clr: maroon
+      gn: crackle
+    eye: dark sclera
+  dates:
+    hatch: 2014-05-14
+    obtain: <2018-04-22
+    hibern: 2021-01-22
+  has:
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Trill
+  id: 57625604
+  element: earth
+  sex: m
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 7.7
+    wings: 8.29
+    weight: 487.88
+  genes:
+    pri:
+      num: 175
+      clr: bubblegum
+      gn: chevron
+    sec:
+      num: 147
+      clr: auburn
+      gn: toxin
+    tert:
+      num: 6
+      clr: ice
+      gn: squiggle
+    eye: uncommon
+  dates:
+    hatch: 2019-12-15
+    obtain: 2019-12-16
+    hibern: 2021-06-17
+  has:
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Glissando
+  id: 57589801
+  element: water
+  sex: m
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 4.85
+    wings: 8.16
+    weight: 648.12
+  genes:
+    pri:
+      num: 97
+      clr: crocodile
+      gn: ragged
+    sec:
+      num: 45
+      clr: indigo
+      gn: alloy
+    tert:
+      num: 138
+      clr: clay
+      gn: fans
+    eye: uncommon
+  dates:
+    hatch: 2019-12-14
+    obtain: 2019-12-16
+    hibern: 2021-01-21
+  has:
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Contralto
+  id: 57364249
+  element: fire
+  sex: f
+  breed: banescale
+  gen: 1
+  lvl: 25
+  msr:
+    length: 6.27
+    wings: 6.57
+    weight: 602.29
+  genes:
+    pri:
+      num: 43
+      clr: storm
+      gn: ragged
+    sec:
+      num: 85
+      clr: swamp
+      gn: butterfly
+    tert:
+      num: 116
+      clr: saffron
+      gn: squiggle
+  dates:
+    hatch: 2019-12-14
+    obtain: 2019-12-16
+    hibern: 2021-01-21
+  has:
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,banescale]
+- nm: Jester
+  id: 57606297
+  element: shadow
+  sex: m
+  breed: spiral
+  msr:
+    length: 3.92
+    wings: 2.46
+    weight: 66.25
+  genes:
+    pri:
+      num: 74
+      clr: jade
+      gn: iridescent
+    sec:
+      num: 74
+      clr: jade
+      gn: bee
+    tert:
+      num: 23
+      clr: midnight
+      gn: runes
+    eye: swirl
+  dates:
+    hatch: 2019-12-15
+    obtain: 2019-12-19
+    hibern: 2020-01-12
+  has:
+    familiar: Cursed Bat
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: conspicuous “healer”
+  cat: [lore]
+# DAEVAUSBANE
+- nm: Cygnus
+  id: 57992771
+  element: fire
+  sex: m
+  age: bab
+  breed: nocturne
+  gen: 1
+  msr:
+    length: 1.25
+    wings: 0.70
+    weight: 28.91
+  genes:
+    pri:
+      num: 
+      clr: overcast
+      gn: leopard
+    sec:
+      num: 
+      clr: stonewash
+      gn: current
+    tert:
+      num: 
+      clr: fuchsia
+      gn: peacock
+    eye: rare
+  dates:
+    hatch: 2019-12-27
+    hibern: 2022-01-21
+  has:
+    familiar: Calculating Candelabra
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 0
+  cat: [lore]
+#

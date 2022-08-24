@@ -193,7 +193,7 @@ use spans for the capitalization (outside dragon names), might reuse some things
 	{%if drg.age%}<li class="opt">is permabab</li>{%endif%}
 	<li>breed: {{drg.breed}}</li>
 	{%if drg.gen%}<li class="opt">is G1</li>{%endif%}
-	<li{%if drg.lvl%}{%else%} class="opt"{%endif%}>lvl: {%if drg.lvl%}{{drg.lvl}}{%else%}1{%endif%}{%if drg.stats%} <span class="opt">({%if drg.stats.bld%}<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}no build{%endif%})</span>{%endif%}</li>
+	<li{%if drg.lvl%}{%else%} class="opt"{%endif%}>lvl: {%if drg.lvl%}{{drg.lvl}}{%else%}1{%endif%}{%if drg.stats%} <span class="opt">({%if drg.stats.bld%}{%if drg.stats.id%}<a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>’s <a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}build unknown{%endif%}{%else%}no build{%endif%})</span>{%endif%}</li>
 	<li>msr:
 		<ul><li>length: {{drg.msr.length}}m</li>
 		<li>wingspan: {{drg.msr.wings}}m</li>
@@ -210,9 +210,9 @@ use spans for the capitalization (outside dragon names), might reuse some things
 			<ul>{%for gne in drg.dates.genes%}<li>{{gne.dt}}: {{gne.gn}}</li>{%endfor%}</ul></li>{%endif%}
 		<li>hibernating: {{drg.dates.hibern}}</li></ul></li>
 	{%if drg.has%}<li class="opt">has:<ul>
-		{%if drg.has.familiar%}<li>familiar: {{drg.has.familiar}}</li>{%endif%}
-		{%if drg.breed == "gaoler" or drg.breed == "banescale" or drg.breed == "veilspun" or drg.breed == "aberration"%}{%else%}<li>apparel: {%if drg.has.apparel==1%}yes{%else%}no{%endif%}</li>{%endif%}
-		<li>accent: {%if drg.has.accent==1%}yes{%else%}no{%endif%}</li>
+		<li class="opt">familiar: {%if drg.has.familiar%}{{drg.has.familiar}}{%else%}[none]{%endif%}</li>
+		{%if drg.breed == "gaoler" or drg.breed == "banescale" or drg.breed == "veilspun" or drg.breed == "aberration"%}{%else%}{%if drg.age%}{%else%}<li>apparel: {%if drg.has.apparel==1%}yes{%else%}no{%endif%}</li>{%endif%}{%endif%}
+		{%if drg.age%}{%else%}<li>accent: {%if drg.has.accent==1%}yes{%else%}no{%endif%}</li>{%endif%}
 		<li>bio: {%if drg.has.bio != "0"%}yes{%if drg.has.bio=="~"%}, outdated{%endif%}{%else%}no{%endif%}</li>
 		<li>art: {%if drg.has.art==1%}yes{%else%}no{%endif%}</li>
 		<li>vista: {%if drg.has.vista==1%}yes{%else%}no{%endif%}</li>
