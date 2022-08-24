@@ -193,7 +193,7 @@ use spans for the capitalization (outside dragon names), might reuse some things
 	{%if drg.age%}<li class="opt">is permabab</li>{%endif%}
 	<li>breed: {{drg.breed}}</li>
 	{%if drg.gen%}<li class="opt">is G1</li>{%endif%}
-	<li>lvl: {%if drg.lvl%}<span class="opt">{{drg.lvl}} ({%if drg.stats%} (<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}no build{%endif%})</span>{%else%}1{%endif%}</li>
+	<li{%if drg.lvl%}{%else%} class="opt"{%endif%}>lvl: {%if drg.lvl%}{{drg.lvl}}{%else%}1{%endif%}{%if drg.stats%} <span class="opt">({%if drg.stats.bld%}<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}no build{%endif%})</span>{%endif%}</li>
 	<li>msr:
 		<ul><li>length: {{drg.msr.length}}m</li>
 		<li>wingspan: {{drg.msr.wings}}m</li>

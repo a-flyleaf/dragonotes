@@ -243,7 +243,7 @@
   breed: imperial
   lvl: 25
   stats:
-    bld: "wormwood Mire flyer"
+    bld: "wormwood mire flyer"
     lnk: fl2/1278279
   msr:
     length: 29.92
@@ -320,7 +320,7 @@
   gen: 1
   lvl: 25
   stats:
-    bld: brokenstone Mire flyer
+    bld: brokenstone mire flyer
     lnk: gde/2234398
   msr:
     length: 6.41
@@ -400,7 +400,7 @@
   gen: 1
   lvl: 25
   stats:
-    bld: celelorien Workshop cleric
+    bld: celelorien workshop cleric
     lnk: gde/1666709
   msr:
     length: 0.93
@@ -481,7 +481,7 @@
   gen: 1
   lvl: 25
   stats:
-    bld: celelorien Workshop warrior
+    bld: celelorien workshop warrior
     lnk: gde/1666709
   msr:
     length: 0.73
@@ -664,3 +664,182 @@
     scene: 0
   cat: [lore,other]
   # idk how to categorize this one, if I like the water ancient she's getting a breed change but that's so far off....
+- id: 31950543
+  nm: Eavn
+  element: plague
+  sex: m
+  breed: ridgeback
+  msr:
+    length: 22.27
+    wings: 13.25
+    weight: 8169.1
+  genes:
+    pri:
+      num: 7
+      clr: orca
+      gn: ripple
+    sec:
+      num: 7
+      clr: orca
+      gn: current
+    tert:
+      num: 15
+      clr: shale
+      gn: thylacine
+  dates:
+    hatch: 2017-03-31
+    obtain: 2017-04-18
+    hibern: 2019-12-04
+  has:
+    familiar: Coral Carpenter
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] first prize dragon"
+  cat: [lore]
+- id: 35545223
+  nm: Azrael
+  element: plague
+  sex: m
+  breed: mirror
+  msr:
+    length: 5.02
+    wings: 5.74
+    weight: 599.52
+  genes:
+    pri:
+      num: 15
+      clr: shale
+      gn: ripple
+    sec:
+      num: 22
+      clr: eldritch
+      gn: current
+    tert:
+      num: 156
+      clr: sanguine
+      gn: crackle
+  dates:
+    hatch: 2017-08-30
+    hibern: 2019-12-23
+  has:
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] former fodder breeder"
+  cat: [other]
+- id: 35545221
+  nm: Zara
+  element: plague
+  sex: f
+  breed: guardian
+  msr:
+    length: 18.77
+    wings: 13.85
+    weight: 6475.74
+  genes:
+    pri:
+      num: 81
+      clr: hunter
+      gn: poison
+    sec:
+      num: 95
+      clr: chartreuse
+      gn: toxin
+    tert:
+      num: 6
+      clr: ice
+      gn: thylacine
+  dates:
+    hatch: 2017-08-30
+    hibern: 2019-12-23
+  has:
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] former fodder breeder"
+  cat: [other]
+- id: 35267877
+  nm: Kieran
+  element: wind
+  sex: m
+  breed: skydancer
+  msr:
+    length: 4.95
+    wings: 3.66
+    weight: 666.75
+  genes:
+    pri:
+      num: 22
+      clr: eldritch
+      gn: falcon
+    sec:
+      num: 49
+      clr: ultramarine
+      gn: seraph
+    tert:
+      num: 24
+      clr: shadow
+      gn: lace
+  dates:
+    hatch: 2017-08-18
+    obtain: 2017-09-<04
+    hibern: 2019-12-04
+  has:
+    familiar: Animated Statue
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore]
+- id: 397435
+  nm: Carnation
+  element: shadow
+  sex: f
+  breed: wildclaw
+  lvl: 25
+  stats:
+    bld: Redfoot boreal brawler
+    lnk: gde/1777804
+  msr:
+    length: 5.03
+    wings: 5.6
+    weight: 413.41
+  genes:
+    pri:
+      num: 174
+      clr: pink
+      gn: basic
+    sec:
+      num: 134
+      clr: slate
+      gn: basic
+    tert:
+      num: 29
+      clr: thistle
+      gn: basic
+  dates:
+    hatch: 2013-08-18
+    obtain: 2017-??-??
+    hibern: 2019-11-24
+  has:
+    familiar: Polarfreeze Defender
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 1
+    broadcast: old boreal brawler
+  cat: [lore]
