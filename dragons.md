@@ -2,6 +2,7 @@
 layout: none
 ---
 <style>.opt{color:#808080;}
+figure{display:inline-block; max-width:20%; float:left; margin:0;}
 
 /*color hell; generated courtesy https://flightrising.fandom.com/wiki/Colors + concatenate on google sheets*/
 .c1{background:#FFFDEA;color:#000;} /*Maize*/
@@ -184,15 +185,15 @@ layout: none
 
 use spans for the capitalization (outside dragon names), might reuse some things for classes (namely elements and colors)
 
-{%for drg in site.data.dragons-test%}<details><summary>dragon: {{drg.nm}}</summary><ul>
+{%for drg in site.data.dragons%}{%assign anc = "gaoler,banescale,veilspun,aberration"%}<figure><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt="{{drg.nm}}"/><figcaption><ul>
 	<li>id: <a href="https://www1.flightrising.com/dragon/{{drg.id}}" class="fr">{{drg.id}}</a></li>
 	<li>name: {{drg.nm}}</li>
 	<li>sex: {{drg.sex}}</li>
 	{%if drg.age%}<li class="opt">is permabab</li>{%endif%}
-	<li>breed: {{drg.breed.nm}} ({{drg.breed.typ}})</li>
+	<li>breed: {{drg.breed}}</li>
 	{%if drg.gen%}<li class="opt">is G1</li>{%endif%}
-	{%if drg.bred%}<li class="opt">offspring:
-		<ul>{%for o in drg.bred%}<li>id: {{o.id}} | nm: {{o.nm}}</li>{%endfor%}</ul></li>{%endif%}
+	<li class="opt">offspring:{%if drg.bred%}
+		<ul>{%for o in drg.bred%}<li><a href="https://www1.flightrising.com/dragon/{{o.id}}">{{o.nm}}</a></li>{%endfor%}</ul>{%else%} none{%endif%}</li>
 	<li>lvl: {%if drg.lvl%}<span class="opt">{{drg.lvl}}{%if drg.stats%} (<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>){%endif%}</span>{%else%}1{%endif%}</li>
 	<li>measurements:
 		<ul><li>length: {{drg.length}}m</li>
@@ -202,22 +203,22 @@ use spans for the capitalization (outside dragon names), might reuse some things
 		<ul><li class="c{{drg.genes.pri.num}}">primary: {{drg.genes.pri.clr}} {{drg.genes.pri.gn}}</li>
 		<li class="c{{drg.genes.sec.num}}">secondary: {{drg.genes.sec.clr}} {{drg.genes.sec.gn}}</li>
 		<li class="c{{drg.genes.tert.num}}">tertiary: {{drg.genes.tert.clr}} {{drg.genes.tert.gn}}</li>
-		<li>eyes: {{drg.element}} {{drg.genes.eye}}</li></ul></li>
+		<li>eyes: {{drg.element}} {%if drg.genes.eye%} {{drg.genes.eye}}{%else%}common{%endif%}</li></ul></li>
 	<li>dates:
-		<ul><li>hatchdate: {{drg.dates.hatch}}</li>
-		{%if drg.dates.obtain%}<li class="opt">obtained: {{drg.dates.obtain}}</li>{%endif%}
+		<ul><li>hatchdate: {{drg.dates.hatch|date:"%Y-%m-%d"}}</li>
+		{%if drg.dates.obtain%}<li class="opt">obtained: {{drg.dates.obtain|date:"%Y-%m-%d"}}</li>{%endif%}
 		{%if drg.dates.genes%}<li class="opt">genes:
 			<ul>{%for gne in drg.dates.genes%}<li>{{gne.dt}}: {{gne.gn}}</li>{%endfor%}</ul></li>{%endif%}
-		<li>hibernating: {{drg.dates.hibern}}</li></ul></li>
+		<li>hibernating: {{drg.dates.hibern|date:"%Y-%m-%d"}}</li></ul></li>
 	{%if drg.has%}<li class="opt">has:<ul>
 		{%if drg.has.familiar%}<li>familiar: {{drg.has.familiar}}</li>{%endif%}
-		{%if drg.breed.typ=='anc'%}{%else%}<li>apparel: {%if drg.has.apparel%}yes{%else%}no{%endif%}</li>{%endif%}
-		<li>accent: {%if drg.has.apparel%}yes{%else%}no{%endif%}</li>
-		<li>bio: {%if drg.has.bio%}yes{%else%}no{%endif%}</li>
-		<li>art: {%if drg.has.art%}yes{%else%}no{%endif%}</li>
-		<li>vista: {%if drg.has.vista%}yes{%else%}no{%endif%}</li>
-		<li>scene: {%if drg.has.scene%}yes{%else%}no{%endif%}</li>
+		{%if drg.breed == "gaoler" or drg.breed == "banescale" or drg.breed == "veilspun" or drg.breed == "aberration"%}{%else%}<li>apparel: {%if drg.has.apparel==1%}yes{%else%}no{%endif%}</li>{%endif%}
+		<li>accent: {%if drg.has.accent==1%}yes{%else%}no{%endif%}</li>
+		<li>bio: {%if drg.has.bio != "0"%}yes{%if drg.has.bio=="~"%}, outdated{%endif%}{%else%}no{%endif%}</li>
+		<li>art: {%if drg.has.art==1%}yes{%else%}no{%endif%}</li>
+		<li>vista: {%if drg.has.vista==1%}yes{%else%}no{%endif%}</li>
+		<li>scene: {%if drg.has.scene==1%}yes{%else%}no{%endif%}</li>
 		{%if drg.has.broadcast%}<li>broadcast: {{drg.has.broadcast}}</li>{%endif%}
 	</ul></li>{%endif%}<!--/has-->
 	<li>category: <ul>{%for ct in drg.cat%}<li>{{ct}}</li>{%endfor%}</ul></li>
-</ul></details>{%endfor%}
+</ul></figcaption></figure>{%endfor%}

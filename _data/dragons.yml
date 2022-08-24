@@ -1,0 +1,179 @@
+- id: 12116084
+  nm: Maelstrom
+  element: plague
+  sex: m
+  breed: mirror
+  gen: 1
+  bred:
+    - id: 12280263
+      nm: Chalcedony
+    - id: 12280264
+      nm: Riptide
+  lvl: 25
+  stats:
+    bld: Culex farmer
+    lnk: gde/1040710
+  measurements:
+    length: 5.08
+    wings: 4.44
+    weight: 622.32
+  genes:
+    pri:
+      num: 29
+      clr: thistle
+      gn: cherub
+    sec:
+      num: 24
+      clr: shadow
+      gn: spinner
+    tert:
+      num: 146
+      clr: chocolate
+      gn: basic
+  dates:
+    hatch: 2016-04-08
+    hibern: 2019-03-13
+  has:
+    familiar: Shattered Serpent
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 1
+    broadcast: custom progen
+  cat: [lore]
+- id: 12116085
+  nm: Lapilli
+  element: plague
+  sex: f
+  breed: fae
+  gen: 1
+  bred:
+  bred:
+    - id: 12280263
+      nm: Chalcedony
+    - id: 12280264
+      nm: Riptide
+  lvl: 25
+  stats:
+    bld: Culex farmer
+    lnk: gde/1040710
+  measurements:
+    length: 1.1
+    wings: 0.96
+    weight: 2.48
+  genes:
+    pri:
+      num: 56
+      clr: stonewash
+      gn: speckle
+    sec:
+      num: 40
+      clr: royal
+      gn: eye spots
+    tert:
+      num: 165
+      clr: coral
+      gn: basic
+    eye: common
+  dates:
+    hatch: 2015-04-08
+    hibern: 2019-03-13
+  has:
+    familiar: Rainbow Sprite
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+    broadcast: random progen
+  cat: [lore]
+- id: 11966926
+  nm: Altostratus
+  element: lightning
+  sex: f
+  breed: skydancer
+  bred:
+    - id: 13421444
+      nm: Asher
+    - id: 13421445
+      nm: Brook
+    - id: 13421446
+      nm: Codi
+  lvl: 25
+  stats:
+    bld: Culex farmer
+    lnk: gde/1040710
+  measurements:
+    length: 4.78
+    wings: 6.35
+    weight: 812.8
+  genes:
+    pri:
+      num: 4
+      clr: white
+      gn: iridescent
+    sec:
+      num: 4
+      clr: white
+      gn: seraph
+    tert:
+      num: 18
+      clr: coal
+      gn: basic
+  dates:
+    hatch: 2015-04-02
+    obtain: 2014-04-08
+    hibern: 2019-03-13
+  has:
+    familiar: Rambra
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: first bought/third ever dragon
+  cat: [lore]
+- id: 6594794
+  nm: solar
+  element: arcane
+  sex: m
+  breed: coatl
+  lvl: 25
+  stats:
+    bld: Culex farmer
+    lnk: gde/1040710
+  measurements:
+    length: 7.48
+    wings: 10.73
+    weight: 853.8
+  genes:
+    pri:
+      num: 146
+      clr: chocolate
+      gn: tiger
+    sec:
+      num: 104
+      clr: lemon
+      gn: current
+    tert:
+      num: 1
+      clr: maize
+      gn: underbelly
+  dates:
+    hatch: 2014-09-27
+    obtain: 2015-05-04
+    hibern: 
+  has:
+    familiar: Leoopard Coralclimber
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1 
+    scene: 0
+    broadcast: first gift dragon
+  cat: [lore]

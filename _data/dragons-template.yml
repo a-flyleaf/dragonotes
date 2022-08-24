@@ -1,0 +1,44 @@
+- id: 
+  nm: 
+  element: 
+  sex: 
+  age: OPTIONAL if bab
+  breed: 
+  gen: OPTIONAL if 1
+  bred:
+    - id: OPTIONAL
+      nm: offspring name
+  lvl: OPTIONAL defaults 1, if 1 then ignore stats
+  stats: OPTIONAL just list build? numbers don't really matter
+  measurements:
+    length: 
+    wings: 
+    weight: 
+  genes:
+    pri:
+      num: 
+      clr: color1
+      gn: primary
+    sec:
+      num: 
+      clr: color2
+      gn: secondary
+    tert:
+      num: 
+      clr: color3
+      gn: tertiary
+    eye: OPTIONAL else common
+  dates:
+    hatch: 
+    obtain: OPTIONAL if different
+    hibern: 
+  has:
+    familiar: ALL OPTIONAL, just for my own ref. fam is a string
+    apparel: these are all "booleans"; 0/1/"~" (outdated)
+    accent: 
+    bio: 
+    art: 
+    vista: 
+    scene: 
+    broadcast: string, same as site
+  cat: [lore,char,other]
