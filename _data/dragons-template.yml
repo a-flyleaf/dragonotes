@@ -5,12 +5,11 @@
   age: OPTIONAL if bab
   breed: 
   gen: OPTIONAL if 1
-  bred:
-    - id: OPTIONAL
-      nm: offspring name
   lvl: OPTIONAL defaults 1, if 1 then ignore stats
-  stats: OPTIONAL just list build? numbers don't really matter
-  measurements:
+  stats:
+    bld: OPTIONAL
+    lnk: gde/1040710 (culex farmer default)
+  msr:
     length: 
     wings: 
     weight: 
@@ -41,4 +40,4 @@
     vista: 
     scene: 
     broadcast: string, same as site
-  cat: [lore,char,other]
+  cat: [lore,other]

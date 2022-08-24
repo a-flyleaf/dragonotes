@@ -1,19 +1,16 @@
+# add in order obtained, fandragons notwithstanding; they can have a separate data file. (see ygbtdm/gallery/all for combined data)
+# names (dragon and familiar) capitalized, else lowercase (use CSS)
 - id: 12116084
   nm: Maelstrom
   element: plague
   sex: m
   breed: mirror
   gen: 1
-  bred:
-    - id: 12280263
-      nm: Chalcedony
-    - id: 12280264
-      nm: Riptide
   lvl: 25
   stats:
     bld: Culex farmer
     lnk: gde/1040710
-  measurements:
+  msr:
     length: 5.08
     wings: 4.44
     weight: 622.32
@@ -49,17 +46,11 @@
   sex: f
   breed: fae
   gen: 1
-  bred:
-  bred:
-    - id: 12280263
-      nm: Chalcedony
-    - id: 12280264
-      nm: Riptide
   lvl: 25
   stats:
     bld: Culex farmer
     lnk: gde/1040710
-  measurements:
+  msr:
     length: 1.1
     wings: 0.96
     weight: 2.48
@@ -95,18 +86,11 @@
   element: lightning
   sex: f
   breed: skydancer
-  bred:
-    - id: 13421444
-      nm: Asher
-    - id: 13421445
-      nm: Brook
-    - id: 13421446
-      nm: Codi
   lvl: 25
   stats:
     bld: Culex farmer
     lnk: gde/1040710
-  measurements:
+  msr:
     length: 4.78
     wings: 6.35
     weight: 812.8
@@ -146,7 +130,7 @@
   stats:
     bld: Culex farmer
     lnk: gde/1040710
-  measurements:
+  msr:
     length: 7.48
     wings: 10.73
     weight: 853.8
@@ -177,3 +161,506 @@
     scene: 0
     broadcast: first gift dragon
   cat: [lore]
+- id: 13483458
+  nm: Pestilence
+  element: plague
+  sex: m
+  breed: bogsneak
+  lvl: 25
+  stats:
+    bld: Culex farmer
+    lnk: gde/1040710
+  msr:
+    length: 0.99
+    wings: 0.92
+    weight: 1.4
+  genes:
+    pri:
+      num: 21
+      clr: obsidian
+      gn: bar
+    sec:
+      num: 157
+      clr: blood
+      gn: daub
+    tert:
+      num: 154
+      clr: crimson
+      gn: crackle
+  dates:
+    hatch: 2015-05-25
+    hibern: 2019-05-28
+  has:
+    familiar: Algae-Bottom Slarg
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: first dream dragon
+  cat: [lore]
+- id: 12989339
+  nm: Drosera
+  element: nature
+  sex: f
+  breed: mirror
+  msr:
+    length: 6.33
+    wings: 4.83
+    weight: 515.33
+  genes:
+    pri:
+      num: 82
+      clr: forest
+      gn: ripple
+    sec:
+      num: 134
+      clr: slate
+      gn: daub
+    tert:
+      num: 87
+      clr: green
+      gn: crackle
+  dates:
+    hatch: 2015-05-08
+    obtain: 2015-05-25
+    hibern: 2019-11-09
+  has:
+    familiar: Fungusbearing Phony
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: first (and only) flight rep
+  cat: [lore]
+- id: 12788530
+  nm: Schism
+  element: arcane
+  sex: f
+  breed: imperial
+  lvl: 25
+  stats:
+    bld: "wormwood Mire flyer"
+    lnk: fl2/1278279
+  msr:
+    length: 29.92
+    wings: 17.36
+    weight: 7087.63
+  genes:
+    pri:
+      num: 131
+      clr: beige
+      gn: iridescent
+    sec:
+      num: 145
+      clr: brown
+      gn: shimmer
+    tert:
+      num: 146
+      clr: chocolate
+      gn: underbelly
+  dates:
+    hatch: 2015-04-30
+    obtain: 2015-05-25?
+    hibern: 2019-11-09
+  has:
+    familiar: Salve Kamaitachi
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+    broadcast: first retired mire flyer
+  cat: [lore]
+- id: 13567780
+  nm: Fern
+  element: lightning
+  sex: f
+  breed: spiral
+  msr:
+    length: 2.11
+    wings: 2
+    weight: 58.46
+  genes:
+    pri:
+      num: 87
+      clr: green
+      gn: clown
+    sec:
+      num: 50
+      clr: blue
+      gn: eye spots
+    tert:
+      num: 63
+      clr: caribbean
+      gn: underbelly
+  dates:
+    hatch: 2015-05-28
+    obtain: 2015-07-??
+    hibern: 2019-11-09
+  has:
+    familiar: Masked Harpy
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: first hatchling letter
+  cat: [lore]
+- id: 14639592
+  nm: Skiptrace
+  element: arcane
+  sex: m
+  breed: mirror
+  gen: 1
+  lvl: 25
+  stats:
+    bld: brokenstone Mire flyer
+    lnk: gde/2234398
+  msr:
+    length: 6.41
+    wings: 3.95
+    weight: 604.1
+  genes:
+    pri:
+      num: 146
+      clr: chocolate
+      gn: basic
+    sec:
+      num: 24
+      clr: shadow
+      gn: basic
+    tert:
+      num: 17
+      clr: charcoal
+      gn: basic
+  dates:
+    hatch: 2015-07-03
+    obtain: 2015-07-28
+    hibern: 2019-05-09
+  has:
+    familiar: Wartoad
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 1
+    broadcast: first G1 fodder rescue, second retired mire flyer
+  cat: [lore]
+- id: 15585543
+  nm: Delphi
+  element: plague
+  sex: m
+  breed: mirror
+  lvl: 25
+  stats:
+    bld: Maki build (of some sort, outdated)
+    lnk: gde/1344211
+  msr:
+    length: 7.65
+    wings: 6.6
+    weight: 635.02
+  genes:
+    pri:
+      num: 86
+      clr: avocado
+      gn: speckle
+    sec:
+      num: 160
+      clr: red
+      gn: current
+    tert:
+      num: 86
+      clr: avocado
+      gn: underbelly
+  dates:
+    hatch: 2015-08-04
+    hibern: 2019-12-04
+  has:
+    familiar: Nochnyr
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: [n/a]
+  cat: [lore]
+- id: 16051687
+  nm: Riviniana
+  element: wind
+  sex: m
+  breed: fae
+  gen: 1
+  lvl: 25
+  stats:
+    bld: celelorien Workshop cleric
+    lnk: gde/1666709
+  msr:
+    length: 0.93
+    wings: 1.4
+    weight: 1.79
+  genes:
+    pri:
+      num: 34
+      clr: purple
+      gn: tiger
+    sec:
+      num: 85
+      clr: swamp
+      gn: seraph
+    tert:
+      num: 110
+      clr: ivory
+      gn: underbelly
+  dates:
+    hatch: 2015-08-19
+    obtain: 2015-08-21
+    hibern: 2020-02-02
+  has:
+    familiar: Geartoggle Smith
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+    broadcast: retired workshop cleric
+  cat: [lore]
+- id: 9359734
+  nm: Notturno
+  element: nature
+  sex: f
+  breed: nocturne
+  gen: 1
+  lvl: 25
+  stats:
+    bld: Sylvandyr Ghostlight trainer
+    lnk: gde/967048/50#post_37570620
+  msr:
+    length: 4.07
+    wings: 6.45
+    weight: 507.84
+  genes:
+    pri:
+      num: 58
+      clr: steel
+      gn: cherub
+    sec:
+      num: 82
+      clr: forest
+      gn: basic
+    tert:
+      num: 6
+      clr: ice
+      gn: underbellys
+  dates:
+    hatch: 2015-01-03
+    obtain: 2015-08-??
+    hibern: 2020-01-02
+  has:
+    familiar: Grey River Flight
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+- id: 18345336
+  nm: Gizmo
+  element: fire
+  sex: m
+  breed: fae
+  gen: 1
+  lvl: 25
+  stats:
+    bld: celelorien Workshop warrior
+    lnk: gde/1666709
+  msr:
+    length: 0.73
+    wings: 1.35
+    weight: 1.9
+  genes:
+    pri:
+      num: 
+      clr: teal
+      gn: python
+    sec:
+      num: 
+      clr: seafoam
+      gn: toxin
+    tert:
+      num: 
+      clr: azure
+      gn: thylacine
+  dates:
+    hatch: 2015-11-11
+    obtain: 2016-01-14
+    hibern: 2020-02-02
+  has:
+    familiar: War Smith
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+    broadcast: retired workshop warrior
+  cat: [lore]
+- id: 20722709
+  nm: Galena
+  element: ice
+  sex: f
+  breed: mirror
+  lvl: 25
+  msr:
+    length: 5.94
+    wings: 5.66
+    weight: 564.73
+  genes:
+    pri:
+      num: 20
+      clr: black
+      gn: basic
+    sec:
+      num: 50
+      clr: blue
+      gn: basic
+    tert:
+      num: 72
+      clr: seafoam
+      gn: basic
+  dates:
+    hatch: 2016-02-03
+    obtain: 2016-02-05
+    hibern: 2020-07-15
+  has:
+    familiar: Permafrost Impaler
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+- id: 22837102
+  nm: Rothide
+  element: arcane
+  sex: m
+  breed: mirror
+  msr:
+    length: 7.42
+    wings: 4.44
+    weight: 410.19
+  genes:
+    pri:
+      num: 11
+      clr: grey
+      gn: poison
+    sec:
+      num: 38
+      clr: violet
+      gn: toxin
+    tert:
+      num: 21
+      clr: obsidian
+      gn: crackle
+  dates:
+    hatch: 2016-04-14
+    obtain: 2016-08-??
+    hibern: 2019-11-08
+  has:
+    familiar: Pinpush Mirror Doll
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] first fodder breeder"
+  cat: [other]
+- id: 26634365
+  nm: Avi
+  element: ice
+  sex: f
+  breed: wildclaw
+  lvl: 11
+  msr:
+    length: 7.16
+    wings: 8.71
+    weight: 604.68
+  genes:
+    pri:
+      num: 53
+      clr: splash
+      gn: poison
+    sec:
+      num: 23
+      clr: midnight
+      gn: toxin
+    tert:
+      num: 48
+      clr: cobalt
+      gn: thylacine
+  dates:
+    hatch: 2016-09-02
+    obtain: 2016-09-??
+    hibern: 2020-11-12
+  has:
+    familiar: Ragepuff
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 1
+    broadcast: "Ohai thar :V"
+  cat: [other]
+- id: 28210287
+  nm: Soleil
+  element: light
+  sex: f
+  breed: mirror
+  gen: 1
+  lvl: 25
+  stats:
+    bld: Rhabdo's Kelp Beds beast
+    lnk: gde/2450522#post_33495975
+  msr:
+    length: 4.95
+    wings: 5.11
+    weight: 501.53
+  genes:
+    pri:
+      num: 47
+      clr: navy
+      gn: skink
+    sec:
+      num: 50
+      clr: blue
+      gn: sludge
+    tert:
+      num: 30
+      clr: fog
+      gn: runes
+  dates:
+    hatch: 2016-11-02
+    obtain: 2016-11-03
+    hibern: 2020-01-12
+  has:
+    familiar: Relic Eel
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore,other]
+  # idk how to categorize this one, if I like the water ancient she's getting a breed change but that's so far off....

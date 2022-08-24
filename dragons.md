@@ -2,7 +2,8 @@
 layout: none
 ---
 <style>.opt{color:#808080;}
-figure{display:inline-block; max-width:20%; float:left; margin:0;}
+figure{margin:0; width:20%;} #box{display:flex; flex-wrap:wrap;}
+figcaption{font-size:.75em;}
 
 /*color hell; generated courtesy https://flightrising.fandom.com/wiki/Colors + concatenate on google sheets*/
 .c1{background:#FFFDEA;color:#000;} /*Maize*/
@@ -185,31 +186,29 @@ figure{display:inline-block; max-width:20%; float:left; margin:0;}
 
 use spans for the capitalization (outside dragon names), might reuse some things for classes (namely elements and colors)
 
-{%for drg in site.data.dragons%}{%assign anc = "gaoler,banescale,veilspun,aberration"%}<figure><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt="{{drg.nm}}"/><figcaption><ul>
-	<li>id: <a href="https://www1.flightrising.com/dragon/{{drg.id}}" class="fr">{{drg.id}}</a></li>
+<div id="box">{%for drg in site.data.dragons%}{%assign anc = "gaoler,banescale,veilspun,aberration"%}<figure><a href="https://www1.flightrising.com/dragon/{{drg.id}}"><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt="{{drg.nm}}"/></a><figcaption><ul>
+	<li>id: {{drg.id}}</li>
 	<li>name: {{drg.nm}}</li>
 	<li>sex: {{drg.sex}}</li>
 	{%if drg.age%}<li class="opt">is permabab</li>{%endif%}
 	<li>breed: {{drg.breed}}</li>
 	{%if drg.gen%}<li class="opt">is G1</li>{%endif%}
-	<li class="opt">offspring:{%if drg.bred%}
-		<ul>{%for o in drg.bred%}<li><a href="https://www1.flightrising.com/dragon/{{o.id}}">{{o.nm}}</a></li>{%endfor%}</ul>{%else%} none{%endif%}</li>
-	<li>lvl: {%if drg.lvl%}<span class="opt">{{drg.lvl}}{%if drg.stats%} (<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>){%endif%}</span>{%else%}1{%endif%}</li>
-	<li>measurements:
-		<ul><li>length: {{drg.length}}m</li>
-		<li>wingspan: {{drg.wings}}m</li>
-		<li>weight: {{drg.weight}}kg</li></ul></li>
+	<li>lvl: {%if drg.lvl%}<span class="opt">{{drg.lvl}} ({%if drg.stats%} (<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}no build{%endif%})</span>{%else%}1{%endif%}</li>
+	<li>msr:
+		<ul><li>length: {{drg.msr.length}}m</li>
+		<li>wingspan: {{drg.msr.wings}}m</li>
+		<li>weight: {{drg.msr.weight}}kg</li></ul></li>
 	<li>genes:
 		<ul><li class="c{{drg.genes.pri.num}}">primary: {{drg.genes.pri.clr}} {{drg.genes.pri.gn}}</li>
 		<li class="c{{drg.genes.sec.num}}">secondary: {{drg.genes.sec.clr}} {{drg.genes.sec.gn}}</li>
 		<li class="c{{drg.genes.tert.num}}">tertiary: {{drg.genes.tert.clr}} {{drg.genes.tert.gn}}</li>
 		<li>eyes: {{drg.element}} {%if drg.genes.eye%} {{drg.genes.eye}}{%else%}common{%endif%}</li></ul></li>
 	<li>dates:
-		<ul><li>hatchdate: {{drg.dates.hatch|date:"%Y-%m-%d"}}</li>
-		{%if drg.dates.obtain%}<li class="opt">obtained: {{drg.dates.obtain|date:"%Y-%m-%d"}}</li>{%endif%}
+		<ul><li>hatchdate: {{drg.dates.hatch}}</li>
+		{%if drg.dates.obtain%}<li class="opt">obtained: {{drg.dates.obtain}}</li>{%endif%}
 		{%if drg.dates.genes%}<li class="opt">genes:
 			<ul>{%for gne in drg.dates.genes%}<li>{{gne.dt}}: {{gne.gn}}</li>{%endfor%}</ul></li>{%endif%}
-		<li>hibernating: {{drg.dates.hibern|date:"%Y-%m-%d"}}</li></ul></li>
+		<li>hibernating: {{drg.dates.hibern}}</li></ul></li>
 	{%if drg.has%}<li class="opt">has:<ul>
 		{%if drg.has.familiar%}<li>familiar: {{drg.has.familiar}}</li>{%endif%}
 		{%if drg.breed == "gaoler" or drg.breed == "banescale" or drg.breed == "veilspun" or drg.breed == "aberration"%}{%else%}<li>apparel: {%if drg.has.apparel==1%}yes{%else%}no{%endif%}</li>{%endif%}
@@ -218,7 +217,7 @@ use spans for the capitalization (outside dragon names), might reuse some things
 		<li>art: {%if drg.has.art==1%}yes{%else%}no{%endif%}</li>
 		<li>vista: {%if drg.has.vista==1%}yes{%else%}no{%endif%}</li>
 		<li>scene: {%if drg.has.scene==1%}yes{%else%}no{%endif%}</li>
-		{%if drg.has.broadcast%}<li>broadcast: {{drg.has.broadcast}}</li>{%endif%}
+		<li>broadcast: {%if drg.has.broadcast%}{{drg.has.broadcast}}{%else%}[none]{%endif%}</li>
 	</ul></li>{%endif%}<!--/has-->
-	<li>category: <ul>{%for ct in drg.cat%}<li>{{ct}}</li>{%endfor%}</ul></li>
-</ul></figcaption></figure>{%endfor%}
+	<li>categorized: {%for ct in drg.cat%}{{ct}}{%if forloop.last!=true%}, {%endif%}{%endfor%}</li>
+</ul></figcaption></figure>{%endfor%}</div>
