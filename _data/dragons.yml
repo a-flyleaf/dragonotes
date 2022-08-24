@@ -843,3 +843,115 @@
     scene: 1
     broadcast: old boreal brawler
   cat: [lore]
+- id: 40109738
+  nm: Raizel
+  element: lightning
+  sex: f
+  breed: skydancer
+  msr:
+    length: 3.25
+    wings: 5.3
+    weight: 405.79
+  genes:
+    pri:
+      num: 156
+      clr: sanguine
+      gn: wasp
+    sec:
+      num: 163
+      clr: carmine
+      gn: butterfly
+    tert:
+      num: 156
+      clr: sanguine
+      gn: runes
+  dates:
+    hatch: 2018-03-14
+    obtain: 2018-03-15
+    hibern: 2019-12-11
+  has:
+    familiar: Stormcloud Harpy
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: haughty bartender
+  cat: [lore]
+- id: 25542349
+  nm: Midst
+  element: ice
+  sex: m
+  breed: spiral
+  msr:
+    length: 2.76
+    wings: 3.2
+    weight: 119.41
+  genes:
+    pri:
+      num: 23
+      clr: midnight
+      gn: skink
+    sec:
+      num: 23
+      clr: midnight
+      gn: spinner
+    tert:
+      num: 54
+      clr: cornflower
+      gn: contour
+  dates:
+    hatch: 2016-07-19
+    obtain: 2018-03-16
+    hibern: 2019-12-04
+  has:
+    familiar: Snow Streak
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+- id: 30271918
+  nm: Exuberant
+  element: water
+  sex: m
+  breed: spiral
+  gen: 1
+  lvl: 25
+  stats:
+    bld: Mohenjo leviathan leveler
+    lnk: gde/2469655
+  msr:
+    length: 4.49
+    wings: 2.5
+    weight: 130.63
+  genes:
+    pri:
+      num: 52
+      clr: lapis
+      gn: starmap
+    sec:
+      num: 22
+      clr: eldritch
+      gn: alloy
+    tert:
+      num: 57
+      clr: overcast
+      gn: opal
+    eye: innocent
+  dates:
+    hatch: 2017-01-21
+    obtain: 2018-11-19
+    hibern: 2020-01-21
+  has:
+    familiar: Mantarune
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+  cat: [other]

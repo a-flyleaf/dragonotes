@@ -16,16 +16,16 @@
   genes:
     pri:
       num: 
-      clr: color1
-      gn: primary
+      clr: 
+      gn: 
     sec:
       num: 
-      clr: color2
-      gn: secondary
+      clr: 
+      gn: 
     tert:
       num: 
-      clr: color3
-      gn: tertiary
+      clr: 
+      gn: 
     eye: OPTIONAL else common
   dates:
     hatch: 
