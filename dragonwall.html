@@ -1,0 +1,156 @@
+---
+layout: none
+---
+<!doctype html><html>
+<head>
+	<title>code test</title>
+	<link href="{%include url.html%}/assets/colors.css" type="text/css" rel="stylesheet"/>
+	<style>
+		.opt{color:#808080;}
+		figure{margin:0; width:20%;} #box{display:flex; flex-wrap:wrap;}
+		figcaption{font-size:.75em;}
+		
+		summary:hover{cursor:pointer; background:#efefef;}
+		h2{display:inline;}
+		
+		table{font-family:monospace;width:max-content;} th:last-child{padding-left:1em;}
+		.cp{text-transform:capitalize;} .fd{color:rgba(0,0,0,.25);} .hl{background:yellow;}
+		.bg1{background:rgba(0,0,0,.025);}
+	</style>
+</head><body>
+<h1>buncha data/code tests</h1>
+<p>for my own reference</p>
+
+<details><summary><h2>overview</h2></summary>
+<p>use spans for the capitalization (outside dragon names), might reuse some things for classes (namely elements and colors)</p>
+
+<div id="box">{%for drg in site.data.dragons%}<figure><a href="https://www1.flightrising.com/dragon/{{drg.id}}"><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt="{{drg.nm}}"/></a><figcaption><ul>
+	<li>id: {{drg.id}}</li>
+	<li>name: {{drg.nm}}</li>
+	<li>sex: {{drg.sex}}</li>
+	{%if drg.age%}<li class="opt">is permabab</li>{%endif%}
+	<li>breed: {{drg.breed}}</li>
+	{%if drg.gen%}<li class="opt">is G1</li>{%endif%}
+	<li{%if drg.lvl%}{%else%} class="opt"{%endif%}>lvl: {%if drg.lvl%}{{drg.lvl}}{%else%}1{%endif%}{%if drg.stats%} <span class="opt">({%if drg.stats.bld%}{%if drg.stats.id%}<a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>’s <a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a>{%else%}build unknown{%endif%}{%else%}no build{%endif%})</span>{%endif%}</li>
+	<li>msr:
+		<ul><li>length: {{drg.msr.length}}m</li>
+		<li>wingspan: {{drg.msr.wings}}m</li>
+		<li>weight: {{drg.msr.weight}}kg</li></ul></li>
+	<li>genes:
+		<ul><li class="c{{drg.genes.pri.num}}">primary: {{drg.genes.pri.clr}} {{drg.genes.pri.gn}}</li>
+		<li class="c{{drg.genes.sec.num}}">secondary: {{drg.genes.sec.clr}} {{drg.genes.sec.gn}}</li>
+		<li class="c{{drg.genes.tert.num}}">tertiary: {{drg.genes.tert.clr}} {{drg.genes.tert.gn}}</li>
+		<li>eyes: {{drg.element}} {%if drg.genes.eye%} {{drg.genes.eye}}{%else%}common{%endif%}</li></ul></li>
+	<li>dates:
+		<ul><li>hatchdate: {{drg.dates.hatch}}</li>
+		{%if drg.dates.obtain%}<li class="opt">obtained: {{drg.dates.obtain}}</li>{%endif%}
+		{%if drg.dates.genes%}<li class="opt">genes:
+			<ul>{%for gne in drg.dates.genes%}<li>{{gne.dt}}: {{gne.gn}}</li>{%endfor%}</ul></li>{%endif%}
+		<li>hibernating: {{drg.dates.hibern}}</li></ul></li>
+	{%if drg.has%}<li class="opt">has:<ul>
+		<li class="opt">familiar: {%if drg.has.familiar%}{{drg.has.familiar}}{%else%}[none]{%endif%}</li>
+		{%if drg.breed == "gaoler" or drg.breed == "banescale" or drg.breed == "veilspun" or drg.breed == "aberration"%}{%else%}{%if drg.age%}{%else%}<li>apparel: {%if drg.has.apparel==1%}yes{%else%}no{%endif%}</li>{%endif%}{%endif%}
+		{%if drg.age%}{%else%}<li>accent: {%if drg.has.accent==1%}yes{%else%}no{%endif%}</li>{%endif%}
+		<li>bio: {%if drg.has.bio != "0"%}yes{%if drg.has.bio=="~"%}, outdated{%endif%}{%else%}no{%endif%}</li>
+		<li>art: {%if drg.has.art==1%}yes{%else%}no{%endif%}</li>
+		<li>vista: {%if drg.has.vista==1%}yes{%else%}no{%endif%}</li>
+		<li>scene: {%if drg.has.scene==1%}yes{%else%}no{%endif%}</li>
+		<li>broadcast: {%if drg.has.broadcast%}{{drg.has.broadcast}}{%else%}[none]{%endif%}</li>
+	</ul></li>{%endif%}<!--/has-->
+	<li>categorized: {%for ct in drg.cat%}{{ct}}{%if forloop.last!=true%}, {%endif%}{%endfor%}</li>
+</ul></figcaption></figure>{%endfor%}</div>
+</details>
+
+<details><summary><h2>datecheck</h2></summary>
+{%assign all = site.data.dragons%}
+<p>content inside <code>capture</code> is invisible BUT it grabs if/else loops</p>
+<table id="dates">
+	<thead>
+		<th>dragon</th><th>date obtained (else <i>hatched</i>)</th>
+	</thead><tbody>
+		{%for drg in all%}<tr><td>{{drg.nm}}</td><td>{%capture dt%}{%if drg.dates.obtain%}{{drg.dates.obtain}}{%else%}<i>{{drg.dates.hatch}}</i>{%endif%}{%endcapture%}{{dt}}</td></tr>{%endfor%}
+	</tbody>
+</table>
+
+<h3>obtained 2017</h3>
+<ul>{%for derg in all%}{%capture dt2%}{%if derg.dates.obtain%}{{derg.dates.obtain}}{%else%}{{derg.dates.hatch}}{%endif%}{%endcapture%}{%if dt2 contains '2017'%}<li>{{derg.nm}}</li>{%endif%}{%endfor%}</ul>
+<p>to avoid code redundancy, define all dragons + variables (assign, capture) <em>upfront</em></p>
+</details>
+
+<details open><summary><h2>not-spreadsheet</h2></summary><table>
+	<thead><tr>
+		<th colspan="7">basics</th>
+		<th colspan="2">coli</th>
+		<th colspan="3">measurements</th>
+		<th colspan="7">genes</th>
+		<th colspan="3">dates</th>
+		<th colspan="8">checklist</th>
+		<th>site</th>
+	</tr><tr>
+		<th>ID</th>
+		<th>name</th>
+		<th>element</th>
+		<th>sex</th>
+		<th>bab?</th>
+		<th>breed</th>
+		<th>gen</th>
+		<th>lvl</th>
+		<th>build</th>
+		<th>length (m)</th>
+		<th>wingspan (m)</th>
+		<th>weight (kg)</th>
+		<th>primary color</th>
+		<th>primary gene</th>
+		<th>secondary color</th>
+		<th>secondary gene</th>
+		<th>tertiary color</th>
+		<th>tertiary gene</th>
+		<th>eye type</th>
+		<th>hatched</th>
+		<th>obtained</th>
+		<th>hibernating</th>
+		<th>familiar</th>
+		<th>apparel</th>
+		<th>accent</th>
+		<th>bio</th>
+		<th>art</th>
+		<th>vista</th>
+		<th>scene</th>
+		<th>broadcast</th>
+		<th>categorized</th>
+	</tr></thead><tbody>{%for d in all%}<tr class="{%cycle 'bg1','bg2'%}">
+		<td>{{d.id}}</td>
+		<td><a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a></td>
+		<td class="cp">{{d.element}}</td>
+		<td class="cp">{{d.sex}}</td>
+		<td class="cp">{%if d.age%}y{%else%}<span class="fd">n</span>{%endif%}</td>
+		<td class="cp">{{d.breed}}</td>
+		<td class="cp">{%if d.gen%}1{%else%}≥2{%endif%}</td>
+		<td class="cp">{%if d.lvl%}{{d.lvl}}{%else%}<span class="fd">1</span>{%endif%}</td>
+		<td>{%if d.lvl>1%}{%if d.stats.bld%}{%if d.stats.id%}<a href="https://www1.flightrising.com/clan-profile/{{d.stats.id}}">{{d.stats.by}}</a>’s <a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a>{%else%}[build unknown]{%endif%}{%else%}<span class="fd">no build</span>{%endif%}{%endif%}</td>
+		<td>{{d.msr.length}}</td><!--there are ways to add trailing zeroes but they're unwieldy https://stackoverflow.com/questions/37862167/trailing-zeros-in-jekyll-liquid, ignoring for now-->
+		<td>{{d.msr.wings}}</td>
+		<td>{{d.msr.weight}}</td>
+		<td class="cp">{{d.genes.pri.clr}}</td>
+		<td class="cp">{%if d.genes.pri.gn=='basic'%}<span class="fd">{%endif%}{{d.genes.pri.gn}}{%if d.genes.pri.gn=='basic'%}</span>{%endif%}</td>
+		<td class="cp">{{d.genes.sec.clr}}</td>
+		<td class="cp">{%if d.genes.sec.gn=='basic'%}<span class="fd">{%endif%}{{d.genes.sec.gn}}{%if d.genes.sec.gn=='basic'%}</span>{%endif%}</td>
+		<td class="cp">{{d.genes.tert.clr}}</td>
+		<td class="cp">{%if d.genes.tert.gn=='basic'%}<span class="fd">{%endif%}{{d.genes.tert.gn}}{%if d.genes.tert.gn=='basic'%}</span>{%endif%}</td>
+		<td class="cp">{%if d.genes.eye%}{{d.genes.eye}}{%else%}common{%endif%}</td>
+		<td>{{d.dates.hatch}}</td>
+		<td>{%if d.dates.obtain%}{{d.dates.obtain}}{%else%}<span class="fd">{{d.dates.hatch}}</span>{%endif%}</td>
+		<td>{{d.dates.hibern}}</td>
+		<td{%if d.has.familiar contains 'TBA'%} class="hl"{%endif%}>{%if d.has.familiar%}{{d.has.familiar}}{%else%}<span class="fd">[none]</span>{%endif%}</td>
+		<td>{%if d.breed=="gaoler" or d.breed=="banescale" or d.breed=="veilspun" or d.breed=="aberration"%}<span class="fd">n/a</span>{%else%}{%if d.age%}<span class="fd">n/a</span>{%else%}{%if d.has.apparel==1%}✔{%else%}<span class="hl">!</span>{%endif%}{%endif%}{%endif%}</td>
+		<td>{%if d.age%}<span class="fd">n/a</span>{%else%}{%if d.has.accent==1%}✔{%else%}<span class="cp">n</span>{%endif%}{%endif%}</td>
+		<td>{%if d.has.bio==1%}✔{%else%}<span class="hl">~</span>{%endif%}</td>
+		<td>{%if d.has.art==1%}✔{%else%}<span class="hl cp">!</span>{%endif%}</td>
+		<td>{%if d.has.vista==1%}✔{%else%}<span class="cp">!</span>{%endif%}</td>
+		<td>{%if d.has.scene==1%}✔{%else%}<span class="cp">!</span>{%endif%}</td>
+		<td{%if d.has.broadcast contains 'TBA'%} class="hl"{%endif%}>{%if d.has.broadcast%}{{d.has.broadcast}}{%else%}<span class="hl">n/a</span>{%endif%}</td>
+		<td>{%for ct in d.cat%}{{ct}}{%if forloop.last!=true%}, {%endif%}{%endfor%}</td>
+	</tr>{%endfor%}</tbody>
+</table></details>
+
+</body></html>

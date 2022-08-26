@@ -30,7 +30,7 @@
       clr: chocolate
       gn: basic
   dates:
-    hatch: 2016-04-08
+    hatch: 2015-04-08
     hibern: 2019-03-13
   has:
     familiar: Shattered Serpent
@@ -1603,7 +1603,7 @@
   cat: [other]
 - nm: Falsework
   id: 58430435
-  element: 
+  element: lightning
   sex: f
   breed: banescale
   msr:
@@ -1924,7 +1924,6 @@
     obtain: 2021-10-26
     hibern: 2022-08-17
   has:
-    familiar: ALL OPTIONAL, just for my own ref. fam is a string
     accent: 1
     bio: "~"
     art: 1
@@ -2181,7 +2180,6 @@
     obtain: 2022-03-07
     hibern: 2022-02-22
   has:
-    familiar: ALL OPTIONAL, just for my own ref. fam is a string
     apparel: 1
     accent: 0
     bio: "~"
