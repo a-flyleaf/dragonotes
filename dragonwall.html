@@ -16,6 +16,10 @@ layout: none
 		table{font-family:monospace;width:max-content;} th:last-child{padding-left:1em;}
 		.cp{text-transform:capitalize;} .fd{color:rgba(0,0,0,.25);} .hl{background:yellow;}
 		.bg1{background:rgba(0,0,0,.025);}
+		
+		#dragobox figure{display:inline-block; background:#efefef; max-width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} #dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
+		#dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
+		#dragobox a:hover,#dragobox a:focus,#dragobox a:active{opacity:.5;}
 	</style>
 </head><body>
 <h1>buncha data/code tests</h1>
@@ -77,7 +81,7 @@ layout: none
 <p>to avoid code redundancy, define all dragons + variables (assign, capture) <em>upfront</em></p>
 </details>
 
-<details open><summary><h2>not-spreadsheet</h2></summary><table>
+<details><summary><h2>not-spreadsheet</h2></summary><table>
 	<colgroup><!--same as below-->
 		<col span="7">
 		<col span="2" class="bg1">
@@ -125,7 +129,7 @@ layout: none
 		<th>scene</th>
 		<th>broadcast</th>
 		<th>categorized</th>
-	</tr></thead><tbody>{%assign opt = all|sort:'obtain'%}<!--doing this again in case I concat fandragons-->{%capture obtain%}{%if d.dates.obtain%}{{d.dates.obtain}}{%else%}{{d.dates.hatch}}{%endif%}{%endcapture%}<!--to apply sorting, change "all" in for to "opt"-->{%for d in all%}<tr class="{%cycle 'bg1','bg2'%}">
+	</tr></thead><tbody>{%assign opt = all|sort:"obtain"%}<!--doing this again in case I concat fandragons-->{%capture obtain%}{%if d.dates.obtain%}{{d.dates.obtain}}{%else%}{{d.dates.hatch}}{%endif%}{%endcapture%}<!--to apply sorting, change "all" in for to "opt"-->{%for d in opt%}<tr class="{%cycle 'bg1','bg2'%}">
 		<td>{{d.id}}</td>
 		<td><a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a></td>
 		<td class="cp">{{d.element}}</td>
@@ -159,5 +163,14 @@ layout: none
 		<td>{%for ct in d.cat%}{{ct}}{%if forloop.last!=true%}, {%endif%}{%endfor%}</td>
 	</tr>{%endfor%}</tbody>
 </table></details>
+
+<details open id="dragobox"><summary><h2>ok now I’m just showing off</h2></summary>
+<h3>m-pose spiral squad</h3>
+<p>I Have A <s>Problem</s> Favorite</p>
+{%for noodl in all%}{%if noodl.sex=='m' and noodl.breed=='spiral'%}<a href="https://www1.flightrising.com/dragon/{{noodl.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{noodl.id}}_100.png" alt="{{noodl.nm}}"/><figcaption>{{noodl.nm}}</figcaption></figure></a>{%endif%}{%endfor%}
+
+<h3>G1 showoff</h3>{%assign sort=all|sort:"dates.hibern"%}<!--not currently used, but keeping so I remember how to sort by sub-data-->
+{%for g1 in all%}{%if g1.gen%}<a href="https://www1.flightrising.com/dragon/{{g1.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{g1.id}}_100.png" alt="{{g1.nm}}"{%if g1.age%} class="bab"{%endif%}/><figcaption>{{g1.nm}}</figcaption></figure></a>{%endif%}{%endfor%}
+</details>
 
 </body></html>
