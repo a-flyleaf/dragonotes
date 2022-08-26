@@ -78,7 +78,14 @@ layout: none
 </details>
 
 <details open><summary><h2>not-spreadsheet</h2></summary><table>
-	<thead><tr>
+	<colgroup><!--same as below-->
+		<col span="7">
+		<col span="2" class="bg1">
+		<col span="3">
+		<col span="7" class="bg1">
+		<col span="3">
+		<col span="8" class="bg1">
+	</colgroup><thead><tr>
 		<th colspan="7">basics</th>
 		<th colspan="2">coli</th>
 		<th colspan="3">measurements</th>
@@ -118,7 +125,7 @@ layout: none
 		<th>scene</th>
 		<th>broadcast</th>
 		<th>categorized</th>
-	</tr></thead><tbody>{%for d in all%}<tr class="{%cycle 'bg1','bg2'%}">
+	</tr></thead><tbody>{%assign opt = all|sort:'obtain'%}<!--doing this again in case I concat fandragons-->{%capture obtain%}{%if d.dates.obtain%}{{d.dates.obtain}}{%else%}{{d.dates.hatch}}{%endif%}{%endcapture%}<!--to apply sorting, change "all" in for to "opt"-->{%for d in all%}<tr class="{%cycle 'bg1','bg2'%}">
 		<td>{{d.id}}</td>
 		<td><a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a></td>
 		<td class="cp">{{d.element}}</td>
@@ -137,7 +144,7 @@ layout: none
 		<td class="cp">{%if d.genes.sec.gn=='basic'%}<span class="fd">{%endif%}{{d.genes.sec.gn}}{%if d.genes.sec.gn=='basic'%}</span>{%endif%}</td>
 		<td class="cp">{{d.genes.tert.clr}}</td>
 		<td class="cp">{%if d.genes.tert.gn=='basic'%}<span class="fd">{%endif%}{{d.genes.tert.gn}}{%if d.genes.tert.gn=='basic'%}</span>{%endif%}</td>
-		<td class="cp">{%if d.genes.eye%}{{d.genes.eye}}{%else%}common{%endif%}</td>
+		<td class="cp">{%if d.genes.eye%}{{d.genes.eye}}{%else%}<span class="fd">common</span>{%endif%}</td>
 		<td>{{d.dates.hatch}}</td>
 		<td>{%if d.dates.obtain%}{{d.dates.obtain}}{%else%}<span class="fd">{{d.dates.hatch}}</span>{%endif%}</td>
 		<td>{{d.dates.hibern}}</td>
