@@ -1819,4 +1819,375 @@
     scene: 1
     broadcast: sociable sailor
   cat: [lore]
-#
+- nm: Mallow
+  id: 66788485
+  element: nature
+  sex: m
+  breed: veilspun
+  lvl: 25
+  stats:
+    bld: Ruin runner
+    lnk: gde/2889883#post_44091247
+    by: kingcrown
+    id: 87440
+  msr:
+    length: 0.97
+    wings: 0.73
+    weight: 1.71
+  genes:
+    pri:
+      num: 41
+      clr: eggplant
+      gn: fade
+    sec:
+      num: 168
+      clr: watermelon
+      gn: blend
+    tert:
+      num: 173
+      clr: mauve
+      gn: thorns
+    eye: rare
+  dates:
+    hatch: 2021-01-21
+    hibern: 2022-03-06
+  has:
+    familiar: Greybeak Reaper
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: quiet spirit-speaker
+  cat: [lore]
+- nm: Astraeus
+  id: 66648176
+  element: plague
+  sex: m
+  breed: imperial
+  lvl: 8
+  msr:
+    length: 31.62
+    wings: 15.86
+    weight: 5978.65
+  genes:
+    pri:
+      num: 50
+      clr: blue
+      gn: starmap
+    sec:
+      num: 46
+      clr: sapphire
+      gn: bee
+    tert:
+      num: 54
+      clr: cornflower
+      gn: crackle
+  dates:
+    hatch: 2021-01-15
+    obtain: 2021-01-21
+    hibern: 2022-08-17
+  has:
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+# Seafoam
+- nm: CabochonLuster
+  id: 68138457
+  element: shadow
+  sex: m
+  breed: veilspun
+  msr:
+    length: 1.13
+    wings: 0.82
+    weight: 1.58
+  genes:
+    pri:
+      num: 54
+      clr: cornflower
+      gn: sphinxmoth
+    sec:
+      num: 108
+      clr: sanddollar
+      gn: hawkmoth
+    tert:
+      num: 105
+      clr: yellow
+      gn: firefly
+    eye: unusual
+  dates:
+    hatch: 2021-05-21
+    obtain: 2021-10-26
+    hibern: 2022-08-17
+  has:
+    familiar: ALL OPTIONAL, just for my own ref. fam is a string
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+- nm: Koirin
+  id: 72694252
+  element: lightning
+  sex: m
+  breed: spiral
+  msr:
+    length: 3.01
+    wings: 2.42
+    weight: 67.04
+  genes:
+    pri:
+      num: 23
+      clr: midnight
+      gn: skink
+    sec:
+      num: 23
+      clr: midnight
+      gn: alloy
+    tert:
+      num: 23
+      clr: midnight
+      gn: runes
+    eye: uncommon
+  dates:
+    hatch: 2021-09-29
+    obtain: 2021-10-31
+    hibern: 2021-12-21
+  has:
+    familiar: Whisper
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: descendant familiar-wrangler
+  cat: [lore]
+# Badru?
+- nm: Axius
+  id: 65038218
+  element: plague
+  sex: m
+  breed: skydancer
+  msr:
+    length: 5.22
+    wings: 5.86
+    weight: 842.55
+  genes:
+    pri:
+      num: 55
+      clr: sky
+      gn: cherub
+    sec:
+      num: 80
+      clr: jungle
+      gn: bee
+    tert:
+      num: 45
+      clr: indigo
+      gn: thylacine
+  dates:
+    hatch: 2020-11-11
+    obtain: 2021-11-03
+    hibern: 2022-08-17
+        # presuuuumably? did not note, but definitely hibernated alongside Cabo
+  has:
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore]
+# Wian
+# Odessa, Cen?
+# Zachariah
+- nm: dashcon
+  id: 73772267
+  element: shadow
+  sex: f
+  age: bab
+  breed: gaoler
+  msr:
+    length: 1.30
+    wings: 0.31
+    weight: 70.31
+  genes:
+    pri:
+      num: 92
+      clr: radioactive
+      gn: jaguar
+    sec:
+      num: 92
+      clr: radioactive
+      gn: hex
+    tert:
+      num: 86
+      clr: avocado
+      gn: shardflank
+    eye: pastel
+  dates:
+    hatch: 2021-11-18
+    hibern: 2021-12-21
+  has:
+    familiar: Opposing Forces
+    bio: "~?"
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: Patron Saint of Stolen Presidential Shoelaces
+  cat: [other]
+# 2022 starts here, only noting those hibernating as of 8/26 for now
+- nm: Asclepius
+  id: 74944146
+  element: shadow
+  sex: m
+  breed: aberration
+  gen: 1
+  msr:
+    length: 5.26
+    wings: 7.07
+    weight: 497.85
+  genes:
+    pri:
+      num: 96
+      clr: spring
+      gn: slime
+    sec:
+      num: 156
+      clr: sanguine
+      gn: sludge
+    tert:
+      num: 157
+      clr: blood
+      gn: veined
+    eye: rare
+  dates:
+    hatch: 2022-01-05
+    hibern: 2022-08-17
+  has:
+    accent: 1
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore]
+- nm: Disappointius
+  id: 73842399
+  element: plague
+  sex: m
+  breed: bogsneak
+  lvl: 25
+  msr:
+    length: 5.05
+    wings: 5.64
+    weight: 962.94
+  genes:
+    pri:
+      num: 42
+      clr: iris
+      gn: piebald
+    sec:
+      num: 176
+      clr: rose
+      gn: paint
+    tert:
+      num: 70
+      clr: spruce
+      gn: lace
+  dates:
+    hatch: 2021-11-21
+    obtain: 2022-01-09
+    hibern: 2022-04-11
+  has:
+    familiar: Sweetpuff
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 1
+  cat: [other]
+- nm: Fred
+  id: 52492313
+  element: plague
+  sex: m
+  breed: spiral
+  gen: 1
+  msr:
+    length: 4.04
+    wings: 2.03
+    weight: 73.85
+  genes:
+    pri:
+      num: 38
+      clr: violet
+      gn: stitched
+    sec:
+      num: 151
+      clr: vermillion
+      gn: patchwork
+    tert:
+      num: 73
+      clr: mint
+      gn: ghost
+    eye: uncommon
+  dates:
+    hatch: 2019-06-08
+    obtain: <2022-10-31
+    hibern: 2022-03-24
+  has:
+    familiar: Painted Marionette
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 0
+    broadcast: oops
+  cat: [lore,other]
+# Scarecrow?
+- nm: Dmitri
+  id: 74621025
+  element: arcane
+  sex: m
+  breed: coatl
+  gen: 1
+  msr:
+    length: 8.04
+    wings: 10.74
+    weight: 1097.87
+  genes:
+    pri:
+      num: 55
+      clr: sky
+      gn: pinstripe
+    sec:
+      num: 167
+      clr: cottoncandy
+      gn: shimmer
+    tert:
+      num: 2
+      clr: cream
+      gn: ringlets
+    eye: rare
+  dates:
+    hatch: 2021-12-25
+    obtain: 2022-03-07
+    hibern: 2022-02-22
+  has:
+    familiar: ALL OPTIONAL, just for my own ref. fam is a string
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 1
+    scene: 1
+    broadcast: bygone daydreams
+  cat: [lore,other]
+# Novak, Lithophone, Layes, Evergreen, Art, Min, Scylla, Ascher, Bokeh, Singluarity, ++
