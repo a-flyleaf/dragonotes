@@ -1,4 +1,4 @@
-# add in order obtained, fandragons notwithstanding; they can have a separate data file. (see ygbtdm/gallery/all for combined data)
+# add in order obtained, fandragons notwithstanding; they can have a separate data file. (see ygbtdm/gallery/all for how to concatenate data)
 # names (dragon, familiar, venues) capitalized, else lowercase (use CSS)
 - nm: Maelstrom
   id: 12116084
@@ -1561,7 +1561,7 @@
     bio: "~"
     art: 1
     vista: 0
-    scene: 0
+    scene: 1
     broadcast: dedicated glassworker
   cat: [lore]
 # Encore
@@ -2003,8 +2003,41 @@
     scene: 0
   cat: [lore]
 # Wian
-# Odessa, Cen?
-# Zachariah
+- nm: Zachariah
+  id: 73694266
+  element: plague
+  sex: m
+  breed: imperial
+  msr:
+    length: 31.04
+    wings: 18.05
+    weight: 7514.47
+  genes:
+    pri:
+      num: 61
+      clr: phthalo
+      gn: wasp
+    sec:
+      num: 65
+      clr: cerulean
+      gn: blend
+    tert:
+      num: 58
+      clr: steel
+      gn: crackle
+    eye: uncommon
+  dates:
+    hatch: 2021-11-14
+    hibern: 2022-08-28
+  has:
+    familiar: Hippocampus
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore]
 - nm: dashcon
   id: 73772267
   element: shadow

@@ -11,6 +11,8 @@ miscellaneous stuff for my own reference
 	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
+	- 435kT (12×35kT Joxar, +2×7.5kT Baldwin), less if discounted
+	- 140 fest currency, 190 incl. scene
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
 ## other links
@@ -107,34 +109,31 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="12">2021</td><td>01</td><td>21</td><td><s>Mallow, Astraeus</s></td></tr>
+		<tr><td rowspan="10">2021</td><td>01</td><td>21</td><td><s>Mallow, Astraeus</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td>Seafoam</td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
-		<tr><td rowspan="3">10</td><td>08</td><td>Chondrite</td></tr>
-		<tr><td>26</td><td><s>CabochonLuster</s></td></tr>
+		<tr><td rowspan="2">10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
-		<tr><td rowspan="6">11</td><td>02</td><td><s>Badru*</s></td></tr>
+		<tr><td rowspan="5">11</td><td>02</td><td><s>Badru*</s></td></tr>
 		<tr><td>03</td><td><s>Axius</s></td></tr>
 		<tr><td>07</td><td>Wian</td></tr>
-		<tr><td>12</td><td>Odessa, Cen</td></tr>
-		<tr><td>14</td><td>Zachariah</td></tr>
+		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="16">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
+		<tr><td rowspan="15">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
-		<tr><td rowspan="3">02</td><td>18</td><td>Paperclip</td></tr>
-		<tr><td>21</td><td><s>!Fred</s></td></tr>
-		<tr><td>24</td><td>Halloween, Scarecrow</td></tr>
-		<tr><td rowspan="5">03</td><td>02</td><td>Secret</td></tr>
-		<tr><td>03</td><td>[sonabog]</td></tr>
-		<tr><td>07</td><td>JynWeyThek<s>, Dmitri</s></td></tr>
+		<tr><td rowspan="2">02</td><td>21</td><td><s>!Fred</s></td></tr>
+		<tr><td>24</td><td>Scarecrow</td></tr>
+		<tr><td rowspan="5">03</td><td>03</td><td>[sonabog]</td></tr>
+		<tr><td>07</td><td><s>Dmitri</s></td></tr>
 		<tr><td>10</td><td>Novak</td></tr>
+		<tr><td>22</td><td>Lithophone</td></tr>
 		<tr><td>27</td><td>Layes</td></tr>
 		<tr><td>04</td><td>24</td><td>Evergreen</td></tr>
-		<tr><td rowspan="3">05</td><td>02</td><td>Tonic</td></tr>
-		<tr><td>17</td><td>Art, Min</td></tr>
+		<tr><td rowspan="2">05</td><td>17</td><td>Art, Min</td></tr>
 		<tr><td>18</td><td>Scylla</td></tr>
 		<tr><td>06</td><td>05</td><td>Ascher</td></tr>
+		<tr><td>07</td><td>07</td><td>Bokeh</td></tr>
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 	</tbody>
 </table>

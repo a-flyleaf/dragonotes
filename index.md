@@ -8,6 +8,8 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 
 <b>October 10, 2021:</b> Did some housekeeping. Maybe I will slowly revive this thing.
 
+<b>August 28, 2022</b>: <em style="font-style:normal;text-transform:uppercase;">Or maybe I'll redo it all. Who knows. Ha. ha ha ha---</em>
+
 ## sitemap/to-do
 
 - [ ] [About]({%include url.html%}/about)

@@ -17,9 +17,9 @@ layout: none
 		.cp{text-transform:capitalize;} .fd{color:rgba(0,0,0,.25);} .hl{background:yellow;}
 		.bg1{background:rgba(0,0,0,.025);}
 		
-		#dragobox figure{display:inline-block; background:#efefef; max-width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} #dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
-		#dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
-		#dragobox a:hover,#dragobox a:focus,#dragobox a:active{opacity:.5;}
+		.dragobox figure{display:inline-block; background:#efefef; max-width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} .dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
+		.dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
+		.dragobox a:hover,.dragobox a:focus,.dragobox a:active{opacity:.5;}
 	</style>
 </head><body>
 <h1>buncha data/code tests</h1>
@@ -164,13 +164,20 @@ layout: none
 	</tr>{%endfor%}</tbody>
 </table></details>
 
-<details open id="dragobox"><summary><h2>ok now I’m just showing off</h2></summary>
+<details><summary><h2>ok now I’m just showing off</h2></summary>
 <h3>m-pose spiral squad</h3>
 <p>I Have A <s>Problem</s> Favorite</p>
-{%for noodl in all%}{%if noodl.sex=='m' and noodl.breed=='spiral'%}<a href="https://www1.flightrising.com/dragon/{{noodl.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{noodl.id}}_100.png" alt="{{noodl.nm}}"/><figcaption>{{noodl.nm}}</figcaption></figure></a>{%endif%}{%endfor%}
+<div class="dragobox">{%for noodl in all%}{%if noodl.sex=='m' and noodl.breed=='spiral'%}<a href="https://www1.flightrising.com/dragon/{{noodl.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{noodl.id}}_100.png" alt="{{noodl.nm}}"/><figcaption>{{noodl.nm}}</figcaption></figure></a>{%endif%}{%endfor%}</div>
 
 <h3>G1 showoff</h3>{%assign sort=all|sort:"dates.hibern"%}<!--not currently used, but keeping so I remember how to sort by sub-data-->
-{%for g1 in all%}{%if g1.gen%}<a href="https://www1.flightrising.com/dragon/{{g1.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{g1.id}}_100.png" alt="{{g1.nm}}"{%if g1.age%} class="bab"{%endif%}/><figcaption>{{g1.nm}}</figcaption></figure></a>{%endif%}{%endfor%}
+<div class="dragobox">{%for g1 in all%}{%if g1.gen%}<a href="https://www1.flightrising.com/dragon/{{g1.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{g1.id}}_100.png" alt="{{g1.nm}}"{%if g1.age%} class="bab"{%endif%}/><figcaption>{{g1.nm}}</figcaption></figure></a>{%endif%}{%endfor%}</div>
+</details>
+
+<details open><summary><h2>Great Wall of Dragons</h2></summary>
+<div class="dragobox">{%for lzrd in all%}<a href="https://www1.flightrising.com/dragon/{{lzrd.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{lzrd.id}}_100.png" alt="{{lzrd.nm}}"{%if lzrd.age%} class="bab"{%endif%}/><figcaption>{{lzrd.nm}}</figcaption></figure></a>{%endfor%}</div>
+
+<p><b style="text-transform:uppercase;font-weight:normal;">Look at my children. All {{all.size}}* of them.</b><br/>
+<small>*does not include fandragons or non-hibernating lizards</small></p>
 </details>
 
 </body></html>
