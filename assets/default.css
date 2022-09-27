@@ -204,8 +204,6 @@ footer{font-size:.75em; line-height:1.55em; padding:1rem; opacity:.75; text-alig
 		.pagenav button:focus,.pagenav button:hover{color:#aec8ff;}
 		.pagenav a{color:#8294bd;} .pagenav a:hover,.pagenav a:focus{color:#aec8ff;}
 	}
-	
-	#oldnote{padding-right:1rem; font-weight:normal;}
 }
 
 @media only screen and (min-width:63em){
