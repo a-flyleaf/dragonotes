@@ -1895,6 +1895,44 @@
     scene: 0
   cat: [lore]
 # Seafoam
+- nm: Fissure
+  id: 48734092
+  element: arcane
+  sex: m
+  breed: obelisk
+  gen: 1
+  msr:
+    length: 16.13
+    wings: 18
+    weight: 6962.35
+  genes:
+    pri:
+      num: 108
+      clr: sanddollar
+      gn: tapir
+    sec:
+      num: 152
+      clr: ruby
+      gn: noxtide
+    tert:
+      num: 14
+      clr: lead
+      gn: peacock
+    eye: goat
+  dates:
+    hatch: 2019-01-21
+    obtain: 2021-06-21
+    hibern: 2021-12-21
+  has:
+    familiar: Springfoot Bilworper
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: shady magician
+  cat: [lore]
 - nm: CabochonLuster
   id: 68138457
   element: shadow
