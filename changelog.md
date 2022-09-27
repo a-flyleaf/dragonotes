@@ -26,4 +26,4 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 ## 2022
 - 4/10 flowchart
 - 8/18 + 24--26 dragon data experimentation
-- 9/27 new theme, new changelog (you are here)
+- 9/27 new theme, new changelog (you are here), backend v1 reshuffling
