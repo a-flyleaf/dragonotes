@@ -19,7 +19,7 @@
 			<div id="content" class="wrap">
 				<h1>{{page.title}}</h1>{%if page.date%}
 				<p class="date small info">{{page.date|date:"%B %d, %Y"}}</p>{%endif%}
-				{{page.content}}<!--hiding for now, unti I figure out multiple posts{%if page.tags%}
+				{{content}}<!--hiding for now, unti I figure out multiple posts{%if page.tags%}
 				<p class="tags small info">tagged: {%for tag in page.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:" ","-"}}">{{tag}}</a> {%endfor%}</p>{%endif%}-->
 			</div>
 		</main>
