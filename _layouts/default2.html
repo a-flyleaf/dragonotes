@@ -9,20 +9,22 @@
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/default2.css"/>{%if page.css%}
 		<style>{{page.css}}</style>{%endif%}
 	</head>
-	<body>
+	<body><div id="fullwrap">
 		<a href="#content" class="x">skip to content</a>
-		<header><a href="{%include url.html%}" id="title">dragonotes</a></header>
-		<aside class="small"><p>Dragon shenanigan infohub of <a href="https://flightrising.com/main.php?p=lair&tab=userpage&id=138250">Flight Rising player Archaeoraptor</a>. Pages will be here eventually but for now it’s pretty much a glorified blog~</p></aside>
+		<aside>
+			<header><a href="{%include url.html%}" id="title">dragonotes</a></header>
+			<div id="desc" class="small"><p>Dragon shenanigan infohub of <a href="https://flightrising.com/main.php?p=lair&tab=userpage&id=138250">Flight&nbsp;Rising player Archaeoraptor</a>. Pages will be here eventually but for now it’s pretty much a glorified blog~</p></div>
+		</aside>
 		<main>
-			<div id="content">
+			<div id="content" class="wrap">
 				<h1>{{page.title}}</h1>{%if page.date%}
-				<p class="date small">{{page.date|date:"%B %d, %Y"}}</p>{%endif%}
-				{{page.content}}{%if page.tags%}
-				<p class="tags small">tagged: {%for tag in page.tags%}#{{tag}} {%endfor%}</p>{%endif%}
+				<p class="date small info">{{page.date|date:"%B %d, %Y"}}</p>{%endif%}
+				{{page.content}}<!--hiding for now, unti I figure out multiple posts{%if page.tags%}
+				<p class="tags small info">tagged: {%for tag in page.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:" ","-"}}">{{tag}}</a> {%endfor%}</p>{%endif%}-->
 			</div>
 		</main>
 		<footer><ul>
 			<li><a href="https://www1.flightrising.com/">Flight Rising</a> and all related content ©&nbsp;2013–{{"now"|date:"%Y"}} Stormlight&nbsp;Workshop&nbsp;LLC.</li>
 			<li>Dragonotes content by, unless otherwise noted, <a href="https://a-flyleaf.github.io/">a-flyleaf</a> AKA <a href="https://flightrising.com/main.php?p=lair&tab=userpage&id=138250">Archaeoraptor#138250</a>.</li></ul></footer>
-	</body>
+	</div></body>
 </html>
