@@ -8,7 +8,7 @@ miscellaneous stuff for my own reference
 ## AH searches
 
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
-	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=8000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
 	- 435kT (12×35kT Joxar, +2×7.5kT Baldwin), less if discounted
@@ -25,18 +25,16 @@ miscellaneous stuff for my own reference
 
 literally just that gosh dang <b>hippojay</b> (fishing in earth/ice/light/nature)
 
-also need runestones for hibden but might just cave and buy em
-
 ## coli fams
 
 bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
 
 ~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Aurelian Porcupine, Trumpet Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Featherfoot Spingy, Spongy Spingy, Flying Fawn, Velvet Fawn</b>
+Woodland Path | <b>Aurelian Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Spongy Spingy, Flying Fawn</b>
 ~~Scorched Forest~~ | <s>✓</s>
-~~Sandswept Delta~~ | <s>✓</s>
+Sandswept Delta | <b>Prickly Strangler,  Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
 Blooming Grove | <u>Mossy Pohip</u>
-Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Swiftstride Soldier, Stonestomp Spearmaiden</b>
+Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Stonestomp Spearmaiden</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch</b>
@@ -116,7 +114,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
 		<tr><td rowspan="5">11</td><td>02</td><td><s>Badru*</s></td></tr>
 		<tr><td>03</td><td><s>Axius</s></td></tr>
-		<tr><td>07</td><td>Wian</td></tr>
+		<tr><td>07</td><td>LethalTriplicate</td></tr>
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
@@ -137,3 +135,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 	</tbody>
 </table>
+
+this will possibly be "retired"/redone in favor of dragon data later but for now it's still very useful to have, if unwieldy code-wise
+
+[hibernal den released in 2019](https://www1.flightrising.com/forums/ann/2627065), lookit that dragon count go
