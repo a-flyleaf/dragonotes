@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 title: "The Lair Revival Project: Intro"
 date: 2022-09-27 13:35:00
 tags: [lair revival]
