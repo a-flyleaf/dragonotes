@@ -12,4 +12,7 @@ Have a list of posts.
 	<li><b><a href="{{post.url}}">{{post.title}}</a></b></li>
 {%endif%}{%endfor%}</ul>
 
-The original version of the site [still exists](v1) but will be gradually reshuffled as I figure stuff out. Yes, this new theme is a tumblr blog clone, specifically of [the theme on my first blog](https://archaeoraptor-archive.tumblr.com/post/127184518325/permafrostimpaler-dohmalores-theme-i-had-a).
+The original version of the site [still exists](v1) but will be gradually reshuffled as I figure stuff out.
+
+## credits
+Colors largely picked or modified from Flight Rising's official site palette. Current layout is a tumblr blog clone, specifically of [the theme on my first blog](https://archaeoraptor-archive.tumblr.com/post/127184518325/permafrostimpaler-dohmalores-theme-i-had-a), with some additional design cues from [Flight Rising forum posts](https://www1.flightrising.com/forums).
