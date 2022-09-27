@@ -17,7 +17,7 @@
 		</aside>
 		<main>
 			<div id="content" class="wrap">
-				<h1>{{page.title}}</h1>{%if page.date%}
+				<h1>{%if page.title%}{{page.title}}{%else%}dragonotes{%endif%}</h1>{%if page.date%}
 				<p class="date small info">{{page.date|date:"%B %d, %Y"}}</p>{%endif%}
 				{{content}}{%if page.tags%}
 				<p class="tags small info">tagged: {%for tag in page.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:" ","-"}}">{{tag}}</a> {%endfor%}</p>{%endif%}
