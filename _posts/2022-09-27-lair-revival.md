@@ -42,5 +42,3 @@ I think what I'm going to do is focus on each dragon in order, and do a rambly w
 Starting with my progens, naturally---*but first*, this website *sorely* needs a layout update, and also I just wanna skim over what my lair dragons ("witnesses" of the aforementioned meteor, who will probably interact sporadically with the returning oldies) are up to.
 
 <em style="text-transform:uppercase;font-style:normal;">Am excite ᕕ(&nbsp;ᐛ&nbsp;)ᕗ</em>
-
----September 27, 2022 (because this layout doesn't show post dates)

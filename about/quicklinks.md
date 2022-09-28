@@ -32,9 +32,9 @@ bold = haven't done the [long drop coli challenge](https://www1.flightrising.com
 ~~Training Fields~~ | <s>✓</s>
 Woodland Path | <b>Aurelian Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Spongy Spingy, Flying Fawn</b>
 ~~Scorched Forest~~ | <s>✓</s>
-Sandswept Delta | <b>Prickly Strangler,  Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
+Sandswept Delta | <b>Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
 Blooming Grove | <u>Mossy Pohip</u>
-Forgotten Cave | <b>Bell Goat, Polarized Bell Goat, Burrow Bear, Dire Claw, Cave Lantern, Creeping Cluster, Djamor Bat, Ostreatus Bat, Stonestomp Spearmaiden</b>
+Forgotten Cave | <b>Bell Goat, Burrow Bear, Dire Claw, Creeping Cluster, Djamor Bat, Ostreatus Bat</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
 Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch</b>

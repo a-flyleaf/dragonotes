@@ -1,91 +1,56 @@
 ---
-layout: default2
-title: shameless collection of shiny things
-
-css: "#badges{margin-top:1em; text-align:center; display:flex; flex-wrap:wrap;} figure{width:46%; display:inline-block; background:#efefef; margin:2%; padding:.5em; border-radius:5px;} figure img{padding-top:.5em;} figure p{margin:.25em 0;} .b-title{line-height:1.15;} .b-info{font-size:.85em; margin-bottom:.5em;} .b-info p:last-child{margin-top:.5em;} @media only screen and (min-width:55em) {figure{max-width:30%; margin:1.5%;}}"
-
-badges:
-  - url: fl2/1550792
-    title: Plague Profit Squad
-    date: 2015-08-27
-    goal: earned 50,000 treasure
-    img:
-      - url: https://i.imgur.com/hgVWUbp.png
-        artist: Ghostgirl32#121774
-  - url: fl2/1579258
-    title: Plague Profit Squad I
-    date: 2015-09-27
-    goal: earned 100,000 treasure
-    img:
-      - url: https://i.imgur.com/tyHdF4J.png
-        artist: Ghostgirl32#121774
-  - url: fl2/1598496
-    title: Plague Profit Squad II
-    date: 2015-10-24
-    goal: earned 1,0000,000 treasure
-    img:
-      - url: https://i.imgur.com/QzBQnFo.png
-        artist: Ghostgirl32#121774
-  - url: fl2/1724459
-    title: "Goals & Incentives: Light vs Plague"
-    date: 2015-02-14
-    goal: exalted 60 via Zerg Rush · exalted 10 lvl5s · exalted 25 lvl8s
-    img:
-      - url: https://i.imgur.com/WmG6DCM.png
-        artist: TheSunTheGodsSaw#35038
-      - url: https://i.imgur.com/JWCEPyl.png
-        artist: TheSunTheGodsSaw#35038
-      - url: https://i.imgur.com/NpvKosE.png
-        artist: TheSunTheGodsSaw#35038
-  - url: fl2/1764792
-    title: Army of Rot
-    date: 2016-03-06
-    goal: exalted 150 lvl5s
-    img:
-      - url: https://i.imgur.com/OXNYs02.png
-        artist: TheSunTheGodsSaw#35038
-  - url: fl2/1757387
-    title: Plague Profit Squad VI
-    date: 2016-03-12
-    goal: earned 1,000,000 treasure
-    img:
-      - url: https://i.imgur.com/ZEyhJzb.png
-        artist: Bioluminous#9267
+layout: default
+title: shiny things
+class: badges
 ---
 Collectible trinkets from usermade challenges. 90% coliseum-related because exalting is my passion.
 
-- Ordered chronologically by date earned, which is typically based on when the event ended.
-- Badges have **not** been reuploaded and may break later.
-- Images link to forum threads, some of which aren't visible to those outside the Plague flight. If the **title** is clickable, *then* it's publicly-viewable.
-- Artist credit in alt text, also visible on hover.
+Ordered chronologically by date earned, which is usually based on the event end. Badges link to forum threads, most of which aren't visible to those outside the Plague flight (unless the title is also clickable). Artist credit in the alt text.
 
-Public Buy tracking has been spotty. Probably missing a bunch of those but *I have been on this site for years* and can't be bothered to spreadsheet-dig >:V
+(Side note: Public buy tracking has been spotty. Probably missing a bunch of those but *I have been on this site for years* and can't be bothered to spreadsheet-dig >:V)
 
-<div id="badges" class="small">{%for badge in page.badges%}<figure>
-	<a href="https://www1.flightrising.com/forums/{{badge.url}}">{%for img in badge.img%}<img src="{{img.url}}" alt="badge by {{img.artist}}" title="by {{img.artist}}"/>{%endfor%}</a>
-	<figcaption>
-		<p class="b-title">{%unless badge.url contains "fl2" or badge.url contains "fd2"%}<a href="https://www1.flightrising.com/forums/{{badge.url}}">{%endunless%}<b>{{badge.title}}</b>{%unless badge.url contains "fl2" or badge.url contains "fd2"%}</a>{%endunless%}</p>
-		<div class="b-info">
-			<p>{{badge.date|date:"%B %-d, %Y"}}</p>
-			<p>{{badge.goal}}</p>
-		</div>
-	</figcaption>
-</figure>{%endfor%}</div>
-
-[have lots more where these came from, I'll get back to it; [here's the older (and outdated) version of this page](../v1/about/badges)]
-
-<!--
-  - url: 
-    title: 
-    date: 
-    goal: 
-    img:
-      - url: 
-        artist: 
--->
-
-<!-- TBA. this will be faster in the long run but my God is it a lot to transfer
-{%include badge.html
+<div id="badges">
+	{%include badge.html
+		url="fl2/1550792"
+		img="https://i.imgur.com/hgVWUbp.png"
+		artist="Ghostgirl32#121774"
+		title="Plague Profit Squad"
+		date="August 27, 2015"
+		goal="earned 50,000 treasure"
+	%}{%include badge.html
+		url="fl2/1579258"
+		img="https://i.imgur.com/tyHdF4J.png"
+		artist="Ghostgirl32#121774"
+		title="Plague Profit Squad I"
+		date="September 27, 2015"
+		goal="earned 100,000 treasure"
+	%}{%include badge.html
+		url="fl2/1598496"
+		img="https://i.imgur.com/QzBQnFo.png"
+		artist="Ghostgirl32#121774"
+		title="Plague Profit Squad II"
+		date="October 24, 2015"
+		goal="earned 1,000,000 treasure"
+	%}<figure>
+		<a href="https://www1.flightrising.com/forums/fl2/1724459"><img src="https://i.imgur.com/WmG6DCM.png" alt="badges by TheSunTheGodsSaw#35038"/><img src="https://i.imgur.com/JWCEPyl.png" alt=""/><img src="https://i.imgur.com/NpvKosE.png" alt=""/></a>
+		<figcaption><b>Goals & Incentives: Light vs Plague</b><br/>
+		<span class="date">February 14, 2016</span><br/>
+		<span class="goal">exalted 60 via Zerg Rush · exalted 10 <span class='sc'>lvl</span>5s · exalted 25 <span class='sc'>lvl</span>8s</span></figcaption>
+	</figure>{%include badge.html
+		url="fl2/1764792"
+		img="https://i.imgur.com/OXNYs02.png"
+		artist="TheSunTheGodsSaw#35038"
+		title="Army of Rot"
+		date="March 6, 2016"
+		goal="exalted 150 <span class='sc'>lvl</span>5s"
+	%}{%include badge.html
+		url="fl2/1757387"
+		img="https://i.imgur.com/ZEyhJzb.png"
+		artist="Bioluminous#9267"
+		title="Plague Profit Squad VI"
+		date="March 12, 2016"
+		goal="earned 1,000,000 treasure"
+	%}{%include badge.html
 		url="drw/1778080"
 		img="https://i.imgur.com/cAZDvqW.png"
 		artist="Hapro#47328"
@@ -559,4 +524,15 @@ Public Buy tracking has been spotty. Probably missing a bunch of those but *I ha
 		date="March 13, 2022"
 		goal="900 exalts"
 	%}
--->
+	<!--bragging blights S10 badges by Wolfdawn#521954-->
+</div>
+
+## PPS records
+For every time I made a net profit of over 2,000,000T. I don't know how this has happened multiple times either.
+
+round | timeframe | $$$ | notes
+--- | ---
+LVIV | Oct 31--Nov 13, 2021 | 4,362,641 | sold 3 lvl25s (232,650/ea)
+LX | Nov 21--Dec 04, 2021 | 3,825,254T | sold 3 lvl25s (prices vary), includes art commissions
+Joint | Dec 19, 2021--Jan 8, 2022 | 3,116,842T | sold 10 lvl25s (prices vary)
+XXIX | Jun 25--Jul 7, 2018 | 2,623,278T | sold 2 lvl25s (222,750/ea)
