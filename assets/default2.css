@@ -7,6 +7,7 @@ img{max-width:100%; height:auto;}
 header,main,aside,footer{display:block;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 
+blockquote{border-left:.25em solid #eceae2; padding-left:1em;}
 h1{font-weight:normal; font-size:1.75em; line-height:1;} h1 a{color:#731d08;}
 h2{font-size:1.25em; margin:1em 0 0;} h2+p{margin-top:0;}
 hr{border:0; height:2px; background:#c0c0c0; margin:2em auto; max-width:65%;}
@@ -35,6 +36,7 @@ footer{padding:1rem 1rem 0; text-align:center; font-size:.65em;}
 footer ul{list-style-type:none;} footer li{margin:.5em 0;}
 
 @media only screen and (min-width:55em) {
+	body{padding-top:2rem;}
 	aside{position:fixed; padding:0; width:25%; max-width:25em; background:#eceae2; border-radius:10px; margin-top:35vh;}
 	header{text-align:left; padding-left:1rem;}
 	#desc{max-width:100%;}
