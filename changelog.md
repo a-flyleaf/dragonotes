@@ -27,4 +27,4 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 - 4/10 flowchart
 - 8/18 + 24--26 dragon data experimentation
 - 9/27 new theme, new changelog (you are here), backend v1 reshuffling
-- 10/3 layout tweaks: post feed
+- 10/3 layout tweaks: scrapped the sidebar, post feed; new about
