@@ -17,10 +17,10 @@
 		</aside>
 		<main>
 			<div id="content" class="wrap{%unless page.feed%} post{%endunless%}">
-				<h1{%if page.feed%} id="feed"{%endif%}>{%if page.title%}{{page.title}}{%else%}dragonotes{%endif%}</h1>{%if page.date%}
-				<p class="date small info">{{page.date|date:"%B %d, %Y"}}</p>{%endif%}
-				{{content}}{%if page.tags%}
-				<p class="tags small info">tagged: {%for tag in page.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:' ','-'}}">{{tag}}</a> {%endfor%}</p>{%endif%}
+				<h1{%if page.feed%} id="feed"{%endif%}>{%if page.title%}{{page.title}}{%else%}dragonotes{%endif%}</h1>{%if page.date%}{%unless page.url contains 'tag'%}
+				<p class="date small info">{{page.date|date:"%B %d, %Y"}}</p>{%endunless%}{%endif%}
+				{{content}}{%if page.tags%}{%unless page.url contains 'tag'%}
+				<p class="tags small info">tagged: {%for tag in page.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:' ','-'}}">{{tag}}</a> {%endfor%}</p>{%endunless%}{%endif%}
 			</div>
 		</main>
 		<footer><ul>
