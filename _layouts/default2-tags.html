@@ -1,0 +1,10 @@
+---
+layout: default2
+---
+{%if page.content%}{{page.content}}{%endif%}
+{%assign feed = site.posts%}{%assign tag = page.nm%}
+{%for post in feed%}{%unless post.layout=="default"%}{%if post.tags contains tag%}<article class="post">
+	<h2 class="title"><a href="{%include url.html%}{{post.url}}">{{post.title}}</a></h2>
+	{%if post.content contains '<!--more-->'%}<!--https://stackoverflow.com/questions/46059434/jekyll-post-excerpt-how-to-know-if-there-was-an-auto-generated-excerpt--><p>{{post.excerpt}}</p><p><a href="{%include url.html%}{{post.url}}">Read more</a></p>{%else%}{{post.content|markdownify}}{%endif%}{%if post.tags%}
+	<p class="tags small info">tagged: {%for tag in post.tags%}#<a href="{%include url.html%}/blog/tag/{{tag|replace:' ','-'}}">{{tag}}</a> {%endfor%}</p>{%endif%}
+</article>{%endif%}{%endunless%}{%endfor%}

@@ -1,7 +1,6 @@
 ---
 layout: default2
 title: posts tagged “lair revival”
-permalink: blog/tag/lair-revival
 ---
 I need to figure out a way to automate tag pages but for now have this list.
 

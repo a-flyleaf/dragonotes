@@ -1,2 +1,13 @@
 name: dragonotes
 permalink: /blog/:title
+
+collections:
+    tags:
+        output: true
+defaults:
+  - scope:
+      path: "_tags"
+    values:
+      layout: default2-tags
+      permalink: /blog/tag/:slug
+      feed: y
