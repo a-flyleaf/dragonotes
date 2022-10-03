@@ -8,7 +8,7 @@ header,main,aside,footer{display:block;}
 .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
 
 blockquote{border-left:.25em solid #eceae2; padding-left:1em;}
-h1{font-weight:normal; font-size:1.75em; line-height:1;} h1 a{color:#731d08;} h1#feed{margin-left:1rem; font-weight:bold; text-align:center; margin:.5em 0;}
+h1{font-weight:normal; font-size:1.75em; line-height:1;} h1 a{color:#731d08;} h1#feed{margin-left:1rem; text-align:center; margin:.5em 0;}
 h2{font-size:1.25em; margin:1em 0 0;} h2+p{margin-top:0;} h2.title{margin-top:0;}
 hr{border:0; height:2px; background:#c0c0c0; margin:2em auto; max-width:65%;}
 ol,ul{margin:.75em 0 .75em 1em;}
@@ -31,6 +31,7 @@ header{text-align:center; padding-top:.5em;}
 .date{border-bottom:1px solid #c0c0c0; padding-bottom:1em;}
 .tags{border-top:1px solid #c0c0c0; padding:1em 0 0; margin-bottom:0;}
 article{margin:1em 0;}
+#tagdesc{text-align:center; max-width:41em; margin:-.5em auto 0; padding:0 1rem;}
 
 /*footer*/
 footer{padding:1rem 1rem 0; text-align:center; font-size:.65em;}
