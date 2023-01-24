@@ -510,15 +510,15 @@
     weight: 1.9
   genes:
     pri:
-      num: 
+      num: 64
       clr: teal
       gn: python
     sec:
-      num: 
+      num: 72
       clr: seafoam
       gn: toxin
     tert:
-      num: 
+      num: 62
       clr: azure
       gn: thylacine
   dates:
@@ -1856,7 +1856,41 @@
     vista: 0
     scene: 0
   cat: [lore]
-# Seafoam
+- nm: Seafoam
+  id: 70078241
+  element: water
+  sex: f
+  breed: veilspun
+  msr:
+    length: 0.52
+    wings: 0.98
+    weight: 2.06
+  genes:
+    pri:
+      num: 4
+      clr: white
+      gn: sphinxmoth
+    sec:
+      num: 55
+      clr: sky
+      gn: hex
+    tert:
+      num: 9
+      clr: silver
+      gn: flecks
+  dates:
+    hatch: 2021-06-15
+    obtain: 2021-06-17
+    hibern: 2022-11-30
+  has:
+    familiar: ALL OPTIONAL, just for my own ref. fam is a string
+    apparel: these are all "booleans"; 0/1/"~" (outdated)
+    accent: 0
+    bio: 0
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore,other]
 - nm: Fissure
   id: 48734092
   element: arcane
@@ -2217,14 +2251,229 @@
     scene: 1
     broadcast: bygone daydreams
   cat: [lore,other]
-# Novak
-# Lithophone
-# Layes
+- nm: Novak
+  id: 73216345
+  element: wind
+  sex: m
+  breed: aberration
+  gen: 1
+  msr:
+    length: 6.53
+    wings: 6.12
+    weight: 631.85
+  genes:
+    pri:
+      num: 47
+      clr: navy
+      gn: lionfish
+    sec:
+      num: 110
+      clr: ivory
+      gn: noxtide
+    tert:
+      num: 155
+      clr: garnet
+      gn: ghost
+    eye: pastel
+  dates:
+    hatch: 2021-10-23
+    obtain: 2022-03-10
+    hibern: 2022-11-22
+  has:
+    familiar: Janustrap
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
+# Lithophone?
+- nm: Layes
+  id: 68935037
+  element: earth
+  sex: f
+  breed: aberration
+  gen: 1
+  msr:
+    length: 4.02
+    wings: 7.97
+    weight: 733.12
+  genes:
+    pri:
+      num: 100
+      clr: moss
+      gn: lionfish
+    sec:
+      num: 160
+      clr: red
+      gn: noxtide
+    tert:
+      num: 94
+      clr: peridot
+      gn: ghost
+    eye: pastel
+  dates:
+    hatch: 2021-04-25
+    obtain: 2022-03-27
+    hibern: 2022-11-22
+  has:
+    familiar: Greenroot Janustrap
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore]
 # Evergreen
-# Art
-# Min
-# Scylla
-# Ascher
-# Bokeh
-# HaloPhenomenon
-# Alcho
+# Art?
+# Min?
+- nm: Scylla
+  id: 78166107
+  element: earth
+  sex: f
+  breed: spiral
+  lvl: 16
+  stats:
+    bld: Sedona fighter (incomplete)
+    lnk: gde/3046364
+    by: EeveeDream
+    id: 2937
+  msr:
+    length: 3.56
+    wings: 2.67
+    weight: 101.67
+  genes:
+    pri:
+      num: 2
+      clr: cream
+      gn: ground
+    sec:
+      num: 1
+      clr: maize
+      gn: toxin
+    tert:
+      num: 94
+      clr: peridot
+      gn: circuit
+    eye: unusual
+  dates:
+    hatch: 2022-05-18
+    hibern: 2023-01-22
+  has:
+    familiar: 0
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+    broadcast: "’Ello—Scylla, Dignitary of Airborne Contagion. You? "
+  cat: [lore]
+- nm: Ascher
+  id: 78618374
+  element: plague
+  sex: m
+  breed: aberration
+  msr:
+    length: 5.24
+    wings: 8.16
+    weight: 407.25
+  genes:
+    pri:
+      num: 13
+      clr: gloom
+      gn: savannah
+    sec:
+      num: 16
+      clr: flint
+      gn: eel
+    tert:
+      num: 106
+      clr: grapefruit
+      gn: jewels
+    eye: primal
+  dates:
+    hatch: 2022-06-05
+    hibern: 2023-01-22
+  has:
+    familiar: 0
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 1
+    broadcast: "…I’m sorry. I’ll do what I can. / Rawr."
+  cat: [lore]
+- nm: Bokeh
+  id: 78953375
+  element: earth
+  sex: m
+  breed: spiral
+  msr:
+    length: 3.68
+    wings: 2.33
+    weight: 96.88
+  genes:
+    pri:
+      num: 127
+      clr: cinnamon
+      gn: flaunt
+    sec:
+      num: 154
+      clr: crimson
+      gn: flair
+    tert:
+      num: 121
+      clr: bronze
+      gn: keel
+    eye: dark sclera
+  dates:
+    hatch: 2022-06-19
+    obtain: 2022-07-07
+    hibern: 2023-01-22
+  has:
+    familiar: 0
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: "Why’s ya tail all in a twist?"
+  cat: [lore]
+# HaloPhenomenon?
+- nm: Alcho
+  id: 81288642
+  element: plague
+  sex: f
+  breed: guardian
+  msr:
+    length: 14.87
+    wings: 20
+    weight: 10347.08
+  genes:
+    pri:
+      num: 13
+      clr: gloom
+      gn: savannah
+    sec:
+      num: 5
+      clr: moon
+      gn: striation
+    tert:
+      num: 58
+      clr: steel
+      gn: thylacine
+    eye: uncommon
+  dates:
+    hatch: 2022-10-07
+    hibern: 2022-12-22
+  has:
+    familiar: 0
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [lore]
