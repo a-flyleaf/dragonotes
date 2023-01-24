@@ -1490,42 +1490,6 @@
     vista: 1
     scene: 0
   cat: [lore]
-- nm: Chromatic
-  id: 57539357
-  element: wind
-  sex: f
-  breed: banescale
-  gen: 1
-  lvl: 25
-  msr:
-    length: 5.36
-    wings: 5.71
-    weight: 582.57
-  genes:
-    pri:
-      num: 92
-      clr: radioactive
-      gn: pinstripe
-    sec:
-      num: 3
-      clr: antique
-      gn: trail
-    tert:
-      num: 167
-      clr: cottoncandy
-      gn: porcupine
-    eye: unusual
-  dates:
-    hatch: 2019-12-12
-    obtain: 2020-01-02
-    hibern: 2021-01-21
-  has:
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [baneclan]
 - nm: Burin
   id: 50385938
   element: fire
@@ -1564,7 +1528,6 @@
     scene: 1
     broadcast: dedicated glassworker
   cat: [lore]
-# Encore
 - nm: Spectral
   id: 58303558
   element: lightning
@@ -1709,7 +1672,6 @@
     scene: 0
     broadcast: flyaway namesake
   cat: [lore]
-# Bluebell
 - nm: Miasma
   id: 61596963
   element: shadow
@@ -2004,7 +1966,6 @@
     scene: 0
     broadcast: descendant familiar-wrangler
   cat: [lore]
-# Badru?
 - nm: Axius
   id: 65038218
   element: plague
@@ -2040,7 +2001,7 @@
     vista: 0
     scene: 0
   cat: [lore]
-# Wian
+# LethalTriplicate
 - nm: Zachariah
   id: 73694266
   element: plague
@@ -2111,7 +2072,6 @@
     scene: 0
     broadcast: Patron Saint of Stolen Presidential Shoelaces
   cat: [other]
-# 2022 starts here, only noting those hibernating as of 8/26 for now
 - nm: Asclepius
   id: 74944146
   element: shadow
@@ -2220,7 +2180,6 @@
     scene: 0
     broadcast: oops
   cat: [lore,other]
-# Scarecrow?
 - nm: Dmitri
   id: 74621025
   element: arcane
@@ -2258,4 +2217,14 @@
     scene: 1
     broadcast: bygone daydreams
   cat: [lore,other]
-# Novak, Lithophone, Layes, Evergreen, Art, Min, Scylla, Ascher, Bokeh, Singluarity, ++
+# Novak
+# Lithophone
+# Layes
+# Evergreen
+# Art
+# Min
+# Scylla
+# Ascher
+# Bokeh
+# HaloPhenomenon
+# Alcho

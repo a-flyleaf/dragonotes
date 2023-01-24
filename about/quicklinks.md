@@ -93,8 +93,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>23</td><td>[daevauscale]</td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="19">2020</td><td rowspan="4">01</td><td>02</td><td><s>Chromatic</s></td></tr>
-		<tr><td>07</td><td><s>!Burin</s></td></tr>
+		<tr><td rowspan="18">2020</td><td rowspan="3">01</td><td>07</td><td><s>!Burin</s></td></tr>
 		<tr><td>12</td><td><s>Spectral</s></td></tr>
 		<tr><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
