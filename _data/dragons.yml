@@ -1528,41 +1528,6 @@
     scene: 1
     broadcast: dedicated glassworker
   cat: [lore]
-- nm: Spectral
-  id: 58303558
-  element: lightning
-  sex: m
-  breed: banescale
-  msr:
-    length: 7.68
-    wings: 7.42
-    weight: 792.92
-  genes:
-    pri:
-      num: 169
-      clr: magenta
-      gn: chevron
-    sec:
-      num: 169
-      clr: magenta
-      gn: arrow
-    tert:
-      num: 66
-      clr: cyan
-      gn: squiggle
-    eye: rare
-  dates:
-    hatch: 2020-01-07
-    obtain: 2020-01-12
-    hibern: 2022-01-12
-  has:
-    familiar: Plague Sprite
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 1
-    scene: 1
-  cat: [other]
 - nm: Falsework
   id: 58430435
   element: lightning
@@ -2325,8 +2290,6 @@
     scene: 0
   cat: [lore]
 # Evergreen
-# Art?
-# Min?
 - nm: Scylla
   id: 78166107
   element: earth
@@ -2441,7 +2404,6 @@
     scene: 0
     broadcast: "Why’s ya tail all in a twist?"
   cat: [lore]
-# HaloPhenomenon?
 - nm: Alcho
   id: 81288642
   element: plague

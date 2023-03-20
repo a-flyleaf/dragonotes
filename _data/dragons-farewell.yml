@@ -35,3 +35,39 @@
     vista: 0
     scene: 0
   cat: [baneclan]
+- nm: Spectral
+  id: 58303558
+  element: lightning
+  sex: m
+  breed: banescale
+  msr:
+    length: 7.68
+    wings: 7.42
+    weight: 792.92
+  genes:
+    pri:
+      num: 169
+      clr: magenta
+      gn: chevron
+    sec:
+      num: 169
+      clr: magenta
+      gn: arrow
+    tert:
+      num: 66
+      clr: cyan
+      gn: squiggle
+    eye: rare
+  dates:
+    hatch: 2020-01-07
+    obtain: 2020-01-12
+    hibern: 2022-01-12
+    hibern: 2023-03-18
+  has:
+    familiar: Plague Sprite
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 1
+  cat: [other]
