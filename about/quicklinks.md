@@ -119,7 +119,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="5">03</td><td>03</td><td>[sonabog]</td></tr>
 		<tr><td>07</td><td><s>Dmitri</s></td></tr>
 		<tr><td>10</td><td><s>Novak</s></td></tr>
-		<tr><td>22</td><td>Lithophone</td></tr>
+		<tr><td>22</td><td>LithophoneElegy</td></tr>
 		<tr><td>27</td><td><s>Layes</s></td></tr>
 		<tr><td>04</td><td>24</td><td>Evergreen/ChoiceParalysis</td></tr>
 		<tr><td>05</td><td>18</td><td><s>Scylla</s></td></tr>
