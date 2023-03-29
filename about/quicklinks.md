@@ -127,6 +127,8 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>07</td><td>07</td><td><s>Bokeh</s></td></tr>
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
+	</tbody><tbody>
+		<tr><td>2023</td><td>03</td><td>22</td><td>XxCaptnPlasmatog, Festive</td></tr>
 	</tbody>
 </table>
 
