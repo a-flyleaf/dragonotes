@@ -723,74 +723,6 @@
     scene: 0
     broadcast: "[TBA] first prize dragon"
   cat: [lore]
-- nm: Azrael
-  id: 35545223
-  element: plague
-  sex: m
-  breed: mirror
-  msr:
-    length: 5.02
-    wings: 5.74
-    weight: 599.52
-  genes:
-    pri:
-      num: 15
-      clr: shale
-      gn: ripple
-    sec:
-      num: 22
-      clr: eldritch
-      gn: current
-    tert:
-      num: 156
-      clr: sanguine
-      gn: crackle
-  dates:
-    hatch: 2017-08-30
-    hibern: 2019-12-23
-  has:
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-    broadcast: "[TBA] former fodder breeder"
-  cat: [other]
-- nm: Zara
-  id: 35545221
-  element: plague
-  sex: f
-  breed: guardian
-  msr:
-    length: 18.77
-    wings: 13.85
-    weight: 6475.74
-  genes:
-    pri:
-      num: 81
-      clr: hunter
-      gn: poison
-    sec:
-      num: 95
-      clr: chartreuse
-      gn: toxin
-    tert:
-      num: 6
-      clr: ice
-      gn: thylacine
-  dates:
-    hatch: 2017-08-30
-    hibern: 2019-12-23
-  has:
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-    broadcast: "[TBA] former fodder breeder"
-  cat: [other]
 - nm: Kieran
   id: 35267877
   element: wind
@@ -1785,41 +1717,6 @@
     vista: 1
     scene: 0
     broadcast: quiet spirit-speaker
-  cat: [lore]
-- nm: Astraeus
-  id: 66648176
-  element: plague
-  sex: m
-  breed: imperial
-  lvl: 8
-  msr:
-    length: 31.62
-    wings: 15.86
-    weight: 5978.65
-  genes:
-    pri:
-      num: 50
-      clr: blue
-      gn: starmap
-    sec:
-      num: 46
-      clr: sapphire
-      gn: bee
-    tert:
-      num: 54
-      clr: cornflower
-      gn: crackle
-  dates:
-    hatch: 2021-01-15
-    obtain: 2021-01-21
-    hibern: 2022-08-17
-  has:
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 0
   cat: [lore]
 - nm: Seafoam
   id: 70078241
