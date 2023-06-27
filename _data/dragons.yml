@@ -1245,41 +1245,6 @@
     vista: 0
     scene: 0
   cat: [baneclan]
-- nm: Trill
-  id: 57625604
-  element: earth
-  sex: m
-  breed: banescale
-  gen: 1
-  lvl: 25
-  msr:
-    length: 7.7
-    wings: 8.29
-    weight: 487.88
-  genes:
-    pri:
-      num: 175
-      clr: bubblegum
-      gn: chevron
-    sec:
-      num: 147
-      clr: auburn
-      gn: toxin
-    tert:
-      num: 6
-      clr: ice
-      gn: squiggle
-    eye: uncommon
-  dates:
-    hatch: 2019-12-15
-    obtain: 2019-12-16
-    hibern: 2021-06-17
-  has:
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [baneclan]
 - nm: Glissando
   id: 57589801
   element: water

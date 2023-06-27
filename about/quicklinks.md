@@ -19,7 +19,8 @@ miscellaneous stuff for my own reference
 
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
-- post tracking: [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) \| [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent)
+- post tracking: [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent) \| [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&forum=&when=0&sort=recent)
+- [incomplete achievements](https://www1.flightrising.com/game-database/achievements?display_type=not_completed)
 
 ## gathering
 
@@ -27,7 +28,8 @@ literally just that gosh dang <b>hippojay</b> (fishing in earth/ice/light/nature
 
 ## coli fams
 
-bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
+bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss  
+[THIS IS PROBABLY OUTDATED]
 
 ~~Training Fields~~ | <s>✓</s>
 Woodland Path | <b>Aurelian Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Spongy Spingy, Flying Fawn</b>
@@ -81,15 +83,14 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>16</td><td><s>Midst</s></td></tr>
 		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="10">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
+		<tr><td rowspan="9">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td rowspan="2">11</td><td>08</td><td><s>Iko</s></td></tr>
 		<tr><td>25</td><td><s>Crake</s></td></tr>
-		<tr><td rowspan="6">12</td><td>09</td><td><s>Andante, Vivace, Hestia</s></td></tr>
+		<tr><td rowspan="5">12</td><td>09</td><td><s>Andante, Vivace, Hestia</s></td></tr>
 		<tr><td>11</td><td><s>Holly, !Sempre</s></td></tr>
-		<tr><td>16</td><td><s>Trill, Glissando, Contralto</s></td></tr>
+		<tr><td>16</td><td><s>Glissando, Contralto</s></td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
-		<tr><td>23</td><td>[daevauscale]</td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="17">2020</td><td rowspan="2">01</td><td>07</td><td><s>!Burin</s></td></tr>
@@ -113,11 +114,10 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="14">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
+		<tr><td rowspan="13">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
 		<tr><td>02</td><td>21</td><td><s>!Fred</s></td></tr>
-		<tr><td rowspan="5">03</td><td>03</td><td>[sonabog]</td></tr>
-		<tr><td>07</td><td><s>Dmitri</s></td></tr>
+		<tr><td rowspan="4">03</td><td>07</td><td><s>Dmitri</s></td></tr>
 		<tr><td>10</td><td><s>Novak</s></td></tr>
 		<tr><td>22</td><td>LithophoneElegy</td></tr>
 		<tr><td>27</td><td><s>Layes</s></td></tr>
@@ -128,7 +128,8 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
-		<tr><td>2023</td><td>03</td><td>22</td><td>XxCaptnPlasmatog, Festive</td></tr>
+		<tr><td rowspan="2">2023</td><td>03</td><td>22</td><td>XxCaptnPlasmatog, Festive</td></tr>
+		<tr><td>05</td><td>18</td><td>TtrboneTchotchke</td></tr>
 	</tbody>
 </table>
 
