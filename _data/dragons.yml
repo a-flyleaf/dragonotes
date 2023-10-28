@@ -1029,42 +1029,6 @@
     vista: 0
     scene: 0
   cat: [other]
-- nm: Crake
-  id: 56667516
-  element: arcane
-  sex: m
-  breed: skydancer
-  msr:
-    length: 4.85
-    wings: 3.68
-    weight: 789.99
-  genes:
-    pri:
-      num: 169
-      clr: magenta
-      gn: speckle
-    sec:
-      num: 156
-      clr: sanguine
-      gn: freckle
-    tert:
-      num: 157
-      clr: blood
-      gn: crackle
-    eye: faceted
-  dates:
-    hatch: 2019-11-09
-    obtain: 2019-11-25
-    hibern: 2021-01-21
-  has:
-    familiar: Shale Thresher
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 0
-  cat: [lore,other]
 - nm: Andante
   id: 57362847
   element: shadow
@@ -1210,41 +1174,6 @@
     vista: 0
     scene: 1
   cat: [lore]
-- nm: Sempre
-  id: 3474932
-  element: plague
-  sex: f
-  breed: banescale
-  gen: 1
-  lvl: 25
-  msr:
-    length: 7.78
-    wings: 4.65
-    weight: 806.6
-  genes:
-    pri:
-      num: 58
-      clr: steel
-      gn: ragged
-    sec:
-      num: 169
-      clr: magenta
-      gn: arrow
-    tert:
-      num: 158
-      clr: maroon
-      gn: crackle
-    eye: dark sclera
-  dates:
-    hatch: 2014-05-14
-    obtain: <2018-04-22
-    hibern: 2021-01-22
-  has:
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [baneclan]
 - nm: Glissando
   id: 57589801
   element: water
