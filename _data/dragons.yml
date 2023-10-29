@@ -686,7 +686,6 @@
     vista: 0
     scene: 0
   cat: [lore,other]
-  # idk how to categorize this one, if I like the water ancient she's getting a breed change but that's so far off....
 - nm: Eavn
   id: 31950543
   element: plague
@@ -1063,7 +1062,7 @@
     art: 1
     vista: 0
     scene: 0
-  cat: [baneclan]
+  cat: [lore,baneclan]
 - nm: Vivace
   id: 57362941
   element: nature
@@ -1097,7 +1096,7 @@
     art: 0
     vista: 0
     scene: 0
-  cat: [baneclan]
+  cat: [lore,baneclan]
 - nm: Hestia
   id: 46487059
   element: fire
@@ -1208,7 +1207,7 @@
     art: 0
     vista: 0
     scene: 0
-  cat: [baneclan]
+  cat: [lore,baneclan]
 - nm: Contralto
   id: 57364249
   element: fire
@@ -1242,7 +1241,7 @@
     art: 0
     vista: 0
     scene: 0
-  cat: [baneclan]
+  cat: [lore,baneclan]
 - nm: Jester
   id: 57606297
   element: shadow
@@ -1280,7 +1279,6 @@
     scene: 0
     broadcast: conspicuous “healer”
   cat: [lore]
-# daevausbane
 - nm: Cygnus
   id: 57992771
   element: fire
@@ -1423,7 +1421,7 @@
     art: 1
     vista: 0
     scene: 0
-  cat: [baneclan]
+  cat: [lore,baneclan]
 # Katsura
 # andante2
 - nm: MiamiTriggerfish
@@ -1639,7 +1637,6 @@
     obtain: 2021-06-17
     hibern: 2022-11-30
   has:
-    familiar: ALL OPTIONAL, just for my own ref. fam is a string
     apparel: these are all "booleans"; 0/1/"~" (outdated)
     accent: 0
     bio: 0
@@ -2043,7 +2040,41 @@
     vista: 0
     scene: 0
   cat: [lore]
-# Lithophone?
+- nm: LithophoneElegy
+  id: 76638816
+  element: plague
+  sex: m
+  breed: veilspun
+  lvl: 15
+  msr:
+    length: 0.41
+    wings: 0.92
+    weight: 1.18
+  genes:
+    pri:
+      num: 60
+      clr: abyss
+      gn: shell
+    sec:
+      num: 59
+      clr: denim
+      gn: web
+    tert:
+      num: 159
+      clr: berry
+      gn: thorns
+  dates:
+    hatch: 2022-03-18
+    hibern: 2023-10-28
+  has:
+    apparel: 0
+    accent: 1
+    bio: 0
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] ’locke survivor"
+  cat: [lore]
 - nm: Layes
   id: 68935037
   element: earth
@@ -2114,7 +2145,6 @@
     hatch: 2022-05-18
     hibern: 2023-01-22
   has:
-    familiar: 0
     apparel: 1
     accent: 1
     bio: "~"
@@ -2150,7 +2180,6 @@
     hatch: 2022-06-05
     hibern: 2023-01-22
   has:
-    familiar: 0
     accent: 1
     bio: "~"
     art: 1
@@ -2186,7 +2215,6 @@
     obtain: 2022-07-07
     hibern: 2023-01-22
   has:
-    familiar: 0
     apparel: 1
     accent: 0
     bio: "~"
@@ -2222,11 +2250,75 @@
     hatch: 2022-10-07
     hibern: 2022-12-22
   has:
-    familiar: 0
-    apparel: 1
+    apparel: 1f
     accent: 0
     bio: "~"
     art: 0
     vista: 0
     scene: 0
+  cat: [lore]
+# XxCaptnPlasmatog
+- nm: FestiveFervor
+  id: 84959048
+  element: lightning
+  sex: m
+  breed: aether
+  gen: 1
+  msr:
+    length: 4.14
+    wings: 5.5
+    weight: 739.83
+  genes:
+    pri:
+      num: 78
+      clr: emerald
+      gn: cinder
+    sec:
+      num: 160
+      clr: red
+      gn: blaze
+    tert:
+      num: 5
+      clr: moon
+      gn: sparkle
+    eye: swirl
+  dates:
+    hatch: 2023-03-22
+    hibern: 2023-10-28
+  has:
+    scene: 1
+    broadcast: "[TBA] second aether, kinda"
+  cat: [lore]
+- nm: TtrboneTchotchke
+  id: 86260466
+  element: plague
+  sex: f
+  breed: skydancer
+  msr:
+    length: 4.1
+    wings: 3.88
+    weight: 711.73
+  genes:
+    pri:
+      num: 157
+      clr: blood
+      gn: cherub
+    sec:
+      num: 163
+      clr: carmine
+      gn: butterfly
+    tert:
+      num: 93
+      clr: honeydew
+      gn: runes
+    eye: primal
+  dates:
+    hatch: 2023-05-18
+    hibern: 2023-10-28
+  has:
+    familiar: Mossy Cerdae
+    apparel: 1
+    accent: 1
+    scene: 1
+    broadcast: "[TBA] first hatched primal"
   cat: [lore]

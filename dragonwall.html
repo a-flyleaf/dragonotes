@@ -81,7 +81,7 @@ layout: none
 <p>to avoid code redundancy, define all dragons + variables (assign, capture) <em>upfront</em></p>
 </details>
 
-<details><summary><h2>not-spreadsheet</h2></summary><table>
+<details open><summary><h2>not-spreadsheet</h2></summary><table>
 	<colgroup><!--same as below-->
 		<col span="7">
 		<col span="2" class="bg1">
@@ -173,7 +173,7 @@ layout: none
 <div class="dragobox">{%for g1 in all%}{%if g1.gen%}<a href="https://www1.flightrising.com/dragon/{{g1.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{g1.id}}_100.png" alt="{{g1.nm}}"{%if g1.age%} class="bab"{%endif%}/><figcaption>{{g1.nm}}</figcaption></figure></a>{%endif%}{%endfor%}</div>
 </details>
 
-<details open><summary><h2>Great Wall of Dragons</h2></summary>
+<details><summary><h2>Great Wall of Dragons</h2></summary>
 <div class="dragobox">{%for lzrd in all%}<a href="https://www1.flightrising.com/dragon/{{lzrd.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{lzrd.id}}_100.png" alt="{{lzrd.nm}}"{%if lzrd.age%} class="bab"{%endif%}/><figcaption>{{lzrd.nm}}</figcaption></figure></a>{%endfor%}</div>
 
 <p><b style="text-transform:uppercase;font-weight:normal;">Look at my children. All {{all.size}}* of them.</b><br/>
@@ -205,7 +205,7 @@ layout: none
 {%assign vls=all|where:"breed","veilspun"%}
 {%assign wld=all|where:"breed","wildclaw"%}
 <p>BREED COUNT: Aberration {{abr.size}} | Banescale {{bns.size}} | Bogsneak {{bog.size}} | Coatl {{ctl.size}} | Fae {{fae.size}} | Gaoler {{gao.size}} | Guardian {{gua.size}} | Imperial {{imp.size}} | Mirror {{mir.size}} | Nocturne {{noc.size}} | Obelisk {{obe.size}} | Ridgeback {{rdg.size}} | Skydancer {{skd.size}} | Spiral {{spr.size}} | Veilspun {{vls.size}} | Wildclaw {{wld.size}}<br>
-not here: Aether, Pearlcatcher, Snapper, Tundra, Undertide</p>
+not here: Aether, Pearlcatcher, Sandsurge, Snapper, Tundra, Undertide</p>
 
 <h3>by color</h3>{%assign clr=all|sort:"genes.pri.num"%}
 <p>(primary, automatic)</p>
