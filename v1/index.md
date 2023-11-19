@@ -12,14 +12,14 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 
 ## sitemap/to-do
 
-- [ ] [About]({%include url.html%}/about)
+- [ ] [About]({%include url.html%}/v1/about)
 	- [x] bio (about me, about site)
 	- [ ] art
 		- [ ] commission gallery (NOT HIGHRES)
 		- [ ] other FR art
 	- [x] [quicklinks]({%include url.html%}/about/quicklinks)
-	- [x] [goals]({%include url.html%}/about/goals)
-	- [x] [badges]({%include url.html%}/about/badges)
+	- [x] [goals]({%include url.html%}/v1/about/goals)
+	- [x] [badges]({%include url.html%}/v1/about/badges)
 		- [ ] merge with tracking for the Long Drop Coli Challenge & anything else?
 - [ ] Lore—<span class="sc">on hold indefinitely</span>
 	- [ ] general notes
@@ -39,15 +39,15 @@ And then, at roughly 7PM on December 9, 2019, I got the ridiculous idea to make 
 		- [ ] Flight Reaping
 		- [ ] Banesquad
 		- [ ] Hibiscus Inn
-- [ ] [Reference]({%include url.html%}/ref)
+- [ ] [Reference]({%include url.html%}/v1/ref)
 	- [ ] Exclusive items (main page for fest gear?)
-		- [x] [Festival skins]({%include url.html%}/ref/exclusive-items/festival-skins)
-		- [x] [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn) (spreadsheet)
+		- [x] [Festival skins]({%include url.html%}/v1/ref/exclusive-items/festival-skins)
+		- [x] [Night of the Nocturne]({%include url.html%}/v1/ref/exclusive-items/notn) (spreadsheet)
 		- [ ] other (FRniversary, Valentine's, seasonal, microholidays, Joxar, other cycling)
-	- [x] [Specialty items]({%include url.html%}/ref/specialty) (replaced separate subcategory pages; spreadsheet)
-	- [x] [Glossary]({%include url.html%}/ref/guides)
-	- [x] [Guides]({%include url.html%}/ref/guides)
-- [ ] [Blog]({%include url.html%}/blog)/update feed
+	- [x] [Specialty items]({%include url.html%}/v1/ref/specialty) (replaced separate subcategory pages; spreadsheet)
+	- [x] [Glossary]({%include url.html%}/v1/ref/glossary)
+	- [x] [Guides]({%include url.html%}/v1/ref/guides)
+- [ ] [Blog]({%include url.html%}/v1/blog)/update feed
 	- [ ] actually customize the layout
 	- [ ] tumblr archive (no links unless asks/reblog commentary)
 - [ ] misc tweaks (optional)

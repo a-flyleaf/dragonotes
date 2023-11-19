@@ -13,4 +13,4 @@ Lag is common on the first few days. Hang in there.
 
 ## Item Catalog
 
-[Has been moved to **a spreadsheet**!](https://docs.google.com/spreadsheets/d/10p5NiG6_1LdvtF_Dyvu4-frcKwUepDkGl46hX440vGc/edit?usp=sharing) This page will probably be repurposed eventually, to encompass information about *all* yearly events that aren't elemental festivals. For more info on the move to Google Sheets, see [the Specialty items page]({%include url.html%}/ref/specialty).
+[Has been moved to **a spreadsheet**!](https://docs.google.com/spreadsheets/d/10p5NiG6_1LdvtF_Dyvu4-frcKwUepDkGl46hX440vGc/edit?usp=sharing) This page will probably be repurposed eventually, to encompass information about *all* yearly events that aren't elemental festivals. For more info on the move to Google Sheets, see [the Specialty items page]({%include url.html%}/v1/ref/specialty).

@@ -11,6 +11,6 @@ Basically, I'm not a lawyer, I am a dragon nerd who likes coding. Please don't s
 Writing and site code are by yours truly. In addition to resources on [the colophon of my personal site](https://a-flyleaf.github.io/colophon), special shout-out to the following:
 
 - Accessible dropdown (used for "on this page" sections) by [Heydon](https://heydonworks.com), via [Expandable sections: Online Accessibility @Harvard University](https://accessibility.huit.harvard.edu/%E2%9C%8E-practice-expandable-sections).
-- The FR staff and community for making the site what it is. I can't list everyone here, but several guides I've found extremely useful are linked in the [Resources]({%include url.html%}/resources).
+- The FR staff and community for making the site what it is. I can't list everyone here, but several guides I've found extremely useful are linked in the [Resources]({%include url.html%}/v1/ref/guides).
 - *Certain people* (you know who you are) who have dubbed me "the dragon expert." I swear I'm not, but if you're gonna call me that *I'll try to live up to it, darn it.*
 - Mega Nerd™ [Rosaceae](https://flightrising.com/main.php?p=lair&tab=userpage&id=154165), for spotting a metric crudton of errors & typos and being an awesome person in general.

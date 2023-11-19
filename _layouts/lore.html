@@ -9,7 +9,7 @@
 </head>
 
 <body><div id="wrap">
-	<header class="mid"><a href="{%include url.html%}/lore" id="title">dragonotes Lorebook</a><nav id="lorenav"><ul><a href="#skip" class="x">Skip to content</a><li><a href="{{site.url}}/lore/world">Worldbuilding</a><ul><li>Sornieth</li><li>Dragons</li></ul></li><li><a href="{{site.url}}/lore/clans">Personal lore</a><ul><li>by chronology</li><li>by clan</li></ul></li></ul></nav></header>
+	<header class="mid"><a href="{%include url.html%}/v1/lore" id="title">dragonotes Lorebook</a><nav id="lorenav"><ul><a href="#skip" class="x">Skip to content</a><li><a href="{{site.url}}/v1/lore/world">Worldbuilding</a><ul><li>Sornieth</li><li>Dragons</li></ul></li><li><a href="{{site.url}}/v1/lore/clans">Personal lore</a><ul><li>by chronology</li><li>by clan</li></ul></li></ul></nav></header>
 	<main id="skip" class="mid"><h1>{{page.title}}</h1>{{content}}
 	</main>
 	<footer><sub>
@@ -18,20 +18,5 @@
 		<p><span><a href="https://flightrising.com">Flight Rising</a> and all related content ©2013–2020 Stormlight Workshop, LLC.</span> <span>Site base code, writing, and (unless otherwise noted) art ©2020 <a href="https://a-flyleaf.github.io" target="_blank">a-flyleaf</a> (<a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor</a>).</span>
 	</sub></footer>
 </div>
-<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
-<script>
-/*!
-  jQuery a11yExpandable plugin
-  @name jquery.a11yExpandable.js
-  @author Heydon (heydon@heydonworks.com or @heydonworks)
-  @version 1.0
-  @date 01/01/2013
-  @category jQuery Plugin
-  @copyright (c) 2015 (Heydon Pickering)
-  @license Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
-*/
-
-(function($){$.fn.a11yExpandable=function(){return this.each(function(){var elem=$(this);var plugin=this;elem.attr({'aria-expanded':'false','aria-controls':elem.attr('data-expandable')});var expandable=$('#'+elem.attr('data-expandable')).attr({'aria-hidden':'true','class':'expandable'});elem.on('click',function(){var expanded=$(this).attr('aria-expanded')==='false'?false:true;elem.attr('aria-expanded',!expanded);expandable.attr('aria-hidden',expanded)})})}}(jQuery));$('[data-expandable]').a11yExpandable();
-</script>
 </body>
 </html>

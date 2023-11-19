@@ -15,7 +15,7 @@ TBA. /chronology is a timeline when I got (or started keeping) each dragon; /cla
 
 This duo, known also as “my two types of brain cells,” are dragons who basically exist to represent me, Archaeoraptor, the person behind the ~~curtain~~ entire webpage you’re looking at.
 
-- <span id="avi"><b>Avi T. Raptor</b></span> (“avatar” + “raptor”) is a self-proclaimed <i>dracologist</i>, which is like anthropology but for dragons. Although not usually a talkative dragon, Avi enjoys rambling about her documentation, which centers on [a select few clans](/lore/clans/by-clan) and related travelers.
+- <span id="avi"><b>Avi T. Raptor</b></span> (“avatar” + “raptor”) is a self-proclaimed <i>dracologist</i>, which is like anthropology but for dragons. Although not usually a talkative dragon, Avi enjoys rambling about her documentation, which centers on <!--[-->a select few clans<!--](/lore/clans/by-clan)--> and related travelers.
 
 	Some find Avi’s “outsider looking in” attitude perturbing; one dragon’s meta-awareness is another’s sign of madness. Avi thinks this is laughable, because narrators don’t care what lore dragons think is impossible.
 

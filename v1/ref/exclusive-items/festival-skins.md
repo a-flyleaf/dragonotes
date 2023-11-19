@@ -3,7 +3,7 @@ layout: default
 title: Festival Skins
 class: fest
 ---
-The festival cycle begins with Brightshine Jubilee (Light) in **June**, and ends with Greenskeeper Gathering (Nature) in **May**. [Night of the Nocturne]({%include url.html%}/ref/exclusive-items/notn) is a thing in December.
+The festival cycle begins with Brightshine Jubilee (Light) in **June**, and ends with Greenskeeper Gathering (Nature) in **May**. [Night of the Nocturne]({%include url.html%}/v1/ref/exclusive-items/notn) is a thing in December.
 
 Follows the same order as IDs; some of the onsite descriptions are out of order.
 
