@@ -28,3 +28,12 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 - 8/18 + 24--26 dragon data experimentation
 - 9/27 new theme, new changelog (you are here), backend v1 reshuffling
 - 10/3 layout tweaks: scrapped the sidebar, post feed; new about
+
+## 2023
+- 3/29 new goals
+- 6/27 great wall of dragons
+- 11/19
+	- new base dragon profile page (HTML/Jekyll template only)
+	- fixed broken v1 links
+	- remembered to update this page (haven't touched it since 10/3 last year) whoops
+	- a bunch of other behind-the-scenes stuff probably happened between then and now but, again, forgot to note
