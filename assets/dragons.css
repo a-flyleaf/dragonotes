@@ -1,0 +1,18 @@
+/*general defaults*/
+*{margin:0; padding:0; box-sizing:border-box; font-size:100%; word-wrap:break-word;}
+body{overflow-x:hidden; padding:1rem; font-family:verdana,sans-serif; line-height:1.45; font-size:.85em;}
+img{max-width:100%; height:auto;}
+header,main,aside,footer{display:block;}
+summary{cursor:pointer;}
+.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+
+::selection{background:#bab39c; background:rgba(186,179,156,.5);}
+a{color:#b0734f; text-decoration:none;} a:hover,a:active,a:focus,summary:hover,summary:active,summary:focus{text-decoration:underline; text-underline-offset:.15em; text-decoration-thickness:1px;}
+small{font-size:.85em;}
+
+#drg-img{height:521px;}
+#scene{position:absolute; width:100%; max-width:1023px; height:521px; z-index:-1; opacity:.4; background-position:center;}
+
+#drg-av{text-align:center; max-width:144px;}
+#drg-av img{background:#fff; border:1px solid;}
+.vista{height:220px; padding-top:20px;} .vista img{max-width:60px;}

@@ -1,354 +1,354 @@
-- nm: Maize
+- nm: maize
   id: 1
-- nm: Cream
+- nm: cream
   id: 2
-- nm: Antique
+- nm: antique
   id: 3
-- nm: White
+- nm: white
   id: 4
-- nm: Moon
+- nm: moon
   id: 5
-- nm: Ice
+- nm: ice
   id: 6
-- nm: Orca
+- nm: orca
   id: 7
-- nm: Platinum
+- nm: platinum
   id: 8
-- nm: Silver
+- nm: silver
   id: 9
-- nm: Dust
+- nm: dust
   id: 10
-- nm: Grey
+- nm: grey
   id: 11
-- nm: Smoke
+- nm: smoke
   id: 12
-- nm: Gloom
+- nm: gloom
   id: 13
-- nm: Lead
+- nm: lead
   id: 14
-- nm: Shale
+- nm: shale
   id: 15
-- nm: Flint
+- nm: flint
   id: 16
-- nm: Charcoal
+- nm: charcoal
   id: 17
-- nm: Coal
+- nm: coal
   id: 18
-- nm: Oilslick
+- nm: oilslick
   id: 19
-- nm: Black
+- nm: black
   id: 20
-- nm: Obsidian
+- nm: obsidian
   id: 21
-- nm: Eldritch
+- nm: eldritch
   id: 22
-- nm: Midnight
+- nm: midnight
   id: 23
-- nm: Shadow
+- nm: shadow
   id: 24
-- nm: Blackberry
+- nm: blackberry
   id: 25
-- nm: Mulberry
+- nm: mulberry
   id: 26
-- nm: Plum
+- nm: plum
   id: 27
-- nm: Wisteria
+- nm: wisteria
   id: 28
-- nm: Thistle
+- nm: thistle
   id: 29
-- nm: Fog
+- nm: fog
   id: 30
-- nm: Mist
+- nm: mist
   id: 31
-- nm: Lavender
+- nm: lavender
   id: 32
-- nm: Heather
+- nm: heather
   id: 33
-- nm: Purple
+- nm: purple
   id: 34
-- nm: Orchid
+- nm: orchid
   id: 35
-- nm: Amethyst
+- nm: amethyst
   id: 36
-- nm: Nightshade
+- nm: nightshade
   id: 37
-- nm: Violet
+- nm: violet
   id: 38
-- nm: Grape
+- nm: grape
   id: 39
-- nm: Royal
+- nm: royal
   id: 40
-- nm: Eggplant
+- nm: eggplant
   id: 41
-- nm: Iris
+- nm: iris
   id: 42
-- nm: Storm
+- nm: storm
   id: 43
-- nm: Twilight
+- nm: twilight
   id: 44
-- nm: Indigo
+- nm: indigo
   id: 45
-- nm: Sapphire
+- nm: sapphire
   id: 46
-- nm: Navy
+- nm: navy
   id: 47
-- nm: Cobalt
+- nm: cobalt
   id: 48
-- nm: Ultramarine
+- nm: ultramarine
   id: 49
-- nm: Blue
+- nm: blue
   id: 50
-- nm: Periwinkle
+- nm: periwinkle
   id: 51
-- nm: Lapis
+- nm: lapis
   id: 52
-- nm: Splash
+- nm: splash
   id: 53
-- nm: Cornflower
+- nm: cornflower
   id: 54
-- nm: Sky
+- nm: sky
   id: 55
-- nm: Stonewash
+- nm: stonewash
   id: 56
-- nm: Overcast
+- nm: overcast
   id: 57
-- nm: Steel
+- nm: steel
   id: 58
-- nm: Denim
+- nm: denim
   id: 59
-- nm: Abyss
+- nm: abyss
   id: 60
-- nm: Phthalo
+- nm: phthalo
   id: 61
-- nm: Azure
+- nm: azure
   id: 62
-- nm: Caribbean
+- nm: caribbean
   id: 63
-- nm: Teal
+- nm: teal
   id: 64
-- nm: Cerulean
+- nm: cerulean
   id: 65
-- nm: Cyan
+- nm: cyan
   id: 66
-- nm: Robin
+- nm: robin
   id: 67
-- nm: Aqua
+- nm: aqua
   id: 68
-- nm: Turquoise
+- nm: turquoise
   id: 69
-- nm: Spruce
+- nm: spruce
   id: 70
-- nm: Pistachio
+- nm: pistachio
   id: 71
-- nm: Seafoam
+- nm: seafoam
   id: 72
-- nm: Mint
+- nm: mint
   id: 73
-- nm: Jade
+- nm: jade
   id: 74
-- nm: Spearmint
+- nm: spearmint
   id: 75
-- nm: Thicket
+- nm: thicket
   id: 76
-- nm: Peacock
+- nm: peacock
   id: 77
-- nm: Emerald
+- nm: emerald
   id: 78
-- nm: Shamrock
+- nm: shamrock
   id: 79
-- nm: Jungle
+- nm: jungle
   id: 80
-- nm: Hunter
+- nm: hunter
   id: 81
-- nm: Forest
+- nm: forest
   id: 82
-- nm: Camo
+- nm: camo
   id: 83
-- nm: Algae
+- nm: algae
   id: 84
-- nm: Swamp
+- nm: swamp
   id: 85
-- nm: Avocado
+- nm: avocado
   id: 86
-- nm: Green
+- nm: green
   id: 87
-- nm: Fern
+- nm: fern
   id: 88
-- nm: Mantis
+- nm: mantis
   id: 89
-- nm: Pear
+- nm: pear
   id: 90
-- nm: Leaf
+- nm: leaf
   id: 91
-- nm: Radioactive
+- nm: radioactive
   id: 92
-- nm: Honeydew
+- nm: honeydew
   id: 93
-- nm: Peridot
+- nm: peridot
   id: 94
-- nm: Chartreuse
+- nm: chartreuse
   id: 95
-- nm: Spring
+- nm: spring
   id: 96
-- nm: Crocodile
+- nm: crocodile
   id: 97
-- nm: Olive
+- nm: olive
   id: 98
-- nm: Murk
+- nm: murk
   id: 99
-- nm: Moss
+- nm: moss
   id: 100
-- nm: Goldenrod
+- nm: goldenrod
   id: 101
-- nm: Amber
+- nm: amber
   id: 102
-- nm: Honey
+- nm: honey
   id: 103
-- nm: Lemon
+- nm: lemon
   id: 104
-- nm: Yellow
+- nm: yellow
   id: 105
-- nm: Grapefruit
+- nm: grapefruit
   id: 106
-- nm: Banana
+- nm: banana
   id: 107
-- nm: Sanddollar
+- nm: sanddollar
   id: 108
-- nm: Flaxen
+- nm: flaxen
   id: 109
-- nm: Ivory
+- nm: ivory
   id: 110
-- nm: Buttercup
+- nm: buttercup
   id: 111
-- nm: Gold
+- nm: gold
   id: 112
-- nm: Metals
+- nm: metals
   id: 113
-- nm: Marigold
+- nm: marigold
   id: 114
-- nm: Sunshine
+- nm: sunshine
   id: 115
-- nm: Saffron
+- nm: saffron
   id: 116
-- nm: Sunset
+- nm: sunset
   id: 117
-- nm: Peach
+- nm: peach
   id: 118
-- nm: Cantaloupe
+- nm: cantaloupe
   id: 119
-- nm: Orange
+- nm: orange
   id: 120
-- nm: Bronze
+- nm: bronze
   id: 121
-- nm: Terracotta
+- nm: terracotta
   id: 122
-- nm: Carrot
+- nm: carrot
   id: 123
-- nm: Fire
+- nm: fire
   id: 124
-- nm: Pumpkin
+- nm: pumpkin
   id: 125
-- nm: Tangerine
+- nm: tangerine
   id: 126
-- nm: Cinnamon
+- nm: cinnamon
   id: 127
-- nm: Caramel
+- nm: caramel
   id: 128
-- nm: Sand
+- nm: sand
   id: 129
-- nm: Tan
+- nm: tan
   id: 130
-- nm: Beige
+- nm: beige
   id: 131
-- nm: Stone
+- nm: stone
   id: 132
-- nm: Taupe
+- nm: taupe
   id: 133
-- nm: Slate
+- nm: slate
   id: 134
-- nm: Driftwood
+- nm: driftwood
   id: 135
-- nm: Latte
+- nm: latte
   id: 136
-- nm: Dirt
+- nm: dirt
   id: 137
-- nm: Clay
+- nm: clay
   id: 138
-- nm: Sable
+- nm: sable
   id: 139
-- nm: Umber
+- nm: umber
   id: 140
-- nm: Soil
+- nm: soil
   id: 141
-- nm: Hickory
+- nm: hickory
   id: 142
-- nm: Tarnish
+- nm: tarnish
   id: 143
-- nm: Ginger
+- nm: ginger
   id: 144
-- nm: Brown
+- nm: brown
   id: 145
-- nm: Chocolate
+- nm: chocolate
   id: 146
-- nm: Auburn
+- nm: auburn
   id: 147
-- nm: Copper
+- nm: copper
   id: 148
-- nm: Rust
+- nm: rust
   id: 149
-- nm: Tomato
+- nm: tomato
   id: 150
-- nm: Vermilion
+- nm: vermilion
   id: 151
-- nm: Ruby
+- nm: ruby
   id: 152
-- nm: Cherry
+- nm: cherry
   id: 153
-- nm: Crimson
+- nm: crimson
   id: 154
-- nm: Garnet
+- nm: garnet
   id: 155
-- nm: Sanguine
+- nm: sanguine
   id: 156
-- nm: Blood
+- nm: blood
   id: 157
-- nm: Maroon
+- nm: maroon
   id: 158
-- nm: Berry
+- nm: berry
   id: 159
-- nm: Red
+- nm: red
   id: 160
-- nm: Strawberry
+- nm: strawberry
   id: 161
-- nm: Cerise
+- nm: cerise
   id: 162
-- nm: Carmine
+- nm: carmine
   id: 163
-- nm: Brick
+- nm: brick
   id: 164
-- nm: Coral
+- nm: coral
   id: 165
-- nm: Blush
+- nm: blush
   id: 166
-- nm: Cottoncandy
+- nm: cottoncandy
   id: 167
-- nm: Watermelon
+- nm: watermelon
   id: 168
-- nm: Magenta
+- nm: magenta
   id: 169
-- nm: Fuchsia
+- nm: fuchsia
   id: 170
-- nm: Raspberry
+- nm: raspberry
   id: 171
-- nm: Wine
+- nm: wine
   id: 172
-- nm: Mauve
+- nm: mauve
   id: 173
-- nm: Pink
+- nm: pink
   id: 174
-- nm: Bubblegum
+- nm: bubblegum
   id: 175
-- nm: Rose
+- nm: rose
   id: 176
-- nm: Pearl
+- nm: pearl
   id: 177

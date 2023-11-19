@@ -2,6 +2,7 @@
 # names (dragon, familiar, venues) capitalized, else lowercase (use CSS)
 - nm: Maelstrom
   id: 12116084
+  broadcast: custom progen
   element: plague
   sex: m
   breed: mirror
@@ -18,30 +19,19 @@
     weight: 622.32
   genes:
     pri:
-      num: 29
       clr: thistle
       gn: cherub
     sec:
-      num: 24
       clr: shadow
       gn: spinner
     tert:
-      num: 146
       clr: chocolate
       gn: basic
   dates:
     hatch: 2015-04-08
     hibern: 2019-03-13
-  has:
-    familiar: Shattered Serpent
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 1
-    scene: 1
-    broadcast: custom progen
-  cat: [lore]
+  cat: [lore,virevo]
+
 - nm: Lapilli
   id: 12116085
   element: plague
