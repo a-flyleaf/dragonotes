@@ -2322,3 +2322,35 @@
     scene: 1
     broadcast: "[TBA] first hatched primal"
   cat: [lore]
+- nm: Marlowe
+  id: 74499684
+  element: plague
+  sex: m
+  breed: skydancer
+  gen: 1
+  msr:
+    length: 4.6
+    wings: 7.28
+    weight: 369.41
+  genes:
+    pri:
+      num: 104
+      clr: lemon
+      gn: lionfish
+    sec:
+      num: 67
+      clr: robin
+      gn: basic
+    tert:
+      num: 52
+      clr: lapis
+      gn: crackle
+  dates:
+    hatch: 2021-12-22
+    obtain: 2023-06-28
+    hibern: 2023-11-17
+  has:
+    apparel: 1
+    accent: 1
+    scene: 1
+  cat: [lore,other]
