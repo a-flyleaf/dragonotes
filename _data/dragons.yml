@@ -31,6 +31,8 @@
     hibern: 2019-03-13
   cat: [lore,virevo]
 
+# new pages left off here
+
 - nm: Lapilli
   id: 12116085
   element: plague
@@ -1737,7 +1739,7 @@
     apparel: 1
     accent: 0
     bio: "~"
-    art: 0
+    art: 1
     vista: 0
     scene: 0
     broadcast: descendant familiar-wrangler
@@ -1843,7 +1845,7 @@
   has:
     familiar: Opposing Forces
     bio: "~?"
-    art: 0
+    art: 1
     vista: 0
     scene: 0
     broadcast: Patron Saint of Stolen Presidential Shoelaces
