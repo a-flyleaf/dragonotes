@@ -6,118 +6,135 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<title>dragonotes | {{page.name}}</title>
-		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/dragons.css"/><link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colors.css"/>
+		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/dragons.css"/><link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colors.css"/>{%if page.css%}<style>{{page.css}}</style>{%endif%}
 	</head>
 	<body>
 	{%assign who = site.data.dragons | where:"nm",page.name%}
+	<div id="wrap">
 	{%for drg in who%}
-		<header id="header"><a href="{%include url.html%}">dragonotes</a></header>
+		<header id="header"><b><a href="{%include url.html%}" target="_blank">dragonotes</a></b> » <a href="{%include url.html%}/dragons">dragons</a> » {{page.name}}</header>
 		
-		<hr class="nocss">
+		<hr class="layout">
 		
 		<main id="main">
 			<header>
-				<h1>{{drg.nm}}</h1> <small id="drg-id">(#<a href="https://www1.flightrising.com/dragon/{{drg.id}}">{{drg.id}}</a>)</small>
-				{%if drg.broadcast%}<div id="broadcast">{{drg.broadcast|markdownify}}</div>{%endif%}
-				<div id="drg-img"{%if drg.has.scene%} class="scene"{%endif%}>
-					{%if drg.has.scene%}<div id="scene" style="background-image:url({%include url.html%}/assets/img/items/{{drg.has.scene}}.png);"></div>{%endif%}
-					<img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_350.png" alt="{{page.name}}">
+				<div id="info">
+					<h1><a href="https://www1.flightrising.com/dragon/{{drg.id}}">{{drg.nm}}</a></h1>
+					{%if page.broadcast%}<div id="broadcast">{{page.broadcast|markdownify}}</div>{%endif%}
+				</div>
+				<div id="drg-img">
+					<div id="scene" style="background-image:url({%include url.html%}/assets/img/{%if page.scene%}items/{{page.scene}}.png{%else%}other/scn-{{drg.element}}.jpg{%endif%});"></div>
+					<div id="img"><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_350.png" alt="{{page.name}}"></div>
 				</div>
 			</header>
 			
 			<aside>
 				<h2>stats</h2>
-				<div id="drg-av"{%if drg.has.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{drg.has.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div>
-				<a href="#content">skip stats</a>
-				<h3>dates</h3>
-				<ul>
-					<li>hatchday: {{drg.dates.hatch|date:"%B %-d, %Y"}}</li>
-					{%if drg.dates.obtain%}<li>obtained: {{drg.dates.obtain|date:"%B %-d, %Y"}}</li>{%endif%}
-					<li>hibernation: {{drg.dates.hibern|date:"%B %-d, %Y"}}</li>
-				</ul>
-				<h3>basics</h3>
-				<ul>	
-					<li>element: {{drg.element|capitalize}}</li>
-					<li>breed: {{drg.breed|capitalize}}</li>
-					<li>generation: {%if drg.gen%}1{%else%}2+{%endif%}{%if drg.nm=='Maelstrom' or drg.nm=='Lapilli'%} <small>({%if drg.nm=='Maelstrom'%}custom{%else%}random{%endif%} progen)</small>{%endif%}</li>
-					<li>level: {%if drg.lvl%}{{drg.lvl}}{%if drg.stats%} <small><a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">({{drg.stats.bld}}</a> by <a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>)</small>{%endif%}{%else%}1{%endif%}</li>
-				</ul>
-				<h3>size</h3>
-				<ul>
-					<li>length: {{drg.msr.length}} m</li>
-					<li>wingspan: {{drg.msr.wings}} m</li>
-					<li>weight: {{drg.msr.weight}} kg</li>
-				</ul>
-				<h3>genes</h3>
-				<ul>
-				{%assign pri=site.data.colors|where:"nm",drg.genes.pri.clr%}
-				{%assign sec=site.data.colors|where:"nm",drg.genes.sec.clr%}
-				{%assign tri=site.data.colors|where:"nm",drg.genes.tert.clr%}
-					<li class="{%for clr in pri%}c{{clr.id}}{%endfor%}">primary: {{drg.genes.pri.clr|capitalize}} {{drg.genes.pri.gn|capitalize}}</li>
-					<li class="{%for clr in sec%}c{{clr.id}}{%endfor%}">secondary: {{drg.genes.sec.clr|capitalize}} {{drg.genes.sec.gn|capitalize}}</li>
-					<li class="{%for clr in tri%}c{{clr.id}}{%endfor%}">tertiary: {{drg.genes.tert.clr|capitalize}} {{drg.genes.tert.gn|capitalize}}</li>
-					<li>eye type: {%if drg.genes.eye%}{{drg.genes.eye}}{%else%}Common{%endif%}</li>
-				</ul>
-				<h3>shown with</h3>
-				{%assign acc=site.data.items|where:"id",page.accent%}
-				{%assign scn=site.data.items|where:"id",page.scene%}
-				{%assign vst=site.data.items|where:"id",page.vista%}
-				<ul>
-					{%if page.apparel%}<li>apparel:<ul>
-						{%for app in page.apparel%}<li>{%assign app-info=site.data.items|where:"nm",app%}<a href="https://www1.flightrising.com/game-database/item/{%for id in app-info%}{{id.id}}{%endfor%}">{{app}}</a></li>{%endfor%}
-					</ul></li>{%endif%}
-					{%if page.accent%}<li>accent: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
-					{%if page.scene%}<li>scene: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
-					{%if page.vista%}<li>vista: {%for item in vst%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
-				</ul>
+				<div class="box">
+					<div id="drg-av"{%if page.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{page.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div>
+					<a href="#content" class="x skip">skip to content</a>
+					<div id="flex">
+						<section>
+							<h3>dates</h3>
+							<ul>
+								<li><b>hatchday</b>: {{drg.dates.hatch|date:"%B %-d, %Y"}}</li>
+								{%if drg.dates.obtain%}<li><b>obtained</b>: {{drg.dates.obtain|date:"%B %-d, %Y"}}</li>{%endif%}
+								<li><b>hibernation</b>: {{drg.dates.hibern|date:"%B %-d, %Y"}}</li>
+							</ul>
+						</section><section>
+							<h3>basics</h3>
+							<ul>	
+								<li><b>element</b>: {{drg.element|capitalize}}</li>
+								<li><b>breed</b>: {{drg.breed|capitalize}}</li>
+								<li><b>generation</b>: {%if drg.gen%}1{%else%}2+{%endif%}{%if drg.nm=='Maelstrom' or drg.nm=='Lapilli'%} <small>({%if drg.nm=='Maelstrom'%}custom{%else%}random{%endif%} progen)</small>{%endif%}</li>
+								<li><b>level</b>: {%if drg.lvl%}{{drg.lvl}}{%if drg.stats%} <small><a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">({{drg.stats.bld}}</a> by <a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>)</small>{%endif%}{%else%}1{%endif%}</li>
+							</ul>
+						</section><section>
+							<h3>size</h3>
+							<ul>
+								<li><b>length</b>: {{drg.msr.length}} m</li>
+								<li><b>wingspan</b>: {{drg.msr.wings}} m</li>
+								<li><b>weight</b>: {{drg.msr.weight}} kg</li>
+							</ul>
+						</section><section>
+							<h3>genes</h3>
+							<ul id="genes">
+							{%assign pri=site.data.colors|where:"nm",drg.genes.pri.clr%}
+							{%assign sec=site.data.colors|where:"nm",drg.genes.sec.clr%}
+							{%assign tri=site.data.colors|where:"nm",drg.genes.tert.clr%}
+								<li class="{%for clr in pri%}c{{clr.id}}{%endfor%}"><b>primary</b>: {{drg.genes.pri.clr|capitalize}} {{drg.genes.pri.gn|capitalize}}</li>
+								<li class="{%for clr in sec%}c{{clr.id}}{%endfor%}"><b>secondary</b>: {{drg.genes.sec.clr|capitalize}} {{drg.genes.sec.gn|capitalize}}</li>
+								<li class="{%for clr in tri%}c{{clr.id}}{%endfor%}"><b>tertiary</b>: {{drg.genes.tert.clr|capitalize}} {{drg.genes.tert.gn|capitalize}}</li>
+								<li><b>eye type</b>: {%if drg.genes.eye%}{{drg.genes.eye}}{%else%}Common{%endif%}</li>
+							</ul>
+						</section><section>
+							<h3>shown with</h3>
+							{%assign acc=site.data.items|where:"id",page.accent%}
+							{%assign scn=site.data.items|where:"id",page.scene%}
+							{%assign vst=site.data.items|where:"id",page.vista%}
+							<ul>
+								{%if page.apparel%}<li><b>apparel</b>:<ul id="app">
+									{%for app in page.apparel%}<li>{%assign app-info=site.data.items|where:"nm",app%}{%for id in app-info%}<a href="https://www1.flightrising.com/game-database/item/{{id.id}}"><img src="{%include url.html%}/assets/img/items/{{id.id}}.png" alt="{{app}}"></a></li>{%endfor%}{%endfor%}
+								</ul></li>{%endif%}
+								{%if page.accent%}<li><b>accent</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
+								{%if page.scene%}<li><b>scene</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
+								{%if page.vista%}<li><b>vista</b>: {%for item in vst%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
+							</ul>
+						</section>
+					</div><!--/flex-->
+				</div><!--/box-->
 			</aside>
-			{%if page.familiar%}
+			{%if page.familiar%}<section class="box" id="fam">
 				{%assign fam=site.data.items|where:"id",page.familiar.id%}{%for fam in fam%}
 				<h2>familiar</h2>
 				<img src="{%include url.html%}/assets/img/items/{{fam.id}}.png" alt="{{fam.nm}}">
 				<b>{%if page.familiar.nm%}{{page.familiar.nm}}</b> (<a href="https://www1.flightrising.com/game-database/item/{{fam.id}}">{{fam.nm}}</a>){%else%}<i><a href="https://www1.flightrising.com/game-database/item/{{fam.id}}">{{fam.nm}}</a></i>{%endif%}</b>
 				{{page.familiar.why|markdownify}}
-			{%endfor%}{%endif%}
+			{%endfor%}</section>{%endif%}
 			
 			<main id="content">
 				<h2>info</h2>
-				{{page.content}}
+				<div class="box"><div class="pad">{{page.content}}</div></div>
 			</main>
 			
-			{%if drg.has.art%}<section id="gallery">
+			{%if page.art%}<section id="gallery">
 				<h2>gallery</h2>
 				<p><small><i>links open in new tabs</i></small></p>
-				{%for art in page.art%}<figure><a href="{%include url.html%}/assets/img/art/{{art.dt}}.png" target="_blank"><img src="{%include url.html%}/assets/img/art/{{art.dt}}.png" alt=""></a><figcaption>{%if art.link%}<a href="{{art.link}}">{%endif%}{{art.dt|date:"%B %-d, %Y"}}{%if art.link%}</a>{%endif%}<br>by {%if art.by=='Archaeoraptor'%}yours truly{%else%}{{art.by}}{%endif%}</figcaption></figure>{%endfor%}
-			</section>{%endif%}
+				<div class="box">
+				{%for art in page.art%}<figure>
+					<a href="{%include url.html%}/assets/img/art/{{art.dt}}.png" target="_blank"><img src="{%include url.html%}/assets/img/art/{{art.dt}}.png" alt=""></a>
+					<figcaption><b>{%if art.link%}<a href="{{art.link}}">{%endif%}{{art.dt|date:"%B %-d, %Y"}}{%if art.link%}</a>{%endif%}</b><br>by {%if art.by=='Archaeoraptor'%}yours truly{%else%}{{art.by}}{%endif%}</figcaption>
+				</figure>{%endfor%}
+				</div><!--/box-->
+			</section>{%endif%}<!--/gallery-->
 			
-			<footer>
-				<h2>categories</h2>
-				<details>
+			<footer id="cat">
+				<h2 class="x">categories</h2>
+				<details class="fbox">
 					<summary><h3>dragons by element</h3></summary>
-					{%for el in site.data.elements%}
+					<div class="cat-content">{%for el in site.data.elements%}
 						<h4>{{el.nm}}</h4>
 						{%assign el-nm=el.nm|downcase%}
 						{%assign ele=site.data.dragons|where:"element",el-nm%}
 						<ul>{%for drg in ele%}
-							<li>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</li>
+							<li><a href={%for drag in site.dragons%}{%if drag.name contains drg.nm%}"{%include url.html%}/dragons/{{drg.nm|downcase}}"{%else%}"https://www1.flightrising.com/dragon/{{drg.id}}" class="notyet"{%endif%}{%endfor%}>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
 						{%endfor%}</ul>
-					{%endfor%}
+					{%endfor%}</div>
 				</details>
-				<details open>
+				<details class="fbox">
 					<summary><h3>dragons by breed</h3></summary>
 					{%assign breeds=site.data.breeds|sort:'nm'%}
-					{%for br in breeds%}
+					<div class="cat-content">{%for br in breeds%}
 						<h4>{{br.nm|capitalize}}</h4>
 						{%assign bre=site.data.dragons|where:"breed",br.nm%}
-						{%if bre==empty%}[none!]{%endif%}
-						<ul>{%for drg in bre%}
-							<li>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</li>
+						<ul>{%if bre==empty%}[none!]{%endif%}{%for drg in bre%}
+							<li><a href={%for drag in site.dragons%}{%if drag.name contains drg.nm%}"{%include url.html%}/dragons/{{drg.nm|downcase}}"{%else%}"https://www1.flightrising.com/dragon/{{drg.id}}" class="notyet"{%endif%}{%endfor%}>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
 						{%endfor%}</ul>
-					{%endfor%}
+					{%endfor%}</div>
 				</details>
-				<details>
+				<details class="fbox">
 					<summary><h3>dragons by lore affiliation</h3></summary>
-					<h4>Viral Evolution</h4>
+					<div class="cat-content"><h4>Viral Evolution</h4>
 						<ul>{%for dr in site.data.dragons%}{%if dr.cat contains 'virevo'%}<li>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</li>{%endif%}{%endfor%}</ul>
 					<h4>The Inn</h4>
 						<ul>[TBA]</ul>
@@ -125,22 +142,25 @@
 						<ul>[TBA]</ul>
 					<h4>no lore</h4>
 						<ul>[TBA]</ul>
-				</details>
-				other categories: <ul>
-					{%if drg.age%}<li>permabab</li>{%endif%}
-					{%if drg.gen%}<li>generation 1</li>{%endif%}
-					{%if drg.lvl%}<li>level 25</li>{%endif%}
-					<li>{%if page.art%}has{%else%}no{%endif%} art</li>
-				</ul>
+				</div></details>
+				<div class="fbox">
+					other categories: <ul id="other">
+						{%if drg.age%}<li>permabab</li>{%endif%}
+						{%if drg.gen%}<li>generation 1</li>{%endif%}
+						{%if drg.lvl%}<li>level 25</li>{%endif%}
+						<li>{%if page.art%}has{%else%}no{%endif%} art</li>
+					</ul>
+				</div>
 			</footer>
 		</main>
 		
-		<hr class="nocss">
+		<hr class="layout">
 		
 		<footer id="footer">
 			<p><a href="https://www1.flightrising.com/">Flight&nbsp;Rising</a> and all related content ©&nbsp;2013–2023 Stormlight&nbsp;Workshop&nbsp;LLC.</p>
 			<p>dragonotes content by, unless otherwise noted, <a href="https://a-flyleaf.github.io">a-flyleaf</a> AKA <a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor#138250</a></p>
 		</footer>
 	{%endfor%}
+	</div><!--/#wrap-->
 	</body>
 </html>

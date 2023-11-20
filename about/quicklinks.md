@@ -10,8 +10,9 @@ miscellaneous stuff for my own reference
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
 	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
+	- [crane](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=crane&treasure_min=0&collapse=1) \| [frog](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=frog&treasure_min=0&collapse=1) \| [cat](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=cat&treasure_min=0&collapse=1) \| [lion](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=lion&treasure_min=0&collapse=1) <!--viper & swallow seem to actually get used-->
 - <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
-	- 435kT (12×35kT Joxar, +2×7.5kT Baldwin), less if discounted
+	- <b>585kT</b> (14×35,000=490kT, less with discount + 2×7.5kT=15kT Baldwin + 80kT joxbox)
 	- 140 fest currency, 190 incl. scene
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
@@ -23,9 +24,9 @@ miscellaneous stuff for my own reference
 - [incomplete achievements](https://www1.flightrising.com/game-database/achievements?display_type=not_completed)
 
 ## gathering
+all familiars FOUND \o/ just diggin' for [gravel](https://www1.flightrising.com/game-database/item/181) now (wind/shadow/fire)
 
-literally just that gosh dang <b>hippojay</b> (fishing in earth/ice/light/nature)
-
+<!--
 ## coli fams
 
 bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss  
@@ -52,6 +53,7 @@ Mire | <b>✓</b>
 Golem Workshop | <b>Copperplate Longmech</b>
 Kelp Beds | <b>Eggull, Blue-Footed Eggull, Ruche Slug, Ruched Sojourner, Maren Fisher, Maren Seahunter, Kelp Caretaker, Maren Harvester</b>
 Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern</b>
+-->
 
 ## dragon order
 
@@ -120,7 +122,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>10</td><td><s>Novak</s></td></tr>
 		<tr><td>22</td><td><s>LithophoneElegy</s></td></tr>
 		<tr><td>27</td><td><s>Layes</s></td></tr>
-		<tr><td>04</td><td>24</td><td>Evergreen/ChoiceParalysis</td></tr>
+		<tr><td>04</td><td>24</td><td>Evergreen/ChoiceParalysis/FPL</td></tr>
 		<tr><td>05</td><td>18</td><td><s>Scylla</s></td></tr>
 		<tr><td>06</td><td>05</td><td><s>Ascher</s></td></tr>
 		<tr><td>07</td><td>07</td><td><s>Bokeh</s></td></tr>

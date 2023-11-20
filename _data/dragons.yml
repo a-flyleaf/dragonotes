@@ -2,7 +2,6 @@
 # names (dragon, familiar, venues) capitalized, else lowercase (use CSS)
 - nm: Maelstrom
   id: 12116084
-  broadcast: custom progen
   element: plague
   sex: m
   breed: mirror
