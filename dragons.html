@@ -1,0 +1,35 @@
+---
+layout: none
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>dragonotes | great wall of dragons</title>
+		<style>
+			.dragobox{font-size:12px; max-width:800px; margin-top:2em;}
+			ul{padding:0; margin:-.75em 0 0 1em;} li{display:inline-block;}
+			.nart{border:1px solid #731D08;}
+			
+			/*nigh-copypaste below*/
+			.dragobox figure{display:inline-block; background:#efefef; width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} .dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
+			.dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
+			.dragobox a:hover,.dragobox a:focus,.dragobox a:active{opacity:.5;}
+		</style>
+	</head>
+	<body>
+		<h1><a href="{%include url.html%}">dragonotes</a> dragon page</h1>
+		
+		<p>quick n ugly<!--read: copypasted nigh-verbatim from the dragonwall page--> until I futz with the layout more</p>
+		
+		<p>pages that exist here:</p>
+		<ul>{%for drg in site.dragons%}<li><a href="{%include url.html%}/dragons/{{drg.slug}}">{{drg.name}}</a></li>{%endfor%}</ul>
+		
+		<p>border = dragon doesn’t have art yet</p>
+		
+		<div class="dragobox">{%for drg in site.data.dragons%}<a href="https://www1.flightrising.com/dragon/{{drg.id}}"><figure id="{{drg.nm}}"{%if drg.has.art!=1%}{%unless drg.nm=='Maelstrom'%} class="nart"{%endunless%}{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_100.png" alt="{{drg.nm}}"{%if drg.age%} class="bab"{%endif%}/><figcaption>{{drg.nm}}</figcaption></figure></a>{%endfor%}</div>
+
+		<p><b style="text-transform:uppercase;font-weight:normal;">Look at my children. All {{site.data.dragons.size}}* of them.</b><br/>
+		<small>*does not include <a href="https://www1.flightrising.com/den/138250/1526429">fandragons</a> or <a href="https://www1.flightrising.com/lair/138250">non-hibernating lizards</a></small></p>
+		</details>
+	</body>
+</html>

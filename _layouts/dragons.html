@@ -31,7 +31,7 @@
 			<aside>
 				<h2>stats</h2>
 				<div class="box">
-					<div id="drg-av"{%if page.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{page.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div>
+					<div id="drg-av"{%if page.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{page.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div><!--maybe put those lil emoji links here? the forum search, color search, and scry-->
 					<a href="#content" class="x skip">skip to content</a>
 					<div id="flex">
 						<section>
@@ -40,7 +40,7 @@
 								<li><b>hatchday</b>: {{drg.dates.hatch|date:"%B %-d, %Y"}}</li>
 								{%if drg.dates.obtain%}<li><b>obtained</b>: {{drg.dates.obtain|date:"%B %-d, %Y"}}</li>{%endif%}
 								<li><b>hibernation</b>: {{drg.dates.hibern|date:"%B %-d, %Y"}}</li>
-							</ul>
+							</ul><!--concat data (see ygbtdm/gallery/all) to combine both hatched/hibernating and other events-->
 						</section><section>
 							<h3>basics</h3>
 							<ul>	
@@ -84,7 +84,7 @@
 					</div><!--/flex-->
 				</div><!--/box-->
 			</aside>
-			{%if page.familiar%}<section class="box" id="fam">
+			{%if page.familiar%}<!--if this isn't part of the statbox then move it up there if the screen's wide enough...--><section class="box" id="fam">
 				{%assign fam=site.data.items|where:"id",page.familiar.id%}{%for fam in fam%}
 				<h2>familiar</h2>
 				<img src="{%include url.html%}/assets/img/items/{{fam.id}}.png" alt="{{fam.nm}}">
