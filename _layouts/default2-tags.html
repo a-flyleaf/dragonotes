@@ -1,7 +1,7 @@
 ---
 layout: default2
 ---
-{%if page.content%}<div id="tagdesc" class="small">{{page.content}}</div>{%endif%}
+{%if page.content%}<div id="tagdesc" class="small">{{page.desc}}</div>{%endif%}
 {%assign feed = site.posts%}{%assign tag = page.nm%}
 {%for post in feed%}{%unless post.layout=="default"%}{%if post.tags contains tag%}<article class="post">
 	<h2 class="title"><a href="{%include url.html%}{{post.url}}">{{post.title}}</a></h2>{%if post.date%}

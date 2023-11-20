@@ -36,4 +36,6 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 	- new base dragon profile page
 	- fixed broken v1 links
 	- remembered to update this page (haven't touched it since 10/3 last year) whoops
-	- a bunch of other behind-the-scenes stuff probably happened between then and now but, again, forgot to note
+		- a bunch of other behind-the-scenes stuff probably happened between then and now but, again, forgot to note
+	- heck it. pseudo-blog is now v2, winging the rest from here
+	- "temporary" index & /dragons index

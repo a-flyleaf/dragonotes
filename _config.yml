@@ -2,17 +2,9 @@ name: dragonotes
 permalink: /blog/:title
 
 collections:
-    tags:
-        output: true
     dragons:
         output: true
 defaults:
-  - scope:
-      path: "_tags"
-    values:
-      layout: default2-tags
-      permalink: /blog/tag/:slug
-      feed: y
   - scope:
       path: "_dragons"
     values:
