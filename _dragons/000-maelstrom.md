@@ -37,6 +37,4 @@ figure{display:inline-block; max-width:50%;}"
 - forever wandering the Abiding&nbsp;Boneyard
 
 ### Archaeoraptor notes
-Maelstrom, my guy Maelstrom! I do not remember what possessed me to make him purble, but it probably had something to do with Shadow being my second-choice flight. It's been tricky making his genes and apparel work, especially with the red eyes, but I like what I've landed on---even if it's most in-character for him to be apparel-less. Triple Basic also would've fit best, characterization-wise, but aesthetics win this round. Simple character, simple tert, simple starter dragon.
-
-<div style="text-align:right;"><i><small>—2023-11-19</small></i></div>
+Maelstrom, my guy Maelstrom! I do not remember what possessed me to make him purble, but it probably had something to do with Shadow being my second-choice flight. It's been tricky to make his genes and apparel work, especially with the red eyes, but I like what I've landed on---even if, character-wise, the most fitting look would be no apparel and triple Basic. Aesthetics win this round...!
