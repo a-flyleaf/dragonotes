@@ -33,9 +33,12 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 - 3/29 new goals
 - 6/27 great wall of dragons
 - 11/19
-	- new base dragon profile page
+	- new base dragon profile page (ft. Maelstrom)
 	- fixed broken v1 links
 	- remembered to update this page (haven't touched it since 10/3 last year) whoops
 		- a bunch of other behind-the-scenes stuff probably happened between then and now but, again, forgot to note
 	- heck it. pseudo-blog is now v2, winging the rest from here
 	- "temporary" index & /dragons index
+- 11/20
+	- Lapilli page base
+	- outline for other dragon sortings
