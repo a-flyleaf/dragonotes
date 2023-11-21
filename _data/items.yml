@@ -1,6 +1,12 @@
 - id: 359
   nm: Shattered Serpent
   ct: familiar
+- id: 412
+  nm: Rainbow Sprite
+  ct: familiar
+- id: 667
+  nm: Crown of Bones
+  ct: apparel
 - id: 18342
   nm: Fungi
   ct: specialty
@@ -17,6 +23,9 @@
 - id: 32690
   nm: Fiendflesh Hindcallouses
   ct: apparel
+- id: 33517
+  nm: "Accent: Fake Out"
+  ct: skin
 - id: 36376
   nm: Plaguebringer's Domain
   ct: specialty

@@ -30,9 +30,6 @@
     hatch: 2015-04-08
     hibern: 2019-03-13
   cat: [lore,virevo]
-
-# new pages left off here
-
 - nm: Lapilli
   id: 12116085
   element: plague
@@ -51,30 +48,21 @@
     weight: 2.48
   genes:
     pri:
-      num: 56
       clr: stonewash
       gn: speckle
     sec:
-      num: 40
       clr: royal
       gn: eye spots
     tert:
-      num: 165
       clr: coral
       gn: basic
   dates:
     hatch: 2015-04-08
     hibern: 2019-03-13
-  has:
-    familiar: Rainbow Sprite
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 0
-    vista: 1
-    scene: 1
-    broadcast: random progen
-  cat: [lore]
+  cat: [lore,virevo]
+
+# new pages left off here
+
 - nm: Altostratus
   id: 11966926
   element: lightning

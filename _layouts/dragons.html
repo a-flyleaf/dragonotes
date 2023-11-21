@@ -31,7 +31,7 @@
 			<aside>
 				<h2>stats</h2>
 				<div class="box">
-					<div id="drg-av"{%if page.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{page.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div><!--maybe put those lil emoji links here? the forum search, color search, and scry-->
+					<div id="drg-av"{%if page.vista%} class="vista" style="background-image:url({%include url.html%}/assets/img/items/{{page.vista}}.png);"{%endif%}><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}-av.png" alt=""></div><!--maybe put those lil emoji links here? the forum search, color search, and scry | alternatively, reorder: "shown with" all under the vista on the left (use icons), then basics size genes dates--in a row nofam, or a 2x2 flex withfam. maybe the other links can be onsite-only...?-->
 					<a href="#content" class="x skip">skip to content</a>
 					<div id="flex">
 						<section>
@@ -69,14 +69,14 @@
 							</ul>
 						</section><section>
 							<h3>shown with</h3>
-							{%assign acc=site.data.items|where:"id",page.accent%}
+							{%assign acc=site.data.items|where:"id",page.skin%}
 							{%assign scn=site.data.items|where:"id",page.scene%}
 							{%assign vst=site.data.items|where:"id",page.vista%}
 							<ul>
 								{%if page.apparel%}<li><b>apparel</b>:<ul id="app">
 									{%for app in page.apparel%}<li>{%assign app-info=site.data.items|where:"nm",app%}{%for id in app-info%}<a href="https://www1.flightrising.com/game-database/item/{{id.id}}"><img src="{%include url.html%}/assets/img/items/{{id.id}}.png" alt="{{app}}"></a></li>{%endfor%}{%endfor%}
 								</ul></li>{%endif%}
-								{%if page.accent%}<li><b>accent</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
+								{%if page.skin%}<li><b>skin</b>: {%for item in acc%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
 								{%if page.scene%}<li><b>scene</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
 								{%if page.vista%}<li><b>vista</b>: {%for item in vst%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
 							</ul>
@@ -89,7 +89,7 @@
 				<h2>familiar</h2>
 				<img src="{%include url.html%}/assets/img/items/{{fam.id}}.png" alt="{{fam.nm}}">
 				<b>{%if page.familiar.nm%}{{page.familiar.nm}}</b> (<a href="https://www1.flightrising.com/game-database/item/{{fam.id}}">{{fam.nm}}</a>){%else%}<i><a href="https://www1.flightrising.com/game-database/item/{{fam.id}}">{{fam.nm}}</a></i>{%endif%}</b>
-				{{page.familiar.why|markdownify}}
+				{{page.familiar.why|markdownify}}<p style="margin:1em 0;"><small>[uhh I made this section way too big, might finangle it into one row with the stats later]</small></p>
 			{%endfor%}</section>{%endif%}
 			
 			<main id="content">
@@ -132,17 +132,20 @@
 						{%endfor%}</ul>
 					{%endfor%}</div>
 				</details>
-				<details class="fbox">
+				<details class="fbox" id="lore">
 					<summary><h3>dragons by lore affiliation</h3></summary>
-					<div class="cat-content"><h4>Viral Evolution</h4>
-						<ul>{%for dr in site.data.dragons%}{%if dr.cat contains 'virevo'%}<li>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</li>{%endif%}{%endfor%}</ul>
-					<h4>The Inn</h4>
-						<ul>[TBA]</ul>
-					<h4>wanderers/other</h4>
-						<ul>[TBA]</ul>
-					<h4>no lore</h4>
-						<ul>[TBA]</ul>
-				</div></details>
+					<div class="cat-content">
+						<!--this is manual for now-->
+						<h4>Viral Evolution</h4>
+							<ul>Maelstrom | Lapilli</ul>
+						<h4>The Inn</h4>
+							<ul>[TBA]</ul>
+						<h4>[other lore]</h4>
+							<ul>[TBA]</ul>
+						<h4>no lore</h4>
+							<ul>[TBA]</ul>
+						</div>
+				</details>
 				<div class="fbox">
 					other categories: <ul id="other">
 						{%if drg.age%}<li>permabab</li>{%endif%}

@@ -108,6 +108,7 @@ figcaption{font-size:.85em; text-align:center;}
 @media only screen and (min-width:25em){@supports (display:flex){
 	.cat-content{display:flex; flex-wrap:wrap; gap:.5em 0;}
 	#cat h4{width:8em; text-align:right;} .cat-content ul{width:calc(100% - 8em); text-align:left; padding:.5em; margin:0;} .cat-content ul:nth-of-type(even){background:#f3f3f3;}
+	#lore h4{width:10em;} #lore ul{width:calc(100% - 10em);}
 }}
 
 /*bigscreen*/
