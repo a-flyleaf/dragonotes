@@ -76,9 +76,9 @@
 								{%if page.apparel%}<li><b>apparel</b>:<ul id="app">
 									{%for app in page.apparel%}<li>{%assign app-info=site.data.items|where:"nm",app%}{%for id in app-info%}<a href="https://www1.flightrising.com/game-database/item/{{id.id}}"><img src="{%include url.html%}/assets/img/items/{{id.id}}.png" alt="{{app}}"></a></li>{%endfor%}{%endfor%}
 								</ul></li>{%endif%}
-								{%if page.skin%}<li><b>skin</b>: {%for item in acc%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
-								{%if page.scene%}<li><b>scene</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
-								{%if page.vista%}<li><b>vista</b>: {%for item in vst%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm}}</a>{%endfor%}</li>{%endif%}
+								{%if page.skin%}<li><b>skin</b>: {%for item in acc%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm|remove:"Accent: "|remove:"Skin: "}}</a>{%endfor%}</li>{%endif%}
+								{%if page.scene%}<li><b>scene</b>: {%for item in scn%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm|remove:"Scene: "}}</a>{%endfor%}</li>{%endif%}
+								{%if page.vista%}<li><b>vista</b>: {%for item in vst%}<a href="https://www1.flightrising.com/game-database/item/{{item.id}}">{{item.nm|remove:"Vista: "}}</a>{%endfor%}</li>{%endif%}
 							</ul>
 						</section>
 					</div><!--/flex-->
@@ -109,7 +109,7 @@
 			</section>{%endif%}<!--/gallery-->
 			
 			<footer id="cat">
-				<h2 class="x">categories</h2>
+				<h2 class="x">categories</h2>{%assign site-d=site.dragons%}
 				<details class="fbox">
 					<summary><h3>dragons by element</h3></summary>
 					<div class="cat-content">{%for el in site.data.elements%}
@@ -117,7 +117,7 @@
 						{%assign el-nm=el.nm|downcase%}
 						{%assign ele=site.data.dragons|where:"element",el-nm%}
 						<ul>{%for drg in ele%}
-							<li><a href={%for drag in site.dragons%}{%if drag.name contains drg.nm%}"{%include url.html%}/dragons/{{drg.nm|downcase}}"{%else%}"https://www1.flightrising.com/dragon/{{drg.id}}" class="notyet"{%endif%}{%endfor%}>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
+							<li>{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}<a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%endif%}{%endfor%}{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}</a>{%endif%}{%endfor%}</li><!--this is ugly but the else/notyet didn't work due to weird loop shit; once everyone's here this can just be a simple link with the if-bold-->
 						{%endfor%}</ul>
 					{%endfor%}</div>
 				</details>
@@ -127,17 +127,19 @@
 					<div class="cat-content">{%for br in breeds%}
 						<h4>{{br.nm|capitalize}}</h4>
 						{%assign bre=site.data.dragons|where:"breed",br.nm%}
-						<ul>{%if bre==empty%}[none!]{%endif%}{%for drg in bre%}
-							<li><a href={%for drag in site.dragons%}{%if drag.name contains drg.nm%}"{%include url.html%}/dragons/{{drg.nm|downcase}}"{%else%}"https://www1.flightrising.com/dragon/{{drg.id}}" class="notyet"{%endif%}{%endfor%}>{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
+						<ul>{%if bre==empty%}<i class="nop">[none]</i>{%endif%}{%for drg in bre%}
+							<li>{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}<a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%endif%}{%endfor%}{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}</a>{%endif%}{%endfor%}</li><!--ugly, same as above-->
 						{%endfor%}</ul>
 					{%endfor%}</div>
 				</details>
 				<details class="fbox" id="lore">
 					<summary><h3>dragons by lore affiliation</h3></summary>
-					<div class="cat-content">
-						<!--this is manual for now-->
+					<div class="cat-content">{%assign dr=site.data.dragons%}
 						<h4>Viral Evolution</h4>
-							<ul>Maelstrom | Lapilli</ul>
+						<ul>{%for drg in dr%}{%if drg.cat contains 'virevo'%}
+							<li><a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
+						{%endif%}{%endfor%}</ul>
+						<!--will figure these out as I come across them-->
 						<h4>The Inn</h4>
 							<ul>[TBA]</ul>
 						<h4>[other lore]</h4>

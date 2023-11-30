@@ -60,9 +60,6 @@
     hatch: 2015-04-08
     hibern: 2019-03-13
   cat: [lore,virevo]
-
-# new pages left off here
-
 - nm: Altostratus
   id: 11966926
   element: lightning
@@ -93,18 +90,12 @@
       gn: basic
   dates:
     hatch: 2015-04-02
-    obtain: 2014-04-08
+    obtain: 2015-04-08
     hibern: 2019-03-13
-  has:
-    familiar: Rambra
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 1
-    scene: 0
-    broadcast: first bought/third ever dragon
-  cat: [lore]
+  cat: [lore,virevo]
+
+# new pages left off here
+
 - nm: solar
   id: 6594794
   element: arcane

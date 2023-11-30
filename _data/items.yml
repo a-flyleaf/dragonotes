@@ -4,15 +4,38 @@
 - id: 412
   nm: Rainbow Sprite
   ct: familiar
+- id: 607
+  nm: Rambra
+  ct: familiar
 - id: 667
   nm: Crown of Bones
   ct: apparel
+- id: 2967
+  nm: Aqua Birdskull Necklace
+  ct: apparel
+- id: 11972
+  nm: "Accent: Dancing Conductor"
+  ct: skin
+- id: 12904
+  nm: Contrast Aviator Satchel
+  ct: apparel
+- id: 13799
+  nm: Contrast Rogue Cape
+  ct: apparel
 - id: 18342
-  nm: Fungi
+  nm: "Vista: Fungi"
   ct: specialty
-  subcat: vista
+- id: 19042
+  nm: Surgestream Coat
+  ct: apparel
+- id: 21593
+  nm: "Vista: Trickmurk Circus"
+  ct: specialty
 - id: 24519
   nm: Carapace Arm
+  ct: apparel
+- id: 27201
+  nm: Voltaic Stormclaws
   ct: apparel
 - id: 32034
   nm: Riot Hazebeacon
@@ -27,9 +50,11 @@
   nm: "Accent: Fake Out"
   ct: skin
 - id: 36376
-  nm: Plaguebringer's Domain
+  nm: "Scene: Plaguebringer's Domain"
   ct: specialty
-  subcat: scene
+- id: 44082
+  nm: "Scene: Ancient Harpy Canyon"
+  ct: specialty
 - id: 45489
   nm: Cartographer
   ct: apparel

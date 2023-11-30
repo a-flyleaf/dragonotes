@@ -99,7 +99,7 @@ figcaption{font-size:.85em; text-align:center;}
 .cat-content ul{margin:.5em 0 1.5em;} .cat-content ul:last-of-type{margin-bottom:0;}
 .cat-content li:before{content:"·"; padding-right:.35em; font-weight:bold;}
 
-/*TEMP*/ .notyet{font-style:italic;}
+/*temp?*/ .nop{color:#808080;}
 
 #other{padding:.25em 0;}
 #other li:before{content:"| ";}
