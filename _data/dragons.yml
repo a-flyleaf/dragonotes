@@ -2324,3 +2324,28 @@
     accent: 1
     scene: 1
   cat: [lore,other]
+- nm: Sretno
+  id: 91709273
+  element: earth
+  sex: m
+  breed: aether
+  gen: 1
+  msr:
+    length: 3.51
+    wings: 6.47
+    weight: 403.24
+  genes:
+    pri:
+      clr: 109
+      gn: flaunt
+    sec:
+      clr: 110
+      gn: morph
+    tert:
+      clr: 80
+      gn: stinger
+    eye: swirl
+  dates:
+    hatch: 2023-12-25
+    hibern: 2024-02-22
+  cat: [nolore]
