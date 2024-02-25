@@ -104,13 +104,12 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="10">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
+		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td><s>Seafoam</s></td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="2">10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
-		<tr><td rowspan="5">11</td><td>02</td><td><s>Badru*</s></td></tr>
-		<tr><td>03</td><td><s>Axius</s></td></tr>
+		<tr><td rowspan="4">11</td><td>03</td><td><s>Axius</s></td></tr>
 		<tr><td>07</td><td>LethalTriplicate</td></tr>
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>

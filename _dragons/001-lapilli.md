@@ -13,7 +13,7 @@ skin: 33517
 vista: 18342
 scene: 36376
 
-# art: [existent but buried in files somewhere. possibly just the screm?]
+# art: [existent but buried in files somewhere. possibly just the screm? // update: nope, filename is "riptidescream" so Not Her. damn sorry lapilli]
 
 css: "#content h3:first-child{margin-top:0;}"
 ---
