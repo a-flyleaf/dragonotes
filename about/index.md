@@ -30,7 +30,7 @@ This info is usually on my clan profile in some form, but to expand on it:
 Also, [I draw](https://www.deviantart.com/a-flyleaf/gallery?q=%23flightrising), and while I don't have an ongoing art shop, feel free to PM me if you want a scrib~ ;V
 
 ## loresterf
-At the time of writing (Oct. 3, 2022) I actually just revamped this site for the primary purpose of [revisiting my lore](../blog/tag/lair-revival), so that's a thing. Essentially, I have a lot of dragons, and they are scattered all over Sornieth because every time I try to establish One Consistent Clan, inevitably fractures and/or side groups spawn.
+My lore is perpetually being tweaked and poked and archived and otherwise toye around with. Essentially, I have a lot of dragons, and they are scattered all over Sornieth because every time I try to establish One Consistent Clan, inevitably fractures and/or side groups spawn.
 
 I'm havin' fun and that's all I really care about ᕕ(&nbsp;ᐛ&nbsp;)ᕗ
 

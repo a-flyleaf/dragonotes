@@ -44,3 +44,6 @@ this is a Bit of a mess because Alto's lore basically encompasses a couple signi
 We love an atoner. Alto's story covers most of Viral&nbsp;Evolution's, and I haven't really known what do with her lore-wise since, but I think she's cool. And although I've occasionally toyed with the thought of changing her genes, her outfit's pretty complex and I'm happy with how she looks as-is :>
 
 As a side note, she has three offspring---[Asher](https://www1.flightrising.com/dragon/13421444), [Brook](https://www1.flightrising.com/dragon/13421445), and [Codi](https://www1.flightrising.com/dragon/13421446)---who themselves don't have lore, but their father [Cristofori](https://www1.flightrising.com/dragon/11943858) did! He was Viral&nbsp;Evolution's healer for a while; but his BFF/partner [Reverie](https://www1.flightrising.com/dragon/13403583) was one of the imperials dragged into Alto's Emperor-raising scheme. Needless to say Cristofori wasn't happy about that; whatever relationship he and Alto had was severed at the revelation.
+
+<br>
+**This dragon has art**; I just haven't added it to the site yet.
