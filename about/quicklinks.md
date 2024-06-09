@@ -94,8 +94,7 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="17">2020</td><td rowspan="2">01</td><td>07</td><td><s>!Burin</s></td></tr>
-		<tr><td>15</td><td><s>Falsework</s></td></tr>
+		<tr><td rowspan="16">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
 		<tr><td>03</td><td>19</td><td>[anandte2]</td></tr>
@@ -128,9 +127,10 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="4">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
+		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
 		<tr><td>06</td><td>28</td><td><s>Marlowe</s></td></tr>
+		<tr><td>11</td><td>21</td><td>[auraboa]</td></tr>
 		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody>
 </table>

@@ -1,354 +1,530 @@
 - nm: maize
   id: 1
+
 - nm: cream
   id: 2
+
 - nm: antique
   id: 3
+
 - nm: white
   id: 4
+
 - nm: moon
   id: 5
+
 - nm: ice
   id: 6
+
 - nm: orca
   id: 7
+
 - nm: platinum
   id: 8
+
 - nm: silver
   id: 9
+
 - nm: dust
   id: 10
+
 - nm: grey
   id: 11
+
 - nm: smoke
   id: 12
+
 - nm: gloom
   id: 13
+
 - nm: lead
   id: 14
+
 - nm: shale
   id: 15
+
 - nm: flint
   id: 16
+
 - nm: charcoal
   id: 17
+
 - nm: coal
   id: 18
+
 - nm: oilslick
   id: 19
+
 - nm: black
   id: 20
+
 - nm: obsidian
   id: 21
+
 - nm: eldritch
   id: 22
+
 - nm: midnight
   id: 23
+
 - nm: shadow
   id: 24
+
 - nm: blackberry
   id: 25
+
 - nm: mulberry
   id: 26
+
 - nm: plum
   id: 27
+
 - nm: wisteria
   id: 28
+
 - nm: thistle
   id: 29
+
 - nm: fog
   id: 30
+
 - nm: mist
   id: 31
+
 - nm: lavender
   id: 32
+
 - nm: heather
   id: 33
+
 - nm: purple
   id: 34
+
 - nm: orchid
   id: 35
+
 - nm: amethyst
   id: 36
+
 - nm: nightshade
   id: 37
+
 - nm: violet
   id: 38
+
 - nm: grape
   id: 39
+
 - nm: royal
   id: 40
+
 - nm: eggplant
   id: 41
+
 - nm: iris
   id: 42
+
 - nm: storm
   id: 43
+
 - nm: twilight
   id: 44
+
 - nm: indigo
   id: 45
+
 - nm: sapphire
   id: 46
+
 - nm: navy
   id: 47
+
 - nm: cobalt
   id: 48
+
 - nm: ultramarine
   id: 49
+
 - nm: blue
   id: 50
+
 - nm: periwinkle
   id: 51
+
 - nm: lapis
   id: 52
+
 - nm: splash
   id: 53
+
 - nm: cornflower
   id: 54
+
 - nm: sky
   id: 55
+
 - nm: stonewash
   id: 56
+
 - nm: overcast
   id: 57
+
 - nm: steel
   id: 58
+
 - nm: denim
   id: 59
+
 - nm: abyss
   id: 60
+
 - nm: phthalo
   id: 61
+
 - nm: azure
   id: 62
+
 - nm: caribbean
   id: 63
+
 - nm: teal
   id: 64
+
 - nm: cerulean
   id: 65
+
 - nm: cyan
   id: 66
+
 - nm: robin
   id: 67
+
 - nm: aqua
   id: 68
+
 - nm: turquoise
   id: 69
+
 - nm: spruce
   id: 70
+
 - nm: pistachio
   id: 71
+
 - nm: seafoam
   id: 72
+
 - nm: mint
   id: 73
+
 - nm: jade
   id: 74
+
 - nm: spearmint
   id: 75
+
 - nm: thicket
   id: 76
+
 - nm: peacock
   id: 77
+
 - nm: emerald
   id: 78
+
 - nm: shamrock
   id: 79
+
 - nm: jungle
   id: 80
+
 - nm: hunter
   id: 81
+
 - nm: forest
   id: 82
+
 - nm: camo
   id: 83
+
 - nm: algae
   id: 84
+
 - nm: swamp
   id: 85
+
 - nm: avocado
   id: 86
+
 - nm: green
   id: 87
+
 - nm: fern
   id: 88
+
 - nm: mantis
   id: 89
+
 - nm: pear
   id: 90
+
 - nm: leaf
   id: 91
+
 - nm: radioactive
   id: 92
+
 - nm: honeydew
   id: 93
+
 - nm: peridot
   id: 94
+
 - nm: chartreuse
   id: 95
+
 - nm: spring
   id: 96
+
 - nm: crocodile
   id: 97
+
 - nm: olive
   id: 98
+
 - nm: murk
   id: 99
+
 - nm: moss
   id: 100
+
 - nm: goldenrod
   id: 101
+
 - nm: amber
   id: 102
+
 - nm: honey
   id: 103
+
 - nm: lemon
   id: 104
+
 - nm: yellow
   id: 105
+
 - nm: grapefruit
   id: 106
+
 - nm: banana
   id: 107
+
 - nm: sanddollar
   id: 108
+
 - nm: flaxen
   id: 109
+
 - nm: ivory
   id: 110
+
 - nm: buttercup
   id: 111
+
 - nm: gold
   id: 112
+
 - nm: metals
   id: 113
+
 - nm: marigold
   id: 114
+
 - nm: sunshine
   id: 115
+
 - nm: saffron
   id: 116
+
 - nm: sunset
   id: 117
+
 - nm: peach
   id: 118
+
 - nm: cantaloupe
   id: 119
+
 - nm: orange
   id: 120
+
 - nm: bronze
   id: 121
+
 - nm: terracotta
   id: 122
+
 - nm: carrot
   id: 123
+
 - nm: fire
   id: 124
+
 - nm: pumpkin
   id: 125
+
 - nm: tangerine
   id: 126
+
 - nm: cinnamon
   id: 127
+
 - nm: caramel
   id: 128
+
 - nm: sand
   id: 129
+
 - nm: tan
   id: 130
+
 - nm: beige
   id: 131
+
 - nm: stone
   id: 132
+
 - nm: taupe
   id: 133
+
 - nm: slate
   id: 134
+
 - nm: driftwood
   id: 135
+
 - nm: latte
   id: 136
+
 - nm: dirt
   id: 137
+
 - nm: clay
   id: 138
+
 - nm: sable
   id: 139
+
 - nm: umber
   id: 140
+
 - nm: soil
   id: 141
+
 - nm: hickory
   id: 142
+
 - nm: tarnish
   id: 143
+
 - nm: ginger
   id: 144
+
 - nm: brown
   id: 145
+
 - nm: chocolate
   id: 146
+
 - nm: auburn
   id: 147
+
 - nm: copper
   id: 148
+
 - nm: rust
   id: 149
+
 - nm: tomato
   id: 150
+
 - nm: vermilion
   id: 151
+
 - nm: ruby
   id: 152
+
 - nm: cherry
   id: 153
+
 - nm: crimson
   id: 154
+
 - nm: garnet
   id: 155
+
 - nm: sanguine
   id: 156
+
 - nm: blood
   id: 157
+
 - nm: maroon
   id: 158
+
 - nm: berry
   id: 159
+
 - nm: red
   id: 160
+
 - nm: strawberry
   id: 161
+
 - nm: cerise
   id: 162
+
 - nm: carmine
   id: 163
+
 - nm: brick
   id: 164
+
 - nm: coral
   id: 165
+
 - nm: blush
   id: 166
+
 - nm: cottoncandy
   id: 167
+
 - nm: watermelon
   id: 168
+
 - nm: magenta
   id: 169
+
 - nm: fuchsia
   id: 170
+
 - nm: raspberry
   id: 171
+
 - nm: wine
   id: 172
+
 - nm: mauve
   id: 173
+
 - nm: pink
   id: 174
+
 - nm: bubblegum
   id: 175
+
 - nm: rose
   id: 176
+
 - nm: pearl
   id: 177

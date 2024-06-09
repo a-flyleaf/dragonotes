@@ -25,6 +25,8 @@ layout: none
 <h1>buncha data/code tests</h1>
 <p>for my own reference</p>
 
+<p>dragons using updated data: {%for drg in site.data.dragons%}{%unless drg.has%}{%unless forloop.first%}, {%endunless%}{{drg.nm}}{%endunless%}{%endfor%}</p>
+
 <details><summary><h2>overview</h2></summary>
 <p>use spans for the capitalization (outside dragon names), might reuse some things for classes (namely elements and colors)</p>
 

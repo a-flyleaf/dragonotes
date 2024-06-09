@@ -287,3 +287,42 @@
     vista: 0
     scene: 0
   cat: [baneclan]
+- nm: Burin
+  id: 50385938
+  element: fire
+  sex: f
+  breed: ridgeback
+  gen: 1
+  msr:
+    length: 17.05
+    wings: 20.87
+    weight: 8954.5
+  genes:
+    pri:
+      num: 25
+      clr: blackberry
+      gn: pinstripe
+    sec:
+      num: 64
+      clr: teal
+      gn: trail
+    tert:
+      num: 143
+      clr: tarnish
+      gn: peacock
+    eye: dark sclera
+  dates:
+    hatch: 2019-03-23
+    obtain: <2020-01-07
+    hibern: 2020-02-17
+    farewell: 2024-??-??
+  has:
+    familiar: Ragamouse
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 1
+    broadcast: dedicated glassworker
+  cat: [lore]

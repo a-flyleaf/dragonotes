@@ -1284,44 +1284,6 @@
     vista: 1
     scene: 0
   cat: [lore]
-- nm: Burin
-  id: 50385938
-  element: fire
-  sex: f
-  breed: ridgeback
-  gen: 1
-  msr:
-    length: 17.05
-    wings: 20.87
-    weight: 8954.5
-  genes:
-    pri:
-      num: 25
-      clr: blackberry
-      gn: pinstripe
-    sec:
-      num: 64
-      clr: teal
-      gn: trail
-    tert:
-      num: 143
-      clr: tarnish
-      gn: peacock
-    eye: dark sclera
-  dates:
-    hatch: 2019-03-23
-    obtain: <2020-01-07
-    hibern: 2020-02-17
-  has:
-    familiar: Ragamouse
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 1
-    broadcast: dedicated glassworker
-  cat: [lore]
 - nm: Falsework
   id: 58430435
   element: lightning
@@ -2081,7 +2043,32 @@
     vista: 0
     scene: 0
   cat: [lore]
-# Evergreen
+- nm: InexplicableFern
+  id: 77584677
+  element: light
+  sex: f
+  breed: fae
+  gen: 1
+  lvl: 25
+  msr:
+    length: 1.41
+    wings: 1.09
+    weight: 1.58
+  genes:
+    pri:
+      clr: fern
+      gn: fern
+    sec:
+      clr: fern
+      gn: paisley
+    tert:
+      clr: peacock
+      gn: peacock
+    eye: primal
+  dates:
+    hatch: 2022-04-24
+    hibern: 2024-02-22
+  cat: [lore]
 - nm: Scylla
   id: 78166107
   element: earth
@@ -2324,6 +2311,7 @@
     accent: 1
     scene: 1
   cat: [lore,other]
+# auraboa
 - nm: Sretno
   id: 91709273
   element: earth
