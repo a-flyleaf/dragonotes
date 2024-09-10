@@ -85,8 +85,11 @@ section ul{list-style-type:none;}
 #content ul{margin-left:1em;}
 
 /*gallery*/
-#gallery p{text-align:center; margin:-.5em 0 .5em;}
-figcaption{font-size:.85em; text-align:center;}
+#gallery{text-align:center;}
+#gallery p{margin:-.5em 0 .5em;}
+figure{display:inline-block; margin:1em 0;}
+figure img{max-width:515px;}
+figcaption{font-size:.85em;}
 
 /*categories*/
 #cat{padding:3em 0; text-align:center;}

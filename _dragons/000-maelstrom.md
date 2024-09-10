@@ -19,14 +19,13 @@ art:
     by: Archaeoraptor
     link: https://www.deviantart.com/a-flyleaf/art/Maelstrom-791945417
 
-css: "#content h3:first-child{margin-top:0;}
-figure{display:inline-block; max-width:50%;}"
+css: "#content h3:first-child{margin-top:0;}"
 ---
 ### lore notes
 - grew up in a roving pack of mirrors not unlike those described in [the official encyclopedia](https://www1.flightrising.com/wiki/wiki/article/mirror-dragons)
 - interpersonal conflict split the pack, and Maelstrom wandered off solo
 - met [Lapilli](lapilli), who would become a partner for life
-- enter Altostratus, Azurite, and Solar; then the hatchlings, Chalcedony & Riptide---and with that, a clan was born
+- enter [Altostratus](altostratus), Azurite, and Solar; then the hatchlings, Chalcedony & Riptide---and with that, a clan was born
 - though both progens were technically leaders, Lapilli took on most duties in practice; Maelstrom, ever the loner, mostly didn't feel the need to organize and helped around where needed
 - the clan (later dubbed <i>Viral&nbsp;Evolution</i>) eventually dissolved due to a whole ’nother mess of interpersonal drama; following this, Maelstrom and Lapilli wandered the plaguelands on their own
 	- took on the surname "Virevo" in honor of the clan

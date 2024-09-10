@@ -20,7 +20,7 @@ css: "#content h3:first-child{margin-top:0;}"
 ### lore notes
 - original [colony](https://www1.flightrising.com/wiki/wiki/article/fae-dragons) fell apart due to reasons I've since forgotten
 - met [Maelstrom](maelstrom), who would become a partner for life
-- enter Altostratus, Azurite, and Solar; then the hatchlings, Chalcedony & Riptide---and with that, a clan was born
+- enter [Altostratus](altostratus), Azurite, and Solar; then the hatchlings, Chalcedony & Riptide---and with that, a clan was born
 - though both progens were technically leaders, Maelstrom never set out to leave a clan; Lapilli took on most responsibilities, which she enjoyed despite occasional overwhelm
 - the clan (later dubbed <i>Viral&nbsp;Evolution</i>) eventually dissolved due to a whole ’nother mess of interpersonal drama; following this, Lapilli joined Maelstrom for wandering around the plaguelands
 	- bone crown was a parting gift from the kids; has not taken it off since

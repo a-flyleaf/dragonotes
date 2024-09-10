@@ -15,7 +15,21 @@ skin: 11972
 vista: 21593
 scene: 44082
 
-# art: [oh there is a Lot]
+art:
+  - dt: 2015-04-12
+    by: Archaeoraptor
+    link: https://archaeoraptor.tumblr.com/post/161932602094/old-art-of-one-of-my-oldest-dragons-which-i-dont
+  - dt: 2016-10-08
+    by: Archaeoraptor
+    link: https://archaeoraptor.tumblr.com/post/151536545119/a-flyleaf-concept-a-year-where-i-take-up-at
+  - dt: 2020-06-12
+    by: Orbitz
+    fr-id: 44495
+    link: https://www1.flightrising.com/forums/permalink/reply/43636672
+  - dt: 2021-10-18
+    by: Interlunation
+    fr-id: 566959
+    link: https://www1.flightrising.com/forums/permalink/reply/49297592
 
 css: "#content h3:first-child{margin-top:0;} /*temp?*/ blockquote{margin:1em 1em 1em 3em; font-style:italic;} #content h4{margin-top:1em; text-transform:uppercase; letter-spacing:.025em; /*yes font-variant is an option but the bold is like. Extra Bold Supeme with verdana*/}"
 ---
@@ -24,7 +38,7 @@ this is a Bit of a mess because Alto's lore basically encompasses a couple signi
 
 #### Viral Evolution
 - once a wandering would-be warrior; upon meeting [Maelstrom](maelstrom) and [Lapilli](lapilli), pledged herself to their service
-- helped raise the orphan [Azurite](https://www1.flightrising.com/dragon/12140008), but Azurite quickly surpassed her mentor, to Alto's chagrin
+- helped raise the orphan Azurite, but Azurite quickly surpassed her mentor, to Alto's chagrin
 - in an attempt to "help" the clan better, plotted to raise an Emperor---by recruiting eleven unwitting imperials, Schism included
 - plan was revealed via friend-of-a-friend shenanigans (Schism was friends with the "bee faes" (survived today only by Riviana), who uncovered the plot) and a bunch of drama happened
 - ultimately, all the imperials but Schism fell to the Wyrmwound, and Altostratus was promptly exiled
@@ -32,8 +46,8 @@ this is a Bit of a mess because Alto's lore basically encompasses a couple signi
 #### lost
 - [I wrote a scene at one point about Azurite encountering Alto post-exile, but idk if it's saved anywhere]
 - wanderings took Alto back to the Shifting&nbsp;Expanse for some good self-reflection. in no particular order:
-- wings broke; got them replaced/supplemented by prosthetics
-- found a stray Fire egg who later hatched into Gizmo; "raised" it from afar but never got too close
+	- wings broke; got them replaced/supplemented by prosthetics
+	- found a stray Fire egg who later hatched into Gizmo; "raised" it from afar but never got too close
 - eventually wound up in the Tangled&nbsp;Wood, and met the corven beastclan Cryptocelus in the Ghostlight&nbsp;Ruins. Alto allied with them in an attempt to help fight back dragons who'd "discovered" the venue, but it all got lost to the shadows... <small><i>[read: I lost interest and did a lair purge<!--see: Flight Reaping-->]</i></small>
 
 #### and since then...
@@ -41,9 +55,6 @@ this is a Bit of a mess because Alto's lore basically encompasses a couple signi
 - ambiguously wandering since, with no strong allegiance neither elemental nor clan-wise. but reportedly she's doin' good
 
 ### Archaeoraptor notes
-We love an atoner. Alto's story covers most of Viral&nbsp;Evolution's, and I haven't really known what do with her lore-wise since, but I think she's cool. And although I've occasionally toyed with the thought of changing her genes, her outfit's pretty complex and I'm happy with how she looks as-is :>
+We love an atoner. Alto's story covers most of Viral&nbsp;Evolution's, and I haven't really known what do with her lore-wise since then, but I think she's cool. And although I've occasionally toyed with the thought of changing her genes, her outfit's pretty complex and I'm happy with how she looks as-is :>
 
-As a side note, she has three offspring---[Asher](https://www1.flightrising.com/dragon/13421444), [Brook](https://www1.flightrising.com/dragon/13421445), and [Codi](https://www1.flightrising.com/dragon/13421446)---who themselves don't have lore, but their father [Cristofori](https://www1.flightrising.com/dragon/11943858) did! He was Viral&nbsp;Evolution's healer for a while; but his BFF/partner [Reverie](https://www1.flightrising.com/dragon/13403583) was one of the imperials dragged into Alto's Emperor-raising scheme. Needless to say Cristofori wasn't happy about that; whatever relationship he and Alto had was severed at the revelation.
-
-<br>
-**This dragon has art**; I just haven't added it to the site yet.
+As a side note, she has three offspring---[Asher](https://www1.flightrising.com/dragon/13421444), [Brook](https://www1.flightrising.com/dragon/13421445), and [Codi](https://www1.flightrising.com/dragon/13421446)---who themselves don't have lore, but their father [Cristofori](https://www1.flightrising.com/dragon/11943858) did! He was Viral&nbsp;Evolution's healer for a while, but his BFF/partner [Reverie](https://www1.flightrising.com/dragon/13403583) was one of the imperials dragged into Alto's Emperor-raising scheme. Needless to say, Cristofori wasn't happy about that. The revelation severed whatever relationship he and Alto had, and other than that Gizmo-raising detour, she's been effectively on her own since.
