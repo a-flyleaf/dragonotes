@@ -2311,7 +2311,31 @@
     accent: 1
     scene: 1
   cat: [lore,other]
-# auraboa
+- nm: KanelosMenthe
+  id: 90679007
+  element: plague
+  sex: m
+  breed: auraboa
+  gen: 1
+  msr:
+    length: 16.15
+    wings: 13.65
+    weight: 3948.52
+  genes:
+    pri:
+      clr: 75
+      gn: mochlus
+    sec:
+      clr: 148
+      gn: riopa
+    tert:
+      clr: 20
+      gn: stinger
+    eye: rare
+  dates:
+    hatch: 2023-11-21
+    hibern: 2024-09-11
+  cat: [nolore]
 - nm: Sretno
   id: 91709273
   element: earth
@@ -2337,3 +2361,4 @@
     hatch: 2023-12-25
     hibern: 2024-02-22
   cat: [nolore]
+# Squid, Honse, Dusk
