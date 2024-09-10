@@ -44,7 +44,9 @@
 - nm: obelisk
   id: 15
   typ: modern
-# 16
+- nm: fathom
+  id: 16
+  typ: modern
 - nm: gaoler
   id: 17
   typ: ancient
@@ -68,4 +70,7 @@
   typ: ancient
 - nm: auraboa
   id: 24
+  typ: ancient
+- nm: dusthide
+  id: 25
   typ: ancient

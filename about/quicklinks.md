@@ -20,7 +20,7 @@ miscellaneous stuff for my own reference
 
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
-- post tracking: [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent) \| [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&forum=&when=0&sort=recent)
+- post tracking: [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent) \| [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&forum=&when=0&sort=recent) \| [Old&nbsp;Oaks](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2725086&forum=&when=0&sort=recent)
 - [incomplete achievements](https://www1.flightrising.com/game-database/achievements?display_type=not_completed)
 
 ## gathering
@@ -57,7 +57,7 @@ Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, G
 
 ## dragon order
 
-gray = hibernating; ! = date obtained not noted; \* = traveler
+gray = hibernating; ! = date obtained not noted
 
 <table id="dragolist">
 	<thead class="x"><tr><th>YYYY</th><th>MM</th><th>DD</th><th>dragon(s)</th></tr></thead>
@@ -127,14 +127,41 @@ gray = hibernating; ! = date obtained not noted; \* = traveler
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
+		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td>XxCaptnPlasmatog<s>, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
 		<tr><td>06</td><td>28</td><td><s>Marlowe</s></td></tr>
-		<tr><td>11</td><td>21</td><td>[auraboa]</td></tr>
+		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
 		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
+	</tbody><tbody>
+		<tr><td rowspan="2">>2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
+		<tr><td>07</td><td>16</td><td>Dusk</td></tr>
 	</tbody>
 </table>
 
 this will possibly be "retired"/redone in favor of dragon data later but for now it's still very useful to have, if unwieldy code-wise
 
 [hibernal den released in 2019](https://www1.flightrising.com/forums/ann/2627065), lookit that dragon count go
+
+<!--these are no one's business but my own but I want 'em here anyways
+
+### notable lizards
+#### all G1s I've hatched (to memory):
+- <b>[Tyson](https://www1.flightrising.com/dragon/31806787)</b>: first egg I ever found; had some lore crumbs but never found a place, exalted
+- <b>[Cygnus](https://www1.flightrising.com/dragon/57992771)</b>: egg gifted to me from [PricklyGoose](https://www1.flightrising.com/clan-profile/342988); revamped from blue noc to pink undertide permabab
+- <b>[[unnamed]](https://www1.flightrising.com/dragon/76895138)</b>: prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
+- <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
+- <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
+
+#### dragos from frembs :>
+ordered by account ID
+
+- [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
+- [Rosaceae](https://www1.flightrising.com/clan-profile/154165): <b>[Jester](https://www1.flightrising.com/dragon/57606297)</b>---inside joke. goop is hell.
+- [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>: borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
+- [Starbrite](https://www1.flightrising.com/clan-profile/325229): <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought from Starbrite & has lore based on parents'!
+- [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
+- [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
+- [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
+
+-->
