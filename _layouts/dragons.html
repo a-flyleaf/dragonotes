@@ -47,7 +47,7 @@
 								<li><b>element</b>: {{drg.element|capitalize}}</li>
 								<li><b>breed</b>: {{drg.breed|capitalize}}</li>
 								<li><b>generation</b>: {%if drg.gen%}1{%else%}2+{%endif%}{%if drg.nm=='Maelstrom' or drg.nm=='Lapilli'%} <small>({%if drg.nm=='Maelstrom'%}custom{%else%}random{%endif%} progen)</small>{%endif%}</li>
-								<li><b>level</b>: {%if drg.lvl%}{{drg.lvl}}{%if drg.stats%} <small><a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">({{drg.stats.bld}}</a> by <a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>)</small>{%endif%}{%else%}1{%endif%}</li>
+								<li><b>level</b>: {%if drg.lvl%}{{drg.lvl}}{%if drg.stats%} <small>(<a href="https://www1.flightrising.com/forums/{{drg.stats.lnk}}">{{drg.stats.bld}}</a> by <a href="https://www1.flightrising.com/clan-profile/{{drg.stats.id}}">{{drg.stats.by}}</a>)</small>{%endif%}{%else%}1{%endif%}</li>
 							</ul>
 						</section><section>
 							<h3>size</h3>

@@ -93,9 +93,6 @@
     obtain: 2015-04-08
     hibern: 2019-03-13
   cat: [lore,virevo]
-
-# new pages left off here
-
 - nm: solar
   id: 6594794
   element: arcane
@@ -113,31 +110,22 @@
     weight: 853.8
   genes:
     pri:
-      num: 146
-      clr: chocolate
+      clr: 146
       gn: tiger
     sec:
-      num: 104
-      clr: lemon
+      clr: 104
       gn: current
     tert:
-      num: 1
-      clr: maize
+      clr: 1
       gn: underbelly
   dates:
     hatch: 2014-09-27
     obtain: 2015-05-04
     hibern: 2019-03-13
-  has:
-    familiar: Leoopard Coralclimber
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 1 
-    scene: 0
-    broadcast: first gift dragon
-  cat: [lore]
+  cat: [lore,virevo]
+
+# new pages left off here
+
 - nm: Pestilence
   id: 13483458
   element: plague

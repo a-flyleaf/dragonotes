@@ -1,60 +1,115 @@
 - id: 359
   nm: Shattered Serpent
   ct: familiar
+
 - id: 412
   nm: Rainbow Sprite
   ct: familiar
+
 - id: 607
   nm: Rambra
   ct: familiar
+
 - id: 667
   nm: Crown of Bones
   ct: apparel
+
+- id: 817
+  nm: Fuchsia Deepsea Bulb
+  ct: apparel
+
 - id: 2967
   nm: Aqua Birdskull Necklace
   ct: apparel
+
+- id: 2984
+  nm: Tropical Birdskull Armband
+  ct: apparel
+
+- id: 2986
+  nm: Tropical Birdskull Legband
+  ct: apparel
+
+- id: 5165
+  nm: Rose Feathered Wings
+  ct: apparel
+
 - id: 11972
   nm: "Accent: Dancing Conductor"
   ct: skin
+
 - id: 12904
   nm: Contrast Aviator Satchel
   ct: apparel
+
 - id: 13799
   nm: Contrast Rogue Cape
   ct: apparel
+
 - id: 18342
   nm: "Vista: Fungi"
   ct: specialty
+
 - id: 19042
   nm: Surgestream Coat
   ct: apparel
+
+- id: 19711
+  nm: "Vista: Starfall Celebration"
+  ct: apparel
+
+- id: 20147
+  nm: Leopard Coralclimber
+  ct: familiar
+ 
 - id: 21593
   nm: "Vista: Trickmurk Circus"
   ct: specialty
+
 - id: 24519
   nm: Carapace Arm
   ct: apparel
+
 - id: 27201
   nm: Voltaic Stormclaws
   ct: apparel
+
 - id: 32034
   nm: Riot Hazebeacon
   ct: apparel
+
 - id: 32689
   nm: Fiendflesh Tailspine
   ct: apparel
+
 - id: 32690
   nm: Fiendflesh Hindcallouses
   ct: apparel
+
 - id: 33517
   nm: "Accent: Fake Out"
   ct: skin
+
+- id: 34621
+  nm: "Accent: Loveblooms Eternal"
+  ct: skin
+
 - id: 36376
   nm: "Scene: Plaguebringer's Domain"
   ct: specialty
+
+- id: 47122
+  nm: Arcane Aura
+  ct: apparel
+
 - id: 44082
   nm: "Scene: Ancient Harpy Canyon"
   ct: specialty
+
 - id: 45489
   nm: Cartographer
   ct: apparel
+ 
+- id: 52050
+  nm: "Scene: Crytal Pools"
+  ct: specialty
