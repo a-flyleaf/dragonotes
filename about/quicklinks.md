@@ -26,24 +26,26 @@ miscellaneous stuff for my own reference
 ## gathering
 all familiars FOUND \o/ just diggin' for [gravel](https://www1.flightrising.com/game-database/item/181) now (wind/shadow/fire)
 
-<!--
 ## coli fams
 
-bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss  
-[THIS IS PROBABLY OUTDATED]
+bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
+
+this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
 ~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Aurelian Porcupine, Spring Glade Lord, Winter Glade Lord, Moonglow Nightjar, Spongy Spingy, Flying Fawn</b>
+Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Scarlet-Crested Woodoon, Spongy Spingy, Spring Glade Lord, Winter Glade Lord</b>
 ~~Scorched Forest~~ | <s>✓</s>
+Boneyard | <b>Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Bonebeetle, Boneblade Knight, Bonepicker Archivist, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Corven Scribe, Corvid Convergence, Hissing Foulscale, Infected Scavenger, Isopuppy, Murder Cage, Oilslick Cockatrice, Ossein Scavenger, Ridgespine Streak, Sisyphus Beetle, Skeletal Streak, Spinal Sorcerer, Spinesword Warden, Steelscale Isopuppy, Sunbleached Foulscale, Tarpit Cockatrice</b>
 Sandswept Delta | <b>Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
+Silk-Strewn Wreckage | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | <u>Mossy Pohip</u>
-Forgotten Cave | <b>Bell Goat, Burrow Bear, Dire Claw, Creeping Cluster, Djamor Bat, Ostreatus Bat</b>
+Forgotten Cave | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
-Redrock Cove | <b><u>Spiney Whale</u>, Coastline Sawbeak, Green-breasted Sawbeak, Toxic Igueel, Igueel Matriarch</b>
+Redrock Cove | <b>Coastline Sawbeak, Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
 Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
-Volcanic Vents | <b>Dreadram, Spectral Duskflapper, Flamescale Illusionist, Firebelly Weaver, Ultraram, <u>Tunnel Hydra, Hydra</u></b>
+Volcanic Vents | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
 Rainsong Jungle | <u>Goldenbeast</u>
 Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
@@ -51,9 +53,8 @@ Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 Mire | <b>✓</b>
 Golem Workshop | <b>Copperplate Longmech</b>
-Kelp Beds | <b>Eggull, Blue-Footed Eggull, Ruche Slug, Ruched Sojourner, Maren Fisher, Maren Seahunter, Kelp Caretaker, Maren Harvester</b>
-Forbidden Portal | <b>Barhide Menace, All-Seeing Eye, Lap Pupowl, Terror Toad, Giggling Planesrunner, Sparksylph, Spectre Wyvern</b>
--->
+Kelp Beds | <b>Blue-Footed Eggull, Eggull, Kelp Caretaker, Maren Fisher, Maren Harvester, Maren Seahunter, Ruche Slug, Ruched Sojourner, Seastar, Spotted Seastar</b>
+Forbidden Portal | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Lap Pupowl, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
 ## dragon order
 
