@@ -133,7 +133,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
 		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="2">>2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
+		<tr><td rowspan="2">2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
 		<tr><td>07</td><td>16</td><td>Dusk</td></tr>
 	</tbody>
 </table>
