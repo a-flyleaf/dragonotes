@@ -71,11 +71,11 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		<span class="goal">Team Fungus</span></figcaption>
 </figure>{%include badge.html
 		url="fl2/1835829"
-		img="https://cdn.discordapp.com/attachments/154538283068686336/172604478803935234/Compass.gif"
+		img="https://i.postimg.cc/bwmjF9M0/Compass.gif"
 		artist="TrippyTrix#190947"
 		title="Coli Scavenger Hunt"
 		date="April 29, 2016"
-	%}{%include badge.html
+	%}<!--old badge url: https://cdn.discordapp.com/attachments/154538283068686336/172604478803935234/Compass.gif-->{%include badge.html
 		url="fl2/1833669"
 		img="https://i.imgur.com/1JghvL1.png"
 		artist="KyraG#61693"
@@ -286,7 +286,7 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		title="Moneydemic vs Plaguebringer"
 		date="July 7, 2018"
 		goal="collective 2500 exalts & 12500 levels"
-	%}{%include badge.html
+	%}<!--badge image seems to have broken for good, RIP-->{%include badge.html
 		url="fl2/2468455"
 		img="https://i.imgur.com/KbhJ3rV.png"
 		artist="KyraG#61693"
@@ -375,12 +375,12 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		goal="sent 500 levels"
 	%}{%include badge.html
 		url="drw/2824772"
-		img="https://media.discordapp.net/attachments/657482032124919811/666102745647808533/strawberry.png"
+		img="https://i.postimg.cc/yN5C7Y7k/strawberry.png"
 		artist="brit#54041"
 		title="<a href='https://www1.flightrising.com/forums/drw/2824772'>LEAP</a>"
 		date="February 2020"
 		goal="sent dragons on Sunday"
-	%}<figure>
+	%}<!--https://media.discordapp.net/attachments/657482032124919811/666102745647808533/strawberry.png--><figure>
 	<a href="https://www1.flightrising.com/forums/fd2/2845080"><img src="https://i.postimg.cc/F1tgxVYx/l84.png" alt="badges by ???"/><img src="https://i.postimg.cc/7Lq9c9ms/l53.png" alt=""/></a>
 	<figcaption><b>Goals & Incentives: Memes & Water</b><br/>
 	<span class="date">April 18, 2020</span><br/>
@@ -483,12 +483,12 @@ Ordered chronologically by date earned, which is usually based on the event end.
 		goal="sent 300 levels"
 	%}{%include badge.html
 		url="drw/3101203"
-		img="https://media.discordapp.net/attachments/919083832735596574/939635691443351693/OOf_badge.png"
+		img="https://i.postimg.cc/vBVFTFmX/OOf-badge.png"
 		artist="??? (three artists credited in-thread, not specific)"
 		title="<a href='https://www1.flightrising.com/forums/drw/3101203'>Valight</a>"
 		date="February 12, 2022"
 		goal="sent 300 levels"
-	%}{%include badge.html
+	%}<!--https://media.discordapp.net/attachments/919083832735596574/939635691443351693/OOf_badge.png-->{%include badge.html
 		url="raf/3102055"
 		img="https://orig13.deviantart.net/81fa/f/2017/210/d/d/p4_by_empressfiraya-dbi65t6.gif"
 		artist="AlienaCordis#144520"
