@@ -88,7 +88,7 @@ section ul{list-style-type:none;}
 #gallery{text-align:center;}
 #gallery p{margin:-.5em 0 .5em;}
 figure{display:inline-block; margin:1em 0;}
-figure img{max-width:515px;}
+figure img{max-width:100%;} /*or 515px? idk*/
 figcaption{font-size:.85em;}
 
 /*categories*/

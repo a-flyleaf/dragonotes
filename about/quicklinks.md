@@ -33,9 +33,9 @@ bold = haven't done the [long drop coli challenge](https://www1.flightrising.com
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
 ~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Scarlet-Crested Woodoon, Spongy Spingy, Spring Glade Lord, Winter Glade Lord</b>
+Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Spongy Spingy, Spring Glade Lord, Winter Glade Lord</b>
 ~~Scorched Forest~~ | <s>✓</s>
-Boneyard | <b>Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Bonebeetle, Boneblade Knight, Bonepicker Archivist, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Corven Scribe, Corvid Convergence, Hissing Foulscale, Infected Scavenger, Isopuppy, Murder Cage, Oilslick Cockatrice, Ossein Scavenger, Ridgespine Streak, Sisyphus Beetle, Skeletal Streak, Spinal Sorcerer, Spinesword Warden, Steelscale Isopuppy, Sunbleached Foulscale, Tarpit Cockatrice</b>
+Boneyard | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
 Sandswept Delta | <b>Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
 Silk-Strewn Wreckage | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | <u>Mossy Pohip</u>
@@ -51,9 +51,9 @@ Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
-Mire | <b>✓</b>
-Golem Workshop | <b>Copperplate Longmech</b>
+~~Mire~~ | <s>✓</s>
 Kelp Beds | <b>Blue-Footed Eggull, Eggull, Kelp Caretaker, Maren Fisher, Maren Harvester, Maren Seahunter, Ruche Slug, Ruched Sojourner, Seastar, Spotted Seastar</b>
+~~Golem Workshop~~ | <s>✓</s>
 Forbidden Portal | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Lap Pupowl, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
 ## dragon order

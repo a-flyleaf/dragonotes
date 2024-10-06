@@ -102,7 +102,7 @@
 				<p><small><i>links open in new tabs</i></small></p>
 				<div class="box">
 				{%for art in page.art%}<figure>
-					<a href="{%include url.html%}/assets/img/art/{%if art.fr-id%}notmine/{%endif%}{{art.dt}}{%if art.fr-id%}_by-FR{{art.fr-id}}{%endif%}.png" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if art.fr-id%}notmine/{%endif%}{{art.dt}}{%if art.fr-id%}_by-FR{{art.fr-id}}{%endif%}.png" alt=""></a>
+					<a href="{%include url.html%}/assets/img/art/{%if art.fr-id%}notmine/{%endif%}{{art.dt}}{%if art.fr-id%}_by-FR{{art.fr-id}}{%endif%}.png" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if art.fr-id%}notmine/{%endif%}{{art.dt}}{%if art.fr-id%}_by-FR{{art.fr-id}}{%endif%}.png" alt="" width="515px"></a>
 					<figcaption><b>{%if art.link%}<a href="{{art.link}}" target="_blank">{%endif%}{{art.dt|date:"%B %-d, %Y"}}{%if art.link%}</a>{%endif%}</b><br>by {%if art.by=='Archaeoraptor'%}yours truly{%else%}<a href="https://www1.flightrising.com/clan-profile/{{art.fr-id}}">{{art.by}}</a>{%endif%}</figcaption>
 				</figure>{%endfor%}
 				</div><!--/box-->
