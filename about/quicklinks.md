@@ -33,7 +33,7 @@ bold = haven't done the [long drop coli challenge](https://www1.flightrising.com
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
 ~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Spongy Spingy, Spring Glade Lord, Winter Glade Lord</b>
+Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Spongy Spingy, Winter Glade Lord</b>
 ~~Scorched Forest~~ | <s>✓</s>
 Boneyard | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
 Sandswept Delta | <b>Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
@@ -114,12 +114,11 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="13">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
+		<tr><td rowspan="12">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
 		<tr><td>02</td><td>21</td><td><s>!Fred</s></td></tr>
-		<tr><td rowspan="4">03</td><td>07</td><td><s>Dmitri</s></td></tr>
+		<tr><td rowspan="3">03</td><td>07</td><td><s>Dmitri</s></td></tr>
 		<tr><td>10</td><td><s>Novak</s></td></tr>
-		<tr><td>22</td><td><s>LithophoneElegy</s></td></tr>
 		<tr><td>27</td><td><s>Layes</s></td></tr>
 		<tr><td>04</td><td>24</td><td><s>InexplicableFern</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>Scylla</s></td></tr>

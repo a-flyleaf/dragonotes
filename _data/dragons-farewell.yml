@@ -326,3 +326,39 @@
     scene: 1
     broadcast: dedicated glassworker
   cat: [lore]
+- nm: LithophoneElegy
+  id: 76638816
+  element: plague
+  sex: m
+  breed: veilspun
+  lvl: 15
+  msr:
+    length: 0.41
+    wings: 0.92
+    weight: 1.18
+  genes:
+    pri:
+      num: 60
+      clr: abyss
+      gn: shell
+    sec:
+      num: 59
+      clr: denim
+      gn: web
+    tert:
+      num: 159
+      clr: berry
+      gn: thorns
+  dates:
+    hatch: 2022-03-18
+    hibern: 2023-10-28
+    farewell: 2024-10-04
+  has:
+    apparel: 0
+    accent: 1
+    bio: 0
+    art: 0
+    vista: 0
+    scene: 0
+    broadcast: "[TBA] ’locke survivor"
+  cat: [lore]
