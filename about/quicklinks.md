@@ -35,8 +35,8 @@ this is most up-to-date in a private personal spreadsheet, but it's copied here 
 ~~Training Fields~~ | <s>✓</s>
 Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Spongy Spingy, Winter Glade Lord</b>
 ~~Scorched Forest~~ | <s>✓</s>
-Boneyard | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
-Sandswept Delta | <b>Dunerunner, Dusk Fuiran, Tricolor Viperpillar</b>
+Boneyard | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
+Sandswept Delta | <b>Dusk Fuiran, Tricolor Viperpillar</b>
 Silk-Strewn Wreckage | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | <u>Mossy Pohip</u>
 Forgotten Cave | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
@@ -47,12 +47,12 @@ Waterway | Sewer Toridae
 Arena | <u>Undying Featherback</u>
 Volcanic Vents | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
 Rainsong Jungle | <u>Goldenbeast</u>
-Boreal Wood | <u>Coarsefur Yeti</u>, Mammophant
+Boreal Wood | <u>Coarsefur Yeti</u>
 Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | <s>✓</s>
-Kelp Beds | <b>Blue-Footed Eggull, Eggull, Kelp Caretaker, Maren Fisher, Maren Harvester, Maren Seahunter, Ruche Slug, Ruched Sojourner, Seastar, Spotted Seastar</b>
+Kelp Beds | <b>Blue-Footed Eggull, Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
 ~~Golem Workshop~~ | <s>✓</s>
 Forbidden Portal | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Lap Pupowl, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
@@ -98,19 +98,18 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="16">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td>Katsura</td></tr>
-		<tr><td>03</td><td>19</td><td>[anandte2]</td></tr>
+		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
 		<tr><td>05</td><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
+		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td><s>Seafoam</s></td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="2">10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
-		<tr><td rowspan="4">11</td><td>03</td><td><s>Axius</s></td></tr>
-		<tr><td>07</td><td>LethalTriplicate</td></tr>
+		<tr><td rowspan="3">11</td><td>03</td><td><s>Axius</s></td></tr>
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
@@ -133,8 +132,12 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
 		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="2">2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
+		<tr><td rowspan="6">2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
 		<tr><td>07</td><td>16</td><td>Dusk</td></tr>
+		<tr><td rowspan="2">09</td><td>08</td><td>Kaema</td></tr>
+		<tr><td>13</td><td>Mehdiz</td></tr>
+		<tr><td rowspan="2">10</td><td>06</td><td>[Pompom]</td></tr>
+		<tr><td>12</td><td>Archibald</td></tr>
 	</tbody>
 </table>
 
@@ -145,7 +148,7 @@ this will possibly be "retired"/redone in favor of dragon data later but for now
 <!--these are no one's business but my own but I want 'em here anyways
 
 ### notable lizards
-#### all G1s I've hatched (to memory):
+#### all G1s I've hatched (to memory)
 - <b>[Tyson](https://www1.flightrising.com/dragon/31806787)</b>: first egg I ever found; had some lore crumbs but never found a place, exalted
 - <b>[Cygnus](https://www1.flightrising.com/dragon/57992771)</b>: egg gifted to me from [PricklyGoose](https://www1.flightrising.com/clan-profile/342988); revamped from blue noc to pink undertide permabab
 - <b>[[unnamed]](https://www1.flightrising.com/dragon/76895138)</b>: prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted

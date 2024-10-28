@@ -7,11 +7,49 @@ css: "#badges{margin-top:1em; text-align:center; display:flex; flex-wrap:wrap;} 
 badges:
   - url: drw/3367491/1#post_3367491
     title: Bionic Birdwatching (Lightning PB)
-    date: 2024-10-06
+    date: 2024-10-05
     goal: sent 750 levels
     img:
       - url: https://i.postimg.cc/CKyXrK3P/bird.png
         artist: TacoTequila#497217
+  - url: qnc/3367392/1#post_3367392
+    title: Fire Tour Scavenger Hunt
+    date: 2024-10-12
+    goal: gained 1,000 points
+    img:
+      - url: https://i.postimg.cc/dkHpcWk6/FR2.png
+        artist: AkaPanuka#4907
+  - url: fd2/3371209
+    title: Riot of Rotcon Raffle
+    date: 2024-10-26
+    goal: exalted 600 levels
+    img:
+      - url: https://i.imgur.com/HG8Sbp6.gif
+        artist: puq#303478
+  - url: fd2/3371153/1#post_3371153
+    title: Army of Rot
+    date: 2024-10-26
+    goal: exalted 1,000 levels
+    img:
+      - url: https://i.imgur.com/VYcJGel.png
+        artist: TheSunTheGodsSaw#35038 (original badge design) & ufology#296565 (recolors)
+  - url: fd2/3371283#post_3371283
+    title: Goals & Incentives
+    date: 
+    goal: exalted 50 lvl5s · exalted 25 lvl8s · aged up 10 hatchlings · exalted 5 daily bonuses · hatched 1 fodder nest · raided the AH 5 times
+    img:
+      - url: https://i.imgur.com/tPk75UP.png
+        artist: "[unlisted]"
+      - url: https://i.imgur.com/twzPUO7.png
+        artist: "[unlisted]"
+      - url: https://i.imgur.com/kp9ZWEH.png
+        artist: "[unlisted]"
+      - url: https://i.imgur.com/aq1amo0.png
+        artist: "[unlisted]"
+      - url: https://i.imgur.com/GFDZaVS.png
+        artist: "[unlisted]"
+      - url: https://i.imgur.com/ekwWttT.png
+        artist: "[unlisted]"
 
 #  - url: 
 #    title: 
@@ -25,7 +63,7 @@ Picks up where [the previous page]({%include url.html%}/v1/about/badges) left of
 
 Oh well. As of October&nbsp;2024, here we go again...!
 
-- Ordered chronologically by date earned, which is based on the event's end date.
+- Ordered chronologically by date earned, which is based on the event's end date (typically a Saturday).
 - Images have **not** been reuploaded and may break later.
 - Artist credit in alt text, also visible on hover.
 - If I earned multiple badges, I usually grab the one that gets me the most bragging rights (e.g. between exalting 1 dragon per day or 100 dragons total, I'll clip to the 100).
@@ -40,7 +78,7 @@ Oh well. As of October&nbsp;2024, here we go again...!
 		<p class="b-title">{%unless badge.url contains "fl2" or badge.url contains "fd2"%}<a href="https://www1.flightrising.com/forums/{{badge.url}}">{%endunless%}<b>{{badge.title}}</b>{%unless badge.url contains "fl2" or badge.url contains "fd2"%}</a>{%endunless%}</p>
 		<div class="b-info">
 			<p>{{badge.date|date:"%B %-d, %Y"}}</p>
-			<p>{{badge.goal}}</p>
+			<p><i>{{badge.goal}}</i></p>
 		</div>
 	</figcaption>
 </figure>{%endfor%}</div>
