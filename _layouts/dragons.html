@@ -65,7 +65,7 @@
 								<li class="{%for clr in pri%}c{{clr.id}}{%endfor%}"><b>primary</b>: {{drg.genes.pri.clr|capitalize}} {{drg.genes.pri.gn|capitalize}}</li>
 								<li class="{%for clr in sec%}c{{clr.id}}{%endfor%}"><b>secondary</b>: {{drg.genes.sec.clr|capitalize}} {{drg.genes.sec.gn|capitalize}}</li>
 								<li class="{%for clr in tri%}c{{clr.id}}{%endfor%}"><b>tertiary</b>: {{drg.genes.tert.clr|capitalize}} {{drg.genes.tert.gn|capitalize}}</li>
-								<li><b>eye type</b>: {%if drg.genes.eye%}{{drg.genes.eye}}{%else%}Common{%endif%}</li>
+								<li><b>eye type</b>: {%if drg.genes.eye%}{{drg.genes.eye|capitalize}}{%else%}Common{%endif%}</li>
 							</ul>
 						</section><section>
 							<h3>shown with</h3>

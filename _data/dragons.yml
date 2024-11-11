@@ -49,13 +49,14 @@
   genes:
     pri:
       clr: stonewash
-      gn: speckle
+      gn: pharaoh
     sec:
       clr: royal
-      gn: eye spots
+      gn: jester
     tert:
       clr: coral
-      gn: basic
+      gn: veined
+    eye: rare
   dates:
     hatch: 2015-04-08
     hibern: 2019-03-13

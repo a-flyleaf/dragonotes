@@ -50,6 +50,10 @@
   nm: "Vista: Fungi"
   ct: specialty
 
+- id: 18343
+  nm: "Vista: Harpy's Roost"
+  ct: specialty
+
 - id: 19042
   nm: Surgestream Coat
   ct: apparel
@@ -78,6 +82,10 @@
   nm: Riot Hazebeacon
   ct: apparel
 
+- id: 32046
+  nm: "Accent: All Eyes on You"
+  ct: skin
+
 - id: 32689
   nm: Fiendflesh Tailspine
   ct: apparel
@@ -105,6 +113,22 @@
 - id: 44082
   nm: "Scene: Ancient Harpy Canyon"
   ct: specialty
+
+- id: 45164
+  nm: Wise Bonecarver's Cage
+  ct: apparel
+
+- id: 45172
+  nm: Wise Bonecarver's Jar
+  ct: apparel
+
+- id: 45180
+  nm: Wise Bonecarver's Spine
+  ct: apparel
+
+- id: 45181
+  nm: Wise Bonecarver's Wings
+  ct: apparel
 
 - id: 45489
   nm: Cartographer

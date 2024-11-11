@@ -8,9 +8,9 @@ familiar:
  id: 412
  why: |-
    An early familiar grab; I forget if it was a Coli drop or Pinkerton. Either way, lil winged blue, thought it looked fitting enough.
-apparel: "Crown of Bones"
-skin: 33517
-vista: 18342
+apparel: [Crown of Bones,Wise Bonecarver's Wings,Wise Bonecarver's Cage,Wise Bonecarver's Jar,Wise Bonecarver's Spine]
+skin: 32046
+vista: 18343
 scene: 36376
 
 # art: [existent but buried in files somewhere. possibly just the screm? // update: nope, filename is "riptidescream" so Not Her. damn sorry lapilli]
@@ -25,7 +25,8 @@ css: "#content h3:first-child{margin-top:0;}"
 - the clan (later dubbed <i>Viral&nbsp;Evolution</i>) eventually dissolved due to a whole ’nother mess of interpersonal drama; following this, Lapilli joined Maelstrom for wandering around the plaguelands
 	- bone crown was a parting gift from the kids; has not taken it off since
 	- took on the surname "Virevo" in honor of the clan
-- has occasionally taken interest in other territories, particularly the Tangled&nbsp;Wood; for now she's rarely been apart from Maelstrom long, but time will tell if their paths diverge more significantly....
+- has occasionally taken interest in other territories, particularly the Tangled&nbsp;Wood, but always returns to the plaguelands
+- Riot of Rot 2024: took a dip in the Wyrmwound and came out different!
 
 ### Archaeoraptor notes
-On one hand, blue is my favorite color, and as eternal proof of that luck I'm not particularly tempted to scatter her. On the other, I am increasingly aware of the aesthetic mismatch. If I ever get [that progen restoration achievement](https://www1.flightrising.com/game-database/achievement/134), it'll probably be with her, and with a fresh makeover the second she pops out of the Wyrmwound. Or Tangled&nbsp;Wood. Or... however I justify that makeover, lore-wise.
+Used to have [slightly different genes](../assets/img/dragons/oldver/12116085_350.png)! I never wanted to scatter away the blue, but that Coral tert has been difficult to work with, and I wanted to keep the bone crown for lore reasons no matter how much it stuck out. Several years and new genes later, she finally got a makeover for Halloween---and net me [the progen restoration achievement](https://www1.flightrising.com/game-database/achievement/134) while she was at it! The whole venture was [archived: before, during, and after exaltation](https://archive.is/https://www1.flightrising.com/dragon/12116085). At long last, Lapilli finally looks like the busy little Plagueling she's always been at heart <3
