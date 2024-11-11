@@ -2167,7 +2167,32 @@
     vista: 0
     scene: 0
   cat: [lore]
-# XxCaptnPlasmatog
+- nm: XxCaptnPlasmatog
+  id: 84904477
+  element: wind
+  sex: m
+  breed: aether
+  gen: 1
+  lvl: 25
+  msr:
+    length: 4.62
+    wings: 6.15
+    weight: 511.18
+  genes:
+    pri:
+      clr: 16
+      gn: twinkle
+    sec:
+      clr: 121
+      gn: flair
+    tert:
+      clr: 124
+      gn: starfall
+    eye: unusual
+  dates:
+    hatch: 2023-03-22
+    hibern: 2024-11-11
+  cat: [lore]
 - nm: FestiveFervor
   id: 84959048
   element: lightning
