@@ -52,7 +52,7 @@ Crystal Pools | <u>Hawksbill Gloatih</u>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | <s>✓</s>
-Kelp Beds | <b>Blue-Footed Eggull, Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
+Kelp Beds | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
 ~~Golem Workshop~~ | <s>✓</s>
 Forbidden Portal | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Lap Pupowl, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
@@ -126,14 +126,14 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td>XxCaptnPlasmatog<s>, FestiveFervor</s></td></tr>
+		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
 		<tr><td>06</td><td>28</td><td><s>Marlowe</s></td></tr>
 		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
 		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="6">2024</td><td>06</td><td>14</td><td>Squid, Honse</td></tr>
-		<tr><td>07</td><td>16</td><td>Dusk</td></tr>
+		<tr><td>07</td><td>16</td><td><s>Dusk</s></td></tr>
 		<tr><td rowspan="2">09</td><td>08</td><td>Kaema</td></tr>
 		<tr><td>13</td><td>Mehdiz</td></tr>
 		<tr><td rowspan="2">10</td><td>06</td><td>[Pompom]</td></tr>

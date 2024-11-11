@@ -6,7 +6,7 @@ css: "#badges{margin-top:1em; text-align:center; display:flex; flex-wrap:wrap;} 
 
 badges:
   - url: drw/3367491/1#post_3367491
-    title: Bionic Birdwatching (Lightning PB)
+    title: Bionic Birdwatching (Lightning&nbsp;PB)
     date: 2024-10-05
     goal: sent 750 levels
     img:
@@ -50,6 +50,23 @@ badges:
         artist: "[unlisted]"
       - url: https://i.imgur.com/ekwWttT.png
         artist: "[unlisted]"
+  - url: drw/3371968#post_3371968
+    title: Nature Public&nbsp;Buy
+    date: 2024-11-02
+    goal: sent 750 levels
+    img:
+      - url: https://i.imgur.com/WQw4hWi.png
+        artist: Kieren#665871
+ - url: qnc/3374188#post_3374188
+   title: Astronaut Academy
+   date: 2024-11-08
+   goal: completed word&nbsp;search & maze puzzles
+   img:
+     - url: https://i.imgur.com/6qmnRZ1.png
+       artist: Kywren#539771
+     - url: https://i.imgur.com/NYqePvv.png
+       artist: Kywren#539771
+# https://www1.flightrising.com/forums/raf/3375250
 
 #  - url: 
 #    title: 
