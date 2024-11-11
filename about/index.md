@@ -1,7 +1,7 @@
 ---
 layout: default2
 title: about Archaeoraptor
-css: "center{margin:-.5em 0 -1em;} li{margin:.5em 0;} li>ul>li{margin:0;} h2+ul li:first-child{margin-top:.25em;} #noodles{text-align:center; color:#808080;} s,del{color:#808080;}"
+css: "center{margin:-.5em 0 -1em;} li{margin:.5em 0;} li>ul>li{margin:0;} h2+ul li:first-child{margin-top:.25em;} #noodlbugs{text-align:center; color:#808080;} s,del{color:#808080;}"
 ---
 > ["Archaeoraptor"](https://en.wikipedia.org/wiki/Archaeoraptor) is the informal generic name for a fossil chimera from China in an article published in <i>National Geographic</i> magazine in 1999. The magazine claimed that the fossil was a "missing link" between birds and terrestrial theropod dinosaurs. [...] Further scientific study showed it to be a forgery constructed from rearranged pieces of real fossils from different species.
 
@@ -41,12 +41,12 @@ I'm havin' fun and that's all I really care about ᕕ(&nbsp;ᐛ&nbsp;)ᕗ
 - I chose Plague because I thought the deities were previews of the dragons you could get; Shadow was a close second. (I knew very little about FR before joining.) Love me some edgy horror-y aesthetics.
 	- If I *had* to change flights, I'd consider Shadow (still a favorite) and Ice (I like blue, eyes are cool <i>[ba dum tss]</i>). ~~But I have no real incentive to leave Plague, and the flight change fee is a big deterrent, so ¯\\\_(ツ)_/¯~~
 	- October 2024 update: Lately I've been itching for change. Lightning of all flights is calling out for some reason. <em style="font-style:normal;text-transform:uppercase;">Spreadsheets.</em>
-- My favorite breeds are never consistent, but I'm a sucker for male-pose spirals with matching eyes. Not enough for them to dominate my lair, but still. Smiley noodles <3
-
-<div id="noodles" class="small">{%for noodl in site.data.dragons%}{%if noodl.sex=='m' and noodl.breed=='spiral'%}<a href="https://www1.flightrising.com/dragon/{{noodl.id}}"><img src="{%include url.html%}/assets/img/dragons/{{noodl.id}}_100.png" alt="{{noodl.nm}}"/></a>{%endif%}{%endfor%}
-<p><small>(<a href="https://www1.flightrising.com/dragon/80037268">Singularity</a> also belongs here but hasn’t been added to the site)</small></p></div>
-
-+Male-pose Aethers are also a favorite. Most of them live in my lair as of writing (October&nbsp;2024); lil thumbnail preview to be added here whenever.
+- My overall favorite breeds are never consistent, but I am ever a sucker for male-pose spirals and aethers. Smiley noodles and doofy bugs <3
+<div id="noodlbugs" class="small">
+	{%assign bois=site.data.dragons|where:"sex","m"%}
+	{%for fav in bois%}{%if fav.breed=='spiral' or fav.breed=='aether'%}<a href="https://www1.flightrising.com/dragon/{{fav.id}}"><img src="{%include url.html%}/assets/img/dragons/{{fav.id}}_100.png" alt="{{fav.nm}}"/></a>{%endif%}{%endfor%}
+	<p><small>(not shown: any lads still in <a href="https://www1.flightrising.com/lair/138250">the lair</a>)</small></p>
+</div>
 
 ## ok done now. be free
 [dragonotes homepage](../) | [my clan profile](https://www1.flightrising.com/clan-profile/138250) | [Flight Rising homepage](https://www1.flightrising.com/)  
