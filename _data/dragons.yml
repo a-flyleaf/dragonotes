@@ -78,15 +78,12 @@
     weight: 812.8
   genes:
     pri:
-      num: 4
       clr: white
       gn: iridescent
     sec:
-      num: 4
       clr: white
       gn: seraph
     tert:
-      num: 18
       clr: coal
       gn: basic
   dates:
@@ -111,13 +108,13 @@
     weight: 853.8
   genes:
     pri:
-      clr: 146
+      clr: chocolate
       gn: tiger
     sec:
-      clr: 104
+      clr: lemon
       gn: current
     tert:
-      clr: 1
+      clr: maize
       gn: underbelly
   dates:
     hatch: 2014-09-27
@@ -2340,4 +2337,79 @@
     hatch: 2023-12-25
     hibern: 2024-02-22
   cat: [nolore]
-# Squid, Honse, Dusk
+- nm: Squid
+  id: 95730923
+  element: ice
+  sex: m
+  breed: fathom
+  gen: 1
+  msr:
+    length: 16.81
+    wings: 21.68
+    weight: 7307.18
+  genes:
+    pri:
+      clr: clay
+      gn: leopard
+    sec:
+      clr: ultramarine
+      gn: saddle
+    tert:
+      clr: mantis
+      gn: underbelly
+    eye: bright
+  dates:
+    hatch: 2024-06-14
+    hibern: 2024-11-24
+  cat: [lore]
+- nm: Honse
+  id: 95756455
+  element: light
+  sex: f
+  breed: fathom
+  gen: 1
+  msr:
+    length: 16.66
+    wings: 18.45
+    weight: 8368.63
+  genes:
+    pri:
+      clr: red
+      gn: boa
+    sec:
+      clr: brick
+      gn: blaze
+    tert:
+      clr: banana
+      gn: underbelly
+    eye: unusual
+  dates:
+    hatch: 2024-06-14
+    hibern: 2024-11-24
+  cat: [lore]
+- nm: Dusk
+  id: 96501597
+  element: light
+  sex: m
+  breed: gaoler
+  msr:
+    length: 11.21
+    wings: 8.44
+    weight: 6232.97
+  genes:
+    pri:
+      clr: umber
+      gn: phantom
+    sec:
+      clr: smoke
+      gn: blend
+    tert:
+      clr: cinnamon
+      gn: thylacine
+    eye: uncommon
+  dates:
+    hatch: 2024-06-16
+    obtain: 2024-07-16
+    hibern: 2024-10-30
+  cat: [nolore]
+ 
