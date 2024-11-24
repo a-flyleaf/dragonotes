@@ -66,7 +66,21 @@ badges:
         artist: Kywren#539771
       - url: https://i.imgur.com/NYqePvv.png
         artist: Kywren#539771
-# https://www1.flightrising.com/forums/raf/3375250
+  - url: raf/3375250#post_3375250
+    title: (Shadow) Veilaversary Raffle
+    date: 2042-11-16
+    goal: sent 1,000 levels
+    img:
+      - url: https://orig13.deviantart.net/81fa/f/2017/210/d/d/p4_by_empressfiraya-dbi65t6.gif
+        artist: AlienaCordis#144520
+  - url: raf/3377536/1#post_3377536
+    title: Earth Raffle
+    date: 2024-11-23
+    goal: sent 350 levels
+    img:
+      - url: https://i.imgur.com/Ya9VQDQ.png
+#           "archaeoraptor that's the monday batch" flamin lego go brr
+        artist: "Vendrus#4101 and/or large#379282"
 
 
 #  - url: 

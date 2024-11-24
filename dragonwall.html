@@ -196,6 +196,7 @@ layout: none
 {%assign bns=all|where:"breed","banescale"%}
 {%assign bog=all|where:"breed","bogsneak"%}
 {%assign ctl=all|where:"breed","coatl"%}
+{%assign evl=all|where:"breed","everlux"%}
 {%assign fae=all|where:"breed","fae"%}
 {%assign gao=all|where:"breed","gaoler"%}
 {%assign gua=all|where:"breed","guardian"%}
@@ -210,10 +211,10 @@ layout: none
 {%assign vls=all|where:"breed","veilspun"%}
 {%assign wld=all|where:"breed","wildclaw"%}
 <p>BREED COUNT: Aberration {{abr.size}} | Aether {{aet.size}} | Auraboa {{aur.size}} | Banescale {{bns.size}} | Bogsneak {{bog.size}} | Coatl {{ctl.size}} | Fae {{fae.size}} | Gaoler {{gao.size}} | Guardian {{gua.size}} | Imperial {{imp.size}} | Mirror {{mir.size}} | Nocturne {{noc.size}} | Obelisk {{obe.size}} | Ridgeback {{rdg.size}} | Skydancer {{skd.size}} | Spiral {{spr.size}} | Undertide {{udt.size}} | Veilspun {{vls.size}} | Wildclaw {{wld.size}}<br>
-not here: Dusthide, Fathom (TBA), Pearlcatcher, Sandsurge, Snapper, Tundra</p>
+not here: Dusthide (TBA), Everlux, Fathom (TBA), Pearlcatcher, Sandsurge, Snapper, Tundra</p>
 
 <h3>by color</h3>{%assign clr=all|sort:"genes.pri.num"%}
-<p>(primary, automatic)</p>
+<p>(primary, automatic; does not work with new data)</p>
 <div class="dragobox">{%for test in clr%}<a href="https://www1.flightrising.com/dragon/{{test.id}}"><figure><img src="{%include url.html%}/assets/img/dragons/{{test.id}}_100.png" alt="{{test.nm}}"{%if test.age%} class="bab"{%endif%}/><figcaption>{{test.nm}}</figcaption></figure></a>{%endfor%}</div>
 
 </details>
