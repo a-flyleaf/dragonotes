@@ -5,30 +5,35 @@ class: ql
 ---
 miscellaneous stuff for my own reference
 
-## AH searches
+<!--there should really be an "actual links" h2
+	but I didn't account for future-CSS-hacks in the
+	code. it's been how many years and I'm still using
+	this on the initial 2021 layout. wild-->
 
+## AH searches
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
-	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&nocollapse=1&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 	- [crane](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=crane&treasure_min=0&collapse=1) \| [frog](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=frog&treasure_min=0&collapse=1) \| [cat](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=cat&treasure_min=0&collapse=1) \| [lion](https://www1.flightrising.com/auction-house/buy/realm/app?itemname=lion&treasure_min=0&collapse=1) <!--viper & swallow seem to actually get used-->
-- <b>[festival skins](https://www1.flightrising.com/auction-house/buy/realm/skins?treasure_max=35000&nocollapse=1&collapse=1)</b>
-	- <b>585kT</b> (14×35,000=490kT, less with discount + 2×7.5kT=15kT Baldwin + 80kT joxbox)
-	- 140 fest currency, 190 incl. scene
+- <b>fest skins</b>: check for [dom shops](https://www1.flightrising.com/forums/ibaz)!!
+	- joxar: <b>190</b> fest currency (140 w/o scene) + <b>80kT</b> joxbox
+	- ~<b>600kT</b> for ~1 of each skin (accounting for dupes) 
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
 
-## other links
+## post tracking
+- “[<b>[TBD]</b>](https://www1.flightrising.com/search/forums?term=TBD&poster=Archaeoraptor&sort=recent)"
+- [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&sort=recent)
+- Old Oaks: [all replies](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2725086&sort=recent), [initial](https://www1.flightrising.com/forums/permalink/reply/49233462)
+- [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&sort=recent)
+- [recycled topics](https://www1.flightrising.com/search/forums?term=recycled+topic+ignore+date&poster=Archaeoraptor&sort=recent)
 
+## other links
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
-- post tracking: [adopt a dragon](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2157925&forum=&when=0&sort=recent) \| [exalt row](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2325855&forum=&when=0&sort=recent) \| [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&forum=&when=0&sort=recent) \| [Old&nbsp;Oaks](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2725086&forum=&when=0&sort=recent)
-- [incomplete achievements](https://www1.flightrising.com/game-database/achievements?display_type=not_completed)
-
-## gathering
-all familiars FOUND \o/ just diggin' for [gravel](https://www1.flightrising.com/game-database/item/181) now (wind/shadow/fire)
+- [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
 
 ## coli fams
-
-bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&forum=&when=0&sort=recent) since the latest update; underlined = boss
+bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the latest update; underlined = boss
 
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
@@ -141,19 +146,53 @@ gray = hibernating; ! = date obtained not noted
 	</tbody>
 </table>
 
-this will possibly be "retired"/redone in favor of dragon data later but for now it's still very useful to have, if unwieldy code-wise
-
 [hibernal den released in 2019](https://www1.flightrising.com/forums/ann/2627065), lookit that dragon count go
 
-<!--these are no one's business but my own but I want 'em here anyways
+dragon data Exists now but I still kinda like this manually-updated version anyway. it has Everyone. it accounts for the weird "when tf did I even get this dragon" outliers. hell if I know why it's on the "quicklinks" page, but a lot of stuff on this page is neither strictly quick nor a link. amazing....
+
+<!--
+----
+
+these are no one's business but my own but I want 'em here anyways
 
 ### notable lizards
 #### all G1s I've hatched (to memory)
+(see below for breed release G1s)
 - <b>[Tyson](https://www1.flightrising.com/dragon/31806787)</b>: first egg I ever found; had some lore crumbs but never found a place, exalted
 - <b>[Cygnus](https://www1.flightrising.com/dragon/57992771)</b>: egg gifted to me from [PricklyGoose](https://www1.flightrising.com/clan-profile/342988); revamped from blue noc to pink undertide permabab
 - <b>[[unnamed]](https://www1.flightrising.com/dragon/76895138)</b>: prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
+
+#### breed release lizards
+ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
+- [2016 September: <i>Bogsneak</i>](http://www1.flightrising.com/forums/ann/1980784) - didn't brew an egg
+	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
+- [2019 June: <i>Gaoler</i>](https://www1.flightrising.com/forums/ann/2694544) - no release freebies
+	- have had multiple non-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and more recently [Dusk](https://www1.flightrising.com/dragon/96501597) (from a friend)
+- [2019 December: <b>Banescale</b>](http://www1.flightrising.com/forums/ann/2788016) - hatched [Andante](https://www1.flightrising.com/dragon/57362847) & [Vivace](https://www1.flightrising.com/dragon/57362941)!
+	- collected other release day G1s for a while there; heck if I can track them all down again
+- [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
+	- I have a small handful now :>
+- [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; as of writing (2024/11) my only perma obe is [an OC-fandrgon](https://www1.flightrising.com/dragon/80522736)
+- [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
+	- have since acquired multiple abs
+- [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
+	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide bc permabab...
+	- might breed change an oldie or two someday
+- [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
+	- im love moth lads.
+- [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
+	- maaaay have a perma in [Leopold](https://www1.flightrising.com/dragon/94751538)? otherwise may beed change [Delphi](https://www1.flightrising.com/dragon/15585543) or someone else
+- [2023 November: <b>Auraboa</b>](https://www1.flightrising.com/forums/ann/3289398) - hatched [KanelosMenthe](https://www1.flightrising.com/dragon/90679007) & [Celor](https://www1.flightrising.com/dragon/90678934), trained and sold the latter
+	- am good with the token 1! but maybe someday [Second](https://www1.flightrising.com/dragon/91709890)
+- [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
+	- might hoard forever might save for some kind of occasion. idk!
+- [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
+	- breed change maybe, maybe not
+- [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
+	- same weird boat as dusthides
 
 #### dragos from frembs :>
 ordered by account ID
@@ -166,5 +205,6 @@ ordered by account ID
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
+- \+not my dragon but I was there for an [everlux](https://www1.flightrising.com/dragon/98960943) [trade](https://www1.flightrising.com/dragon/98987893), which I think is pretty cool
 
 -->

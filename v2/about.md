@@ -35,7 +35,7 @@ My lore is perpetually being tweaked and poked and archived and otherwise toyed 
 I'm havin' fun and that's all I really care about ᕕ(&nbsp;ᐛ&nbsp;)ᕗ
 
 ## bonus factoids because why not
-- I discovered [one of the site founders](https://www1.flightrising.com/clan-profile/14) as a kid through [one of her how-to-draw books](https://www1.flightrising.com/forums/gde/3053598)! (Incidentally I can also thank a note in the back, about making up your own dragons and imagining stories for them, for nudging me to get into writing.)
+- I discovered [one of the site founders](https://www1.flightrising.com/clan-profile/14) as a kid through [one of her how-to-draw books](https://web.archive.org/web/20221225005207/https://www1.flightrising.com/forums/frd/3034277/1)! (Incidentally I can also thank a note in the back, about making up your own dragons and imagining stories for them, for nudging me to get into writing.)
 	- Unfortunately I did not know about Flight Rising until long after the Kickstarter had ended. Not that I would've had the financial means to back it at the time, but still, big sad.
 - When I joined, there were [15 dragons a page](https://archaeoraptor-archive.tumblr.com/post/119548625225), non-negotiable, no den, no tabs. (And Baldwin did not exist. And you couldn't search the Auction House, not to the extent you can now. And multi-hued genes were barely a thing. And---well, just take a gander at [the chronological update reference](https://www1.flightrising.com/forums/gde/3053598), and know that it makes me feel very Dragon Old sometimes.)
 - I chose Plague because I thought the deities were previews of the dragons you could get; Shadow was a close second. (I knew very little about FR before joining.) Love me some edgy horror-y aesthetics.
