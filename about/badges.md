@@ -35,7 +35,7 @@ badges:
         artist: TheSunTheGodsSaw#35038 (original badge design) & ufology#296565 (recolors)
   - url: fd2/3371283#post_3371283
     title: Goals & Incentives
-    date: 
+    date: 2024-10-26
     goal: exalted 50 lvl5s · exalted 25 lvl8s · aged up 10 hatchlings · exalted 5 daily bonuses · hatched 1 fodder nest · raided the AH 5 times
     img:
       - url: https://i.imgur.com/tPk75UP.png
@@ -81,7 +81,14 @@ badges:
       - url: https://i.imgur.com/Ya9VQDQ.png
 #           "archaeoraptor that's the monday batch" flamin lego go brr
         artist: "Vendrus#4101 and/or large#379282"
-
+# https://www1.flightrising.com/forums/drw/3380359/1 Summer Sale (Wind PB)
+# https://www1.flightrising.com/forums/raf/3380727/1 Decorate the Behemoth (Nature) / bought Shivering Snowmen outright because look at it. look at its doofy lil face
+# https://www1.flightrising.com/forums/fd2/3382068/1#post_3382068 RatD999 VS Ratmaru Raffle (Pleg)
+# https://www1.flightrising.com/forums/raf/3378932 Winter Solstice (Light Raffle)
+# https://www1.flightrising.com/forums/drw/3384260/1#post_3384260 Earth Public Buy
+# https://www1.flightrising.com/forums/fd2/3383496 PPS LXXI
+# I think for [flight change]+ we're gonna do this like a spreadsheet... flight & type (raffle/PB/other) in their own column
+# +reminder: use the fancy name if possible! adds flavor.
 
 #  - url: 
 #    title: 
