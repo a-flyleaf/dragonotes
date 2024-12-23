@@ -81,14 +81,38 @@ badges:
       - url: https://i.imgur.com/Ya9VQDQ.png
 #           "archaeoraptor that's the monday batch" flamin lego go brr
         artist: "Vendrus#4101 and/or large#379282"
-# https://www1.flightrising.com/forums/drw/3380359/1 Summer Sale (Wind PB)
-# https://www1.flightrising.com/forums/raf/3380727/1 Decorate the Behemoth (Nature) / bought Shivering Snowmen outright because look at it. look at its doofy lil face
-# https://www1.flightrising.com/forums/fd2/3382068/1#post_3382068 RatD999 VS Ratmaru Raffle (Pleg)
-# https://www1.flightrising.com/forums/raf/3378932 Winter Solstice (Light Raffle)
+  - url: drw/3380359/1#post_3380359
+    title: Summer Sale (Wind&nbsp;PB)
+    date: 2024-12-07
+    goal: sent dragons on Tuesday
+    img:
+      - url: https://i.imgur.com/F5v0bS7.png
+        artist: GuacamaYT#513417
+  - url: raf/3380727/1#post_3380727
+    title: Snowy Shenanigans
+    date: 2024-12-08
+    goal: bought “an adorable little dragon made from snow”
+    img:
+      - url: https://i.imgur.com/akvCTh0.png
+        artist: Stumpios#578879
+  - url: fd2/3382068/1#post_3382068
+    title: RatD999 VS Ratmaru Team Battle Raffle
+    date: 2024-12-14
+    goal: exalted 600 levels 
+    img:
+      - url: https://i.imgur.com/hQj1Ynd.png
+        artist: Turquai#195511
+  - url: raf/3378932#post_3378932
+    title: (Light) Winter Solstice Raffle
+    date: 2024-12-21
+    goal: sent 750 levels
+    img:
+      - url: https://i.postimg.cc/Pq5GM7cN/Cumulative-Orange6.png
+        artist: Hollypox#98632
+
+# use the fancy name if possible! adds flavor.
 # https://www1.flightrising.com/forums/drw/3384260/1#post_3384260 Earth Public Buy
 # https://www1.flightrising.com/forums/fd2/3383496 PPS LXXI
-# I think for [flight change]+ we're gonna do this like a spreadsheet... flight & type (raffle/PB/other) in their own column
-# +reminder: use the fancy name if possible! adds flavor.
 
 #  - url: 
 #    title: 
