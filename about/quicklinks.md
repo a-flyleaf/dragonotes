@@ -38,12 +38,12 @@ bold = haven't done the [long drop coli challenge](https://www1.flightrising.com
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
 ~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Flying Fawn, Glorious Dayjar, Moonglow Nightjar, Spongy Spingy, Winter Glade Lord</b>
+Woodland Path | <b>Flying Fawn, Moonglow Nightjar, Spongy Spingy, Winter Glade Lord</b>
 ~~Scorched Forest~~ | <s>✓</s>
 Boneyard | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
 Sandswept Delta | <b>Dusk Fuiran, Tricolor Viperpillar</b>
 Silk-Strewn Wreckage | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
-Blooming Grove | <u>Mossy Pohip</u>
+~~Blooming Grove~~ | <s>✓</s>
 Forgotten Cave | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
 ~~Bamboo Falls~~ | <s>✓</s>
 Thunderhead Savanna | Coursing Skira
@@ -53,7 +53,7 @@ Arena | <u>Undying Featherback</u>
 Volcanic Vents | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
 Rainsong Jungle | <u>Goldenbeast</u>
 Boreal Wood | <u>Coarsefur Yeti</u>
-Crystal Pools | <u>Hawksbill Gloatih</u>
+~~Crystal Pools~~ | <s>✓</s>
 Harpy's Roost | <u>Roc</u>
 Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | <s>✓</s>
