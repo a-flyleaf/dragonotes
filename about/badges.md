@@ -109,10 +109,22 @@ badges:
     img:
       - url: https://i.postimg.cc/Pq5GM7cN/Cumulative-Orange6.png
         artist: Hollypox#98632
+  - url: drw/3384260/1#post_3384260
+    title: Earth Public Buy
+    date: 2024-12-28
+    goal: sent Many Level
+    img:
+      - url: https://i.imgur.com/NuxYrqd.png
+        artist: NimStratus#589160
+  - url: fd2/3383496#post_3383496
+    title: Plague Profit Squad LXXI
+    date: 2024-12-29
+    goal: earned 2,000,000 treasure
+    img:
+      - url: https://i.imgur.com/FG8h84Q.png
+        artist: KyraG#61693 (design) & SummerMiko#136554 (recolor)
 
 # use the fancy name if possible! adds flavor.
-# https://www1.flightrising.com/forums/drw/3384260/1#post_3384260 Earth Public Buy
-# https://www1.flightrising.com/forums/fd2/3383496 PPS LXXI
 
 #  - url: 
 #    title: 
@@ -130,10 +142,8 @@ Oh well. As of October&nbsp;2024, here we go again...!
 - Images have **not** been reuploaded and may break later.
 - Artist credit in alt text, also visible on hover.
 - If I earned multiple badges, I usually grab the one that gets me the most bragging rights (e.g. between exalting 1 dragon per day or 100 dragons total, I'll clip to the 100).
-
-<!-- not relevant atm
-- Badges link to forum threads, some of which aren't visible to those outside the Plague flight. If the **title** is clickable, *then* it's publicly-viewable.
--->
+	- If badges are *not* tiered, I use whichever unlocked option is most aesthetically pleasing to me.
+- Badge images link to forum threads, some of which aren't visible to those outside the Plague flight. If the **title** is clickable, *then* it's publicly-viewable.
 
 <div id="badges" class="small">{%for badge in page.badges%}<figure>
 	<a href="https://www1.flightrising.com/forums/{{badge.url}}">{%for img in badge.img%}<img src="{{img.url}}" alt="badge by {{img.artist}}" title="by {{img.artist}}"/>{%endfor%}</a>

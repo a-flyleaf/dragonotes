@@ -26,6 +26,7 @@ miscellaneous stuff for my own reference
 - Old Oaks: [all replies](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2725086&sort=recent), [initial](https://www1.flightrising.com/forums/permalink/reply/49233462)
 - [interesting AH](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=2737352&sort=recent)
 - [recycled topics](https://www1.flightrising.com/search/forums?term=recycled+topic+ignore+date&poster=Archaeoraptor&sort=recent)
+- draw the dragon above you: [badly](https://www1.flightrising.com/forums/forga/2076194/10000) \| [poorly](https://www1.flightrising.com/forums/cc/1750015/10000) \| [doodle](https://www1.flightrising.com/forums/forga/450073/10000) \| [regular](https://www1.flightrising.com/forums/cc/3317456/10000)
 
 ## other links
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
@@ -33,7 +34,8 @@ miscellaneous stuff for my own reference
 - [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
 
 ## coli fams
-bold = haven't done the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the latest update; underlined = boss
+bold = haven't completed the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the last [expansion](https://www1.flightrising.com/forums/gde/3053598/5#post_48869418)  
+underlined = boss
 
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
@@ -131,18 +133,24 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
+		<tr><td rowspan="8">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
-		<tr><td>06</td><td>28</td><td><s>Marlowe</s></td></tr>
+		<tr><td rowspan="3">06</td><td>21</td><td>xXxFlyinHigherXx, JuxtaposedShshkb, AlstromeriaStrut</td></tr>
+		<tr><td>22</td><td>Lazil</td></tr>
+		<tr><td>28</td><td><s>Marlowe</s></td></tr>
 		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
-		<tr><td>12</td><td>24</td><td><s>Sretno</s></td></tr>
+		<tr><td rowspan="2">12</td><td>07</td><td>Lylas</td></tr>
+		<tr><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="6">2024</td><td>06</td><td>14</td><td><s>Squid, Honse</s></td></tr>
+		<tr><td rowspan="9">2024</td><td>05</td><td>09</td><td>Leopold</td></tr>
+		<tr><td>06</td><td>14</td><td><s>Squid, Honse</s></td></tr>
 		<tr><td>07</td><td>16</td><td><s>Dusk</s></td></tr>
 		<tr><td rowspan="2">09</td><td>08</td><td>Kaema</td></tr>
 		<tr><td>13</td><td>Mehdiz</td></tr>
-		<tr><td rowspan="2">10</td><td>06</td><td>[Pompom]</td></tr>
+		<tr><td rowspan="3">10</td><td>03</td><td>KasnijeOpet</td></tr>
+		<tr><td>06</td><td>PompomOverture</td></tr>
 		<tr><td>12</td><td>Archibald</td></tr>
+		<tr><td>11</td><td>03</td><td>Second</td></tr>
 	</tbody>
 </table>
 
@@ -151,6 +159,7 @@ gray = hibernating; ! = date obtained not noted
 dragon data Exists now but I still kinda like this manually-updated version anyway. it has Everyone. it accounts for the weird "when tf did I even get this dragon" outliers. hell if I know why it's on the "quicklinks" page, but a lot of stuff on this page is neither strictly quick nor a link. amazing....
 
 <!--
+
 ----
 
 these are no one's business but my own but I want 'em here anyways
@@ -158,9 +167,9 @@ these are no one's business but my own but I want 'em here anyways
 ### notable lizards
 #### all G1s I've hatched (to memory)
 (see below for breed release G1s)
-- <b>[Tyson](https://www1.flightrising.com/dragon/31806787)</b>: first egg I ever found; had some lore crumbs but never found a place, exalted
+- [Tyson](https://www1.flightrising.com/dragon/31806787): first egg I ever found; had some lore crumbs but never found a place, exalted
 - <b>[Cygnus](https://www1.flightrising.com/dragon/57992771)</b>: egg gifted to me from [PricklyGoose](https://www1.flightrising.com/clan-profile/342988); revamped from blue noc to pink undertide permabab
-- <b>[[unnamed]](https://www1.flightrising.com/dragon/76895138)</b>: prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
+- [[unnamed]](https://www1.flightrising.com/dragon/76895138): prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
 
@@ -175,7 +184,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
 	- I have a small handful now :>
 - [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
-	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; as of writing (2024/11) my only perma obe is [an OC-fandrgon](https://www1.flightrising.com/dragon/80522736)
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; as of writing (2024/11) my only perma obe is <!--[an OC-fandrgon](https://www1.flightrising.com/dragon/80522736) / edit: bruh--/>[Fissure](https://www1.flightrising.com/dragon/48734092)
 - [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
 	- have since acquired multiple abs
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
@@ -186,7 +195,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
 	- maaaay have a perma in [Leopold](https://www1.flightrising.com/dragon/94751538)? otherwise may beed change [Delphi](https://www1.flightrising.com/dragon/15585543) or someone else
 - [2023 November: <b>Auraboa</b>](https://www1.flightrising.com/forums/ann/3289398) - hatched [KanelosMenthe](https://www1.flightrising.com/dragon/90679007) & [Celor](https://www1.flightrising.com/dragon/90678934), trained and sold the latter
-	- am good with the token 1! but maybe someday [Second](https://www1.flightrising.com/dragon/91709890)
+	- [Second](https://www1.flightrising.com/dragon/91709890) also got breed-changed during NotN&nbsp;2024
 - [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
 	- might hoard forever might save for some kind of occasion. idk!
 - [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
@@ -194,7 +203,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
 	- same weird boat as dusthides
 
-#### dragos from frembs :>
+#### dragos with frembs :>
 ordered by account ID
 
 - [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)

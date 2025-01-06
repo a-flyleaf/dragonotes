@@ -2343,6 +2343,7 @@
   sex: m
   breed: fathom
   gen: 1
+  lvl: 25
   msr:
     length: 16.81
     wings: 21.68
@@ -2368,6 +2369,7 @@
   sex: f
   breed: fathom
   gen: 1
+  lvl: 25
   msr:
     length: 16.66
     wings: 18.45
