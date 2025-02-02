@@ -123,6 +123,21 @@ badges:
     img:
       - url: https://i.imgur.com/FG8h84Q.png
         artist: KyraG#61693 (design) & SummerMiko#136554 (recolor)
+  - url: raf/3390352/1#post_3390352
+    title: (Ice) Gala Raffle
+    date: 2025-01-25
+    goal: sent dragons on Saturday
+    img:
+      - url: https://i.imgur.com/3uowUCZ.png
+        artist: Straymoone#692346
+  - url: drw/3392700#post_3392700
+    title: Flight Wedding (Wind PB)
+    date: 2025-02-01
+    goal: sent dragons on Sunday
+    img:
+      - url: https://i.imgur.com/KUk61dQ.png
+        artist: elpetuub#643692
+# Light https://www1.flightrising.com/forums/drw/3393959#post_3393959									
 
 # use the fancy name if possible! adds flavor.
 

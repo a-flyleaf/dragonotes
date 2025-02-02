@@ -33,35 +33,39 @@ miscellaneous stuff for my own reference
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 - [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
 
-## coli fams
+## coli checklist
 bold = haven't completed the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the last [expansion](https://www1.flightrising.com/forums/gde/3053598/5#post_48869418)  
 underlined = boss
 
+for vistas & scenes: ✓ = vaulted, + = could use another, else ✗
+
 this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
 
-~~Training Fields~~ | <s>✓</s>
-Woodland Path | <b>Flying Fawn, Moonglow Nightjar, Spongy Spingy, Winter Glade Lord</b>
-~~Scorched Forest~~ | <s>✓</s>
-Boneyard | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
-Sandswept Delta | <b>Dusk Fuiran, Tricolor Viperpillar</b>
-Silk-Strewn Wreckage | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
-~~Blooming Grove~~ | <s>✓</s>
-Forgotten Cave | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
-~~Bamboo Falls~~ | <s>✓</s>
-Thunderhead Savanna | Coursing Skira
-Redrock Cove | <b>Coastline Sawbeak, Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
-Waterway | Sewer Toridae
-Arena | <u>Undying Featherback</u>
-Volcanic Vents | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
-Rainsong Jungle | <u>Goldenbeast</u>
-Boreal Wood | <u>Coarsefur Yeti</u>
-~~Crystal Pools~~ | <s>✓</s>
-Harpy's Roost | <u>Roc</u>
-Ghostlight Ruins | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
-~~Mire~~ | <s>✓</s>
-Kelp Beds | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
-~~Golem Workshop~~ | <s>✓</s>
-Forbidden Portal | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Lap Pupowl, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
+venue | vista | scene | familiars
+---|---
+Training Fields | ++ | ✗ | ~~✓~~
+Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Moonglow Nightjar, Winter Glade Lord</b>
+Scorched Forest | + | + | ~~✓~~
+Boneyard | ✗ | [N/A] | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
+Sandswept Delta | + | ✗ | <b>Dusk Fuiran, Tricolor Viperpillar</b>
+Silk-Strewn Wreckage | + | ~~✓~~ | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
+Blooming Grove | + | ✗ | ~~✓~~
+Forgotten Cave | ✗ | ✗ | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
+Bamboo Falls | + | [N/A] | ~~✓~~
+Thunderhead Savanna | ✗ | ✗ | Coursing Skira
+Redrock Cove | ~~✓~~ | ✗ | <b>Coastline Sawbeak, Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
+Waterway | ✗ | ✗ | Sewer Toridae
+Arena | ~~✓~~ | ✗ | <u>Undying Featherback</u>
+Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
+Rainsong Jungle | + | + | <u>Goldenbeast</u>
+Boreal Wood | ✗ | [N/A] | <u>Coarsefur Yeti</u>
+Crystal Pools | ✗ | ✗ | ~~✓~~
+Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
+Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
+~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
+Kelp Beds | ~~✓~~ | ~~✓~~ | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
+~~Golem Workshop~~ | + | ~~✓~~ | ~~✓~~
+Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
 ## dragon order
 
@@ -184,7 +188,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
 	- I have a small handful now :>
 - [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
-	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; as of writing (2024/11) my only perma obe is <!--[an OC-fandrgon](https://www1.flightrising.com/dragon/80522736) / edit: bruh--/>[Fissure](https://www1.flightrising.com/dragon/48734092)
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) has since become the token obe, [Drosera](https://www1.flightrising.com/dragon/12989339) breed change is on the table
 - [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
 	- have since acquired multiple abs
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
@@ -193,7 +197,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
-	- maaaay have a perma in [Leopold](https://www1.flightrising.com/dragon/94751538)? otherwise may beed change [Delphi](https://www1.flightrising.com/dragon/15585543) or someone else
+	- [Leopold](https://www1.flightrising.com/dragon/94751538) managed to become a perma; [Delphi](https://www1.flightrising.com/dragon/15585543) may also be breed-changed
 - [2023 November: <b>Auraboa</b>](https://www1.flightrising.com/forums/ann/3289398) - hatched [KanelosMenthe](https://www1.flightrising.com/dragon/90679007) & [Celor](https://www1.flightrising.com/dragon/90678934), trained and sold the latter
 	- [Second](https://www1.flightrising.com/dragon/91709890) also got breed-changed during NotN&nbsp;2024
 - [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
@@ -214,6 +218,5 @@ ordered by account ID
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
-- \+not my dragon but I was there for an [everlux](https://www1.flightrising.com/dragon/98960943) [trade](https://www1.flightrising.com/dragon/98987893), which I think is pretty cool
 
 -->
