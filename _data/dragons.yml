@@ -1539,29 +1539,19 @@
     weight: 2.06
   genes:
     pri:
-      num: 4
       clr: white
       gn: sphinxmoth
     sec:
-      num: 55
       clr: sky
       gn: hex
     tert:
-      num: 9
       clr: silver
       gn: flecks
   dates:
     hatch: 2021-06-15
     obtain: 2021-06-17
     hibern: 2022-11-30
-  has:
-    apparel: these are all "booleans"; 0/1/"~" (outdated)
-    accent: 0
-    bio: 0
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [lore,other]
+  cat: [lore]
 - nm: Fissure
   id: 48734092
   element: arcane
@@ -2131,6 +2121,32 @@
     scene: 0
     broadcast: "Why’s ya tail all in a twist?"
   cat: [lore]
+- nm: Singularity
+  id: 80037268
+  element: plague
+  sex: m
+  breed: spiral
+  lvl: 8
+  msr:
+    length: 3.88
+    wings: 2.77
+    weight: 120.34
+  genes:
+    pri:
+      clr: obsidian
+      gn: wasp
+    sec:
+      clr: obsidian
+      gn: daub
+    tert:
+      clr: shadow
+      gn: stained
+    eye: unusual
+  dates:
+    hatch: 2022-08-07
+    obtain: 2022-08-18
+    hibern: 2025-02-02
+  cat: [lore]
 - nm: Alcho
   id: 81288642
   element: plague
@@ -2255,6 +2271,105 @@
     scene: 1
     broadcast: "[TBA] first hatched primal"
   cat: [lore]
+- nm: xXxFlyinHigherXx
+  id: 86864161
+  element: plague
+  sex: m
+  breed: aether
+  msr:
+    length: 6.77
+    wings: 6.01
+    weight: 751.94
+  genes:
+    pri:
+      clr: iris
+      gn: cinder
+    sec:
+      clr: olive
+      gn: blaze
+    tert:
+      clr: grapefruit
+      gn: points
+  dates:
+    hatch: 2023-06-15
+    obtain: 2023-06-21
+    hibern: 2025-02-02
+  cat: [lore]
+- nm: JuxtaposedShshkb
+  id: 86861900
+  element: wind
+  sex: m
+  breed: aether
+  lvl: 25
+  msr:
+    length: 4.37
+    wings: 5.67
+    weight: 734.52
+  genes:
+    pri:
+      clr: latte
+      gn: cinder
+    sec:
+      clr: blue
+      gn: thread
+    tert:
+      clr: saffron
+      gn: stinger
+    eye: uncommon
+  dates:
+    hatch: 2023-06-15
+    obtain: 2023-06-21
+    hibern: 2025-02-02
+  cat: [lore]
+- nm: AlstromeriaStrut
+  id: 86873719
+  element: nature
+  sex: m
+  breed: aether
+  msr:
+    length: 4.55
+    wings: 5.74
+    weight: 577.9
+  genes:
+    pri:
+      clr: magenta
+      gn: cinder
+    sec:
+      clr: rose
+      gn: thread
+    tert:
+      clr: strawberry
+      gn: stinger
+    eye: rare
+  dates:
+    hatch: 2023-06-15
+    obtain: 2023-06-21
+    hibern: 2025-02-02
+  cat: [lore]
+- nm: Lazil
+  id: 63396023
+  element: ice
+  sex: m
+  breed: spiral
+  msr:
+    length: 3.36
+    wings: 3.36
+    weight: 125.33
+  genes:
+    pri:
+      clr: violet
+      gn: python
+    sec:
+      clr: lapis
+      gn: striation
+    tert:
+      clr: sanddollar
+      gn: ghost
+  dates:
+    hatch: 2020-08-20
+    obtain: 2023-06-22
+    hibern: 2025-02-02
+  cat: [lore]
 - nm: Marlowe
   id: 74499684
   element: plague
@@ -2312,6 +2427,32 @@
     hatch: 2023-11-21
     hibern: 2024-09-11
   cat: [nolore]
+- nm: Lylas
+  id: 90919746
+  element: shadow
+  sex: m
+  breed: aether
+  lvl: 8
+  msr:
+    length: 6.47
+    wings: 6.54
+    weight: 618.17
+  genes:
+    pri:
+      clr: pearl
+      gn: cinder
+    sec:
+      clr: wisteria
+      gn: blaze
+    tert:
+      clr: grey
+      gn: starfall
+    eye: uncommon
+  dates:
+    hatch: 2023-11-28
+    obtain: 2023-12-07
+    hibern: 
+  cat: [lore]
 - nm: Sretno
   id: 91709273
   element: earth
@@ -2337,6 +2478,31 @@
     hatch: 2023-12-25
     hibern: 2024-02-22
   cat: [nolore]
+- nm: Leopold
+  id: 94751538
+  element: plague
+  sex: m
+  breed: sandsurge
+  lvl: 25
+  msr:
+    length: 11.65
+    wings: 4.89
+    weight: 2964.93
+  genes:
+    pri:
+      clr: grey
+      gn: harlequin
+    sec:
+      clr: antique
+      gn: jester
+    tert:
+      clr: coal
+      gn: crest
+  dates:
+    hatch: 2024-05-01
+    obtain: 2024-05-09
+    hibern: 2025-02-02
+  cat: [lore]
 - nm: Squid
   id: 95730923
   element: ice
@@ -2414,4 +2580,4 @@
     obtain: 2024-07-16
     hibern: 2024-10-30
   cat: [nolore]
- 
+# Kaema, Mehdiz, KasnijeOpet, PompomOverture, Archibald, Second

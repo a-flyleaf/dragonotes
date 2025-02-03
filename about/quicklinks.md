@@ -134,19 +134,19 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>05</td><td>18</td><td><s>Scylla</s></td></tr>
 		<tr><td>06</td><td>05</td><td><s>Ascher</s></td></tr>
 		<tr><td>07</td><td>07</td><td><s>Bokeh</s></td></tr>
-		<tr><td>08</td><td>18</td><td>Singularity</td></tr>
+		<tr><td>08</td><td>18</td><td><s>Singularity</s></td></tr>
 		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="8">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
-		<tr><td rowspan="3">06</td><td>21</td><td>xXxFlyinHigherXx, JuxtaposedShshkb, AlstromeriaStrut</td></tr>
-		<tr><td>22</td><td>Lazil</td></tr>
+		<tr><td rowspan="3">06</td><td>21</td><td><s>xXxFlyinHigherXx, JuxtaposedShshkb, AlstromeriaStrut</s></td></tr>
+		<tr><td>22</td><td><s>Lazil</s></td></tr>
 		<tr><td>28</td><td><s>Marlowe</s></td></tr>
 		<tr><td>11</td><td>21</td><td><s>KanelosMenthe</s></td></tr>
-		<tr><td rowspan="2">12</td><td>07</td><td>Lylas</td></tr>
+		<tr><td rowspan="2">12</td><td>07</td><td><s>Lylas</s></td></tr>
 		<tr><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="9">2024</td><td>05</td><td>09</td><td>Leopold</td></tr>
+		<tr><td rowspan="9">2024</td><td>05</td><td>09</td><td><s>Leopold</s></td></tr>
 		<tr><td>06</td><td>14</td><td><s>Squid, Honse</s></td></tr>
 		<tr><td>07</td><td>16</td><td><s>Dusk</s></td></tr>
 		<tr><td rowspan="2">09</td><td>08</td><td>Kaema</td></tr>

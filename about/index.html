@@ -131,7 +131,7 @@ title: about Archaeoraptor
 					<div id="noodlbugs" class="small">
 						{%assign bois=site.data.dragons|where:"sex","m"|where:"breed","spiral"%}
 						{%assign moths=site.data.dragons|where:"breed","aether"%}
-						{%assign favs=bois|concat:moths%}<!--hypothetically you could assign moths first *then* concat bois; idk why the order gets reversed if you concat bois to moths-->
+						{%assign favs=bois|concat:moths%}<!--hypothetically you could assign moths first *then* concat bois; idk why the order gets reversed if you concat bois to moths--><!--"sort" is an option but idk how to make it work with dragons *without* an obtain date, hmm-->
 						{%for fav in favs%}<a href="https://www1.flightrising.com/dragon/{{fav.id}}"><img src="{%include url.html%}/assets/img/dragons/{{fav.id}}_100.png" alt="{{fav.nm}}"/></a>{%endfor%}
 						<p><small>(not shown: any lads still in <a href="https://www1.flightrising.com/lair/138250">the lair</a>)</small></p>
 					</div></li>
