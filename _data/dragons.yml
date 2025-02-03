@@ -2414,13 +2414,13 @@
     weight: 3948.52
   genes:
     pri:
-      clr: 75
+      clr: spearmint
       gn: mochlus
     sec:
-      clr: 148
+      clr: copper
       gn: riopa
     tert:
-      clr: 20
+      clr: black
       gn: stinger
     eye: rare
   dates:
@@ -2465,13 +2465,13 @@
     weight: 403.24
   genes:
     pri:
-      clr: 109
+      clr: flaxen
       gn: flaunt
     sec:
-      clr: 110
+      clr: ivory
       gn: morph
     tert:
-      clr: 80
+      clr: jungle
       gn: stinger
     eye: swirl
   dates:
