@@ -110,7 +110,7 @@ layout: none
 				</td>
 				<td>{{a.dt}}</td>
 				<td{%unless a.fl%} class="empty"{%endunless%}>{{a.fl}}</td>
-				<td>{{a.dr}}</td>
+				<td>{%for d in a.dr%}{{d}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
 				<td{%unless a.by%} class="empty"{%endunless%}><a href="https://www1.flightrising.com/clan-profile/{{a.by.fr}}" target="_blank">{{a.by.fr}}</a></td>
 				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.nm}}</td>
 			</tr>{%endfor%}</tbody>

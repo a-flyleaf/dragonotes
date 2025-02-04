@@ -34,5 +34,6 @@
 	- datacheck: breed tally! ``for b in site.dragon.breeds > assign b.nm = b-nm; assign/capture “count” to site.data.dragons where d.breed=b-nm``?
 - _layouts/dragons.html
 	- integrate art from data; include ids via forloop (a1,a2,a3) for individual styling
+		- use an "if contains" NOT an =, since some arts have multiple dragons
 	- auto-populate familiars/scenes/vistas [see above]
 	- concatenate & chronologize all dates [also above]

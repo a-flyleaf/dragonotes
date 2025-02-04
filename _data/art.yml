@@ -49,13 +49,30 @@
   dr: Pestilence
 - dt: 2019-06-12
   dr: Rothide
+- dt: 2020-06-01
+  dr: Miasma
+- dt: 2021-10-11
+#     not the timestamp on the dA upload sending me on a wild "did I delete this fucking file" chase.... anyway the OG is in the 2021-10-11 sketchdump, and just got upscaled for dA. actual dragon bio uses the origial 500px resolution.
+  dr: MiamiTriggerfish
 - dt: 2019-12-01
   dr: Notturno
+- dt: 2019-12-18
+  dr: Jester
 - dt: 2019-12-19
+#     uses a base, see onsite bio
   dr: Carnation
-# uses a base, see onsite bio
+- dt: 2020-02-03
+  dr: Staccato
+- dt: 2020-05-11
+  dr: Staccato
+- dt: 2021-12-01
+  dr: [Caspian,CabochonLuster]
+- dt: 2022-03-20
+  dr: Falsework
 - dt: 2022-03-29
   dr: Avi
+- dt: 2024-10-02
+  dr: Ghost
 
 # /NOTMINE
 - dt: 2017-03-04
@@ -110,6 +127,12 @@
     fr: 412694
     nm: Pearlimose
 
+- dt: 2019-12-01
+  dr: Iko
+  by:
+    fr: 304605
+    nm: dinaurian
+
 - dt: 2019-12-19
   dr: Pestilence
   by:
@@ -126,6 +149,24 @@
   by:
     fr: 207972
     nm: Ilidragon
+
+- dt: 2019-12-30
+  ver:
+    - fl: png
+      nm: andante
+  dr: Andante
+  by:
+    fr: 154165
+    nm: Rosaceae
+# same day same artist; both downsized 50% (yes! as-is!! OG files are >3000px
+- dt: 2019-12-30
+  ver:
+    - fl: png
+      nm: hestia
+  dr: Hestia
+  by:
+    fr: 154165
+    nm: Rosaceae
 
 - dt: 2020-06-12
   dr: Altostratus
@@ -168,6 +209,35 @@
     fr: 554051
     nm: Hananathenerd77
 
+- dt: 2021-10-13
+  dr: Ghost
+  by:
+    fr: 242610
+    nm: Guarianite
+
+- dt: 2021-10-25
+  ver:
+    - fl: png
+      nm: 1
+    - fl: png
+      nm: 2
+  dr: Raizel
+  by:
+    fr: 46855
+    nm: Valak
+
+- dt: 2021-10-27
+  dr: MiamiTriggerfish
+  by:
+    fr: 570986
+    nm: ClownEngaged
+
+- dt: 2021-10-29
+  dr: Amaranta
+  by:
+    fr: 431112
+    nm: Foxil
+
 - dt: 2022-02-01
   ver:
     - fl: png
@@ -189,16 +259,11 @@
     fr: 443013
     nm: Dawnfire13
 
-- dt: 2021-10-25
-  ver:
-    - fl: png
-      nm: 1
-    - fl: png
-      nm: 2
-  dr: Raizel
+- dt: 2022-03-06
+  dr: Comet
   by:
-    fr: 46855
-    nm: Valak
+    fr: 534026
+    nm: PeacefulPyro
 
 - dt: 2022-03-09
   dr: Pestilence
@@ -213,7 +278,19 @@
     nm: oroori
 
 - dt: 2024-10-14
+  ver:
+    - fl: png
+      nm: schism
   dr: Schism
+  by:
+    fr: 10168
+    nm: eyeguy
+# same day same artist
+- dt: 2024-10-14
+  ver:
+    - fl: png
+      nm: comet
+  dr: Comet
   by:
     fr: 10168
     nm: eyeguy
