@@ -24,3 +24,6 @@
 [2024-12-25] revisit that bio generator maybe... particularly for fandragons bc there are So Many
 
 [2025-02-02] UPDATE SKIPTRACE once he gets his new outfit!! which... will probably be in August at the earliest (warrior's way apparel...), but the note is Here.
+
+[2025-02-04] futz with the dragons.html template to automatically integrate art from the data. could do the same for familiars, scenes, and vistas; skin/outfit stuff can be page-specific.
+	also just go ahead and save all the art, individual pages be damned. first of all this'll save me SO much time down the road (it can be styled per-page with a class that's like "a1,a2,a3" forloop shit); second and moreover, automatic updating on the /dragons index! yippee!!

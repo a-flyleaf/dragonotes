@@ -30,8 +30,9 @@ layout: none
 		
 		#dragons{text-wrap:nowrap;}
 		#dragons ul code{font-weight:bold; font-size:1.15em;}
-		#dragons tr.hl{background:#dfdfdf;}
+		#dragons tr.hl{background:#dfdfdf;} /*making this semi-transparent will make the details border show through, whoops! it overrides the even/odd distinction*/
 		#dragons .img{text-align:left;}
+		.art{text-align:center; font-weight:bold;} .art-y{color:#008000;} .art-n{color:#800000;}
 	</style>
 </head><body>
 
@@ -124,11 +125,14 @@ layout: none
 		
 		<p><b>IDs link to FR pages & names link to pages here (if any); both in new tabs</b></p>
 		
-		<!--https://stackoverflow.com/questions/25335388/creating-and-accessing-arrays-in-liquid-templates/34805293#34805293-->
-		{%capture pagesTest%}{%for d in site.dragons%}{{d.slug|capitalize}}{%endfor%}{%endcapture%}
+		<!--https://stackoverflow.com/questions/25335388/creating-and-accessing-arrays-in-liquid-templates/34805293#34805293
+		[%capture pagesTest%][%for d in site.dragons%][[d.slug|capitalize]][%endfor%][%endcapture%]
 		
-		{{pagesTest}}
-		{%if pagesTest contains "Lapilli"%}yes{%else%}no{%endif%}
+		[[pagesTest]]
+		[%if pagesTest contains "Lapilli"%]yes[%else%]no[%endif%]
+		-->
+		
+		<p><code>[ART]</code> only checks for art saved <em>here</em>, onsite</p>
 		
 		<table>
 			<thead><tr>
@@ -145,6 +149,7 @@ layout: none
 				<th colspan="7">genes</th>
 				<th colspan="3">dates</th>
 				<th rowspan="3">cat</th>
+				<th rowspan="3">[ART?]</th>
 			</tr><tr>
 				<!--stats--><th rowspan="2">bld</th>
 				<th rowspan="2">lnk</th>
@@ -202,6 +207,8 @@ layout: none
 				<td{%unless d.dates.obtain%} class="empty"{%endunless%}>{{d.dates.obtain}}</td>
 				<td>{{d.dates.hibern}}</td>
 				<td{%if d.cat contains 'other'%} class="hl"{%endif%}>{%for dcat in d.cat%}{{dcat}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
+					<!--recycled from the "has page" check-->{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}
+				<td class="art art-{%if art contains d.nm%}y{%else%}n{%endif%}">{%if art contains d.nm%}Y{%else%}N{%endif%}</td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
