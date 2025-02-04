@@ -27,3 +27,7 @@
 
 [2025-02-04] futz with the dragons.html template to automatically integrate art from the data. could do the same for familiars, scenes, and vistas; skin/outfit stuff can be page-specific.
 	also just go ahead and save all the art, individual pages be damned. first of all this'll save me SO much time down the road (it can be styled per-page with a class that's like "a1,a2,a3" forloop shit); second and moreover, automatic updating on the /dragons index! yippee!!
+DATES DATES TOO, uhh lemme just copypaste fom the datacheck:
+	> [old "has" data] might actually be nifty to have anyway? familiar (optional), vista, and scene are used on individual pages; skins, apparel, and actual desctiptions can be page-specific.
+	> +also toying with the idea of an extra date checker, for genes and such; the concatenation + chronological ordering can be applied to the dragons layout
+[from discord] btw new not-dragonwall page can do a cheeky little breed tally. the “assign” is wholly unnecessary I think, considering breed data exists; it can be a for loop in a for loop? like, ``for b in site.dragon.breeds > assign b.nm = b-nm; assign/capture “count” to site.data.dragons where d.breed=b-nm``. is that anything

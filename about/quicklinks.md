@@ -37,9 +37,9 @@ miscellaneous stuff for my own reference
 bold = haven't completed the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the last [expansion](https://www1.flightrising.com/forums/gde/3053598/5#post_48869418)  
 underlined = boss
 
-for vistas & scenes: ✓ = vaulted, + = could use another, else ✗
+for [vistas](https://www1.flightrising.com/hoard/specialty/1?sort=id_asc&specialty_type=vista) & [scenes](https://www1.flightrising.com/hoard/specialty/1?sort=id_asc&specialty_type=scene): ✓ = vaulted, + = could use another, else ✗
 
-this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference
+this is most up-to-date in a private personal spreadsheet, but it's copied here for ease of reference. <b>I also don't track hoard scenes on the sheet</b>; *that* part is unique to this page!
 
 venue | vista | scene | familiars
 ---|---
@@ -59,11 +59,11 @@ Arena | ~~✓~~ | ✗ | <u>Undying Featherback</u>
 Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
 Rainsong Jungle | + | + | <u>Goldenbeast</u>
 Boreal Wood | ✗ | [N/A] | <u>Coarsefur Yeti</u>
-Crystal Pools | ✗ | ✗ | ~~✓~~
+Crystal Pools | ✗ | + | ~~✓~~
 Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
 Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
-Kelp Beds | ~~✓~~ | ~~✓~~ | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
+Kelp Beds | ~~✓~~ | + | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
 ~~Golem Workshop~~ | + | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
