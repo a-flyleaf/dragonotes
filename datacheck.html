@@ -49,12 +49,21 @@ layout: none
 		</table>
 	</details>
 	
-	<details id="colors">
+	<details open id="colors">
 		<summary><h3>colors</h3></summary>
-		<p>uses classes from <code>colors.css</code> to set bg+text defaults</p>
+		<p>uses classes from <code>colors.css</code> to set bg+text defaults<br>
+		hex column text is deliberately “invisible” to make sure I got all the codes right</p>
 		<table>
-			<thead><tr><th>nm</th><th>id</th></tr></thead>
-			<tbody>{%for c in site.data.colors%}<tr class="c{{c.id}}"><td>{{c.nm}}</td><td>{{c.id}}</td></tr>{%endfor%}</tbody>
+			<thead><tr>
+				<th>nm</th>
+				<th>id</th>
+				<th>hx</th>
+			</tr></thead>
+			<tbody>{%for c in site.data.colors%}<tr class="c{{c.id}}">
+				<td>{{c.nm}}</td>
+				<td>{{c.id}}</td>
+				<td><span style="color:#{{c.hx}}">#{{c.hx}}</span></td>
+			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
 	</section>
