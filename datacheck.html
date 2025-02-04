@@ -1,0 +1,68 @@
+---
+layout: none
+---
+<!doctype html><html>
+<head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>dragonotes/_data</title>
+	<link href="{%include url.html%}/assets/colors.css" type="text/css" rel="stylesheet"/>
+	<style>
+		h1{margin-bottom:-.5em;}
+		details{border:1px solid #bfbfbf; margin:1em 0;}
+		summary{padding:.5em;} summary:hover{background:#efefef; cursor:pointer;}
+		h3{display:inline;}
+		
+		details p{margin:0 .5em;}
+		
+		table{border:2px solid #808080; margin:.5em; border-collapse:collapse; font-family:monospace;}
+		th{text-align:left; background:#dfdfdf; position:sticky; top:0;}
+		th,td{border:1px solid #bfbfbf; border-color:rgba(0,0,0,.25); padding:.25em .5em;}
+		.odd{background:#fff;} .even{background:#f7f7f7;}
+		
+		#bne table{display:inline-block; vertical-align:top;}
+	</style>
+</head><body>
+
+	<h1>dragonotes/_data</h1>
+	<p>it’s like if a spreadsheet was an HTML page.<br>
+	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans</p>
+	
+	<nav>SKIPTO: <a href="#art">art</a> <a href="#bne">breeds</a> <a href="#colors">colors</a> <a href="#dragons">dragons</a> <i>(skipping farewell & template)</i> <a href="#bne">elements</a> <a href="#items">items</a></nav>
+	
+	<h2>FR defaults</h2>
+	<details open id="bne">
+		<summary><h3>breeds & elements</h3></summary>
+		<table>
+			<thead><tr><th>nm</th><th>id</th><th>typ</th></tr></thead>
+			<tbody>{%for b in site.data.breeds%}<tr class="{%cycle 'odd','even'%}"><td>{{b.nm}}</td><td>{{b.id}}</td><td>{{b.typ}}</td></tr>{%endfor%}</tbody>
+		</table><table>
+			<thead><tr><th>nm</th><th>id</th></tr></thead>
+			<tbody>{%for e in site.data.elements%}<tr class="{%cycle 'odd','even'%}"><td>{{e.nm}}</td><td>{{e.id}}</td></tr>{%endfor%}</tbody>
+		</table>
+	</details>
+	
+	<details open id="colors">
+		<summary><h3>colors</h3></summary>
+		<p>uses classes from <code>colors.css</code> to set bg+text defaults</p>
+		<table>
+			<thead><tr><th>nm</th><th>id</th></tr></thead>
+			<tbody>{%for c in site.data.colors%}<tr class="c{{c.id}}"><td>{{c.nm}}</td><td>{{c.id}}</td></tr>{%endfor%}</tbody>
+		</table>
+	</details>
+	
+	<h2>for me/this site</h2>
+	<details open id="art">
+		<summary><h3>art</h3></summary>
+		<table>
+		</table>
+	</details>
+	
+	<details open id="dragons">
+		<summary><h3>dragons</h3></summary>
+	</details>
+	
+	<details open id="items">
+		<summary><h3>items</h3></summary>
+	</details>
+
+</body>
+</html>

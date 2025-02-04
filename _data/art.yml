@@ -1,0 +1,30 @@
+# - dt: 
+#   dr: 
+#   by:
+#     fr: 
+#     nm: 
+# so far I only have art by artists on FR; other sites can use "by: tumblr:" or "by: toyshelf:" etc.
+
+# BY ME
+- dt: 2015-04-12
+  dr: Altostratus
+- dt: 2015-04-18
+  dr: Maelstrom
+- dt: 2016-10-08
+  dr: Altostratus
+- dt: 2019-03-01
+  dr: Maelstrom
+- dt: 2022-03-29
+  dr: Avi
+
+# /NOTMINE
+- dt: 2020-06-12
+  dr: Altostratus
+  by:
+    fr: 44495
+    nm: Orbitz
+- dt: 2021-10-18
+  dr: Altostratus
+  by:
+    fr: 566959
+    nm: Interlunation
