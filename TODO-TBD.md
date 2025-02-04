@@ -1,4 +1,4 @@
-[2024-11-24]
+# 2024-11-24
 	[sites>backup]\glitch\a-flyleaf\archaeoraptor
 	^for dragonotes?? page dates, based on imgur uploads:
 	- clan-roster-test: 2015-05-27
@@ -19,12 +19,12 @@
 
 	^all these (and more on other minisites) can go on some revamped shriblets linkhub tbh. there are So Many and they are So Scattered
 
-[2024+ condensed]
+# 2024+ condensed
 - trawl gdocs for stuff I can save here onsite instead
 - fandragon bio generator
 - 2025 August+: update Skiptrace once fully dressed
 
-[2025-02-04]
+# 2025-02-04
 - SAVE ALL THE ART.
 	- update _data/art
 	- use THIS to highlight artless lizards on dragons index

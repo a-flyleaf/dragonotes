@@ -2,7 +2,7 @@
 layout: none
 ---
 <!doctype html><html>
-<!--I think the images will absolutely murder github on the live site, so do a mass <img find+replace when editing locally-->
+<!--the mass-image-loading is slow, so by default I've made everything "img srrc"; replace that when editing locally-->
 <head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>dragonotes/_data</title>
 	<link href="{%include url.html%}/assets/colors.css" type="text/css" rel="stylesheet"/>
@@ -33,12 +33,14 @@ layout: none
 		#dragons tr.hl{background:#dfdfdf;} /*making this semi-transparent will make the details border show through, whoops! it overrides the even/odd distinction*/
 		#dragons .img{text-align:left;}
 		.art{text-align:center; font-weight:bold;} .art-y{color:#008000;} .art-n{color:#800000;}
+		.ver{font-size:0;} .ver a{display:inline-block !important;}
 	</style>
 </head><body>
 
 	<h1>dragonotes/_data</h1>
 	<p>it’s like if a spreadsheet was an HTML page.<br>
-	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans. columns in [brackets] are <em>not</em> in the data, and exist for ease of preview.</p>
+	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans. columns in [brackets] are <em>not</em> in the data, and exist for ease of preview.<br>
+	links within tables open in new tabs.</p>
 	
 	<nav>SKIPTO: <a href="#art">art</a> <a href="#bne">breeds</a> <a href="#colors">colors</a> <a href="#dragons">dragons</a> <i>(skipping farewell & template)</i> <a href="#bne">elements</a> <a href="#items">items</a></nav>
 	
@@ -78,13 +80,14 @@ layout: none
 	
 	<section>
 	<h2>for me/this site</h2>
-	<details id="art">
+	<details open id="art">
 		<summary><h3>art</h3></summary>
-		<p>image links open in a new tab</p>
+		<p>"fl" defaults to png unless otherwise stated</p>
 		<table>
 			<thead><tr>
 				<th rowspan="2">[IMG]</th>
 				<th rowspan="2">dt</th>
+				<th rowspan="2">fl</th>
 				<th rowspan="2">dr</th>
 				<th colspan="2">by</th>
 			</tr><tr>
@@ -92,20 +95,29 @@ layout: none
 				<th>nm</th>
 			</tr></thead>
 			<tbody>{%for a in site.data.art%}<tr class="{%cycle 'odd','even'%}">
-				<td class="img"><!--spaced this out so it's easier to copypaste the URL-->
-					<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" target="_blank">
-						<img srrc="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" height="30px">
-					</a>
+				<td class="img{%if a.ver%} ver{%endif%}"><!--spaced this out so it's easier to copypaste the URL-->
+					{%if a.ver%}
+						{%for v in a.ver%}
+							<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{{v.fl}}" class="ver" target="_blank">
+								<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{{v.fl}}" height="30px">
+							</a>
+						{%endfor%}
+						{%else%}
+							<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" target="_blank">
+								<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" height="30px">
+						</a>
+					{%endif%}
 				</td>
 				<td>{{a.dt}}</td>
+				<td{%unless a.fl%} class="empty"{%endunless%}>{{a.fl}}</td>
 				<td>{{a.dr}}</td>
-				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.fr}}</td>
+				<td{%unless a.by%} class="empty"{%endunless%}><a href="https://www1.flightrising.com/clan-profile/{{a.by.fr}}" target="_blank">{{a.by.fr}}</a></td>
 				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.nm}}</td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
 	
-	<details open id="dragons">
+	<details id="dragons">
 		<summary><h3>dragons</h3></summary>
 		<p>based on the template <b>without</b> the <code>has</code> checker</p>
 		
@@ -123,7 +135,7 @@ layout: none
 		<p>grayed-out rows use old <code>has</code> data; I’ve stopped using it since, buuuut it might actually be nifty to have anyway? familiar (optional), vista, and scene are used on individual pages; skins, apparel, and actual desctiptions can be page-specific.<br>
 		+also toying with the idea of an extra date checker, for genes and such; the concatenation + chronological ordering can be applied to the <code>dragons</code> layout</p>
 		
-		<p><b>IDs link to FR pages & names link to pages here (if any); both in new tabs</b></p>
+		<p><b>IDs link to FR pages & names link to pages here (if any)</b></p>
 		
 		<!--https://stackoverflow.com/questions/25335388/creating-and-accessing-arrays-in-liquid-templates/34805293#34805293
 		[%capture pagesTest%][%for d in site.dragons%][[d.slug|capitalize]][%endfor%][%endcapture%]
@@ -215,7 +227,7 @@ layout: none
 	
 	<details id="items">
 		<summary><h3>items</h3></summary>
-		<p>image links open the game database in a new tab</p>
+		<p>image links open the game database</p>
 		<table>
 			<thead><tr>
 				<th>[IMG]</th>
