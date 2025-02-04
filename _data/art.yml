@@ -17,16 +17,37 @@
   dr: Altostratus
 - dt: 2015-04-18
   dr: Maelstrom
+- dt: 2015-05-25
+  dr: Drosera
 - dt: 2015-08-22
   dr: solar
 - dt: 2016-10-08
   dr: Altostratus
+- dt: 2017-07-14
+  dr: Delphi
+- dt: 2018-05-25
+  dr: Pestilence
 - dt: 2019-03-01
   dr: Maelstrom
+- dt: 2019-04-23
+  dr: Pestilence
 - dt: 2022-03-29
   dr: Avi
 
 # /NOTMINE
+- dt: 2017-03-04
+  dr: Drosera
+  by:
+    fr: 291534
+    nm: DragonDeStinY
+#       uses a different username now but pings confirm this is what their name was when I got the art
+
+- dt: 2017-07-27
+  dr: Fern
+  by:
+    fr: 206931
+    nm: Clya
+
 - dt: 2018-04-07
   dr: solar
   by:
@@ -47,11 +68,23 @@
     fr: 412694
     nm: Pearlimose
 
+- dt: 2019-12-19
+  dr: Pestilence
+  by:
+    fr: 277546
+    nm: Alanon
+
 - dt: 2020-06-12
   dr: Altostratus
   by:
     fr: 44495
     nm: Orbitz
+
+- dt: 2021-10-11
+  dr: Pestilence
+  by:
+    fr: 305431
+    nm: Fiotheleo
 
 - dt: 2021-10-18
   dr: Altostratus
@@ -59,8 +92,43 @@
     fr: 566959
     nm: Interlunation
 
+- dt: 2021-10-11
+  dr: Fern
+  by:
+    fr: 587064
+    nm: Ashen0
+
+- dt: 2021-11-19
+  dr: Pestilence
+  by:
+    fr: 554051
+    nm: Hananathenerd77
+
+- dt: 2022-02-01
+  ver:
+    - fl: png
+      nm: Skiptrace1
+    - fl: png
+      nm: Skiptrace2
+  dr: Skiptrace
+  by:
+    fr: 443013
+    nm: Dawnfire13
+
+- dt: 2022-03-09
+  dr: Pestilence
+  by:
+    fr: 68704
+    nm: RobotOcelot
+
 - dt: 2022-12-22
   dr: solar
   by:
     fr: 617190
     nm: oroori
+
+- dt: 2024-10-14
+  dr: Schism
+  by:
+    fr: 10168
+    nm: eyeguy

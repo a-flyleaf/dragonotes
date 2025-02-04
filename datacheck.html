@@ -94,7 +94,7 @@ layout: none
 				<th>fr</th>
 				<th>nm</th>
 			</tr></thead>
-			<tbody>{%for a in site.data.art%}<tr class="{%cycle 'odd','even'%}">
+			<tbody>{%assign achrono=site.data.art|sort:"dt"%}{%for a in achrono%}<tr class="{%cycle 'odd','even'%}">
 				<td class="img{%if a.ver%} ver{%endif%}"><!--spaced this out so it's easier to copypaste the URL-->
 					{%if a.ver%}
 						{%for v in a.ver%}
@@ -117,7 +117,7 @@ layout: none
 		</table>
 	</details>
 	
-	<details id="dragons">
+	<details open id="dragons">
 		<summary><h3>dragons</h3></summary>
 		<p>based on the template <b>without</b> the <code>has</code> checker</p>
 		
@@ -144,7 +144,7 @@ layout: none
 		[%if pagesTest contains "Lapilli"%]yes[%else%]no[%endif%]
 		-->
 		
-		<p><code>[ART]</code> only checks for art saved <em>here</em>, onsite</p>
+		<p><code>[ART]</code> only checks for art saved <em>here</em>, onsite. does not account for makeovers (hi, Skiptrace)</p>
 		
 		<table>
 			<thead><tr>
