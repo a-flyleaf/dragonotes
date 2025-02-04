@@ -11,25 +11,28 @@ layout: none
 		summary{padding:.5em;} summary:hover{background:#efefef; cursor:pointer;}
 		h3{display:inline;}
 		
-		details p{margin:0 .5em;}
+		details p{margin:0 .5em 1em;}
 		
 		table{border:2px solid #808080; margin:.5em; border-collapse:collapse; font-family:monospace;}
 		th{text-align:left; background:#dfdfdf; position:sticky; top:0;}
 		th,td{border:1px solid #bfbfbf; border-color:rgba(0,0,0,.25); padding:.25em .5em;}
 		.odd{background:#fff;} .even{background:#f7f7f7;}
+		.colspan{text-align:center;}
+		.empty{background:rgba(128,128,128,.15);}
 		
+		.img{text-align:center; line-height:0; padding:0;} .img a{display:block; padding:.25em 0;} .img a:hover{background:rgba(218,214,200,.75);}
 		#bne table{display:inline-block; vertical-align:top;}
 	</style>
 </head><body>
 
 	<h1>dragonotes/_data</h1>
 	<p>it’s like if a spreadsheet was an HTML page.<br>
-	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans</p>
+	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans. columns in [brackets] are <em>not</em> in the data, and exist for ease of preview.</p>
 	
 	<nav>SKIPTO: <a href="#art">art</a> <a href="#bne">breeds</a> <a href="#colors">colors</a> <a href="#dragons">dragons</a> <i>(skipping farewell & template)</i> <a href="#bne">elements</a> <a href="#items">items</a></nav>
 	
 	<h2>FR defaults</h2>
-	<details open id="bne">
+	<details id="bne">
 		<summary><h3>breeds & elements</h3></summary>
 		<table>
 			<thead><tr><th>nm</th><th>id</th><th>typ</th></tr></thead>
@@ -40,7 +43,7 @@ layout: none
 		</table>
 	</details>
 	
-	<details open id="colors">
+	<details id="colors">
 		<summary><h3>colors</h3></summary>
 		<p>uses classes from <code>colors.css</code> to set bg+text defaults</p>
 		<table>
@@ -52,7 +55,28 @@ layout: none
 	<h2>for me/this site</h2>
 	<details open id="art">
 		<summary><h3>art</h3></summary>
+		<p>image links open in a new tab</p>
 		<table>
+			<thead><tr>
+				<th rowspan="2">[IMG]</th>
+				<th rowspan="2">dt</th>
+				<th rowspan="2">dr</th>
+				<th colspan="2" class="colspan">by</th>
+			</tr><tr>
+				<th>fr</th>
+				<th>nm</th>
+			</tr></thead>
+			<tbody>{%for a in site.data.art%}<tr class="{%cycle 'odd','even'%}">
+				<td class="img"><!--spaced this out so it's easier to copypaste the URL-->
+					<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" target="_blank">
+						<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" height="30px">
+					</a>
+				</td>
+				<td>{{a.dt}}</td>
+				<td>{{a.dr}}</td>
+				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.fr}}</td>
+				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.nm}}</td>
+			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
 	
@@ -62,7 +86,35 @@ layout: none
 	
 	<details open id="items">
 		<summary><h3>items</h3></summary>
+		<p>image links open the game database in a new tab</p>
+		<table>
+			<thead><tr>
+				<th>[IMG]</th>
+				<th>id</th>
+				<th>nm</th>
+				<th>ct</th>
+			</tr></thead>
+			<tbody>{%for i in site.data.items%}<tr class="{%cycle 'odd','even'%}">
+				<td class="img"><a href="https://www1.flightrising.com/game-database/item/{{i.id}}" target="_blank"><img src="{%include url.html%}/assets/img/items/{{i.id}}.png" height="28px" width="28px"></a></td>
+				<td>{{i.id}}</td>
+				<td>{{i.nm}}</td>
+				<td>{{i.ct}}</td>
+			</tr>{%endfor%}</tbody>
+		</table>
 	</details>
+
+<!--TEMPLATE
+		<table>
+			<thead><tr>
+				<th></th>
+				<th></th>
+			</tr></thead>
+			<tbody>{%for a in site.data.art%}<tr class="{%cycle 'odd','even'%}">
+				<td></td>
+				<td></td>
+			</tr>{%endfor%}</tbody>
+		</table>
+-->
 
 </body>
 </html>
