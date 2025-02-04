@@ -12,16 +12,21 @@ layout: none
 		h3{display:inline;}
 		
 		details p{margin:0 .5em 1em;}
+		details ul{margin:.25em 0 .5em 1em; padding:0;}
 		
-		table{border:2px solid #808080; margin:.5em; border-collapse:collapse; font-family:monospace;}
-		th{text-align:left; background:#dfdfdf; position:sticky; top:0;}
-		th,td{border:1px solid #bfbfbf; border-color:rgba(0,0,0,.25); padding:.25em .5em;}
+		table{border:2px solid #808080; margin:.5em; font-family:monospace; border-spacing:0;}
+			/*no border-collapse or the borders disappear on the sticky headers*/
+		thead{position:sticky; top:0;}
+		th{text-align:left; background:#dfdfdf;}
+		th,td{border:1px solid #bfbfbf; border-color:rgba(0,0,0,.15); padding:.25em .5em;}
 		.odd{background:#fff;} .even{background:#f7f7f7;}
-		.colspan{text-align:center;}
+		th[colspan]{text-align:center;}
 		.empty{background:rgba(128,128,128,.15);}
+		.hl{background:rgba(255,255,0,.15);}
 		
 		.img{text-align:center; line-height:0; padding:0;} .img a{display:block; padding:.25em 0;} .img a:hover{background:rgba(218,214,200,.75);}
 		#bne table{display:inline-block; vertical-align:top;}
+		#dragons{text-wrap:nowrap;} #dragons ul code{font-weight:bold; font-size:1.15em;} #dragons tr.hl{background:rgba(128,128,128,.25);}
 	</style>
 </head><body>
 
@@ -31,6 +36,7 @@ layout: none
 	
 	<nav>SKIPTO: <a href="#art">art</a> <a href="#bne">breeds</a> <a href="#colors">colors</a> <a href="#dragons">dragons</a> <i>(skipping farewell & template)</i> <a href="#bne">elements</a> <a href="#items">items</a></nav>
 	
+	<section><!--for ease of notepad++ viewing-->
 	<h2>FR defaults</h2>
 	<details id="bne">
 		<summary><h3>breeds & elements</h3></summary>
@@ -51,9 +57,13 @@ layout: none
 			<tbody>{%for c in site.data.colors%}<tr class="c{{c.id}}"><td>{{c.nm}}</td><td>{{c.id}}</td></tr>{%endfor%}</tbody>
 		</table>
 	</details>
+	</section>
 	
+	<hr>
+	
+	<section>
 	<h2>for me/this site</h2>
-	<details open id="art">
+	<details id="art">
 		<summary><h3>art</h3></summary>
 		<p>image links open in a new tab</p>
 		<table>
@@ -61,7 +71,7 @@ layout: none
 				<th rowspan="2">[IMG]</th>
 				<th rowspan="2">dt</th>
 				<th rowspan="2">dr</th>
-				<th colspan="2" class="colspan">by</th>
+				<th colspan="2">by</th>
 			</tr><tr>
 				<th>fr</th>
 				<th>nm</th>
@@ -82,9 +92,88 @@ layout: none
 	
 	<details open id="dragons">
 		<summary><h3>dragons</h3></summary>
+		<p>based on the template <b>without</b> the <code>has</code> checker</p>
+		
+		DEFAULTS:<ul>
+			<li><code>age</code>: adult, <i>else permababy</i></li>
+			<li><code>gen</code>: ≥2, <i>else G1</i></li>
+			<li><code>lvl</code>: 1, <i>else [as specified]</i></li>
+			<li><code>stats[all]</code>: none, <i>else [as specified]</i></li>
+			<li><code>genes.eye</code>: common, <i>else [as specified]</i></li>
+			<li><code>dates.obtain</code>: same as hatch, <i>else [as specified]</i></li>
+		</ul>
+		
+		<p><code>cat</code>egories are still subject to change; I have <code>other</code> highlighted because more descriptive categories (template currently offers <code>[lore,virevo,baneclan,inn,song,nolore]</code>) are better</p>
+		
+		<table>
+			<thead><tr>
+				<th rowspan="3">nm</th>
+				<th rowspan="3">id</th>
+				<th rowspan="3">sex</th>
+				<th rowspan="3">age</th>
+				<th rowspan="3">breed</th>
+				<th rowspan="3">gen</th>
+				<th rowspan="3">lvl</th>
+				<th colspan="4">stats</th>
+				<th colspan="3">msr</th>
+				<th colspan="7">genes</th>
+				<th colspan="3">dates</th>
+				<th rowspan="3">cat</th>
+			</tr><tr>
+				<!--stats--><th rowspan="2">bld</th>
+				<th rowspan="2">lnk</th>
+				<th rowspan="2">by</th>
+				<th rowspan="2">id</th>
+				<!--msr--><th rowspan="2">length</th>
+				<th rowspan="2">wings</th>
+				<th rowspan="2">weight</th>
+				<!--genes--><th colspan="2">pri</th>
+				<th colspan="2">sec</th>
+				<th colspan="2">tert</th>
+				<th rowspan="2">eye</th>
+				<!--dates--><th rowspan="2">hatch</th>
+				<th rowspan="2">obtain</th>
+				<th rowspan="2">hibern</th>
+			</tr><!--genes>pri/sec/tert--><tr>
+				<!--pri--><th>clr</th><th>gn</th>
+				<!--sec--><th>clr</th><th>gn</th>
+				<!--tert--><th>clr</th><th>gn</th>
+			</tr></thead>
+			<tbody>{%for d in site.data.dragons%}<tr class="{%cycle 'odd','even'%}{%if d.has%} hl{%endif%}">
+				<td>{{d.nm}}</td>
+				<td>{{d.id}}</td>
+				<td>{{d.sex}}</td>
+				<td{%unless d.age%} class="empty"{%endunless%}>{{d.age}}</td>
+				<td>{{d.breed}}</td>
+				<td{%unless d.gen%} class="empty"{%endunless%}>{{d.gen}}</td>
+				<td{%unless d.lvl%} class="empty"{%endunless%}>{{d.lvl}}</td>
+				<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.bld}}</td>
+				<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.lnk}}</td>
+				<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.by}}</td>
+				<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.id}}</td>
+				<td>{{d.msr.length}}</td>
+				<td>{{d.msr.wings}}</td>
+				<td>{{d.msr.weight}}</td>
+					<!--copied from layouts/dragons.html-->
+					{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}
+					{%assign sec=site.data.colors|where:"nm",d.genes.sec.clr%}
+					{%assign tri=site.data.colors|where:"nm",d.genes.tert.clr%}
+				<td class="c{%for clr in pri%}{{clr.id}}{%endfor%}">{{d.genes.pri.clr}}</td>
+				<td>{{d.genes.pri.gn}}</td>
+				<td class="c{%for clr in sec%}{{clr.id}}{%endfor%}">{{d.genes.sec.clr}}</td>
+				<td>{{d.genes.sec.gn}}</td>
+				<td class="c{%for clr in tri%}{{clr.id}}{%endfor%}">{{d.genes.tert.clr}}</td>
+				<td>{{d.genes.tert.gn}}</td>
+				<td{%unless d.genes.eye%} class="empty"{%endunless%}>{{d.genes.eye}}</td>
+				<td>{{d.dates.hatch}}</td>
+				<td{%unless d.dates.obtain%} class="empty"{%endunless%}>{{d.dates.obtain}}</td>
+				<td>{{d.dates.hibern}}</td>
+				<td{%if d.cat contains 'other'%} class="hl"{%endif%}>{%for dcat in d.cat%}{{dcat}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
+			</tr>{%endfor%}</tbody>
+		</table>
 	</details>
 	
-	<details open id="items">
+	<details id="items">
 		<summary><h3>items</h3></summary>
 		<p>image links open the game database in a new tab</p>
 		<table>
@@ -96,12 +185,10 @@ layout: none
 			</tr></thead>
 			<tbody>{%for i in site.data.items%}<tr class="{%cycle 'odd','even'%}">
 				<td class="img"><a href="https://www1.flightrising.com/game-database/item/{{i.id}}" target="_blank"><img src="{%include url.html%}/assets/img/items/{{i.id}}.png" height="28px" width="28px"></a></td>
-				<td>{{i.id}}</td>
-				<td>{{i.nm}}</td>
-				<td>{{i.ct}}</td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
+	</section>
 
 <!--TEMPLATE
 		<table>

@@ -2194,13 +2194,13 @@
     weight: 511.18
   genes:
     pri:
-      clr: 16
+      clr: flint
       gn: twinkle
     sec:
-      clr: 121
+      clr: bronze
       gn: flair
     tert:
-      clr: 124
+      clr: fire
       gn: starfall
     eye: unusual
   dates:
@@ -2219,15 +2219,12 @@
     weight: 739.83
   genes:
     pri:
-      num: 78
       clr: emerald
       gn: cinder
     sec:
-      num: 160
       clr: red
       gn: blaze
     tert:
-      num: 5
       clr: moon
       gn: sparkle
     eye: swirl
