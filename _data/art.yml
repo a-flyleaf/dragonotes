@@ -36,11 +36,6 @@
 # 2018-04-04 iPad gijinkas of the cryptid bros. idek
 - dt: 2018-05-25
   dr: Pestilence
-  ver:
-    - fl: png
-      nm: 1ref
-    - fl: png
-      nm: 2palette
 - dt: 2018-11-04
   dr: Soleil
 - dt: 2019-03-01
@@ -65,6 +60,20 @@
   dr: Staccato
 - dt: 2020-05-11
   dr: Staccato
+- dt: 2021-11-12
+  dr: [Mallow,Astraeus]
+- dt: 2021-11-15
+  dr: [Mallow,Astraeus]
+- dt: 2021-11-21
+  dr: CabochonLuster
+  ver:
+    - nm: cabo
+- dt: 2021-11-21
+  dr: [MiamiTriggerfish,CabochonLuster,Caspian,Fissure,Koirin,Badru,Axius,Mallow,Zachariah,Astraeus]
+  ver:
+    - nm: headshots
+- dt: 2021-11-26
+  dr: CabochonLuster
 - dt: 2021-12-01
   dr: [Caspian,CabochonLuster]
 - dt: 2022-03-20
@@ -116,8 +125,7 @@
 - dt: 2018-11-21
   ver:
 #   kept the filenames from the original upload because they made me smile :> just replaced spaces between words with hyphens
-    - fl: png
-      nm: 1-Hello
+    - nm: 1-Hello
     - fl: gif
       nm: 2-I-can-jump-in-place
     - fl: gif
@@ -141,10 +149,8 @@
 
 - dt: 2019-12-19
   ver:
-    - fl: png
-      nm: cape
-    - fl: png
-      nm: nocape
+    - nm: cape
+    - nm: nocape
   dr: Midst
   by:
     fr: 207972
@@ -152,8 +158,7 @@
 
 - dt: 2019-12-30
   ver:
-    - fl: png
-      nm: andante
+    - nm: andante
   dr: Andante
   by:
     fr: 154165
@@ -161,8 +166,7 @@
 # same day same artist; both downsized 50% (yes! as-is!! OG files are >3000px
 - dt: 2019-12-30
   ver:
-    - fl: png
-      nm: hestia
+    - nm: hestia
   dr: Hestia
   by:
     fr: 154165
@@ -188,8 +192,7 @@
 
 - dt: 2021-10-18
   ver:
-    - fl: png
-      nm: alto
+    - nm: alto
   dr: Altostratus
   by:
     fr: 566959
@@ -197,14 +200,30 @@
 # using the multi code here since I got both on the same day
 - dt: 2021-10-18
   ver:
-    - fl: png
-      nm: midst
+    - nm: midst
   dr: Midst
   by:
     fr: 566959
     nm: Ilidragon
+
 - dt: 2021-11-19
+  ver:
+    - nm: 3pestilence
   dr: Pestilence
+  by:
+    fr: 554051
+    nm: Hananathenerd77
+- dt: 2021-11-19
+  ver:
+    - nm: 2mallow
+  dr: Mallow
+  by:
+    fr: 554051
+    nm: Hananathenerd77
+- dt: 2021-11-19
+  ver:
+    - nm: 1astraeus
+  dr: Astraeus
   by:
     fr: 554051
     nm: Hananathenerd77
@@ -217,10 +236,8 @@
 
 - dt: 2021-10-25
   ver:
-    - fl: png
-      nm: 1
-    - fl: png
-      nm: 2
+    - nm: 1
+    - nm: 2
   dr: Raizel
   by:
     fr: 46855
@@ -240,21 +257,25 @@
 
 - dt: 2022-02-01
   ver:
-    - fl: png
-      nm: Skiptrace1
-    - fl: png
-      nm: Skiptrace2
+    - nm: Skiptrace1
+    - nm: Skiptrace2
   dr: Skiptrace
   by:
     fr: 443013
     nm: Dawnfire13
 - dt: 2022-02-01
   ver:
-    - fl: png
-      nm: Soleil1
-    - fl: png
-      nm: Soleil2
+    - nm: Soleil1
+    - nm: Soleil2
   dr: Soleil
+  by:
+    fr: 443013
+    nm: Dawnfire13
+- dt: 2022-02-01
+  ver:
+    - nm: Fissure1
+    - nm: Fissure2
+  dr: Fissure
   by:
     fr: 443013
     nm: Dawnfire13
@@ -279,8 +300,7 @@
 
 - dt: 2024-10-14
   ver:
-    - fl: png
-      nm: schism
+    - nm: schism
   dr: Schism
   by:
     fr: 10168
@@ -288,8 +308,7 @@
 # same day same artist
 - dt: 2024-10-14
   ver:
-    - fl: png
-      nm: comet
+    - nm: comet
   dr: Comet
   by:
     fr: 10168

@@ -98,8 +98,8 @@ layout: none
 				<td class="img{%if a.ver%} ver{%endif%}"><!--spaced this out so it's easier to copypaste the URL-->
 					{%if a.ver%}
 						{%for v in a.ver%}
-							<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{{v.fl}}" class="ver" target="_blank">
-								<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{{v.fl}}" height="30px">
+							<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" class="ver" target="_blank">
+								<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" height="30px">
 							</a>
 						{%endfor%}
 						{%else%}
