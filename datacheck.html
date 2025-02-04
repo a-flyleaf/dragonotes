@@ -2,6 +2,7 @@
 layout: none
 ---
 <!doctype html><html>
+<!--I think the images will absolutely murder github on the live site, so do a mass <img find+replace when editing locally-->
 <head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>dragonotes/_data</title>
 	<link href="{%include url.html%}/assets/colors.css" type="text/css" rel="stylesheet"/>
@@ -26,7 +27,11 @@ layout: none
 		
 		.img{text-align:center; line-height:0; padding:0;} .img a{display:block; padding:.25em 0;} .img a:hover{background:rgba(218,214,200,.75);}
 		#bne table{display:inline-block; vertical-align:top;}
-		#dragons{text-wrap:nowrap;} #dragons ul code{font-weight:bold; font-size:1.15em;} #dragons tr.hl{background:rgba(128,128,128,.25);}
+		
+		#dragons{text-wrap:nowrap;}
+		#dragons ul code{font-weight:bold; font-size:1.15em;}
+		#dragons tr.hl{background:#dfdfdf;}
+		#dragons .img{text-align:left;}
 	</style>
 </head><body>
 
@@ -49,7 +54,7 @@ layout: none
 		</table>
 	</details>
 	
-	<details open id="colors">
+	<details id="colors">
 		<summary><h3>colors</h3></summary>
 		<p>uses classes from <code>colors.css</code> to set bg+text defaults<br>
 		hex column text is deliberately “invisible” to make sure I got all the codes right</p>
@@ -114,8 +119,20 @@ layout: none
 		
 		<p><code>cat</code>egories are still subject to change; I have <code>other</code> highlighted because more descriptive categories (template currently offers <code>[lore,virevo,baneclan,inn,song,nolore]</code>) are better</p>
 		
+		<p>grayed-out rows use old <code>has</code> data; I’ve stopped using it since, buuuut it might actually be nifty to have anyway? familiar (optional), vista, and scene are used on individual pages; skins, apparel, and actual desctiptions can be page-specific.<br>
+		+also toying with the idea of an extra date checker, for genes and such; the concatenation + chronological ordering can be applied to the <code>dragons</code> layout</p>
+		
+		<p><b>IDs link to FR pages & names link to pages here (if any); both in new tabs</b></p>
+		
+		<!--https://stackoverflow.com/questions/25335388/creating-and-accessing-arrays-in-liquid-templates/34805293#34805293-->
+		{%capture pagesTest%}{%for d in site.dragons%}{{d.slug|capitalize}}{%endfor%}{%endcapture%}
+		
+		{{pagesTest}}
+		{%if pagesTest contains "Lapilli"%}yes{%else%}no{%endif%}
+		
 		<table>
 			<thead><tr>
+				<th rowspan="3">[IMG]</th>
 				<th rowspan="3">nm</th>
 				<th rowspan="3">id</th>
 				<th rowspan="3">sex</th>
@@ -149,8 +166,15 @@ layout: none
 				<!--tert--><th>clr</th><th>gn</th>
 			</tr></thead>
 			<tbody>{%for d in site.data.dragons%}<tr class="{%cycle 'odd','even'%}{%if d.has%} hl{%endif%}">
-				<td>{{d.nm}}</td>
-				<td>{{d.id}}</td>
+				<td class="img">
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
+				</td>
+				<!--for linking; see above. KEEP THE SLUG/NAME SEPARATE; it's redundant *but* will save me time with the weird names (letter cutoffs, multiple words) later. also keeps the HTML pages in order regardless of alphabet/ID/etc.-->{%capture pages%}{%for d in site.dragons%}{{d.name}}{%endfor%}{%endcapture%}
+				<td>{%if pages contains d.nm%}<a href="{%include url.html%}/dragons/{{d.nm|downcase}}">{%endif%}{{d.nm}}{%if pages contains d.nm%}</a>{%endif%}</td>
+				<td><a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.id}}</a></td>
 				<td>{{d.sex}}</td>
 				<td{%unless d.age%} class="empty"{%endunless%}>{{d.age}}</td>
 				<td>{{d.breed}}</td>
@@ -165,14 +189,14 @@ layout: none
 				<td>{{d.msr.weight}}</td>
 					<!--copied from layouts/dragons.html-->
 					{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}
+				<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.genes.pri.clr}}</td>
+				<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.genes.pri.gn}}</td>
 					{%assign sec=site.data.colors|where:"nm",d.genes.sec.clr%}
+				<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.genes.sec.clr}}</td>
+				<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.genes.sec.gn}}</td>
 					{%assign tri=site.data.colors|where:"nm",d.genes.tert.clr%}
-				<td class="c{%for clr in pri%}{{clr.id}}{%endfor%}">{{d.genes.pri.clr}}</td>
-				<td>{{d.genes.pri.gn}}</td>
-				<td class="c{%for clr in sec%}{{clr.id}}{%endfor%}">{{d.genes.sec.clr}}</td>
-				<td>{{d.genes.sec.gn}}</td>
-				<td class="c{%for clr in tri%}{{clr.id}}{%endfor%}">{{d.genes.tert.clr}}</td>
-				<td>{{d.genes.tert.gn}}</td>
+				<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.genes.tert.clr}}</td>
+				<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.genes.tert.gn}}</td>
 				<td{%unless d.genes.eye%} class="empty"{%endunless%}>{{d.genes.eye}}</td>
 				<td>{{d.dates.hatch}}</td>
 				<td{%unless d.dates.obtain%} class="empty"{%endunless%}>{{d.dates.obtain}}</td>
@@ -194,6 +218,9 @@ layout: none
 			</tr></thead>
 			<tbody>{%for i in site.data.items%}<tr class="{%cycle 'odd','even'%}">
 				<td class="img"><a href="https://www1.flightrising.com/game-database/item/{{i.id}}" target="_blank"><img src="{%include url.html%}/assets/img/items/{{i.id}}.png" height="28px" width="28px"></a></td>
+				<td>{{i.id}}</td>
+				<td>{{i.nm}}</td>
+				<td>{{i.ct}}</td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
