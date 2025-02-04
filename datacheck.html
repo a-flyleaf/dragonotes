@@ -94,7 +94,7 @@ layout: none
 			<tbody>{%for a in site.data.art%}<tr class="{%cycle 'odd','even'%}">
 				<td class="img"><!--spaced this out so it's easier to copypaste the URL-->
 					<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" target="_blank">
-						<img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" height="30px">
+						<img srrc="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.png" height="30px">
 					</a>
 				</td>
 				<td>{{a.dt}}</td>
@@ -172,10 +172,10 @@ layout: none
 			</tr></thead>
 			<tbody>{%for d in site.data.dragons%}<tr class="{%cycle 'odd','even'%}{%if d.has%} hl{%endif%}">
 				<td class="img">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
-					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
 				</td>
 				<!--for linking; see above. KEEP THE SLUG/NAME SEPARATE; it's redundant *but* will save me time with the weird names (letter cutoffs, multiple words) later. also keeps the HTML pages in order regardless of alphabet/ID/etc.-->{%capture pages%}{%for d in site.dragons%}{{d.name}}{%endfor%}{%endcapture%}
 				<td>{%if pages contains d.nm%}<a href="{%include url.html%}/dragons/{{d.nm|downcase}}">{%endif%}{{d.nm}}{%if pages contains d.nm%}</a>{%endif%}</td>
@@ -224,7 +224,7 @@ layout: none
 				<th>ct</th>
 			</tr></thead>
 			<tbody>{%for i in site.data.items%}<tr class="{%cycle 'odd','even'%}">
-				<td class="img"><a href="https://www1.flightrising.com/game-database/item/{{i.id}}" target="_blank"><img src="{%include url.html%}/assets/img/items/{{i.id}}.png" height="28px" width="28px"></a></td>
+				<td class="img"><a href="https://www1.flightrising.com/game-database/item/{{i.id}}" target="_blank"><img srrc="{%include url.html%}/assets/img/items/{{i.id}}.png" height="28px" width="28px"></a></td>
 				<td>{{i.id}}</td>
 				<td>{{i.nm}}</td>
 				<td>{{i.ct}}</td>
