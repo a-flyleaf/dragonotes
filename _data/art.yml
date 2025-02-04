@@ -11,6 +11,7 @@
 #     nm: 
 # 
 # so far I only have art by artists on FR; other sites can use "by: tumblr:" or "by: toyshelf:" etc.
+# if same date then defer to dragon order, e.g. Pestilence before Fern. dw about onsite timestamps; the dates and usernames should be enough for me to dig up the original thread/PM if needed
 
 # BY ME
 - dt: 2015-04-12
@@ -21,16 +22,38 @@
   dr: Drosera
 - dt: 2015-08-22
   dr: solar
+- dt: 2015-12-26
+#     there are two files for this one: flat color MDP in sketchdumps 12/24, with shading on GIMP 12/26. went with the latter date to maybe confuse future-me marginally less
+  dr: Notturno
+- dt: 2016-09-09
+  dr: Avi
 - dt: 2016-10-08
   dr: Altostratus
 - dt: 2017-07-14
   dr: Delphi
+- dt: 2017-05-15
+  dr: Galena
+# 2018-04-04 iPad gijinkas of the cryptid bros. idek
 - dt: 2018-05-25
   dr: Pestilence
+  ver:
+    - fl: png
+      nm: 1ref
+    - fl: png
+      nm: 2palette
+- dt: 2018-11-04
+  dr: Soleil
 - dt: 2019-03-01
   dr: Maelstrom
 - dt: 2019-04-23
   dr: Pestilence
+- dt: 2019-06-12
+  dr: Rothide
+- dt: 2019-12-01
+  dr: Notturno
+- dt: 2019-12-19
+  dr: Carnation
+# uses a base, see onsite bio
 - dt: 2022-03-29
   dr: Avi
 
@@ -48,11 +71,30 @@
     fr: 206931
     nm: Clya
 
+- dt: 2017-09-04
+  dr: Eavn
+  by:
+    fr: 152204
+    nm: Liberosis
+
+- dt: 2018-03-30 
+  fl: jpg
+  dr: Midst
+  by:
+    fr: 325229
+    nm: Starbrite
+
 - dt: 2018-04-07
   dr: solar
   by:
     fr: 295043
     nm: Azellia
+
+- dt: 2018-05-19
+  dr: Midst
+  by:
+    fr: 88234
+    nm: After
 
 - dt: 2018-11-21
   ver:
@@ -74,6 +116,17 @@
     fr: 277546
     nm: Alanon
 
+- dt: 2019-12-19
+  ver:
+    - fl: png
+      nm: cape
+    - fl: png
+      nm: nocape
+  dr: Midst
+  by:
+    fr: 207972
+    nm: Ilidragon
+
 - dt: 2020-06-12
   dr: Altostratus
   by:
@@ -86,18 +139,29 @@
     fr: 305431
     nm: Fiotheleo
 
-- dt: 2021-10-18
-  dr: Altostratus
-  by:
-    fr: 566959
-    nm: Interlunation
-
 - dt: 2021-10-11
   dr: Fern
   by:
     fr: 587064
     nm: Ashen0
 
+- dt: 2021-10-18
+  ver:
+    - fl: png
+      nm: alto
+  dr: Altostratus
+  by:
+    fr: 566959
+    nm: Interlunation
+# using the multi code here since I got both on the same day
+- dt: 2021-10-18
+  ver:
+    - fl: png
+      nm: midst
+  dr: Midst
+  by:
+    fr: 566959
+    nm: Ilidragon
 - dt: 2021-11-19
   dr: Pestilence
   by:
@@ -114,6 +178,27 @@
   by:
     fr: 443013
     nm: Dawnfire13
+- dt: 2022-02-01
+  ver:
+    - fl: png
+      nm: Soleil1
+    - fl: png
+      nm: Soleil2
+  dr: Soleil
+  by:
+    fr: 443013
+    nm: Dawnfire13
+
+- dt: 2021-10-25
+  ver:
+    - fl: png
+      nm: 1
+    - fl: png
+      nm: 2
+  dr: Raizel
+  by:
+    fr: 46855
+    nm: Valak
 
 - dt: 2022-03-09
   dr: Pestilence
