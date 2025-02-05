@@ -76,10 +76,22 @@
   dr: CabochonLuster
 - dt: 2021-12-01
   dr: [Caspian,CabochonLuster]
+- dt: 2022-02-20
+  dr: Disappointius
 - dt: 2022-03-20
   dr: Falsework
 - dt: 2022-03-29
   dr: Avi
+- dt: 2022-05-24
+  dr: [Art,Min,Scylla]
+- dt: 2022-08-27
+  dr: Singularity
+- dt: 2022-09-29
+  dr: Novak
+- dt: 2022-10-13
+  dr: Alcho
+- dt: 2022-10-17
+  dr: dashcon
 - dt: 2024-10-02
   dr: Ghost
 
@@ -292,11 +304,29 @@
     fr: 68704
     nm: RobotOcelot
 
+- dt: 2022-09-25
+  dr: Layes
+  by:
+    fr: 404361
+    nm: seradis
+
+- dt: 2022-09-29
+  dr: Ascher
+  by:
+    fr: 274934
+    nm: Shoz
+
 - dt: 2022-12-22
   dr: solar
   by:
     fr: 617190
     nm: oroori
+
+- dt: 2023-07-19
+  dr: Koirin
+  by:
+    fr: 664558
+    nm: Fiendishly
 
 - dt: 2024-10-14
   ver:
