@@ -26,7 +26,7 @@
 
 # 2025-02-04
 - SAVE ALL THE ART.
-	- update _data/art
+	- update _data/art [DONE]
 	- use THIS to highlight artless lizards on dragons index
 - _data/dragons.yml
 	- re-include familiars (optional)/vistas/scenes
@@ -37,3 +37,5 @@
 		- use an "if contains" NOT an =, since some arts have multiple dragons
 	- auto-populate familiars/scenes/vistas [see above]
 	- concatenate & chronologize all dates [also above]
+
+- long-term/eventually/whenever: art but it's not of my dragons (e.g. commissions, other doodles for other people, random Fr-related sketches... There's A Lot.)

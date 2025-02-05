@@ -33,6 +33,10 @@
   dr: Delphi
 - dt: 2017-05-15
   dr: Galena
+- dt: 2017-07-08
+  dr: Riptide
+- dt: 2018-03-20
+  dr: [Delphi,Vulcan]
 # 2018-04-04 iPad gijinkas of the cryptid bros. idek
 - dt: 2018-05-25
   dr: Pestilence
@@ -44,12 +48,16 @@
   dr: Pestilence
 - dt: 2019-06-12
   dr: Rothide
-- dt: 2020-06-01
-  dr: Miasma
-- dt: 2021-10-11
-#     not the timestamp on the dA upload sending me on a wild "did I delete this fucking file" chase.... anyway the OG is in the 2021-10-11 sketchdump, and just got upscaled for dA. actual dragon bio uses the origial 500px resolution.
-  dr: MiamiTriggerfish
 - dt: 2019-12-01
+#     original Crake from 11/26, added detail 12/01
+  ver:
+    - nm: crake
+  dr: Crake
+- dt: 2019-12-01
+#     original Notturno from 8/17, colored 12/01
+  ver:
+    - nm: notturno1
+    - nm: notturno2
   dr: Notturno
 - dt: 2019-12-18
   dr: Jester
@@ -60,10 +68,17 @@
   dr: Staccato
 - dt: 2020-05-11
   dr: Staccato
+- dt: 2020-06-01
+  dr: Miasma
+- dt: 2021-10-11
+#     not the timestamp on the dA upload sending me on a wild "did I delete this fucking file" chase.... anyway the OG is in the 2021-10-11 sketchdump, and just got upscaled for dA. actual dragon bio uses the origial 500px resolution.
+  dr: MiamiTriggerfish
 - dt: 2021-11-12
   dr: [Mallow,Astraeus]
 - dt: 2021-11-15
   dr: [Mallow,Astraeus]
+- dt: 2021-11-17
+  dr: LethalTriplicate
 - dt: 2021-11-21
   dr: CabochonLuster
   ver:
@@ -78,10 +93,14 @@
   dr: [Caspian,CabochonLuster]
 - dt: 2022-02-20
   dr: Disappointius
+- dt: 2022-03-07
+  dr: AFR
 - dt: 2022-03-20
   dr: Falsework
 - dt: 2022-03-29
   dr: Avi
+- dt: 2022-04-18
+  dr: Outcast
 - dt: 2022-05-24
   dr: [Art,Min,Scylla]
 - dt: 2022-08-27
@@ -218,6 +237,12 @@
     fr: 566959
     nm: Ilidragon
 
+- dt: 2021-10-19
+  dr: Burin
+  by:
+    fr: 391450
+    nm: MaybeHuman
+
 - dt: 2021-11-19
   ver:
     - nm: 3pestilence
@@ -285,9 +310,25 @@
     nm: Dawnfire13
 - dt: 2022-02-01
   ver:
+    - nm: Spectral1
+    - nm: Spectral2
+  dr: Spectral
+  by:
+    fr: 443013
+    nm: Dawnfire13
+- dt: 2022-02-01
+  ver:
     - nm: Fissure1
     - nm: Fissure2
   dr: Fissure
+  by:
+    fr: 443013
+    nm: Dawnfire13
+- dt: 2022-02-01
+  ver:
+    - nm: Wian1
+    - nm: Wian2
+  dr: LethalTriplicate
   by:
     fr: 443013
     nm: Dawnfire13
@@ -303,6 +344,19 @@
   by:
     fr: 68704
     nm: RobotOcelot
+
+- dt: 2022-03-22
+  dr: LethalTriplicate
+  by:
+    fr: 64907
+    nm: mynnthia
+# moodboard (and I don't usuallly put edits here) but w/e. it's art to me! credits in post link, see bio
+
+- dt: 2022-03-29
+  dr: LethalTriplicate
+  by:
+    fr: 514909
+    nm: orchidtones
 
 - dt: 2022-09-25
   dr: Layes
@@ -343,3 +397,9 @@
   by:
     fr: 10168
     nm: eyeguy
+
+- dt: 2025-01-08
+  dr: Mehdiz
+  by:
+    fr: 718959
+    nm: Spuddicus
