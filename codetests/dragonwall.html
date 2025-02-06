@@ -23,7 +23,8 @@ layout: none
 	</style>
 </head><body>
 <h1>buncha data/code tests</h1>
-<p>for my own reference</p>
+<p>for my own reference<br>
+<b style="text-transform:uppercase;">deprecated</b> 2025-02-05; see <a href="datacheck">datacheck</a> for the newer iteration. page below will continue to Exist, with <a href="dragonwall-static">a static copy</a> because I’ll inevitably (continue to) break things as I keep futzing with the backend</p>
 
 <p>dragons using updated data: {%for drg in site.data.dragons%}{%unless drg.has%}{%unless forloop.first%}, {%endunless%}{{drg.nm}}{%endunless%}{%endfor%}</p>
 

@@ -42,3 +42,22 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 - 11/20
 	- Lapilli page base
 	- outline for other dragon sortings
+- 11/30 Altostratus page
+- 9/10
+	- solar page
+	- biomaker experimentation
+- 10/6 new badges
+
+## 2024
+- 11/24 new about
+
+...that's it :V
+
+## 2025
+- 2/03
+	- art data & files
+	- datacheck page
+	- color data hex codes
+- 2/05
+	- codetests folder
+	- updated this page again (forgot it existed between 2023-11-20 and now, amazing)

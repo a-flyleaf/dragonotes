@@ -7,7 +7,8 @@ layout: none
 	<title>dragonotes/_data</title>
 	<link href="{%include url.html%}/assets/colors.css" type="text/css" rel="stylesheet"/>
 	<style>
-		h1{margin-bottom:-.5em;}
+		h1{margin-bottom:-.25em;}
+		body>p{margin:1em 0;}
 		details{border:1px solid #bfbfbf; margin:1em 0;}
 		summary{padding:.5em;} summary:hover{background:#efefef; cursor:pointer;}
 		h3{display:inline;}
@@ -34,15 +35,17 @@ layout: none
 		#dragons .img{text-align:left;}
 		.art{text-align:center; font-weight:bold;} .art-y{color:#008000;} .art-n{color:#800000;}
 		.ver{font-size:0;} .ver a{display:inline-block !important;}
+		
+		#dragostats{margin:-.5em 0 1.5em;}
+		#dragostats li ul{padding-left:0;} #dragostats li ul li{margin:0; display:inline-block;} #dragostats li ul li::before{content:"| "; padding-left:.25em;}
+		#dragostats s{color:#bfbfbf;}
 	</style>
 </head><body>
 
 	<h1>dragonotes/_data</h1>
-	<p>it’s like if a spreadsheet was an HTML page.<br>
-	displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans. columns in [brackets] are <em>not</em> in the data, and exist for ease of preview.<br>
+	<p>it’s like if a spreadsheet was an HTML page.</p>
+	<p>displays data <b>exactly as coded</b>, no fancy upper/lower-case shenanigans. columns in [brackets] are <em>not</em> in the data, and exist for ease of preview.<br>
 	links within tables open in new tabs.</p>
-	
-	<nav>SKIPTO: <a href="#art">art</a> <a href="#bne">breeds</a> <a href="#colors">colors</a> <a href="#dragons">dragons</a> <i>(skipping farewell & template)</i> <a href="#bne">elements</a> <a href="#items">items</a></nav>
 	
 	<section><!--for ease of notepad++ viewing-->
 	<h2>FR defaults</h2>
@@ -80,7 +83,7 @@ layout: none
 	
 	<section>
 	<h2>for me/this site</h2>
-	<details open id="art">
+	<details id="art">
 		<summary><h3>art</h3></summary>
 		<p>"fl" defaults to png unless otherwise stated</p>
 		<table>
@@ -117,7 +120,7 @@ layout: none
 		</table>
 	</details>
 	
-	<details open id="dragons">
+	<details id="dragons">
 		<summary><h3>dragons</h3></summary>
 		<p>based on the template <b>without</b> the <code>has</code> checker</p>
 		
@@ -224,6 +227,12 @@ layout: none
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
+	<ul id="dragostats">
+		<li>dragon total: {{site.data.dragons.size}}</li>
+		<li>breed tally:
+			<ul>{%assign abc=site.data.breeds|sort:"nm"%}{%for b in abc%}{%assign br=site.data.dragons|where:"breed",b.nm%}<li>{%if br.size==0%}<s>{%endif%}{{b.nm|capitalize}} {{br.size}}{%if br.size==0%}</s>{%endif%}</li>{%endfor%}</ul>
+		</li>
+	</ul>
 	
 	<details id="items">
 		<summary><h3>items</h3></summary>
