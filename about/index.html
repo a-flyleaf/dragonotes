@@ -45,7 +45,7 @@ title: about Archaeoraptor
 		h2{color:#404040; font-size:1.5em; margin-left:.85rem; line-height:1em;}
 		h2+.box{margin-top:-.25em;}
 		
-		#noodlbugs{text-align:center; color:#808080; margin-top:.5em;}
+		#noodlbugs{text-align:center; color:#808080; margin:.5em -1em 0 -2em;}
 		
 		#fin{text-align:center; margin-bottom:-1rem;}
 		#fin h2{margin-left:0;}
@@ -129,10 +129,7 @@ title: about Archaeoraptor
 					<li><b>for the historical record</b>: Back in my <a href="https://www1.flightrising.com/forums/ann/1393795">registration window</a> days, there were <a href="https://archaeoraptor-archive.tumblr.com/post/119548625225">15 dragons a page</a>, non-negotiable, no den, no tabs. And Baldwin did not exist—not as a Bogsneak, not as a Pearlcatcher, he just <em>wasn’t</em>. And you couldn’t search the Auction House, not to <em>half</em> the extent you can now. And multi-hued genes were barely a thing. Ancient breeds? <em>Fuhgeddaboutit.</em> Just take a gander at <a href="https://www1.flightrising.com/forums/gde/3053598">the chronological update reference</a>, and know that it makes me feel very Dragon&nbsp;Old sometimes.</li>
 					<li><b>obligatory breed favoritism</b>: Hypothetically, I don’t have all-time favorites, just breeds that I like more consistently than others. In practice, I am ever a sucker for male-pose Spirals and Aethers. Smiley noodles and doofy bugs &lt;3
 					<div id="noodlbugs" class="small">
-						{%assign bois=site.data.dragons|where:"sex","m"|where:"breed","spiral"%}
-						{%assign moths=site.data.dragons|where:"breed","aether"%}
-						{%assign favs=bois|concat:moths%}<!--hypothetically you could assign moths first *then* concat bois; idk why the order gets reversed if you concat bois to moths--><!--"sort" is an option but idk how to make it work with dragons *without* an obtain date, hmm-->
-						{%for fav in favs%}<a href="https://www1.flightrising.com/dragon/{{fav.id}}"><img src="{%include url.html%}/assets/img/dragons/{{fav.id}}_100.png" alt="{{fav.nm}}"/></a>{%endfor%}
+						{%for fav in site.data.dragons%}{%if fav.breed=='aether' or fav.breed=='spiral' and fav.sex=='m'%}<a href="https://www1.flightrising.com/dragon/{{fav.id}}"><img src="{%include url.html%}/assets/img/dragons/{{fav.id}}_100.png" alt="{{fav.nm}}"/></a>{%endif%}{%endfor%}
 						<p><small>(not shown: any lads still in <a href="https://www1.flightrising.com/lair/138250">the lair</a>)</small></p>
 					</div></li>
 				</ul>

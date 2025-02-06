@@ -36,3 +36,7 @@
 	- concatenate & chronologize all dates [also above]
 
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
+	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
+
+- OH the breed count:
+> btw new not-dragonwall page can do a cheeky little breed tally. the “assign” is wholly unnecessary I think, considering breed data exists; it can be a for loop in a for loop? like, ``for b in site.dragon.breeds > assign b.nm = b-nm; assign/capture “count” to site.data.dragons where d.breed=b-nm``. is that anything
