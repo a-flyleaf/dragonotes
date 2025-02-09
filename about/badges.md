@@ -137,7 +137,14 @@ badges:
     img:
       - url: https://i.imgur.com/KUk61dQ.png
         artist: elpetuub#643692
-# Light https://www1.flightrising.com/forums/drw/3393959#post_3393959									
+  - url: drw/3393959#post_3393959
+    title: (Light) Starry Night PB
+    date: 2025-02-08
+    goal: sent 500 levels
+    img:
+      - url: https://i.postimg.cc/4xGkGLFD/Mobile-Pixel-5.png
+        artist: UnholyFidelity#625578
+# Lightning PB https://www1.flightrising.com/forums/drw/3396909/1#post_3396909
 
 # use the fancy name if possible! adds flavor.
 
