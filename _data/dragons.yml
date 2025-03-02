@@ -2577,4 +2577,31 @@
     obtain: 2024-07-16
     hibern: 2024-10-30
   cat: [nolore]
-# Kaema, Mehdiz, KasnijeOpet, PompomOverture, Archibald, Second
+# Kaema, Mehdiz, KasnijeOpet, PompomOverture, Archibald
+- nm: Second
+  id: 91709890
+  element: wind
+  sex: f
+  breed: auraboa
+  gen: 1
+  lvl: 22
+  msr:
+    length: 19.49
+    wings: 13.36
+    weight: 3141.05
+  genes:
+    pri:
+      clr: clay
+      gn: varnish
+    sec:
+      clr: latte
+      gn: jester
+    tert:
+      clr: blackberry
+      gn: greenskeeper
+    eye: pastel
+  dates:
+    hatch: 2023-12-15
+    obtain: 2024-11-03
+    hibern: 2025-02-22
+  cat: [nolore]
