@@ -43,11 +43,11 @@ this is most up-to-date in a private personal spreadsheet, but it's copied here 
 venue | vista | scene | familiars
 ---|---
 Training Fields | ++ | ✗ | ~~✓~~
-Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Moonglow Nightjar, Winter Glade Lord</b>
+Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
 Scorched Forest | + | + | ~~✓~~
 Boneyard | ✗ | [N/A] | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
 Sandswept Delta | + | ✗ | <b>Dusk Fuiran, Tricolor Viperpillar</b>
-Silk-Strewn Wreckage | + | ~~✓~~ | Blue Hamble, Climbing Catercroak, Velvet Buttersnake
+Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | + | ✗ | ~~✓~~
 Forgotten Cave | ✗ | ✗ | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
 Bamboo Falls | + | [N/A] | ~~✓~~
@@ -62,8 +62,8 @@ Crystal Pools | ✗ | + | ~~✓~~
 Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
 Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
-Kelp Beds | ~~✓~~ | + | <b>Kelp Caretaker, Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
-~~Golem Workshop~~ | + | ~~✓~~ | ~~✓~~
+Kelp Beds | ~~✓~~ | + | <b>Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
+Golem Workshop | + | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
 ## dragon order
@@ -153,7 +153,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="3">10</td><td>03</td><td>KasnijeOpet</td></tr>
 		<tr><td>06</td><td>PompomOverture</td></tr>
 		<tr><td>12</td><td>Archibald</td></tr>
-		<tr><td>11</td><td>03</td><td>Second</td></tr>
+		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 	</tbody>
 </table>
 

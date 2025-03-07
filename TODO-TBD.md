@@ -28,7 +28,6 @@
 - _data/dragons.yml
 	- re-include familiars (optional)/vistas/scenes
 	- extra dates?
-	- datacheck: breed tally! ``for b in site.dragon.breeds > assign b.nm = b-nm; assign/capture “count” to site.data.dragons where d.breed=b-nm``?
 - _layouts/dragons.html
 	- integrate art from data; include ids via forloop (a1,a2,a3) for individual styling
 		- use an "if contains" NOT an =, since some arts have multiple dragons
@@ -37,3 +36,9 @@
 
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
+
+# 2025-03-06
+- new Skiptrace, Delphi, Notturno, Leopold
+	- keep the oldver for all but Leopold, who just got an eye change
+	- also keep the previous measurements!! just call it "old-msr", breed included, and slap the new one above that
+- ^after pushing this, will need to update images in Delphi & Notturno's bios

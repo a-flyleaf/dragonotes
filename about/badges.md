@@ -145,6 +145,9 @@ badges:
       - url: https://i.postimg.cc/4xGkGLFD/Mobile-Pixel-5.png
         artist: UnholyFidelity#625578
 # Lightning PB https://www1.flightrising.com/forums/drw/3396909/1#post_3396909
+# (Shadow) First Veilspun in Space Raffle https://www1.flightrising.com/forums/raf/3398357/1#post_3398357
+# Plague: YPS (IFr, Aor, G&I)
+# 	scavhunt ended 3/2, everything else continues til 3/8
 
 # use the fancy name if possible! adds flavor.
 
