@@ -1251,9 +1251,9 @@
   breed: undertide
   gen: 1
   msr:
-    length: 1.25
-    wings: 0.70
-    weight: 28.91
+    length: 3.15
+    wings: 2.33
+    weight: 89.94
   genes:
     pri:
       clr: overcast
@@ -1271,9 +1271,9 @@
   prev:
     breed: undertide
     msr:
-      length: 
-      wings: 
-      weight: 
+      length: 1.25
+      wings: 0.70
+      weight: 28.91
     genes:
       pri:
         clr: overcast

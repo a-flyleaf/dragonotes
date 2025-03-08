@@ -120,7 +120,7 @@ layout: none
 		</table>
 	</details>
 	
-	<details id="dragons">
+	<details id="dragons" open>
 		<summary><h3>dragons</h3></summary>
 		<p>based on the template <b>without</b> the <code>has</code> checker</p>
 		
@@ -163,6 +163,7 @@ layout: none
 				<th colspan="3">msr</th>
 				<th colspan="7">genes</th>
 				<th colspan="3">dates</th>
+				<th colspan="12">prev</th>
 				<th rowspan="3">cat</th>
 				<th rowspan="3">[ART?]</th>
 			</tr><tr>
@@ -180,17 +181,29 @@ layout: none
 				<!--dates--><th rowspan="2">hatch</th>
 				<th rowspan="2">obtain</th>
 				<th rowspan="2">hibern</th>
-			</tr><!--genes>pri/sec/tert--><tr>
+				<!--prev--><th rowspan="2">[IMG]</th>
+				<th rowspan="2">breed</th>
+				<th colspan="3">msr</th>
+				<th colspan="7">genes</th>
+			</tr><tr><!--genes>pri/sec/tert-->
 				<!--pri--><th>clr</th><th>gn</th>
 				<!--sec--><th>clr</th><th>gn</th>
 				<!--tert--><th>clr</th><th>gn</th>
+				<!--prev>msr--><th>length</th>
+				<th>wings</th>
+				<th>weight</th>
+				<!--prev>genes-->
+				<!--pri--><th>p.clr</th><th>p.gn</th>
+				<!--sec--><th>s.clr</th><th>s.gn</th>
+				<!--tert--><th>t.clr</th><th>t.gn</th>
+				<th>eye</th>
 			</tr></thead>
 			<tbody>{%for d in site.data.dragons%}<tr class="{%cycle 'odd','even'%}{%if d.has%} hl{%endif%}">
 				<td class="img">
-					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
-					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
-					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
-					{%unless d.age%}<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
 				</td>
 				<!--for linking; see above. KEEP THE SLUG/NAME SEPARATE; it's redundant *but* will save me time with the weird names (letter cutoffs, multiple words) later. also keeps the HTML pages in order regardless of alphabet/ID/etc.-->{%capture pages%}{%for d in site.dragons%}{{d.name}}{%endfor%}{%endcapture%}
 				<td>{%if pages contains d.nm%}<a href="{%include url.html%}/dragons/{{d.nm|downcase}}">{%endif%}{{d.nm}}{%if pages contains d.nm%}</a>{%endif%}</td>
@@ -221,6 +234,27 @@ layout: none
 				<td>{{d.dates.hatch}}</td>
 				<td{%unless d.dates.obtain%} class="empty"{%endunless%}>{{d.dates.obtain}}</td>
 				<td>{{d.dates.hibern}}</td>
+				<!--prev-->
+				<td class="img{%unless d.prev%} empty{%endunless%}">{%if d.prev%}
+					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_100.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_350.png" height="20px;">
+					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-c.png" height="20px;">{%endunless%}{%endif%}</td>
+				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.breed}}</td>
+				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.msr.length}}</td>
+				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.msr.wings}}</td>
+				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.msr.weight}}</td>
+					{%assign pri=site.data.colors|where:"nm",d.prev.genes.pri.clr%}
+				<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.prev.genes.pri.clr}}</td>
+				<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.prev.genes.pri.gn}}</td>
+					{%assign sec=site.data.colors|where:"nm",d.prev.genes.sec.clr%}
+				<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.prev.genes.sec.clr}}</td>
+				<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.prev.genes.sec.gn}}</td>
+					{%assign tri=site.data.colors|where:"nm",d.prev.genes.tert.clr%}
+				<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.prev.genes.tert.clr}}</td>
+				<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.prev.genes.tert.gn}}</td>
+				<td{%unless d.prev.genes.eye%} class="empty"{%endunless%}>{{d.prev.genes.eye}}</td>
+				<!--/endprev-->
 				<td{%if d.cat contains 'other'%} class="hl"{%endif%}>{%for dcat in d.cat%}{{dcat}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
 					<!--recycled from the "has page" check-->{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}
 				<td class="art art-{%if art contains d.nm%}y{%else%}n{%endif%}">{%if art contains d.nm%}Y{%else%}N{%endif%}</td>

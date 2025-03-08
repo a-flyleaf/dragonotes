@@ -39,8 +39,6 @@
 
 ## 3-07
 - after push, update images in Delphi & Notturno's bios (incl. archived versions)
-- datacheck: add "prev" columns
-	- either new columns at the end, or rowspan=2 everything except the breed/genes/measurements; the latter is nice for comparison
 
-**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until August), delete it when the outfit's done
+**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), delete it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
