@@ -44,4 +44,8 @@
 
 ## 3-07
 - datacheck: add "prev" columns
-- dragons index: mark Falsework, Axius, Zachariah, Alcho, Skiptrace, & Delphi as *not* having art (it's either old or unfinished)
+	- either new columns at the end, or rowspan=2 everything except the breed/genes/measurements; the latter is nice for comparison
+- dragons index: mark Falsework, Axius, Zachariah, Alcho, Skiptrace, & Delphi as *not* having art (it's either outdated or unfinished)
+
+**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until August), delete it when the outfit's done
+	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)

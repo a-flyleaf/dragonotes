@@ -283,7 +283,7 @@
   id: 14639592
   element: arcane
   sex: m
-  breed: mirror
+  breed: fathom
   gen: 1
   lvl: 25
   stats:
@@ -292,35 +292,40 @@
     by: brokenstone
     id: 90693
   msr:
-    length: 6.41
-    wings: 3.95
-    weight: 604.1
+    length: 18.79
+    wings: 16.34
+    weight: 10275.5
   genes:
     pri:
-      num: 146
-      clr: chocolate
-      gn: basic
+      clr: spearmint
+      gn: soil
     sec:
-      num: 24
-      clr: shadow
-      gn: basic
+      clr: blue
+      gn: blaze
     tert:
-      num: 17
-      clr: charcoal
-      gn: basic
+      clr: indigo
+      gn: thylacine
+    eye: pastel
   dates:
     hatch: 2015-07-03
     obtain: 2015-07-28
     hibern: 2019-05-09
-  has:
-    familiar: Wartoad
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 1
-    scene: 1
-    broadcast: first G1 fodder rescue, second retired mire flyer
+  prev:
+    breed: mirror
+    msr:
+      length: 6.41
+      wings: 3.95
+      weight: 604.1
+    genes:
+      pri:
+        clr: chocolate
+        gn: basic
+      sec:
+        clr: shadow
+        gn: basic
+      tert:
+        clr: charcoal
+        gn: basic
   cat: [lore]
 - nm: Delphi
   id: 15585543
