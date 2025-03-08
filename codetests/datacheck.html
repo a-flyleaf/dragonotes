@@ -38,7 +38,7 @@ layout: none
 		
 		#dragostats{margin:-.5em 0 1.5em;}
 		#dragostats li ul{padding-left:0;} #dragostats li ul li{margin:0; display:inline-block;} #dragostats li ul li::before{content:"| "; padding-left:.25em;}
-		#dragostats s{color:#bfbfbf;}
+		#dragostats s{color:#bfbfbf;} #prev s{color:#808080;}
 	</style>
 </head><body>
 
@@ -147,7 +147,7 @@ layout: none
 		[%if pagesTest contains "Lapilli"%]yes[%else%]no[%endif%]
 		-->
 		
-		<p><code>[ART]</code> only checks for art saved <em>here</em>, onsite. does not account for makeovers (hi, Skiptrace)</p>
+		<p><code>[ART]</code> only checks for art saved <em>here</em>, onsite; does not account for makeovers. <code>prev</code> is entirely optional, and squishes the gene hierarchy into 1 row so I didn't have to retroactively renumber everything else. <s>help</s></p>
 		
 		<table>
 			<thead><tr>
@@ -193,17 +193,17 @@ layout: none
 				<th>wings</th>
 				<th>weight</th>
 				<!--prev>genes-->
-				<!--pri--><th>p.clr</th><th>p.gn</th>
-				<!--sec--><th>s.clr</th><th>s.gn</th>
-				<!--tert--><th>t.clr</th><th>t.gn</th>
+				<!--pri--><th>pri>clr</th><th>pri>gn</th>
+				<!--sec--><th>sec>clr</th><th>sec>gn</th>
+				<!--tert--><th>tert>clr</th><th>tert>gn</th>
 				<th>eye</th>
 			</tr></thead>
 			<tbody>{%for d in site.data.dragons%}<tr class="{%cycle 'odd','even'%}{%if d.has%} hl{%endif%}">
 				<td class="img">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
-					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_100.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}_350.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img srrc="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" height="20px;">{%endunless%}
 				</td>
 				<!--for linking; see above. KEEP THE SLUG/NAME SEPARATE; it's redundant *but* will save me time with the weird names (letter cutoffs, multiple words) later. also keeps the HTML pages in order regardless of alphabet/ID/etc.-->{%capture pages%}{%for d in site.dragons%}{{d.name}}{%endfor%}{%endcapture%}
 				<td>{%if pages contains d.nm%}<a href="{%include url.html%}/dragons/{{d.nm|downcase}}">{%endif%}{{d.nm}}{%if pages contains d.nm%}</a>{%endif%}</td>
@@ -236,10 +236,10 @@ layout: none
 				<td>{{d.dates.hibern}}</td>
 				<!--prev-->
 				<td class="img{%unless d.prev%} empty{%endunless%}">{%if d.prev%}
-					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_100.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_350.png" height="20px;">
-					<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-av.png" height="20px;">
-					{%unless d.age%}<img src="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-c.png" height="20px;">{%endunless%}{%endif%}</td>
+					<img srrc="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_100.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}_350.png" height="20px;">
+					<img srrc="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-av.png" height="20px;">
+					{%unless d.age%}<img srrc="{%include url.html%}/assets/img/dragons/oldver/{{d.id}}-c.png" height="20px;">{%endunless%}{%endif%}</td>
 				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.breed}}</td>
 				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.msr.length}}</td>
 				<td{%unless d.prev%} class="empty"{%endunless%}>{{d.prev.msr.wings}}</td>
@@ -265,6 +265,9 @@ layout: none
 		<li>dragon total: {{site.data.dragons.size}}</li>
 		<li>breed tally:
 			<ul>{%assign abc=site.data.breeds|sort:"nm"%}{%for b in abc%}{%assign br=site.data.dragons|where:"breed",b.nm%}<li>{%if br.size==0%}<s>{%endif%}{{b.nm|capitalize}} {{br.size}}{%if br.size==0%}</s>{%endif%}</li>{%endfor%}</ul>
+		</li>
+		<li id="prev">breed-changed:
+			<ul>{%for d in site.data.dragons%}{%if d.prev%}<li>{{d.nm}} <i>(<s>{{d.prev.breed}}</s> → {{d.breed}})</i></li>{%endif%}{%endfor%}</ul>
 		</li>
 	</ul>
 	
