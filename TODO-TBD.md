@@ -38,7 +38,10 @@
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
 
 # 2025-03-06
-- new Skiptrace, Delphi, Notturno, Leopold
-	- keep the oldver for all but Leopold, who just got an eye change
-	- also keep the previous measurements!! just call it "old-msr", breed included, and slap the new one above that
-- ^after pushing this, will need to update images in Delphi & Notturno's bios
+- new Skiptrace
+	- keep the previous image (oldver) & measurements
+- ^after pushing this, will need to update images in Delphi & Notturno's bios (incl. archive posts)
+
+## 3-07
+- datacheck: add "prev" columns
+- dragons index: mark Falsework, Axius, Zachariah, Alcho, Skiptrace, & Delphi as *not* having art (it's either old or unfinished)

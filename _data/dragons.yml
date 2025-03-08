@@ -326,42 +326,47 @@
   id: 15585543
   element: plague
   sex: m
-  breed: mirror
+  breed: sandsurge
   lvl: 25
   stats:
-    bld: [outdated build of some sort]
+    bld: turkey hunter
     lnk: gde/1344211
     by: Maki
     id: 19069
   msr:
-    length: 7.65
-    wings: 6.6
-    weight: 635.02
+    length: 12.63
+    wings: 3.75
+    weight: 1883.72
   genes:
     pri:
-      num: 86
       clr: avocado
-      gn: speckle
+      gn: sailfish
     sec:
-      num: 160
       clr: red
-      gn: current
+      gn: flair
     tert:
-      num: 86
       clr: avocado
-      gn: underbelly
+      gn: fishbone
+    eye: dark sclera
   dates:
     hatch: 2015-08-04
     hibern: 2019-12-04
-  has:
-    familiar: Nochnyr
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 0
-    broadcast: [n/a]
+  prev:
+    breed: mirror
+    msr:
+      length: 7.65
+      wings: 6.6
+      weight: 635.02
+    genes:
+      pri:
+        clr: avocado
+        gn: speckle
+      sec:
+        clr: red
+        gn: current
+      tert:
+        clr: avocado
+        gn: underbelly
   cat: [lore]
 - nm: Riviniana
   id: 16051687
@@ -424,17 +429,15 @@
     weight: 507.84
   genes:
     pri:
-      num: 58
       clr: steel
       gn: cherub
     sec:
-      num: 82
       clr: forest
-      gn: basic
+      gn: myrid
     tert:
-      num: 6
       clr: ice
-      gn: underbellys
+      gn: underbelly
+    eye: unusual
   dates:
     hatch: 2015-01-03
     obtain: 2015-08-??
@@ -1248,27 +1251,35 @@
     weight: 28.91
   genes:
     pri:
-      num: 57
       clr: overcast
-      gn: leopard
+      gn: tide
     sec:
-      num: 56
       clr: stonewash
-      gn: current
+      gn: foam
     tert:
-      num: 170
       clr: fuchsia
-      gn: peacock
-    eye: rare
+      gn: soap
+    eye: goat
   dates:
     hatch: 2019-12-27
     hibern: 2022-01-21
-  has:
-    familiar: Calculating Candelabra
-    bio: "~"
-    art: 0
-    vista: 1
-    scene: 0
+  prev:
+    breed: undertide
+    msr:
+      length: 
+      wings: 
+      weight: 
+    genes:
+      pri:
+        clr: overcast
+        gn: leopard
+      sec:
+        clr: stonewash
+        gn: current
+      tert:
+        clr: fuchsia
+        gn: peacock
+      eye: rare
   cat: [lore]
 - nm: Falsework
   id: 58430435

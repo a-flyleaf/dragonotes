@@ -30,5 +30,22 @@
     hatch: 
     obtain: OPTIONAL if different
     hibern: 
+  prev: OPTIONAL if breed-changed (and ONLY breed; if just genes, update the data as normal)
+    breed: 
+    msr:
+      length: 
+      wings: 
+      weight: 
+    genes:
+      pri:
+        clr: 
+        gn: 
+      sec:
+        clr: 
+        gn: 
+      tert:
+        clr: 
+        gn: 
+      eye: OPTIONAL else common
   cat: [lore,virevo,baneclan,inn,song,nolore]
 #
