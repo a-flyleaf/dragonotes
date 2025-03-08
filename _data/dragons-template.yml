@@ -30,8 +30,8 @@
     hatch: 
     obtain: OPTIONAL if different
     hibern: 
-  prev: OPTIONAL if breed-changed (and ONLY breed; if just genes, update the data as normal)
-    breed: 
+  prev: 
+    breed: OPTIONAL if breed-changed (and ONLY breed; if just genes, update the data as normal)
     msr:
       length: 
       wings: 
