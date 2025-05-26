@@ -45,14 +45,14 @@ venue | vista | scene | familiars
 Training Fields | ++ | ✗ | ~~✓~~
 Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
 Scorched Forest | + | + | ~~✓~~
-Boneyard | ✗ | [N/A] | Bearded Shrieker, Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden, Sunbleached Foulscale
+Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
 Sandswept Delta | + | ✗ | <b>Dusk Fuiran, Tricolor Viperpillar</b>
 Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | + | ✗ | ~~✓~~
 Forgotten Cave | ✗ | ✗ | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
 Bamboo Falls | + | [N/A] | ~~✓~~
 Thunderhead Savanna | ✗ | ✗ | Coursing Skira
-Redrock Cove | ~~✓~~ | ✗ | <b>Coastline Sawbeak, Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
+Redrock Cove | ~~✓~~ | ✗ | <b>Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
 Waterway | ✗ | ✗ | Sewer Toridae
 Arena | ~~✓~~ | ✗ | <u>Undying Featherback</u>
 Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
@@ -63,7 +63,7 @@ Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
 Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 Kelp Beds | ~~✓~~ | + | <b>Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
-Golem Workshop | + | ~~✓~~ | ~~✓~~
+~~Golem Workshop~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
 ## dragon order
@@ -107,19 +107,20 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="16">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
-		<tr><td>06</td><td>Katsura</td></tr>
+		<tr><td>06</td><td><s>Katsura</s></td></tr>
 		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
 		<tr><td>05</td><td>28</td><td><s>Miasma</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
+		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td><s>Seafoam</s></td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
 		<tr><td rowspan="2">10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td>31</td><td><s>Koirin</s></td></tr>
-		<tr><td rowspan="3">11</td><td>03</td><td><s>Axius</s></td></tr>
+		<tr><td rowspan="4">11</td><td>03</td><td><s>Axius</s></td></tr>
+		<tr><td>11</td><td><s>LethalTriplicate</s></td></tr>
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
@@ -145,15 +146,16 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">12</td><td>07</td><td><s>Lylas</s></td></tr>
 		<tr><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="9">2024</td><td>05</td><td>09</td><td><s>Leopold</s></td></tr>
+		<tr><td rowspan="10">2024</td><td>05</td><td>09</td><td><s>Leopold</s></td></tr>
 		<tr><td>06</td><td>14</td><td><s>Squid, Honse</s></td></tr>
 		<tr><td>07</td><td>16</td><td><s>Dusk</s></td></tr>
-		<tr><td rowspan="2">09</td><td>08</td><td>Kaema</td></tr>
-		<tr><td>13</td><td>Mehdiz</td></tr>
-		<tr><td rowspan="3">10</td><td>03</td><td>KasnijeOpet</td></tr>
-		<tr><td>06</td><td>PompomOverture</td></tr>
+		<tr><td rowspan="2">09</td><td>08</td><td><s>Kaema</s></td></tr>
+		<tr><td>13</td><td><s>Mehdiz</s></td></tr>
+		<tr><td rowspan="3">10</td><td>03</td><td><s>KasnijeOpet</s></td></tr>
+		<tr><td>06</td><td><s>PompomOverture</s></td></tr>
 		<tr><td>12</td><td>Archibald</td></tr>
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
+		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody>
 </table>
 

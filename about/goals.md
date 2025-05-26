@@ -15,7 +15,8 @@ sort searches by <b>highest ID first</b>
 
 scry | search | m/f | eyes | primary | secondary | tertiary
 --- | ---
-[capitalist](https://www1.flightrising.com/scrying/predict?breed=8&gender=0&age=1&bodygene=24&body=107&winggene=17&wings=124&tertgene=21&tert=4&element=1&eyetype=7)\* | [note] | M | earth glowing | brick | tarnish | platinum
-[katsura2](https://www1.flightrising.com/scrying/predict?breed=15&gender=1&age=1&bodygene=22&body=77&winggene=110&wings=162&tertgene=105&tert=86&element=6&eyetype=6) | [range options](https://www1.flightrising.com/search/dragons?sort=id_asc&exalted=0&progen=0&body=77&wings=162&tert=86&body_range=49-156&wings_range=165-166&tert_range=169-116&sort=id_asc&nocollapse=1) | M | ice primal | cinnamon | <i>dirt</i> | soap
+[capitalist](https://www1.flightrising.com/scrying/predict?breed=8&gender=0&age=1&bodygene=24&body=107&winggene=17&wings=124&tertgene=21&tert=4&element=1&eyetype=7)\* | [3-off rare/limited](https://www1.flightrising.com/search/dragons?page=4&nocollapse=1&breed=8%2C10%2C11%2C12&body_range=132-159&wings_range=54-55&tert_range=3-146) | M | earth glowing | brick | tarnish | platinum
 
 note: am trying to [pyramid-breed](https://www1.flightrising.com/forums/gde/2630512#post_37684945) this dude wish me luck
+
+2025 March update: ...we really have whittled this down to one (1) project, huh! *what will I do with my dragon life afterwards..\..*

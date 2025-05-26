@@ -79,7 +79,7 @@ badges:
     goal: sent 350 levels
     img:
       - url: https://i.imgur.com/Ya9VQDQ.png
-#           "archaeoraptor that's the monday batch" flamin lego go brr
+#           "archaeoraptor that's the monday badge" flamin lego go brr
         artist: "Vendrus#4101 and/or large#379282"
   - url: drw/3380359/1#post_3380359
     title: Summer Sale (Wind&nbsp;PB)
@@ -144,10 +144,59 @@ badges:
     img:
       - url: https://i.postimg.cc/4xGkGLFD/Mobile-Pixel-5.png
         artist: UnholyFidelity#625578
-# Lightning PB https://www1.flightrising.com/forums/drw/3396909/1#post_3396909
-# (Shadow) First Veilspun in Space Raffle https://www1.flightrising.com/forums/raf/3398357/1#post_3398357
-# Plague: YPS (IFr, Aor, G&I)
-# 	scavhunt ended 3/2, everything else continues til 3/8
+  - url: drw/3396909/1#post_3396909
+    title: Lightning PB
+    date: 2025-02-15
+    goal: sent 400 levels
+    img:
+      - url: https://i.imgur.com/9aToAMX.png
+        artist: Scultone#60638
+  - url: raf/3398357/1#post_3398357
+    title: (Shadow) First Veilspun in Space Raffle 
+    date: 2025-02-22
+    goal: sent 500 levels
+    img:
+      - url: https://i.imgur.com/PTvE3d3.png
+        artist: "[multiple artists listed]"
+  - url: fd2/3398141#post_3398141
+    title: Shadow Scavenger Hunt
+    date: 2025-03-02
+    goal: gained 5,000 points · 100 unique drops
+    img:
+      - url: https://i.imgur.com/j9W6IfQ.png
+        artist: ufology#296565
+      - url: https://i.imgur.com/OLCCXzW.png
+        artist: ufology#296565
+  - url: fd2/3399983#post_3399983
+    title: Abbyversary&nbsp;3 Raffle
+    date: 2025-03-08
+    goal: exalted 750 levels
+    img:
+      - url: https://i.imgur.com/eavNGry.png
+        artist: cherrykitkat#355190
+  - url: fd2/3399898#post_3399898
+    title: Army of Rot
+    date: 2025-03-08
+    goal: exalted 1,500 levels
+    img:
+      - url: https://i.imgur.com/9B9DBNk.png
+        artist: TheSunTheGodsSaw#35038 (original badge design) & ufology#296565 (recolors)
+  - url: fd2/3399897#post_3399897
+    title: Goals & Incentives
+    date: 2025-03-08
+    goal: exalted 100 lvl5s · aged up 25 hatchlings · exalted 25 daily bonuses · hatched 5 fodder nests · raided the AH 5 times
+    img:
+      - url: https://i.imgur.com/9fJlxjE.png
+        artist: [unlisted]
+      - url: https://i.imgur.com/gT6wkyk.png
+        artist: [unlisted]
+      - url: https://i.imgur.com/zeFNtiv.png
+        artist: [unlisted]
+      - url: https://i.imgur.com/1TrpRQu.png
+        artist: [unlisted]
+      - url: https://i.imgur.com/xYm9jBJ.png
+        artist: [unlisted]
+# Nature Flowerfall Festival PB https://www1.flightrising.com/forums/drw/3401799/1#post_3401799
 
 # use the fancy name if possible! adds flavor.
 

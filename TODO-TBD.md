@@ -22,7 +22,6 @@
 # 2024+ condensed
 - trawl gdocs for stuff I can save here onsite instead
 - fandragon bio generator
-- 2025 August+: update Skiptrace once fully dressed
 
 # 2025-02-04
 - _data/dragons.yml
@@ -37,8 +36,7 @@
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
 
-## 3-07
-- after push, update images in Delphi & Notturno's bios (incl. archived versions)
 
-**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), delete it when the outfit's done
+[keep this at the bottom:]
+**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
