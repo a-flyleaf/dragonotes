@@ -81,11 +81,10 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>21</td><td><s>Riviniana</s></td></tr>
 		<tr><td><span><27</span></td><td><s>Notturno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2016</td><td>01</td><td>14</td><td><s>Gizmo</s></td></tr>
+		<tr><td rowspan="4">2016</td><td>01</td><td>14</td><td><s>Gizmo</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Galena</s></td></tr>
 		<tr><td><span><08</span></td><td>??</td><td><s>Rothide</s></td></tr>
 		<tr><td>09</td><td>??</td><td><s>Avi</s></td></tr>
-		<tr><td>11</td><td>03</td><td><s>Soleil</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="2">2017</td><td>04</td><td>18</td><td><s>Eavn</s></td></tr>
 		<tr><td>09</td><td><span><04</span></td><td><s>Kieran</s></td></tr>
@@ -177,6 +176,7 @@ these are no one's business but my own but I want 'em here anyways
 - [[unnamed]](https://www1.flightrising.com/dragon/76895138): prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
+- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716) [update this l8r when they're more settled]
 
 #### breed release lizards
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)

@@ -362,3 +362,46 @@
     scene: 0
     broadcast: "[TBA] ’locke survivor"
   cat: [lore]
+- nm: Soleil
+  id: 28210287
+  element: light
+  sex: f
+  breed: mirror
+  gen: 1
+  lvl: 25
+  stats:
+    bld: Kelp Beds beast
+    lnk: gde/2450522#post_33495975
+    by: Rhabdo
+    id: 230692
+  msr:
+    length: 4.95
+    wings: 5.11
+    weight: 501.53
+  genes:
+    pri:
+      num: 47
+      clr: navy
+      gn: skink
+    sec:
+      num: 50
+      clr: blue
+      gn: sludge
+    tert:
+      num: 30
+      clr: fog
+      gn: runes
+  dates:
+    hatch: 2016-11-02
+    obtain: 2016-11-03
+    hibern: 2020-01-12
+    farewell: 2025-05-
+  has:
+    familiar: Relic Eel
+    apparel: 1
+    accent: 1
+    bio: "~"
+    art: 1
+    vista: 0
+    scene: 0
+  cat: [lore,other]

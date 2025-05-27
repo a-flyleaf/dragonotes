@@ -40,3 +40,8 @@
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
+
+# 2025-05-25
+- new hibernations: Katsura, LethalTriplicate, Kaema, Mehdiz, KasnijeOpet, PompomOverture, Radiacija
+- today's hatches on quicklinks
+- fill Soleil farewell date after CR confirmation
