@@ -43,5 +43,8 @@
 
 # 2025-05-25
 - new hibernations: Katsura, LethalTriplicate, Kaema, Mehdiz, KasnijeOpet, PompomOverture, Radiacija
-- today's hatches on quicklinks
-- fill Soleil farewell date after CR confirmation
+- today's hatches (elemental kids) on quicklinks
+
+
+
++ comet art & data!!

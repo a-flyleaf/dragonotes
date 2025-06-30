@@ -1,6 +1,6 @@
 # - dt: 
 #   fl: OPTIONALfiletype
-#   ver:OPTIONAL,nofl
+#   ver:OPTIONAL
 #     - fl: 
 #       nm: 
 #     - fl: 
@@ -409,3 +409,18 @@
   by:
     fr: 699552
     nm: Dreadwing
+
+- dt: 2025-03-27
+  ver:
+    - nm: blur
+    - nm: noblur
+  dr: Comet
+  by:
+    fr: 235696
+    nm: WillowCross
+
+- dt: 2025-03-29
+  dr: Comet
+  by:
+    fr: 196564
+    nm: byrdbryn

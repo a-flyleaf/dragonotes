@@ -197,6 +197,8 @@ badges:
       - url: https://i.imgur.com/xYm9jBJ.png
         artist: [unlisted]
 # Nature Flowerfall Festival PB https://www1.flightrising.com/forums/drw/3401799/1#post_3401799
+# [...oh scoobert we are missing a Lot.]
+# sent a bunch'a nodids https://www1.flightrising.com/forums/raf/3413121/1 (May 17-20 idr when)
 
 # use the fancy name if possible! adds flavor.
 

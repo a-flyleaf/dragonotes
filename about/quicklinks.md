@@ -62,7 +62,7 @@ Crystal Pools | ✗ | + | ~~✓~~
 Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
 Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
-Kelp Beds | ~~✓~~ | + | <b>Maren Fisher, Maren Seahunter, Ruched Sojourner</b>
+Kelp Beds | ~~✓~~ | ~~✓~~ | <b>Maren Fisher</b>
 ~~Golem Workshop~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
