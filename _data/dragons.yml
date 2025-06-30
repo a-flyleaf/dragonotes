@@ -1314,8 +1314,39 @@
     vista: 0
     scene: 0
   cat: [lore,baneclan]
-# Katsura
-# andante2
+- nm: Katsura
+  id: 56943577
+  element: ice
+  sex: f
+  breed: banescale
+  lvl: 25
+  stats:
+    bld: Maki farmer
+    lnk: gde/1344211/14
+    by: Maki
+    id: 16069
+  msr:
+    length: 7.53
+    wings: 4.89
+    weight: 473.06
+  genes:
+    pri:
+      clr: cinnamon
+      gn: cherub
+    sec:
+      clr: dirt
+      gn: safari
+    tert:
+      clr: ruby
+      gn: trickmurk
+    eye: primal
+  dates:
+    hatch: 2019-11-21
+    obtain: 2020-02-06
+    hibern: 2025-05-25
+  cat: [lore]
+#
+# Syncopation
 - nm: MiamiTriggerfish
   id: 57887915
   element: fire
@@ -1670,7 +1701,38 @@
     vista: 0
     scene: 0
   cat: [lore]
-# LethalTriplicate
+- nm: LethalTriplicate
+  id: 71301512
+  element: arcane
+  sex: m
+  breed: veilspun
+  lvl: 25
+  stats:
+    bld: mire fisher
+    lnk: gde/3068799
+    by: Yuubi
+    id: 27733
+  msr:
+    length: 0.82
+    wings: 0.84
+    weight: 1.3
+  genes:
+    pri:
+      clr: cerulean
+      gn: magenta
+    sec:
+      clr: magenta
+      gn: hawkmoth
+    tert:
+      clr: grapefruit
+      gn: flecks
+    eye: multi-gaze
+  dates:
+    hatch: 2021-07-31
+    obtain: 2021-11-07
+    hibern: 2025-05-25
+  cat: [lore]
+#
 - nm: Zachariah
   id: 73694266
   element: plague
@@ -2551,7 +2613,107 @@
     obtain: 2024-07-16
     hibern: 2024-10-30
   cat: [nolore]
-# Kaema, Mehdiz, KasnijeOpet, PompomOverture, Archibald
+- nm: Kaema
+  id: 97637452
+  element: plague
+  sex: m
+  breed: tundra
+  msr:
+    length: 2.79
+    wings: 4.5
+    weight: 267.52
+  genes:
+    pri:
+      clr: obsidian
+      gn: chrysocolla
+    sec:
+      clr: berry
+      gn: paint
+    tert:
+      clr: black
+      gn: thylacine
+    eye: uncommon
+  dates:
+    hatch: 2024-09-08
+    hibern: 2025-05-25
+  cat: [nolore]
+- nm: Mehdiz
+  id: 97737530
+  element: plague
+  sex: f
+  breed: guardian
+  msr:
+    length: 15.72
+    wings: 17.41
+    weight: 9881.24
+  genes:
+    pri:
+      clr: obsidian
+      gn: lionfish
+    sec:
+      clr: strawberry
+      gn: alloy
+    tert:
+      clr: obsidian
+      gn: peacock
+    eye: uncommon
+  dates:
+    hatch: 2024-09-13
+    hibern: 2025-05-25
+  cat: [nolore]
+- nm: KasnijeOpet
+  id: 76793255
+  element: fire
+  sex: f
+  breed: imperial
+  lvl: 25
+  msr:
+    length: 20.65
+    wings: 20.18
+    weight: 7430.58
+  genes:
+    pri:
+      clr: black
+      gn: ribbon
+    sec:
+      clr: orca
+      gn: bee
+    tert:
+      clr: copper
+      gn: capsule
+  dates:
+    hatch: 2022-03-24
+    obtain: 2024-10-03
+    hibern: 2025-05-25
+  cat: [nolore]
+- nm: PompomOverture
+  id: 98070985
+  element: water
+  sex: f
+  breed: aether
+  gen: 1
+  lvl: 25
+  msr:
+    length: 3.62
+    wings: 7.06
+    weight: 429.87
+  genes:
+    pri:
+      clr: ultramarine
+      gn: chrysocolla
+    sec:
+      clr: grapefruit
+      gn: weaver
+    tert:
+      clr: black
+      gn: trickmurk
+    eye: rare
+  dates:
+    hatch: 2024-09-29
+    obtain: 2024-10-06
+    hibern: 2025-05-25
+  cat: [nolore]
+# Archibald
 - nm: Second
   id: 91709890
   element: wind
@@ -2579,3 +2741,28 @@
     obtain: 2024-11-03
     hibern: 2025-02-22
   cat: [nolore]
+- nm: Radijacija
+  id: 99700824
+  element: plague
+  sex: f
+  breed: imperial
+  msr:
+    length: 30.27
+    wings: 21.7
+    weight: 9144.1
+  genes:
+    pri:
+      clr: sable
+      gn: pharaoh
+    sec:
+      clr: berry
+      gn: lode
+    tert:
+      clr: rust
+      gn: runes
+    eye: primal
+  dates:
+    hatch: 2024-12-16
+    hibern: 2025-05-25
+  cat: [nolore]
+#

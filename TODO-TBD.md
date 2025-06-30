@@ -36,10 +36,6 @@
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
 
-# 2025-05-25
-- new hibernations: Katsura, LethalTriplicate, Kaema, Mehdiz, KasnijeOpet, PompomOverture, Radiacija
-- today's hatches (elemental kids) on quicklinks
-
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
