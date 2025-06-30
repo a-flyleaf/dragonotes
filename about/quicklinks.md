@@ -155,6 +155,10 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>12</td><td>Archibald</td></tr>
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
+	</tbody><tbody>
+		<tr><td rowspan="3">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
+		<tr><td>02</td><td>05</td><td>Frog</td></tr>
+		<tr><td>05</td><td>25</td><td>DarklandDisciple, VirologicZenith, <i><a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">[keepers from the elemental hatch batch]</a></i></td></tr>
 	</tbody>
 </table>
 
@@ -162,23 +166,20 @@ gray = hibernating; ! = date obtained not noted
 
 dragon data Exists now but I still kinda like this manually-updated version anyway. it has Everyone. it accounts for the weird "when tf did I even get this dragon" outliers. hell if I know why it's on the "quicklinks" page, but a lot of stuff on this page is neither strictly quick nor a link. amazing....
 
-<!--
-
 ----
 
-these are no one's business but my own but I want 'em here anyways
+<details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
 
-### notable lizards
-#### all G1s I've hatched (to memory)
+### all G1s I've hatched (to memory)
 (see below for breed release G1s)
 - [Tyson](https://www1.flightrising.com/dragon/31806787): first egg I ever found; had some lore crumbs but never found a place, exalted
 - <b>[Cygnus](https://www1.flightrising.com/dragon/57992771)</b>: egg gifted to me from [PricklyGoose](https://www1.flightrising.com/clan-profile/342988); revamped from blue noc to pink undertide permabab
 - [[unnamed]](https://www1.flightrising.com/dragon/76895138): prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
-- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716) [update this l8r when they're more settled]
+- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716)
 
-#### breed release lizards
+### breed release lizards
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
 - [2016 September: <i>Bogsneak</i>](http://www1.flightrising.com/forums/ann/1980784) - didn't brew an egg
 	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
@@ -194,21 +195,23 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- have since acquired multiple abs
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
 	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide bc permabab...
-	- might breed change an oldie or two someday
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
-	- [Leopold](https://www1.flightrising.com/dragon/94751538) managed to become a perma; [Delphi](https://www1.flightrising.com/dragon/15585543) may also be breed-changed
+	- [Leopold](https://www1.flightrising.com/dragon/94751538) managed to become a perma; [Delphi](https://www1.flightrising.com/dragon/15585543) got breed-changed
 - [2023 November: <b>Auraboa</b>](https://www1.flightrising.com/forums/ann/3289398) - hatched [KanelosMenthe](https://www1.flightrising.com/dragon/90679007) & [Celor](https://www1.flightrising.com/dragon/90678934), trained and sold the latter
 	- [Second](https://www1.flightrising.com/dragon/91709890) also got breed-changed during NotN&nbsp;2024
 - [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
 	- might hoard forever might save for some kind of occasion. idk!
+	- [Archibald](https://www1.flightrising.com/dragon/94537032) and his eventual descendant may be my token dusties 5ever
 - [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
-	- breed change maybe, maybe not
+	- [Skiptrace](https://www1.flightrising.com/dragon/14639592) got breed-changed
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
 	- same weird boat as dusthides
+- [2025 May: <i>Cirrus</i>](https://www1.flightrising.com/forums/ann/3416129) - no release freebies
+	- [as of writing (end of June) I still don't have one, dang.]
 
-#### dragos with frembs :>
+### dragos with frembs :>
 ordered by account ID
 
 - [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
@@ -216,8 +219,8 @@ ordered by account ID
 - [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>: borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
 - [Starbrite](https://www1.flightrising.com/clan-profile/325229): <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought from Starbrite & has lore based on parents'!
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
-- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery. also took in ex-perma [<b>Poltergeist</b>](https://www1.flightrising.com/dragon/50297105)
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
 
--->
+</details>
