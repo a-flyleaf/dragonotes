@@ -1,709 +1,887 @@
 # ids & hex codes via https://flightrising.fandom.com/wiki/Colors#Color_Wheel_Order_List"
+# "sid" = search/scry id, which is different thanks to the color wheel expansion; snipped via https://www1.flightrising.com/forums/gde/3264013#post_3264013
 
 - nm: maize
   id: 1
   hx: "FFFDEA"
+  sid: 1
 
 - nm: cream
   id: 2
   hx: "FFEFDC"
+  sid: 163
 
 - nm: antique
   id: 3
   hx: "D8D6CD"
+  sid: 97
 
 - nm: white
   id: 4
   hx: "FFF"
+  sid: 2
 
 - nm: moon
   id: 5
   hx: "D8D7D8"
+  sid: 74
 
 - nm: ice
   id: 6
   hx: "F1F3FF"
+  sid: 3
 
 - nm: orca
   id: 7
   hx: "E1DFFF"
+  sid: 131
 
 - nm: platinum
   id: 8
   hx: "C8BECE"
+  sid: 4
 
 - nm: silver
   id: 9
   hx: "BBBABF"
+  sid: 5
 
 - nm: dust
   id: 10
   hx: "9D9D9F"
+  sid: 146
 
 - nm: grey
   id: 11
   hx: "808080"
+  sid: 6
 
 - nm: smoke
   id: 12
   hx: "9494A9"
+  sid: 91
 
 - nm: gloom
   id: 13
   hx: "545365"
+  sid: 98
 
 - nm: lead
   id: 14
   hx: "413C40"
+  sid: 118
 
 - nm: shale
   id: 15
   hx: "4D484F"
+  sid: 177
 
 - nm: flint
   id: 16
   hx: "636268"
+  sid: 129
 
 - nm: charcoal
   id: 17
   hx: "555555"
+  sid: 7
 
 - nm: coal
   id: 18
   hx: "4B4946"
+  sid: 8
 
 - nm: oilslick
   id: 19
   hx: "352C27"
+  sid: 70
 
 - nm: black
   id: 20
   hx: "333333"
+  sid: 9
 
 - nm: obsidian
   id: 21
   hx: "1D2224"
+  sid: 10
 
 - nm: eldritch
   id: 22
   hx: "252A24"
+  sid: 176
 
 - nm: midnight
   id: 23
   hx: "292B38"
+  sid: 11
 
 - nm: shadow
   id: 24
   hx: "3A2E44"
+  sid: 12
 
 - nm: blackberry
   id: 25
   hx: "4C2A4F"
+  sid: 127
 
 - nm: mulberry
   id: 26
   hx: "6E235D"
+  sid: 13
 
 - nm: plum
   id: 27
   hx: "863290"
+  sid: 92
 
 - nm: wisteria
   id: 28
   hx: "724D79"
+  sid: 119
 
 - nm: thistle
   id: 29
   hx: "8F7C8B"
+  sid: 14
 
 - nm: fog
   id: 30
   hx: "A794B2"
+  sid: 137
 
 - nm: mist
   id: 31
   hx: "E1CDFE"
+  sid: 150
 
 - nm: lavender
   id: 32
   hx: "CCA4E0"
+  sid: 15
 
 - nm: heather
   id: 33
   hx: "9778BE"
+  sid: 68
 
 - nm: purple
   id: 34
   hx: "A261CF"
+  sid: 16
 
 - nm: orchid
   id: 35
   hx: "DA4FFF"
+  sid: 69
 
 - nm: amethyst
   id: 36
   hx: "993BD1"
+  sid: 114
 
 - nm: nightshade
   id: 37
   hx: "7930B5"
+  sid: 175
 
 - nm: violet
   id: 38
   hx: "643F9C"
+  sid: 17
 
 - nm: grape
   id: 39
   hx: "580FC0"
+  sid: 147
 
 - nm: royal
   id: 40
   hx: "4D2C89"
+  sid: 18
 
 - nm: eggplant
   id: 41
   hx: "3F2B66"
+  sid: 111
 
 - nm: iris
   id: 42
   hx: "525195"
+  sid: 82
 
 - nm: storm
   id: 43
   hx: "757ADB"
+  sid: 19
 
 - nm: twilight
   id: 44
   hx: "484AA1"
+  sid: 174
 
 - nm: indigo
   id: 45
   hx: "2D237A"
+  sid: 112
 
 - nm: sapphire
   id: 46
   hx: "0D0A5B"
+  sid: 71
 
 - nm: navy
   id: 47
   hx: "212B5F"
+  sid: 20
 
 - nm: cobalt
   id: 48
   hx: "013485"
+  sid: 136
 
 - nm: ultramarine
   id: 49
   hx: "1C51E7"
+  sid: 90
 
 - nm: blue
   id: 50
   hx: "324BA9"
+  sid: 21
 
 - nm: periwinkle
   id: 51
   hx: "4866D5"
+  sid: 135
 
 - nm: lapis
   id: 52
   hx: "2F83FF"
+  sid: 148
 
 - nm: splash
   id: 53
   hx: "6394DD"
+  sid: 22
 
 - nm: cornflower
   id: 54
   hx: "76A8FF"
+  sid: 145
 
 - nm: sky
   id: 55
   hx: "AEC8FF"
+  sid: 23
 
 - nm: stonewash
   id: 56
   hx: "7895C1"
+  sid: 24
 
 - nm: overcast
   id: 57
   hx: "444F69"
+  sid: 126
 
 - nm: steel
   id: 58
   hx: "556979"
+  sid: 25
 
 - nm: denim
   id: 59
   hx: "2F4557"
+  sid: 26
 
 - nm: abyss
   id: 60
   hx: "0D1E25"
+  sid: 96
 
 - nm: phthalo
   id: 61
   hx: "0B2D46"
+  sid: 151
 
 - nm: azure
   id: 62
   hx: "0A3D67"
+  sid: 27
 
 - nm: caribbean
   id: 63
   hx: "0086CE"
+  sid: 28
 
 - nm: teal
   id: 64
   hx: "2B768F"
+  sid: 29
 
 - nm: cerulean
   id: 65
   hx: "00B4D5"
+  sid: 117
 
 - nm: cyan
   id: 66
   hx: "00FFF1"
+  sid: 89
 
 - nm: robin
   id: 67
   hx: "9AEAEF"
+  sid: 90
 
 - nm: aqua
   id: 68
   hx: "72C4C4"
+  sid: 30
 
 - nm: turquoise
   id: 69
   hx: "3CA2A4"
+  sid: 149
 
 - nm: spruce
   id: 70
   hx: "8DBCB4"
+  sid: 100
 
 - nm: pistachio
   id: 71
   hx: "E2FFE6"
+  sid: 125
 
 - nm: seafoam
   id: 72
   hx: "B2E2BD"
+  sid: 31
 
 - nm: mint
   id: 73
   hx: "9AFFC7"
+  sid: 152
 
 - nm: jade
   id: 74
   hx: "61AB89"
+  sid: 32
 
 - nm: spearmint
   id: 75
   hx: "148E67"
+  sid: 78
 
 - nm: thicket
   id: 76
   hx: "005D48"
+  sid: 141
 
 - nm: peacock
   id: 77
   hx: "1F483A"
+  sid: 134
 
 - nm: emerald
   id: 78
   hx: "20603F"
+  sid: 33
 
 - nm: shamrock
   id: 79
   hx: "236825"
+  sid: 80
 
 - nm: jungle
   id: 80
   hx: "1E361A"
+  sid: 34
 
 - nm: hunter
   id: 81
   hx: "1E2716"
+  sid: 81
 
 - nm: forest
   id: 82
   hx: "425035"
+  sid: 35
 
 - nm: camo
   id: 83
   hx: "51684C"
+  sid: 154
 
 - nm: algae
   id: 84
   hx: "97AF8B"
+  sid: 153
 
 - nm: swamp
   id: 85
   hx: "687F67"
+  sid: 36
 
 - nm: avocado
   id: 86
   hx: "567C34"
+  sid: 37
 
 - nm: green
   id: 87
   hx: "629C3F"
+  sid: 38
 
 - nm: fern
   id: 88
   hx: "7ECE73"
+  sid: 113
 
 - nm: mantis
   id: 89
   hx: "9BFF9D"
+  sid: 79
 
 - nm: pear
   id: 90
   hx: "8ECE56"
+  sid: 101
 
 - nm: leaf
   id: 91
   hx: "A5E32D"
+  sid: 39
 
 - nm: radioactive
   id: 92
   hx: "C6FF00"
+  sid: 130
 
 - nm: honeydew
   id: 93
   hx: "D1E572"
+  sid: 102
 
 - nm: peridot
   id: 94
   hx: "E8FCB4"
+  sid: 144
 
 - nm: chartreuse
   id: 95
   hx: "B4CD3D"
+  sid: 155
 
 - nm: spring
   id: 96
   hx: "A9A032"
+  sid: 40
 
 - nm: crocodile
   id: 97
   hx: "828335"
+  sid: 173
 
 - nm: olive
   id: 98
   hx: "697135"
+  sid: 123
 
 - nm: murk
   id: 99
   hx: "4B4420"
+  sid: 142
 
 - nm: moss
   id: 100
   hx: "7E7645"
+  sid: 115
 
 - nm: goldenrod
   id: 101
   hx: "BEA55D"
+  sid: 41
 
 - nm: amber
   id: 102
   hx: "C18E1B"
+  sid: 103
 
 - nm: honey
   id: 103
   hx: "D1B300"
+  sid: 93
 
 - nm: lemon
   id: 104
   hx: "FFE63B"
+  sid: 42
 
 - nm: yellow
   id: 105
   hx: "F9E255"
+  sid: 104
 
 - nm: grapefruit
   id: 106
   hx: "F7FF6F"
+  sid: 128
 
 - nm: banana
   id: 107
   hx: "FFEC80"
+  sid: 43
 
 - nm: sanddollar
   id: 108
   hx: "EDE8B0"
+  sid: 110
 
 - nm: flaxen
   id: 109
   hx: "FDE9AC"
+  sid: 139
 
 - nm: ivory
   id: 110
   hx: "FFD297"
+  sid: 44
 
 - nm: buttercup
   id: 111
   hx: "F6BF6C"
+  sid: 167
 
 - nm: gold
   id: 112
   hx: "E8AF49"
+  sid: 45
 
 - nm: metals
   id: 113
   hx: "D1B045"
+  sid: 140
 
 - nm: marigold
   id: 114
   hx: "FFB53C"
+  sid: 75
 
 - nm: sunshine
   id: 115
   hx: "FA912B"
+  sid: 46
 
 - nm: saffron
   id: 116
   hx: "FF8500"
+  sid: 84
 
 - nm: sunset
   id: 117
   hx: "FFA147"
+  sid: 172
 
 - nm: peach
   id: 118
   hx: "FFB576"
+  sid: 105
 
 - nm: cantaloupe
   id: 119
   hx: "FF984F"
+  sid: 171
 
 - nm: orange
   id: 120
   hx: "D5602B"
+  sid: 47
 
 - nm: bronze
   id: 121
   hx: "B2560D"
+  sid: 83
 
 - nm: terracotta
   id: 122
   hx: "B24407"
+  sid: 108
 
 - nm: carrot
   id: 123
   hx: "FF5500"
+  sid: 133
 
 - nm: fire
   id: 124
   hx: "EF5C23"
+  sid: 48
 
 - nm: pumpkin
   id: 125
   hx: "FF6841"
+  sid: 158
 
 - nm: tangerine
   id: 126
   hx: "FF7360"
+  sid: 49
 
 - nm: cinnamon
   id: 127
   hx: "C15A39"
+  sid: 77
 
 - nm: caramel
   id: 128
   hx: "C47149"
+  sid: 156
 
 - nm: sand
   id: 129
   hx: "B27749"
+  sid: 50
 
 - nm: tan
   id: 130
   hx: "C3996F"
+  sid: 76
 
 - nm: beige
   id: 131
   hx: "CABBA2"
+  sid: 51
 
 - nm: stone
   id: 132
   hx: "827A64"
+  sid: 52
 
 - nm: taupe
   id: 133
   hx: "6D675B"
+  sid: 95
 
 - nm: slate
   id: 134
   hx: "564D48"
+  sid: 53
 
 - nm: driftwood
   id: 135
   hx: "766259"
+  sid: 165
 
 - nm: latte
   id: 136
   hx: "977B6C"
+  sid: 143
 
 - nm: dirt
   id: 137
   hx: "774840"
+  sid: 162
 
 - nm: clay
   id: 138
   hx: "603E3D"
+  sid: 106
 
 - nm: sable
   id: 139
   hx: "57372C"
+  sid: 138
 
 - nm: umber
   id: 140
   hx: "301E1A"
+  sid: 157
 
 - nm: soil
   id: 141
   hx: "5A4534"
+  sid: 54
 
 - nm: hickory
   id: 142
   hx: "72573A"
+  sid: 88
 
 - nm: tarnish
   id: 143
   hx: "855B33"
+  sid: 124
 
 - nm: ginger
   id: 144
   hx: "91532A"
+  sid: 122
 
 - nm: brown
   id: 145
   hx: "8E5B3F"
+  sid: 55
 
 - nm: chocolate
   id: 146
   hx: "563012"
+  sid: 56
 
 - nm: auburn
   id: 147
   hx: "7B3C1D"
+  sid: 166
 
 - nm: copper
   id: 148
   hx: "A44B28"
+  sid: 94
 
 - nm: rust
   id: 149
   hx: "8B3220"
+  sid: 57
 
 - nm: tomato
   id: 150
   hx: "BA311C"
+  sid: 58
 
 - nm: vermillion
   id: 151
   hx: "E22D18"
+  sid: 169
 
 - nm: ruby
   id: 152
   hx: "CE000D"
+  sid: 86
 
 - nm: cherry
   id: 153
   hx: "AA0024"
+  sid: 116
 
 - nm: crimson
   id: 154
   hx: "850012"
+  sid: 59
 
 - nm: garnet
   id: 155
   hx: "581014"
+  sid: 161
 
 - nm: sanguine
   id: 156
   hx: "2D0102"
+  sid: 121
 
 - nm: blood
   id: 157
   hx: "451717"
+  sid: 60
 
 - nm: maroon
   id: 158
   hx: "652127"
+  sid: 61
 
 - nm: berry
   id: 159
   hx: "8C272D"
+  sid: 87
 
 - nm: red
   id: 160
   hx: "C1272D"
+  sid: 62
 
 - nm: strawberry
   id: 161
   hx: "DF3236"
+  sid: 168
 
 - nm: cerise
   id: 162
   hx: "A12928"
+  sid: 132
 
 - nm: carmine
   id: 163
   hx: "B13A3A"
+  sid: 63
 
 - nm: brick
   id: 164
   hx: "9A534D"
+  sid: 107
 
 - nm: coral
   id: 165
   hx: "CC6F6F"
+  sid: 64
 
 - nm: blush
   id: 166
   hx: "FEA0A0"
+  sid: 150
 
 - nm: cottoncandy
   id: 167
   hx: "EB799A"
+  sid: 164
 
 - nm: watermelon
   id: 168
   hx: "DB518D"
+  sid: 120
 
 - nm: magenta
   id: 169
   hx: "E934AA"
+  sid: 65
 
 - nm: fuchsia
   id: 170
   hx: "E7008B"
+  sid: 170
 
 - nm: raspberry
   id: 171
   hx: "8A024A"
+  sid: 160
 
 - nm: wine
   id: 172
   hx: "4D0F28"
+  sid: 72
 
 - nm: mauve
   id: 173
   hx: "9C4975"
+  sid: 73
 
 - nm: pink
   id: 174
   hx: "E77FBF"
+  sid: 66
 
 - nm: bubblegum
   id: 175
   hx: "E5A9FF"
+  sid: 109
 
 - nm: rose
   id: 176
   hx: "FFD6F6"
+  sid: 67
 
 - nm: pearl
   id: 177
   hx: "FBEDFA"
+  sid: 85

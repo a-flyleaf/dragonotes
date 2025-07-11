@@ -63,18 +63,22 @@ layout: none
 	
 	<details id="colors">
 		<summary><h3>colors</h3></summary>
-		<p>uses classes from <code>colors.css</code> to set bg+text defaults<br>
-		hex column text is deliberately “invisible” to make sure I got all the codes right</p>
+		<p>uses classes from <code>colors.css</code> to set bg+text defaults</p>
+		<p>hex column text is deliberately “invisible” to make sure I got all the codes right
+		<br>
+		<code>sid</code> = scry/search id, linked to an XXX sitewide search to check <small>(r/MildlyInteresting: carmine, wine, and mauve have very similar <code>id</code>+<code>sid</code>s!)</small></p>
 		<table>
 			<thead><tr>
 				<th>nm</th>
 				<th>id</th>
 				<th>hx</th>
+				<th>sid</th>
 			</tr></thead>
 			<tbody>{%for c in site.data.colors%}<tr class="c{{c.id}}">
 				<td>{{c.nm}}</td>
 				<td>{{c.id}}</td>
 				<td><span style="color:#{{c.hx}}">#{{c.hx}}</span></td>
+				<td><a href="https://www1.flightrising.com/search/dragons?nocollapse=1&body={{c.sid}}&wings={{c.sid}}&tert={{c.sid}}" style="color:inherit;" target="_blank">{{c.sid}}</a></td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>
