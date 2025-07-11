@@ -39,6 +39,7 @@ layout: none
 		#dragostats{margin:-.5em 0 1.5em;}
 		#dragostats li ul{padding-left:0;} #dragostats li ul li{margin:0; display:inline-block;} #dragostats li ul li::before{content:"| "; padding-left:.25em;}
 		#dragostats s{color:#bfbfbf;} #prev s{color:#808080;}
+		#dragostats small{color:#808080; display:block; margin-top:.25em;}
 	</style>
 </head><body>
 
@@ -266,8 +267,9 @@ layout: none
 		<li>breed tally:
 			<ul>{%assign abc=site.data.breeds|sort:"nm"%}{%for b in abc%}{%assign br=site.data.dragons|where:"breed",b.nm%}<li>{%if br.size==0%}<s>{%endif%}{{b.nm|capitalize}} {{br.size}}{%if br.size==0%}</s>{%endif%}</li>{%endfor%}</ul>
 		</li>
-		<li id="prev">breed-changed:
+		<li id="prev">breed-changed*:
 			<ul>{%for d in site.data.dragons%}{%if d.prev%}<li>{{d.nm}} <i>(<s>{{d.prev.breed}}</s> → {{d.breed}})</i></li>{%endif%}{%endfor%}</ul>
+			<small>*and has a previous version recorded onsite; I don’t use this for various G1s and other outliers</small>
 		</li>
 	</ul>
 	
