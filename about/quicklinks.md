@@ -62,7 +62,7 @@ Crystal Pools | ✗ | + | ~~✓~~
 Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
 Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
-Kelp Beds | ~~✓~~ | ~~✓~~ | <b>Maren Fisher</b>
+~~Kelp Beds~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 ~~Golem Workshop~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
 
@@ -156,11 +156,13 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="5">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
+		<tr><td rowspan="7">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
-		<tr><td>05</td><td>25</td><td>DarklandDisciple, AdelineLightjaw <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw</s> <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td>28</td><td>Mer</td></tr>
 		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
-		<tr><td>07</td><td>08</td><td>[Cirrus siblings]</td></tr>
+		<tr><td rowspan="2">07</td><td>03</td><td>[shadownoc]</td></tr>
+		<tr><td>08</td><td>[Cirrus siblings]</td></tr>
 	</tbody>
 </table>
 
