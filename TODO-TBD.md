@@ -36,6 +36,9 @@
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
 
+# 2025-06-30
+- PErHAPS rather than individual dragon pages, one big page with lil clusters? kinda like the old viral evolution page? way way WAY less intimidating to just combine dudes tbh. could be geocities-esque with custom css even if they all use the same basic HTML template. (so uhh basically the original plan for toyshelf, yes.) much to think about....
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done

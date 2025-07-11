@@ -47,5 +47,5 @@
         clr: 
         gn: 
       eye: OPTIONAL else common
-  cat: [lore,virevo,baneclan,inn,song,nolore]
+  cat: [lore,virevo,baneclan,inn,song,"525",nolore]
 #

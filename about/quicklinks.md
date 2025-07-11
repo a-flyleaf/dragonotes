@@ -156,9 +156,11 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="3">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
+		<tr><td rowspan="5">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
-		<tr><td>05</td><td>25</td><td>DarklandDisciple, VirologicZenith, <i><a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">[keepers from the elemental hatch batch]</a></i></td></tr>
+		<tr><td>05</td><td>25</td><td>DarklandDisciple, AdelineLightjaw <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
+		<tr><td>07</td><td>08</td><td>[Cirrus siblings]</td></tr>
 	</tbody>
 </table>
 
@@ -217,9 +219,13 @@ ordered by account ID
 - [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
 - [Rosaceae](https://www1.flightrising.com/clan-profile/154165): <b>[Jester](https://www1.flightrising.com/dragon/57606297)</b>---inside joke. goop is hell.
 - [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>: borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
-- [Starbrite](https://www1.flightrising.com/clan-profile/325229): <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought from Starbrite & has lore based on parents'!
+- [Starbrite](https://www1.flightrising.com/clan-profile/325229):
+	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
+	- <b>[unnamed Cirrus siblings]</b>---adopted, first Cirrus nest
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
-- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery. also took in ex-perma [<b>Poltergeist</b>](https://www1.flightrising.com/dragon/50297105)
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988):
+	- <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
+	- <b>[Poltergeist](https://www1.flightrising.com/dragon/50297105)---former perma
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
 
