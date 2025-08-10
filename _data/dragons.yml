@@ -2792,4 +2792,35 @@
     hatch: 2025-05-25
     hibern: 2025-07-01
   cat: [lore,"525"]
-# [other 5/25 hatches/acquisitions (some may have come in later!)], Mer, Poltergeist, shadownoc, [Cirrus siblings]
+# [other 5/25 hatches/acquisitions (some may have come in later!)]
+- nm: MarienSparkskull 
+  id: 103085464
+  element: lightning
+  sex: f
+  breed: fathom
+  gen: 1
+  lvl: 25
+  msr:
+    length: 19.84
+    wings: 19.21
+    weight: 8242.58
+  genes:
+    pri:
+      clr: periwinkle
+      gn: iridescent
+    sec:
+      clr: sky
+      gn: flair
+    tert:
+      clr: spruce
+      gn: opal
+    eye: faded
+  dates:
+    hatch: 2025-05-25
+    obtain: 2025-05-28
+    hibern: 2025-08-01
+  cat: [lore,"525"]
+# 6/17 Poltergeist
+# 7/03 shadownoc
+# 7/08 [Cirrus siblings]
+# 7/28 [Bharlowe]
