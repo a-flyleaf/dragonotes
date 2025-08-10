@@ -15,7 +15,7 @@ sort searches by <b>highest ID first</b>
 
 scry | search | m/f | eyes | primary | secondary | tertiary
 --- | ---
-[capitalist](https://www1.flightrising.com/scrying/predict?breed=8&gender=0&age=1&bodygene=24&body=107&winggene=17&wings=124&tertgene=21&tert=4&element=1&eyetype=7)\* | [3-off rare/limited](https://www1.flightrising.com/search/dragons?page=4&nocollapse=1&breed=8%2C10%2C11%2C12&body_range=132-159&wings_range=54-55&tert_range=3-146) | M | earth glowing | brick | tarnish | platinum
+[capitalist](https://www1.flightrising.com/scrying/predict?breed=8&gender=0&age=1&bodygene=24&body=107&winggene=17&wings=124&tertgene=21&tert=4&element=1&eyetype=7)\* | [3-off rare/limited](https://www1.flightrising.com/search/dragons?page=5&nocollapse=1&breed=8%2C10%2C11%2C12&body_range=132-159&wings_range=54-55&tert_range=3-146) | M | earth glowing | brick | tarnish | platinum
 
 note: am trying to [pyramid-breed](https://www1.flightrising.com/forums/gde/2630512#post_37684945) this dude wish me luck
 

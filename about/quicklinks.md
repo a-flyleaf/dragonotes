@@ -14,7 +14,7 @@ miscellaneous stuff for my own reference
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
 	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
-- <b>fest skins</b>: check for [dom shops](https://www1.flightrising.com/forums/ibaz)!!
+- <b>fest skins</b>: check for [dom shops](https://www1.flightrising.com/forums/ibaz)!! **by Saturday**.
 	- joxar: <b>190</b> fest currency (140 w/o scene) + <b>80kT</b> joxbox
 	- ~<b>600kT</b> for ~1 of each skin (accounting for dupes) 
 - <b>lvl25</b>: [treasure](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [gems](https://www1.flightrising.com/auction-house/buy/realm/dragons?gems_min=0&d_level_min=25&nocollapse=1&collapse=1) \| [firstgen](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_level_min=25&d_gen1=1&nocollapse=1&collapse=1)
@@ -46,7 +46,7 @@ Training Fields | ++ | ✗ | ~~✓~~
 Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
 Scorched Forest | + | + | ~~✓~~
 Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
-Sandswept Delta | + | ✗ | <b>Dusk Fuiran, Tricolor Viperpillar</b>
+Sandswept Delta | + | ✗ | <b>Dusk Fuiran</b>
 Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | + | ✗ | ~~✓~~
 Forgotten Cave | ✗ | ✗ | <b><u>Burrow Bear</u>, Creeping Cluster, <u>Dire Claw</u>, Djamor Bat, Ostreatus Bat</b>
@@ -55,7 +55,7 @@ Thunderhead Savanna | ✗ | ✗ | Coursing Skira
 Redrock Cove | ~~✓~~ | ✗ | <b>Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
 Waterway | ✗ | ✗ | Sewer Toridae
 Arena | ~~✓~~ | ✗ | <u>Undying Featherback</u>
-Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, <u>Tunnel Hydra</u>, Ultraram</b>
+Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, Ultraram</b>
 Rainsong Jungle | + | + | <u>Goldenbeast</u>
 Boreal Wood | ✗ | [N/A] | <u>Coarsefur Yeti</u>
 Crystal Pools | ✗ | + | ~~✓~~
@@ -156,13 +156,14 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="7">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
+		<tr><td rowspan="8">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
 		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw</s> <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
-		<tr><td>28</td><td>Mer</td></tr>
+		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
-		<tr><td rowspan="2">07</td><td>03</td><td>[shadownoc]</td></tr>
+		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
 		<tr><td>08</td><td>[Cirrus siblings]</td></tr>
+		<tr><td>28</td><td>[not-Bharlowe]</td></tr>
 	</tbody>
 </table>
 

@@ -200,6 +200,8 @@ badges:
 # [...oh scoobert we are missing a Lot.]
 # sent a bunch'a nodids https://www1.flightrising.com/forums/raf/3413121/1 (May 17-20 idr when)
 
+# +aftel sheet: lightning time! https://www1.flightrising.com/forums/fd5/3427676/1
+
 # use the fancy name if possible! adds flavor.
 
 #  - url: 
