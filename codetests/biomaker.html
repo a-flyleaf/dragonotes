@@ -1,0 +1,122 @@
+---
+layout: none
+
+canons:
+  - canon: tfe
+    longnm: The Firebird Effect
+  - canon: cmyk
+    longnm: disaster crew
+  - canon: "404"
+  - canon: ygbtdm
+    longnm: You’re gonna be the death of me
+
+dragons:
+- id: 51317268
+#  img: 
+  fullnm: Serena Johnson
+  clr: "#ff9600"
+  canon: tfe
+  tagline: Not dying yet.
+  item: sunspot clouddancer hide
+  search: [fire,fire,coal]
+  dates:
+    - w: hatch
+      d: 2019-04-25
+    - w: obtain
+      d: 2019-05-08
+      h: "found on the Auction&nbsp;House"
+    - d: 2021-01-21
+      h: "breed change"
+    - d: 2021-10-16
+      g: [falcon,trail,opal]
+    - w: hibern
+#      d: 2021-10-16 [same as above]
+  txt1: |-
+    Somewhat lost, but tries to get along and help out. Major soft spot for reckless youth and/or catastrophe victims; would defend them with her life. Seems convinced she can’t actually die.
+  txt2: |-
+    Complicated relationship with [Malva](https://www1.flightrising.com/dragon/97666606). Has run into [Shauna](https://www1.flightrising.com/dragon/22012254) and [Calem](https://www1.flightrising.com/dragon/48944088) but doesn’t stay close to either. Watches [this youth](https://www1.flightrising.com/dragon/50340433) like an unsolicited (but not strictly unwelcome) guardian.
+  og-url: "https://www1.flightrising.com/scrying/predict?breed=11&gender=1&age=1&bodygene=1&body=48&winggene=9&wings=48&tertgene=5&tert=8&element=11&eyetype=0"
+  og-img: "https://www1.flightrising.com/dgen/preview/dragon?age=1&body=48&bodygene=1&breed=11&element=11&eyetype=0&gender=1&tert=8&tertgene=5&winggene=9&wings=48&auth=66662affe5d2134afc265183338bd5e32c865654&dummyext=prev.png"
+---
+<style>
+	details{border:1px solid #bfbfbf; padding:.5em;}
+	.hl{background:yellow;}
+	.ss{font-family:sans-serif; font-size:.85em;}
+	ul{padding:0; margin:0 0 0 1em;}
+	details>ul{display:inline-block;}
+	.mono{font-family:monospace;} .mono li{margin:.15em 0;}
+	.na{color:#9f9f9f;}
+	.txt{margin-left:1em;}
+	
+	h2{margin-bottom:0;}
+	textarea{width:100%; min-height:30.5em; resize:vertical; font-family:verdana,sans-serif; font-size:12px;}
+</style>
+
+<h1>automatic bio generator</h1>
+<p>futzing around atm, using <a href="https://www1.flightrising.com/dragon/51317268">Serena</a> as a guinea pig</p>
+<p>dates: w=what, d=date, h=how, g=genes</p>
+
+<details open>
+	<summary><b>it’s mini-datacheck time</b></summary>
+	<p>canon options: {%for oc in page.canons%}{{oc.canon}} (<span class="ss">{%if oc.longnm%}{{oc.longnm}}{%else%}{{oc.canon}}{%endif%}</span>){%unless forloop.last%} | {%endunless%}{%endfor%}</p>
+	{%for d in page.dragons%}<ul class="mono">
+		<li>ID: <a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.id}}</a></li>
+		<li>img: {%if d.img%}<a href="{{d.img}}">{{d.img}}</a>{%else%}<span class="hl">[TBA]</span>{%endif%}</li>
+		<li>fullnm: <b class="ss">{{d.fullnm}}</b></li>
+		<li>clr: <span style="color:{{d.clr}}">{{d.clr}}</span></li>
+		<li>canon: {{d.canon}}</li>
+		<li>tagline: <span class="ss">{{d.tagline}}</span></li>
+		<li>item: <span class="ss">{{d.item}}</span></li>
+		<li>search: {%for s in d.search%}{{s}}{%unless forloop.last%},{%endunless%}{%endfor%}</li>
+		<li>dates:<ul>{%for d in d.dates%}<li>
+			w: {%if d.w%}{{d.w}}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
+			d: {%if d.d%}{{d.d}}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
+			g: {%if d.g%}{%for g in d.g%}{{g}}{%unless forloop.last%},{%endunless%}{%endfor%}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
+			h: {%if d.h%}<span class="ss">{{d.h}}</span>{%else%}<span class="na">[N/A]</span>{%endif%}
+		</li>{%endfor%}</ul></li>
+		<li>txt1: |-<div class="txt">{{d.txt1}}</div></li>
+		<li>txt2: |-<div class="txt">{{d.txt2}}</div></li>
+		<li>og-url: <a href="{{d.og-url}}">{{d.og-url}}</a></li>
+		<li>og-img: <a href="{{d.og-img}}">{{d.og-img}}</a></li>
+	</ul>{%endfor%}
+</details>
+
+{%for d in page.dragons%}
+<h2>{{d.fullnm}}</h2>
+<ul class="mono">
+	{%capture colorfix%}][color={{d.clr}}][u]{%endcapture%}<li>colorfix: <code>{{colorfix}}</code></li>
+	{%assign d-canon=page.canons|where:"canon",d.canon%}<li>canon: <span class="ss">{%for oc in d-canon%}{{oc.longnm}}{%endfor%}</span></li>
+	<li>colors: {%for c in d.search%}{%assign clr-id=site.data.colors|where:"nm",c%}{{c}} ({%for c-id in clr-id%}<a href="https://www1.flightrising.com/search/dragons?nocollapse=1&body={{c-id.sid}}&wings={{c-id.sid}}&tert={{c-id.sid}}">{{c-id.sid}}</a>{%endfor%}){%unless forloop.last%} | {%endunless%}{%endfor%}</li>
+</ul>
+
+<textarea>
+[center]{%if d.img%}
+
+[img alt=""]{{d.img}}[/img]{%endif%}
+
+[size=7][color=#484848][b]{{d.fullnm}}[/b][/color][/size]
+
+[size=6][url=https://a-flyleaf.github.io/tfe][color={{d.clr}}][u][i]{{d.canon}}[/i][/u][/color][/url][/size]
+
+
+[size=4][color=#484848]{{d.tagline}}[/color][/size][/center]
+
+
+
+-----
+
+[columns][center]
+
+[item={{d.item}}]
+[url=https://www1.flightrising.com/search/dragons?exalted=&body={{d.search.body}}&wings={{d.search.wings}}&tert={{d.search.tert}}&sort=id_asc][emoji=palette][/url] [url=https://www1.flightrising.com/search/forums?term={{d.id}}&sort=recent][emoji=comment][/url][/center][nextcol]
+{%for dt in d.dates%}{%if dt.h or dt.g%}[font=monospace]{%if dt.d%}{{dt.d|date:"%F"|replace:"-","/"}} {%else%}[color=transparent]...........[/color]{%endif%}[/font]{%for g in dt.g%}+{{g}} {%endfor%}{{dt.h|replace:"<br>","
+[font=monospace][color=transparent]...........[/color][/font]"|replace:"hibernating","[i]hibernating[/i]"}}{%else%}{%endif%}
+{%endfor%}
+[columns][font=monospace][color=transparent]..[/color][/font][nextcol][list][*]{{d.txt1|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"}}
+[*]{{d.txt2|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"}}[/list][/columns][/columns]
+
+[center][url={{d.og-url}}][img alt="original dragon"]{{d.og-img}}[/img][/url][/center]
+
+[right][sub][i][color=#eee]bio v3 (2020/06/25): dragonsona edition (11/12), auto-updated 2024/09/10; lore based on notes from 2019/06/10[/color][/i][/sub][/right]
+</textarea>
+{%endfor%}
