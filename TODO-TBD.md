@@ -19,13 +19,11 @@
 
 	^all these (and more on other minisites) can go on some revamped shriblets linkhub tbh. there are So Many and they are So Scattered
 
-# 2024+ condensed
-- trawl gdocs for stuff I can save here onsite instead
-- fandragon bio generator
++also trawl gdocs for stuff I mirror here
 
 # 2025-02-04
 - _data/dragons.yml
-	- re-include familiars (optional)/vistas/scenes
+	- re-include familiars/vistas/scenes?
 	- extra dates?
 - _layouts/dragons.html
 	- integrate art from data; include ids via forloop (a1,a2,a3) for individual styling
