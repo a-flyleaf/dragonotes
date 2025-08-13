@@ -14,6 +14,33 @@ canons:
     url: ygbtdm
 
 dragons:
+- id: 50340433
+#  img: 
+  fullnm: “that Johnson kid”
+  clr: "#0069ff"
+  canon: tfe
+  tagline: Go for broke!
+  item: cheerful bird toy
+  search: [ultramarine,sunset,abyss]
+  dates:
+    - d: 2019-05-28
+      h: received via [gift](http://flightrising.com/main.php?p=lair&tab=userpage&id=35930), already named
+    - d: 2021-01-21
+      h: breed change
+    - d: 2021-06-17
+      h: eternal youth
+    - d: 2021-10-16
+      g: [piebald,flair,crackle]
+      h: "[color=red]!!link flair to {https://flightrising.com/main.php?p=lair&tab=userpage&id=453057}!![/color]"
+    - d: 2021-10-16
+      h: hibern
+  txt:
+    - Friendly, typically optimistic, and has a righteous streak. Tries to get along with anyone likable in range. Really doesn’t see what this fuss about beastclan rebellion is about and would like the species to just get along already.
+    - Would like to befriend [Shauna](https://www1.flightrising.com/dragon/22012254) and [Calem](https://www1.flightrising.com/dragon/48944088) but hasn’t had much luck. Fiercely guarded by [Serena](https://www1.flightrising.com/dragon/51317268), for unclear reasons.
+    - For lore purposes, “offspring” are a record of beastclan friends. Also has a stash of trinket keepsakes from each.
+  og-url: "https://www1.flightrising.com/scrying/predict?breed=6&gender=0&age=1&bodygene=8&body=90&winggene=1&wings=172&tertgene=11&tert=96&element=11&eyetype=2"
+  og-img: "https://www1.flightrising.com/dgen/preview/dragon?age=1&body=90&bodygene=8&breed=6&element=11&eyetype=2&gender=0&tert=96&tertgene=11&winggene=1&wings=172&auth=3ad804b42866fd539ff848f5c83a2f3f372b2273&dummyext=prev.png"
+
 - id: 51317268
 #  img: 
   fullnm: Serena Johnson
@@ -23,68 +50,93 @@ dragons:
   item: sunspot clouddancer hide
   search: [fire,fire,coal]
   dates:
-    - w: obtain
-      d: 2019-05-08
+    - d: 2019-05-08
       h: "found on the Auction&nbsp;House (12kT)"
     - d: 2021-01-21
       h: "breed change"
     - d: 2021-10-16
       g: [falcon,trail,opal]
-    - w: hibern
-      d: 2021-10-16
-  txt1: |-
-    Somewhat lost, but tries to get along and help out. Major soft spot for reckless youth and/or catastrophe victims; would defend them with her life. Seems convinced she can’t actually die.
-  txt2: |-
-    Complicated relationship with [Malva](https://www1.flightrising.com/dragon/97666606). Has run into [Shauna](https://www1.flightrising.com/dragon/22012254) and [Calem](https://www1.flightrising.com/dragon/48944088) but doesn’t stay close to either. Watches [this youth](https://www1.flightrising.com/dragon/50340433) like an unsolicited (but not strictly unwelcome) guardian.
+    - d: 2021-10-16
+      h: hibern
+  txt:
+    - Somewhat lost, but tries to get along and help out. Major soft spot for reckless youth and/or catastrophe victims; would defend them with her life. Seems convinced she can’t actually die.
+    - Complicated relationship with [Malva](https://www1.flightrising.com/dragon/97666606). Has run into [Shauna](https://www1.flightrising.com/dragon/22012254) and [Calem](https://www1.flightrising.com/dragon/48944088) but doesn’t stay close to either. Watches [this youth](https://www1.flightrising.com/dragon/50340433) like an unsolicited (but not strictly unwelcome) guardian.
   og-url: "https://www1.flightrising.com/scrying/predict?breed=11&gender=1&age=1&bodygene=1&body=48&winggene=9&wings=48&tertgene=5&tert=8&element=11&eyetype=0"
   og-img: "https://www1.flightrising.com/dgen/preview/dragon?age=1&body=48&bodygene=1&breed=11&element=11&eyetype=0&gender=1&tert=8&tertgene=5&winggene=9&wings=48&auth=66662affe5d2134afc265183338bd5e32c865654&dummyext=prev.png"
+
+#- id: 
+#  img: 
+#  fullnm: 
+#  clr: "#"
+#  canon: 
+#  tagline: 
+#  item: 
+#  search: [pri,sec,trt]
+#  dates:
+#    - d: 
+#      g: []
+#      h: 
+#  txt:
+#    - LOrEM
+#    - IPSUM
+#  og-url: "UrL"
+#  og-img: "IMG"
 ---
 <style>
-	details{border:1px solid #bfbfbf; padding:.5em;}
+	body{padding:.5em 1em 1em; margin:0;}
+	h1,h2{margin:0;}
+	
+	details{border:1px solid #bfbfbf;}
+	summary{cursor:pointer; padding:.5em;} summary:hover{background:#efefef;}
+	#dt{padding:0 1em 1em; border-top:1px solid #bfbfbf;}
+		#dt p{margin:.5em 0 1em;}
 	.hl{background:yellow;}
 	.ss{font-family:sans-serif; font-size:.85em;}
 	ul{padding:0; margin:0 0 0 1em;}
-	details>ul{display:inline-block;}
+	#dt>ul{display:inline-block; max-width:20em; word-wrap:break-word; vertical-align:top; padding-right:1em;}
 	.mono{font-family:monospace;} .mono li{margin:.15em 0;}
 	.na{color:#9f9f9f;}
 	.txt{margin-left:1em;}
 	
-	h2{margin-bottom:0;}
+	.dr{padding:.5em 1em 1em; margin:0 0 1em;}
+	.dr ul{padding:.25em 0 .5em;}
 	textarea{width:100%; min-height:30.5em; resize:vertical; font-family:verdana,sans-serif; font-size:12px;}
 </style>
 
 <h1>automatic bio generator</h1>
-<p>futzing around atm, using <a href="https://www1.flightrising.com/dragon/51317268">Serena</a> as a guinea pig</p>
 <p>dates: w=what, d=date, h=how, g=genes</p>
 
 <details open>
 	<summary><b>it’s mini-datacheck time</b></summary>
-	<p>canon options: {%for oc in page.canons%}{{oc.canon}} (<span class="ss">{%if oc.longnm%}{{oc.longnm}}{%else%}{{oc.canon}}{%endif%}</span>){%unless forloop.last%} | {%endunless%}{%endfor%}</p>
-	{%for d in page.dragons%}<ul class="mono">
-		<li>ID: <a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.id}}</a></li>
-		<li>img: {%if d.img%}<a href="{{d.img}}">{{d.img}}</a>{%else%}<span class="hl">[TBA]</span>{%endif%}</li>
-		<li>fullnm: <b class="ss">{{d.fullnm}}</b></li>
-		<li>clr: <span style="color:{{d.clr}}">{{d.clr}}</span></li>
-		<li>canon: {{d.canon}}</li>
-		<li>tagline: <span class="ss">{{d.tagline}}</span></li>
-		<li>item: <span class="ss">{{d.item}}</span></li>
-		<li>search: {%for s in d.search%}{{s}}{%unless forloop.last%},{%endunless%}{%endfor%}</li>
-		<li>dates:<ul>{%for d in d.dates%}<li>
-			w: {%if d.w%}{{d.w}}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
-			d: {%if d.d%}{{d.d}}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
-			g: {%if d.g%}{%for g in d.g%}{{g}}{%unless forloop.last%},{%endunless%}{%endfor%}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
-			h: {%if d.h%}<span class="ss">{{d.h}}</span>{%else%}<span class="na">[N/A]</span>{%endif%}
-		</li>{%endfor%}</ul></li>
-		<li>txt1: |-<div class="txt">{{d.txt1}}</div></li>
-		<li>txt2: |-<div class="txt">{{d.txt2}}</div></li>
-		<li>og-url: <a href="{{d.og-url}}">{{d.og-url}}</a></li>
-		<li>og-img: <a href="{{d.og-img}}">{{d.og-img}}</a></li>
-	</ul>{%endfor%}
+	<div id="dt">
+		<p>canon options: {%for oc in page.canons%}{{oc.canon}} (<span class="ss">{%if oc.longnm%}{{oc.longnm}}{%else%}{{oc.canon}}{%endif%}</span>){%unless forloop.last%} | {%endunless%}{%endfor%}</p>
+		{%for d in page.dragons%}<ul class="mono">
+			<li>ID: <a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.id}}</a></li>
+			<li>img: {%if d.img%}<a href="{{d.img}}">{{d.img}}</a>{%else%}<span class="hl">[TBA]</span>{%endif%}</li>
+			<li>fullnm: <b class="ss">{{d.fullnm}}</b></li>
+			<li>clr: <span style="color:{{d.clr}}">{{d.clr}}</span></li>
+			<li>canon: {{d.canon}}</li>
+			<li>tagline: <span class="ss">{{d.tagline}}</span></li>
+			<li>item: <span class="ss">{{d.item}}</span></li>
+			<li>search: {%for s in d.search%}{{s}}{%unless forloop.last%},{%endunless%}{%endfor%}</li>
+			<li>dates:<ul>{%for d in d.dates%}<li>
+				d: {%if d.d%}{{d.d}}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
+				g: {%if d.g%}{%for g in d.g%}{{g}}{%unless forloop.last%},{%endunless%}{%endfor%}{%else%}<span class="na">[N/A]</span>{%endif%}<br>
+				h: {%if d.h%}{{d.h}}{%else%}<span class="na">[N/A]</span>{%endif%}
+			</li>{%endfor%}</ul></li>
+			<li>txt:<ul>{%for t in d.txt%}
+				<li>{{t}}</li>
+			{%endfor%}</ul></li>
+			<li>og-url: <a href="{{d.og-url}}">{{d.og-url}}</a></li>
+			<li>og-img: <a href="{{d.og-img}}">{{d.og-img}}</a></li>
+		</ul>{%endfor%}
+	</div>
 </details>
 
-<p>dates same as previous have to get transparent'd manually sorry. idk where to start with that bit</p>
+<p>dates same as previous have to get transparent'd manually sorry. idk where to start with automating that bit<br>
+other weird this-needs-a-manual-fix details should be in red</p>
 
-{%for d in page.dragons%}
+{%for d in page.dragons%}<div class="dr" style="border:2px solid {{d.clr}};">
 <h2>{{d.fullnm}}</h2>
 <ul class="mono">
 	{%capture colorfix%}][color={{d.clr}}][u]{%endcapture%}<li>colorfix: <code>{{colorfix}}</code></li>
@@ -113,12 +165,12 @@ dragons:
 [item={{d.item}}]
 [url=https://www1.flightrising.com/search/dragons?exalted=&body={%for c in d.search%}{%if forloop.index==1%}{%assign clr-id=site.data.colors|where:"nm",c%}{%for c-id in clr-id%}{{c-id.sid}}{%endfor%}{%endif%}{%endfor%}&wings={%for c in d.search%}{%if forloop.index==2%}{%assign clr-id=site.data.colors|where:"nm",c%}{%for c-id in clr-id%}{{c-id.sid}}{%endfor%}{%endif%}{%endfor%}&tert={%for c in d.search%}{%if forloop.index==3%}{%assign clr-id=site.data.colors|where:"nm",c%}{%for c-id in clr-id%}{{c-id.sid}}{%endfor%}{%endif%}{%endfor%}&sort=id_asc][img alt="other dragons with these colors"]https://www1.flightrising.com/static/cms/icons/66.png[/img][/url] [url=https://www1.flightrising.com/search/forums?term={{d.id}}&sort=recent][img alt="forum post mentions"]https://www1.flightrising.com/static/cms/icons/5.png[/img][/url][/center][nextcol]
 
-{%for dt in d.dates%}[font=monospace]{{dt.d|date:"%F"|replace:"-","/"}} [/font]{%for g in dt.g%}+{{g}} {%endfor%}{%if dt.w=="hibern"%}[i]hibernating[/i]{%else%}{{dt.h|replace:"<br>","
-[font=monospace][color=#fff]...........[/color][/font]"|replace:"(","[color=transparent][size=1]("|replace:")",")[/size][/color]"}}{%endif%}
-{%endfor%}
-[columns][font=monospace][color=transparent]..[/color][/font][nextcol][list][*]{{d.txt1|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"}}[*]{{d.txt2|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"}}[/list][/columns][/columns]
+{%for dt in d.dates%}[font=monospace]{{dt.d|date:"%F"|replace:"-","/"}} [/font]{%for g in dt.g%}+{{g}} {%endfor%}{%if dt.h=="hibern"%}[i]hibernating[/i]{%else%}{{dt.h|replace:"<br>","
+[font=monospace][color=#fff]...........[/color][/font]"|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"|replace:"(","[color=transparent][size=1]("|replace:")",")[/size][/color]"}}{%endif%}{%endfor%}
+
+[columns][font=monospace][color=transparent]..[/color][/font][nextcol][list]{%for t in d.txt%}[*]{{t|markdownify|replace:'<a href="','[url='|replace:'">',colorfix|replace:'</a>','[/u][/color][/url]'|remove:"<p>"|remove:"</p>"}}{%endfor%}[/list][/columns][/columns]
 
 [center][url={{d.og-url}}][img alt="initially looked like"]{{d.og-img}}[/img][/url][/center]
 
 [right][sub][i][color=#eee]bio v3 (2025/6/25): dragonsona edition (11/12) | lore based on notes from 2019/06/10[/color][/i][/sub][/right]</textarea>
-{%endfor%}
+</div>{%endfor%}
