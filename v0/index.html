@@ -24,17 +24,18 @@ pages:
 - dt: after 2016 April?
   url: profile
   desc: |-
-    idek what dates this was used during. An about for yours truly as a player.
+    ~~idek what dates this was used during.~~ never <em style="text-transform:uppercase;font-style:normal;">mind</em> i put "last update: 8/28/15" in the <em style="text-transform:uppercase;font-style:normal;">end banner hover text</em> like a <em style="text-transform:uppercase;font-style:normal;">heathen!!!!!1!</em>  
+    ...anyway. An about for yours truly as a player.
 - dt: 2016-01-12+02-12
   url: viral-evolution
   desc: |-
     apparently made this on my birthday; HBD past!me??? Putting that dragon-profile page into practice with some lore lizards, all of whom got exalted during an early (if not my first?) lair purge.
     
-    ``items.kanojo.de`` was the Game&nbsp;Database before the Game&nbsp;Database, a user-made collection of every single item in existence---including a super nifty apparel & accent previewer, which is how I was able to put together images of dragons wearing stuff that they never had onsite. Somewhere along the line it broke, and now all item links on my page lead to a 404 error. RIP.
+    fun fact: ``items.kanojo.de`` was the Game&nbsp;Database before the Game&nbsp;Database, a user-made collection of every single item in existence---including a super nifty apparel & accent previewer, which is how I was able to put together images of dragons wearing stuff that they never had onsite. Somewhere along the line it broke! I've replaced a small handful of links with the official database where possible, but there's a few that I just can't track down.<!--well tbh I just didn't feel like it. but maybe later.--> 404 errors it must be. RIP kanojo.
 - dt: 2018-12-31
   url: scries
   desc: |-
-    apparently intended to be a dream dragon scry hoard. Only Zero is here. [Fast-forward five years...](https://www1.flightrising.com/dragon/85045601)
+    intended to be a dream dragon scry hoard. Only Zero is here. I have long since exalted the fodder breeder scries used to be saved on. But, fast-forward [five years](https://www1.flightrising.com/dragon/85045601)...
 - dt: 2019-01-14
   url: fr-lookalike
   desc: |-
@@ -42,7 +43,7 @@ pages:
 - dt: 2019-11-09?
   url: loredump
   desc: |-
-    Also not an HTML page, just a bunch of old bios saved to a markdown file. Not sure when I actually wrote them, but 11/09 is when the file on my machine was last modified.
+    Also not an HTML page, just a bunch of old bios saved to a text file. Not sure when I actually wrote them, but 11/09 is when the file on my machine was last modified.
 - dt: 2020-04-21
   url: dragonsizes
   desc: |-
@@ -72,7 +73,7 @@ pages:
 <h1><a href="{%include url.html%}">dragonotes</a> before dragonotes</h1>
 {{page.desc|markdownify}}
 
-<ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
+<ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}{%if p.url=='loredump'%}.txt{%endif%}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
 
 <footer>
 	<div id="date"><small>[2025-08-13]</small></div>

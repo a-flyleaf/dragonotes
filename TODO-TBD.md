@@ -1,16 +1,3 @@
-# [sites>backup]\glitch\a-flyleaf\archaeoraptor
-page dates, based on imgur uploads (+wips in {curly brackets}:
-	- profile unclear, probably after 2016 (otherwise why "April 2015")
-		- missing badge is ace mirror btw https://eclipserising.tumblr.com/post/100540162469/ace-dragon-profile-badges
-	- viral-evolution 2016-01-12/-02-12 (hbd past me?!)
-	- {fr-lookalike, scries: 2018-12-31}
-		- fr-lookalike edited again 2019-01-14
-	- {dragonsizes: 2020-04-21}
-
-	also dredge up
-	- v1/lore/profile: 2020-01-07
-	- +extra stuff in the site/fr folder
-
 # 2024-11-24
 trawl gdocs for stuff I can mirror here
 
