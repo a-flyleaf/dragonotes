@@ -7,18 +7,16 @@ page dates, based on imgur uploads (+wips in {curly brackets}:
 	- profile unclear, probably after 2016 (otherwise why "April 2015")
 		- missing badge is ace mirror btw https://eclipserising.tumblr.com/post/100540162469/ace-dragon-profile-badges
 	- viral-evolution 2016-01-12/-02-12 (hbd past me?!)
-	- fr-lookalike, scries: 2018-12-31
-	- {scries: 2018-12-31}
-	- {fr-lookalike: 2018-12-31, edited again 2019-01-14}
+	- {fr-lookalike, scries: 2018-12-31}
+		- fr-lookalike edited again 2019-01-14
 	- {dragonsizes: 2020-04-21}
 
 	also dredge up
 	- v1/lore/profile: 2020-01-07
 	- +extra stuff in the site/fr folder
 
-	^all these (and more on other minisites) can go on some revamped shriblets linkhub tbh. there are So Many and they are So Scattered
-
-+also trawl gdocs for stuff I mirror here
+# 2024-11-24
+trawl gdocs for stuff I can mirror here
 
 # 2025-02-04
 - _data/dragons.yml
@@ -41,5 +39,3 @@ page dates, based on imgur uploads (+wips in {curly brackets}:
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
-
-

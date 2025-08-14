@@ -1,0 +1,57 @@
+---
+layout: none
+
+pages:
+- dt: 2015-05-27
+  url: clan-roster-test
+  desc: |-
+    ///
+- dt: 2015-05-27(?)
+  url: here-there-be-dragons
+  desc: |-
+    ///
+- dt: ~2015-10-05
+  url: tumblr-index
+  desc: |-
+    ///
+- dt: 2015-12-30
+  url: ve-template
+  desc: |-
+    ///
+- dt: after 2016 April?
+  url: profile
+  desc: |-
+    ///
+- dt: 2016-01-12+02-12
+  url: viral-evolution
+  desc: |-
+    ///
+- dt: 2018-12-31
+  url: scries
+  desc: |-
+    ///
+- dt: 2019-01-14
+  url: fr-lookalike
+  desc: |-
+    ///
+- dt: 2020-04-21
+  url: dragonsizes
+  desc: |-
+    ///
+---
+<!doctype html>
+<html>
+<head>
+	<title>dragonotes code archive</title>
+	<style>
+		ul{font-family:monospace; font-size:1.15em;}
+		li{margin:.5em 0;}
+	</style>
+</head><body>
+
+<h1><a href="{%include url.html%}">dragonotes</a> before dragonotes</h1>
+<p>pages scrounged up from tumblr & glitch.me, in various states of completion</p>
+
+<ul>{%for p in page.pages%}<li>{{p.dt}} | <b>{{p.url}}</b>.html: {{p.desc}}</li>{%endfor%}</ul>
+
+</body></html>

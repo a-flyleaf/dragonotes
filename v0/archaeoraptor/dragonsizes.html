@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <title>dragonsizes</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style>
+    a{color:inherit; text-decoration:none; background:rgba(0,0,0,.075);}
+    s{color:#aaa;}
+    
+    .dragon{background:url(https://i.imgur.com/9xQzexn.png) no-repeat center; width:50px; height:50px;}
+    .dragon:hover{cursor:move; background-color:rgba(0,0,0,0.15);}
+    .wings{background:url(https://i.imgur.com/JMthEVA.png) no-repeat center; width:50px; height:50px;}
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script src="dragonsizes.js"></script>
+</head>
+<body>
+  
+  <div class="dragon draggable ui-widget-content"><div class="wings"></div></div>
+  
+  <p>based on <a href="https://emcall.github.io/dragonsizes/">this</a> but coded from scratch because I like suffering</p>
+  
+  <ul>
+    <s><li>create <code>.dragon</code> when user clicks a button | <a href="https://www.w3schools.com/jsref/met_document_createelement.asp">W3Schools</a></li></s>
+    <li><s><code>.dragon</code> has two parts: length (vertical) + wingspan (horizontal)</s><ul>
+      <li>use vector images later but divs should be fine for now</li>
+      <li>user must input both values or creation fails/error message pops up</li></ul></li>
+    <li><code>.dragon</code> can be dragged around the screen anywhere | <a href="https://www.kirupa.com/html5/drag.htm">KIRUPA</a>, <a href="https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_draggable">W3Schools</a> | <a href="https://jqueryui.com/draggable/#scroll">fuck it let's do jQuery</a><ul>
+      <li>this works for pre-existing elements (see above) but fails on newly-created dragons. WHY</li></ul></li>
+    <li><s>button to clear all</s> AND/OR section to drag individual .dragons into for deletion | <a href="https://catalin.red/removing-an-element-with-plain-javascript-remove-method/">tried this, didn't work</a>; jQuery did the trick<ul>
+      <li>individual thing would still be nifty; see <a href="https://javascript.info/mouse-drag-and-drop">this</a>?</li></ul></li>
+    <li>breed picker</li>
+    <li>style everything (DO THIS LAST)<ul><li>dark mode would be cool</li><li>ability to change dragon colors?</li></ul></li>
+  </ul>
+  
+  <button onclick="spawnLizard()">spawnLizard</button>
+  <button onclick="clearAll()" id="clearAll">clearAll</button>
+</body>
+</html>
