@@ -1,9 +1,5 @@
 # [sites>backup]\glitch\a-flyleaf\archaeoraptor
 page dates, based on imgur uploads (+wips in {curly brackets}:
-	- clan-roster-test: 2015-05-27
-	- here-there-be-dragons: ^, maybe 2015-07-10 or 2015-08-27
-	- index stops at 2015-10-05
-	- ve-template 2015-12-30
 	- profile unclear, probably after 2016 (otherwise why "April 2015")
 		- missing badge is ace mirror btw https://eclipserising.tumblr.com/post/100540162469/ace-dragon-profile-badges
 	- viral-evolution 2016-01-12/-02-12 (hbd past me?!)

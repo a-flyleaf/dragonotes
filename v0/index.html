@@ -1,57 +1,81 @@
 ---
 layout: none
 
+desc: |-
+  pages scrounged up from tumblr & glitch.me, in various states of completion. Other than fixing some old and/or broken links, they've been copied here exactly as made.
+
 pages:
 - dt: 2015-05-27
   url: clan-roster-test
   desc: |-
-    ///
+    layout template that rips off the site's default theme. "No funeral for Jimmy" was an inside joke, for reasons I've since forgotten.
 - dt: 2015-05-27(?)
   url: here-there-be-dragons
   desc: |-
-    ///
+    actual clan lore! For reasons unknown I also have the dates 7/10 and 8/27 jotted down. Page updates?
 - dt: ~2015-10-05
-  url: tumblr-index
+  url: tumblr-pages
   desc: |-
-    ///
+    Not so much an HTML page as a textdump-backup of pages I used to have on my first blog. Behold, an early attempt to meticulously record every. single. thing. that happened in my lair in the early days...!
 - dt: 2015-12-30
   url: ve-template
   desc: |-
-    ///
+    revisiting that roster page but with dragon profiles.
 - dt: after 2016 April?
   url: profile
   desc: |-
-    ///
+    idek what dates this was used during. An about for yours truly as a player.
 - dt: 2016-01-12+02-12
   url: viral-evolution
   desc: |-
-    ///
+    apparently made this on my birthday; HBD past!me??? Putting that dragon-profile page into practice with some lore lizards, all of whom got exalted during an early (if not my first?) lair purge.
+    
+    ``items.kanojo.de`` was the Game&nbsp;Database before the Game&nbsp;Database, a user-made collection of every single item in existence---including a super nifty apparel & accent previewer, which is how I was able to put together images of dragons wearing stuff that they never had onsite. Somewhere along the line it broke, and now all item links on my page lead to a 404 error. RIP.
 - dt: 2018-12-31
   url: scries
   desc: |-
-    ///
+    apparently intended to be a dream dragon scry hoard. Only Zero is here. [Fast-forward five years...](https://www1.flightrising.com/dragon/85045601)
 - dt: 2019-01-14
   url: fr-lookalike
   desc: |-
-    ///
+    Flight Rising official site design ripoff... 2!!
+- dt: 2019-11-09?
+  url: loredump
+  desc: |-
+    Also not an HTML page, just a bunch of old bios saved to a markdown file. Not sure when I actually wrote them, but 11/09 is when the file on my machine was last modified.
 - dt: 2020-04-21
   url: dragonsizes
   desc: |-
-    ///
+    I really wanted to make my own version of [an old dragon size visualizer](https://emcall.github.io/dragonsizes/). I never got around to finishing my own version of a dragon size visualizer. JavaScript is hard.
 ---
 <!doctype html>
 <html>
 <head>
+	
 	<title>dragonotes code archive</title>
 	<style>
-		ul{font-family:monospace; font-size:1.15em;}
-		li{margin:.5em 0;}
+		a{color:#731d08;}
+		a:hover,a:focus,a:active{color:#b0734f;}
+		a:active{opacity:.5;}
+		
+		ul{font-family:monospace; font-size:1.15em; line-height:1.35; max-width:50em;}
+		li{margin:.75em 0;}
+		li p{margin:0 0 0 1em; font-family:verdana,sans-serif; font-size:.75em; line-height:1.5;}
+		li p+p{text-indent:1em;}
+		code{font-size:1.25em;}
+		
+		footer{margin:1em 0;}
+		#date{font-style:italic; text-align:right;}
 	</style>
 </head><body>
 
 <h1><a href="{%include url.html%}">dragonotes</a> before dragonotes</h1>
-<p>pages scrounged up from tumblr & glitch.me, in various states of completion</p>
+{{page.desc|markdownify}}
 
-<ul>{%for p in page.pages%}<li>{{p.dt}} | <b>{{p.url}}</b>.html: {{p.desc}}</li>{%endfor%}</ul>
+<ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
 
+<footer>
+	<div id="date"><small>[2025-08-13]</small></div>
+	<a href="{%include url.html%}">← back to dragonotes index</a>
+</footer>
 </body></html>
