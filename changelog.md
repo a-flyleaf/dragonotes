@@ -61,3 +61,7 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 - 2/05
 	- codetests folder
 	- updated this page again (forgot it existed between 2023-11-20 and now, amazing)
+- 7/10 color search/scry id data
+- 8/12 backend
+- 8/12--13 biomaker done
+	- remembered this page exists again
