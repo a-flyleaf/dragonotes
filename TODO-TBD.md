@@ -18,7 +18,12 @@ trawl gdocs for stuff I can mirror here
 # 2025-06-30
 - PErHAPS rather than individual dragon pages, one big page with lil clusters? kinda like the old viral evolution page? way way WAY less intimidating to just combine dudes tbh. could be geocities-esque with custom css even if they all use the same basic HTML template. (so uhh basically the original plan for toyshelf, yes.) much to think about....
 
+# 2025-08-13
+scour the game database for those v0/viral-evolution accent links maybe...? idek if I still have the original edit files on my computer. probably maaaaybe somewhere but I was almost definitely not in the habit of saving urls directly in the layer names. hmm
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
+
++**radijacija** also has a wip outfit now
