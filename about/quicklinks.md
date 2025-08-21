@@ -45,7 +45,7 @@ venue | vista | scene | familiars
 Training Fields | ++ | ✗ | ~~✓~~
 Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
 Scorched Forest | + | + | ~~✓~~
-Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Boneyard Patroller, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
+Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
 Sandswept Delta | + | ✗ | <b>Dusk Fuiran</b>
 Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
 Blooming Grove | + | ✗ | ~~✓~~
@@ -60,7 +60,7 @@ Rainsong Jungle | + | + | <u>Goldenbeast</u>
 Boreal Wood | ✗ | [N/A] | <u>Coarsefur Yeti</u>
 Crystal Pools | ✗ | + | ~~✓~~
 Harpy's Roost | ~~✓~~ | ✗ | <u>Roc</u>
-Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Malevolent Spirit, Disoriented Spirit</u></b>
+Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Disoriented Spirit</u></b>
 ~~Mire~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 ~~Kelp Beds~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 ~~Golem Workshop~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
@@ -158,7 +158,7 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="8">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw</s> <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw</s>, [fireguard], <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
