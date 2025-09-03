@@ -44,7 +44,7 @@ venue | vista | scene | familiars
 ---|---
 Training Fields | ++ | ✗ | ~~✓~~
 Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
-Scorched Forest | + | + | ~~✓~~
+Scorched Forest | + | ~~✓~~ | ~~✓~~
 Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
 Sandswept Delta | + | ✗ | <b>Dusk Fuiran</b>
 Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
@@ -54,8 +54,8 @@ Bamboo Falls | + | [N/A] | ~~✓~~
 Thunderhead Savanna | ✗ | ✗ | Coursing Skira
 Redrock Cove | ~~✓~~ | ✗ | <b>Green-Breasted Sawbeak, Igueel Matriarch, <u>Spiney Whale</u></b>
 Waterway | ✗ | ✗ | Sewer Toridae
-Arena | ~~✓~~ | ✗ | <u>Undying Featherback</u>
-Volcanic Vents | + | ✗ | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, Ultraram</b>
+Arena | ~~✓~~ | + | <u>Undying Featherback</u>
+Volcanic Vents | + | + | <b>Dreadram, Firebelly Weaver, Flamescale Illusionist, Ultraram</b>
 Rainsong Jungle | + | + | <u>Goldenbeast</u>
 Boreal Wood | ✗ | [N/A] | <u>Coarsefur Yeti</u>
 Crystal Pools | ✗ | + | ~~✓~~
@@ -158,12 +158,12 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="8">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw</s>, [fireguard], <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury,</s> [arcanemir] <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
-		<tr><td>08</td><td>[Cirrus siblings]</td></tr>
-		<tr><td>28</td><td>[not-Bharlowe]</td></tr>
+		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
+		<tr><td>28</td><td>Bharlowe</td></tr>
 	</tbody>
 </table>
 
@@ -182,7 +182,7 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 - [[unnamed]](https://www1.flightrising.com/dragon/76895138): prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
-- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716)
+- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716): those not resold are [ElricAugury](https://www1.flightrising.com/dragon/103088848) [and WIPs]
 
 ### breed release lizards
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
@@ -224,7 +224,7 @@ ordered by account ID
 - [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>: borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
 - [Starbrite](https://www1.flightrising.com/clan-profile/325229):
 	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
-	- <b>[unnamed Cirrus siblings]</b>---adopted, first Cirrus nest
+	- <b>[MJFriesian](https://www1.flightrising.com/dragon/103878580)</b> & <b>[KrisShetlander](https://www1.flightrising.com/dragon/103878581)</b>---adopted, first Cirrus nest
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988):
 	- <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery

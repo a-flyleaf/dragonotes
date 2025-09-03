@@ -2792,6 +2792,32 @@
     hatch: 2025-05-25
     hibern: 2025-07-01
   cat: [lore,"525"]
+- nm: ElricAugury
+  id: 103088848
+  element: fire
+  sex: m
+  breed: guardian
+  gen: 1
+  lvl: 25
+  msr:
+    length: 16.87
+    wings: 11.59
+    weight: 9422.2
+  genes:
+    pri:
+      clr: cherry
+      gn: chorus
+    sec:
+      clr: overcast
+      gn: flair
+    tert:
+      clr: eldritch
+      gn: okapi
+    eye: unusual
+  dates:
+    hatch: 2025-05-25
+    hibern: 2025-09-01
+  cat: [lore,"525"]
 # [other 5/25 hatches/acquisitions (some may have come in later!)]
 - nm: MarienSparkskull 
   id: 103085464
@@ -2822,5 +2848,5 @@
   cat: [lore,"525"]
 # 6/17 Poltergeist
 # 7/03 shadownoc
-# 7/08 [Cirrus siblings]
-# 7/28 [Bharlowe]
+# 7/08 MJFriesian & KrisShetlander
+# 7/28 Bharlowe
