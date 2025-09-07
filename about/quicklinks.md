@@ -44,7 +44,7 @@ venue | vista | scene | familiars
 ---|---
 Training Fields | ++ | ✗ | ~~✓~~
 Woodland Path | ✗ | ~~✓~~ | <b>Flying Fawn, Winter Glade Lord</b>
-Scorched Forest | + | ~~✓~~ | ~~✓~~
+Scorched Forest | + | + | ~~✓~~
 Boneyard | ✗ | [N/A] | Bloodfang Hunter, Bloodfang Watcher, Boneblade Knight, Boneseeker, Boneyard Omen, Carcass Custodian, Murder Cage, Oilslick Cockatrice, Spinal Sorcerer, Spinesword Warden
 Sandswept Delta | + | ✗ | <b>Dusk Fuiran</b>
 Silk-Strewn Wreckage | + | ~~✓~~ | Climbing Catercroak, Velvet Buttersnake
