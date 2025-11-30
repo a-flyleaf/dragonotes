@@ -157,11 +157,12 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
 		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="9">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
+		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td>Witchling</td></tr>
 		<tr><td>02</td><td>05</td><td>Frog</td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury,</s> [arcanemir] <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury,</s> [Picaro] <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
-		<tr><td>06</td><td>17</td><td>Poltergeist</td></tr>
+		<tr><td rowspan="2">06</td><td>06</td><td>Anais</td></tr>
+		<td>17</td><td>Poltergeist</td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td>Bharlowe</td></tr>
@@ -185,6 +186,7 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
 - [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716): those not resold are [ElricAugury](https://www1.flightrising.com/dragon/103088848) [and WIPs]
+- [two](https://www1.flightrising.com/dragon/106592160) [thorntails](https://www1.flightrising.com/dragon/106592161): clanbound breed release eggs, given away to [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
 
 ### breed release lizards
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
@@ -216,7 +218,9 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
 	- same weird boat as dusthides
 - [2025 May: <i>Cirrus</i>](https://www1.flightrising.com/forums/ann/3416129) - no release freebies
-	- [as of writing (end of June) I still don't have one, dang.]
+	- eventually acquired two wrestlehorses (see below)
+	- from this point on I started keeping fodder pairs, so I'll have at least 1 of every breed Around as soon as they hit fodder prices!
+- [2025 November: <b>Thorntail</b>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
 
 ### dragos with frembs :>
 ordered by account ID

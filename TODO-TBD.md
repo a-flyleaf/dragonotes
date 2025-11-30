@@ -30,10 +30,3 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
 
 +**radijacija** also has a wip outfit now
-
-# 2025-11-30
-looots of updates since last uhh
-- Thorntails!
-- quicklinks:
-	- permas since radijacija
-	- Thorntail eggs given away
