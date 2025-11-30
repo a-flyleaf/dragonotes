@@ -40,7 +40,6 @@ looots of updates since last uhh
 - **imgur sweep**:
 	- [idc about the .txt files, those are just for me anyway]
 	- badges...? idk I've only reuploaded the *broken*-broken ones
-	- biomaker, onsite bios by extension
 	- v0, reupload
 		- /clan-roster-test
 		- /dragonsizes
@@ -51,7 +50,4 @@ looots of updates since last uhh
 		- /scries
 		- /ve-template
 		- /viral-evolution
-	- v1/lore/profile.html
-	- v2/about
-	- posts/2022 lair revival
-	- 
+	- v1/lore/profile.html (reupload or leave as-is?)

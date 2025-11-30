@@ -9,7 +9,7 @@ Hello! Around Flight Rising I call myself Archaeoraptor, and I'm a nerd on the i
 
 I've been on Flight Rising since 2015, on and off; sometimes I'm on all day erry day, sometimes I practically forget FR exists. But unlike many other petsites I've tried, dragon hell keeps me coming back, and I don't plan on leaving for good any time soon. Long live the pixel lizards!
 
-<center><a href="https://www1.flightrising.com/dragon/26634365"><img src="https://i.imgur.com/Nucy53v.png" alt=""/></a></center>
+<center><a href="https://www1.flightrising.com/dragon/26634365"><img src="{%include url.html%}/assets/img/art/2022-03-29.png" alt=""/></a></center>
 
 ## gameplay notes
 This info is usually on my clan profile in some form, but to expand on it:

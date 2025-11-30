@@ -7,7 +7,7 @@ css: hr{background:0; margin:0; height:1.5em;}
 ---
 Oh geez, even slapping the word "project" on this makes it feel Official and Formal™. We can't have that, though; that way perfectionism paralysis lies. So let's do away with it from the getgo, shall we?<!--more-->
 
-<center><a href="https://www1.flightrising.com/dragon/26634365"><img src="https://i.imgur.com/Nucy53v.png" alt=""/></a></center><!--jesus look at me using this deprecated HTML tag. but I don't feel like coding a whole new layout right now so might as well stick with the spirit of outdatedness-->
+<center><a href="https://www1.flightrising.com/dragon/26634365"><img src="{%include url.html%}/assets/img/art/2022-03-29.png" alt=""/></a></center><!--jesus look at me using this deprecated HTML tag. but I don't feel like coding a whole new layout right now so might as well stick with the spirit of outdatedness--><!--[2025-11-30] we Will nuke the imgur, tho. amnesty-->
 
 <em style="text-transform:uppercase;font-style:normal;">Howdy.</em> I am Archaeoraptor and I have been on Flight&nbsp;Rising since April 2015, which is over 7&nbsp;years now and also kind of insane. I've been writing some form of lore from the getgo, initially through blog posts (since [archived, albeit in a very disorganized manner that lost the tag order and also awkwardly combines it with non-FR sideblogs](https://nightauctor.wordpress.com/)) always through dragon bios directly with varying levels of outdated-ness, and more recently [through the forums](https://www1.flightrising.com/forums/qnc/3072455). When I made this website in 2019, part of my initial objectives were to make a big ol' lore wiki-section, so everything could finally be "organized" in one place.
 
@@ -26,7 +26,7 @@ I'm still a sentimental sucker, though. So when [the Hibernal Den update](https:
 Meanwhile I just keep accumulating new dragons, sometimes (probably often) retreading old lore ground, and... I mean, there's nothing *wrong* with that. But eh, insert personal philosophy tangent here, for various reasons I think right now I'd rather focus more on the dragons I have *now* than keep scraping up new ones. Love what you have because the "<em style="text-transform:uppercase;font-style:normal;">moar</em>" impulse never dies, or something. Doesn't mean I will *never have another dragon again*, but... 50+?!??
 
 ----
-<center><a href="https://www1.flightrising.com/forums/qnc/3072455/6#post_49539093"><img src="https://i.imgur.com/TwRykWz.png" alt=""/></a></center>
+<center><a href="https://www1.flightrising.com/forums/qnc/3072455/6#post_49539093"><img src="{%include url.html%}/assets/img/art/2021-11-15.png" alt=""/></a></center>
 
 Anyway, I think this would also be really interesting for lore reasons; (re)develop those characters, make new connections, all that stuff. I'm fine with archetypes overlapping (lord knows I have multiple angsty nomads) but they should have *something* distinct to 'em.
 
