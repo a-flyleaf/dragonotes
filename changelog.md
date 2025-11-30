@@ -67,3 +67,5 @@ Only noting significant changes/additions; little things get tweaked a lot more.
 	- biomaker done
 	- remembered this page exists again
 	- added old codes (v0)
+- 8/21 deleted redundant old codes (v0)
+- 11/30 imgur purge (mostly v0, some other old pages)
