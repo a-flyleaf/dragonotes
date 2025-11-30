@@ -17,7 +17,7 @@ nav a {color: #650000; font-weight: bold;} nav ul {list-style-type: none; margin
 footer {font-size: .688rem; text-align: center; padding: .5rem; line-height: 175%; border-top: 5rem solid #731d08;} footer span {display: block; padding: .25rem 0;}
 
 @media only screen and (min-width: 550px) {
-  body {background: url(https://i.imgur.com/D0pNu5o.png) top center no-repeat; background-color: #000;}
+  body {background: url(https://i.postimg.cc/mBgbBPqN/layout-background.png) top center no-repeat; background-color: #000;}
   #wrapper {border: 1px solid #000;}
   header {border-bottom: 2rem solid #731d08; text-align: left;} header img {width: 25%;}
   aside, #main {display: inline-block; vertical-align: top;} aside {height: 100%; width: 25%;} #main {width: 75%;}
