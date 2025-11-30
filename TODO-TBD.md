@@ -30,3 +30,28 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
 
 +**radijacija** also has a wip outfit now
+
+# 2025-11-30
+looots of updates since last uhh
+- Thorntails!
+- quicklinks:
+	- permas since radijacija
+	- Thorntail eggs given away
+- **imgur sweep**:
+	- [idc about the .txt files, those are just for me anyway]
+	- badges...? idk I've only reuploaded the *broken*-broken ones
+	- biomaker, onsite bios by extension
+	- v0, reupload
+		- /clan-roster-test
+		- /dragonsizes
+		- /fr-lookalike
+		- /fr.css (site bg)
+		- /here-there-be-dragons
+		- /profile.html
+		- /scries
+		- /ve-template
+		- /viral-evolution
+	- v1/lore/profile.html
+	- v2/about
+	- posts/2022 lair revival
+	- 
