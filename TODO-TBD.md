@@ -21,6 +21,9 @@ trawl gdocs for stuff I can mirror here
 # 2025-08-13
 scour the game database for those v0/viral-evolution accent links maybe...? idek if I still have the original edit files on my computer. probably maaaaybe somewhere but I was almost definitely not in the habit of saving urls directly in the layer names. hmm
 
+# 2025-09-23
+random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
