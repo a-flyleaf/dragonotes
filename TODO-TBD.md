@@ -35,5 +35,3 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 - might've obtained and/or hibernated some dergs through the months that aren't noted here yet, hmm.
 - today: hibernated Poltergeist & Witchling
 
-# 2026-02-11
-> https://a-flyleaf.github.io/dragonotes/v0/viral-evolution ok. let’s try this again. *scroll down* and the images are broke
