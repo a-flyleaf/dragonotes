@@ -24,11 +24,6 @@ scour the game database for those v0/viral-evolution accent links maybe...? idek
 # 2025-09-23
 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
 
-# 2026-04-19
-[4/17] hibernated Frog, MJF, KrisShetlander, ArchibaldXI
-	- un-hibernated the cirruses today lol. nvm!
-https://www1.flightrising.com/forums/frd/3446267/3#post_59845392 < neat note re:skipped dragon breed id (vigils fill it now I think)
-
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
