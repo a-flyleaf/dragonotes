@@ -24,6 +24,32 @@ scour the game database for those v0/viral-evolution accent links maybe...? idek
 # 2025-09-23
 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
 
+# 2026-04-19
+**bio-specific images to re-host**:
+- Maelstrom
+- Altostratus
+- Pestilence
+- Drosera
+- Schism
+- Skiptrace
+- Galena (needs a new bio in general)
+- rothide (^)
+- Midst (^)
+- Comet (^)
+- Amaranta (^)
+- Iko ^
+- Andante ^ +crop it bls
+- Hestia ^^
+- Jester ^^
+- Staccato
+- Miami (did not edit, p suve it's shavpened)
+- Miasma (no edit, not upscaled)
+- Mallow
+- Koirin
+- LethalTriplicate
+- dashcon
+- Ascher
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done

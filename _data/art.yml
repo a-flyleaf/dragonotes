@@ -250,7 +250,7 @@
   dr: Midst
   by:
     fr: 566959
-    nm: Ilidragon
+    nm: Interlunation
 
 - dt: 2021-10-19
   dr: Burin
@@ -460,6 +460,15 @@
     fr: 716005
     nm: Axcidel
 # via ArtFight!
+
+- dt: 2025-08-17
+  ver:
+    - nm: big
+    - nm: smol
+  dr: Amaranta
+  by:
+    fr: 501617
+    nm: Popvip
 
 - dt: 2025-08-21
   dr: Skiptrace
