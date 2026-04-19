@@ -210,12 +210,14 @@
   by:
     fr: 154165
     nm: Rosaceae
+
 - dt: 2020-01-29
-#      based on imgur upload date https://i.imgur.com/fvd7qrQ.png
-   dr: Poltergeist
-   by:
-     fr: 283748
-     nm: nm8426
+#     based on imgur upload date https://i.imgur.com/fvd7qrQ.png
+  dr: Poltergeist
+  by:
+    fr: 283748
+    nm: nm8426
+
 - dt: 2020-06-12
   dr: Altostratus
   by:
@@ -437,19 +439,21 @@
   by:
     fr: 196564
     nm: byrdbryn
+
 - dt: 2025-06-17
-#      based on imgur upload date https://i.imgur.com/Is1ufXj.png
-   dr: Poltergeist
-   by:
-     fr: 342988
-     nm: PricklyGoose
+#     based on imgur upload date https://i.imgur.com/Is1ufXj.png
+  dr: Poltergeist
+  by:
+    fr: 342988
+    nm: PricklyGoose
 # unsure which of these two came first; ordered here as in bio
 - dt: 2025-06-17
-#      based on imgur upload date https://i.imgur.com/tGjOFmW.png
-   dr: Poltergeist
-   by:
-     fr: 410459
-     nm: PlagueDoc
+#     based on imgur upload date https://i.imgur.com/tGjOFmW.png
+  dr: Poltergeist
+  by:
+    fr: 410459
+    nm: PlagueDoc
+
 - dt: 2025-07-07
   dr: PompomOverture
   by:
