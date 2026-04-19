@@ -1,4 +1,5 @@
 # follows the IDs in the defeated coli images, https://flightrising.com/images/cms/breeds/##/coli_defeated.png
+# in the event of skipped ids: https://www1.flightrising.com/forums/permalink/reply/59845392
 - nm: fae
   id: 1
   typ: modern
@@ -80,7 +81,9 @@
 - nm: cirrus
   id: 27
   typ: ancient
-# 28 got skipped :eyes:
+- nm: vigil
+  id: 28
+  typ: ancient
 - nm: thorntail
   id: 29
   typ: ancient

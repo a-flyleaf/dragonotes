@@ -35,10 +35,7 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 - might've obtained and/or hibernated some dergs through the months that aren't noted here yet, hmm.
 - today: hibernated Poltergeist & Witchling
 
-# 2026-03-16
-add v0 to the index?
-
 # 2026-04-19
 [4/17] hibernated Frog, MJF, KrisShetlander, ArchibaldXI
-	- un-hibernated the cirruses today lol
+	- un-hibernated the cirruses today lol. nvm!
 https://www1.flightrising.com/forums/frd/3446267/3#post_59845392 < neat note re:skipped dragon breed id (vigils fill it now I think)
