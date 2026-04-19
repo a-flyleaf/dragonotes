@@ -26,29 +26,19 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 # 2026-04-19
 **bio-specific images to re-host**:
-- Maelstrom
-- Altostratus
-- Pestilence
-- Drosera
-- Schism
-- Skiptrace
-- Galena (needs a new bio in general)
-- rothide (^)
-- Midst (^)
-- Comet (^)
-- Amaranta (^)
-- Iko ^
-- Andante ^ +crop it bls
-- Hestia ^^
-- Jester ^^
-- Staccato
-- Miami (did not edit, p suve it's shavpened)
-- Miasma (no edit, not upscaled)
-- Mallow
-- Koirin
-- LethalTriplicate
+/ Pestilence
+/ Drosera
+- Comet
+- Amaranta
+- Iko
+- Hestia
+/ Staccato
+/ Miami
+-/ Miasma
+/ Mallow (see /oldver)
+/ Koirin
 - dashcon
-- Ascher
+
 
 
 [keep this at the bottom:]
