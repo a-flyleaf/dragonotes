@@ -1732,7 +1732,6 @@
     obtain: 2021-11-07
     hibern: 2025-05-25
   cat: [lore]
-#
 - nm: Zachariah
   id: 73694266
   element: plague
@@ -2765,7 +2764,64 @@
     hatch: 2024-12-16
     hibern: 2025-05-25
   cat: [nolore]
-# Witchling, Frog, DarklandDisciple
+- nm: Witchling
+  id: 100170451
+  element: water
+  sex: m
+  breed: fae
+  gen: 1
+  lvl: 25
+  msr:
+    length: 0.53
+    wings: 1.59
+    weight: 1.35
+  genes:
+    pri:
+      clr: lead
+      gn: swirl
+    sec:
+      clr: orchid
+      gn: weaver
+    tert:
+      clr: maize
+      gn: firebreather
+    eye: faded
+  dates:
+    hatch: 2025-01-01
+    obtain: 2025-01-07
+    hibern: 2025-12-24
+  cat: [lore]
+- nm: Frog
+  id: 100999827
+  element: ice
+  sex: f
+  breed: obelisk
+  lvl: 25
+  stats:
+    bld: no kelp needed
+    lnk: gde/3320928
+    by: Teletraan
+    id: 48122
+  msr:
+    length: 10.57
+    wings: 17.89
+    weight: 6767.67
+  genes:
+    pri:
+      clr: cinnamon
+      gn: pinstripe
+    sec:
+      clr: umber
+      gn: myrid
+    tert:
+      clr: ruby
+      gn: soap
+    eye: primal
+  dates:
+    hatch: 2025-01-09
+    hibern: 2026-04-17
+  cat: [nolore]
+# DarklandDisciple
 - nm: AdelineLightjaw
   id: 103077027
   element: light
@@ -2847,8 +2903,58 @@
     hibern: 2025-08-01
   cat: [lore,"525"]
 # 6/06 Anais
-# 6/17 Poltergeist
+- nm: Poltergeist
+  id: 50297105
+  element: ice
+  sex: m
+  breed: spiral
+  lvl: 25
+  msr:
+    length: 3.63
+    wings: 2.58
+    weight: 86.47
+  genes:
+    pri:
+      clr: denim
+      gn: starmap
+    sec:
+      clr: phthalo
+      gn: bee
+    tert:
+      clr: ice
+      gn: ghost
+    eye: swirl
+  dates:
+    hatch: 2019-03-20
+    obtain: 2025-06-17
+    hibern: 2025-12-24
+  cat: [nolore]
 # 7/03 shadownoc
 # 7/08 MJFriesian & KrisShetlander
 # 7/28 Bharlowe
 # 9/29 Alien
+- nm: ArchibaldXI
+  id: 106349614
+  element: lightning
+  sex: m
+  breed: dusthide
+  msr:
+    length: 1.5
+    wings: 1.78
+    weight: 32.77
+  genes:
+    pri:
+      clr: overcast
+      gn: display
+    sec:
+      clr: ivory
+      gn: blaze
+    tert:
+      clr: blue
+      gn: topcoat
+    eye: unusual
+  dates:
+    hatch: 2025-11-17
+    hibern: 2026-04-17
+  cat: [nolore]
+# 2026/4/17 vigil duo
