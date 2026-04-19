@@ -26,17 +26,12 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 # 2026-04-19
 **bio-specific images to re-host**:
-/ Pestilence
-/ Drosera
 - Comet
 - Amaranta
 - Iko
 - Hestia
-/ Staccato
-/ Miami
--/ Miasma
-/ Mallow (see /oldver)
-/ Koirin
+- Miasma
+/ Mallow
 - dashcon
 
 

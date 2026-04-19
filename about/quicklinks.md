@@ -110,7 +110,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>06</td><td><s>Katsura</s></td></tr>
 		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
-		<tr><td>05</td><td>28</td><td><s>Miasma</s></td></tr>
+		<tr><td>05</td><td>28</td><td><s>MiasmaSky</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
