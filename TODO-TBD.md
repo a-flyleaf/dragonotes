@@ -25,15 +25,16 @@ scour the game database for those v0/viral-evolution accent links maybe...? idek
 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
 
 # 2026-04-19
-**bio-specific images to re-host**:
-- Comet
-- Amaranta
-- Iko
-- Hestia
-- Miasma
+**bio fixing**
+- Comet (imgur vista edit & side graphic)
+- Amaranta (imgur side graphic)
+- Iko (old bio broke)
+- Hestia (old bio broke)
+- Miasma (imgur banner graphic)
 / Mallow
-- dashcon
+- dashcon (imgur ballpit)
 
+any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
 
 
 [keep this at the bottom:]
