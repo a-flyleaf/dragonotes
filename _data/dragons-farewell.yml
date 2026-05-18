@@ -482,6 +482,31 @@
     vista: 0
     scene: 0
   cat: [lore,baneclan]
+- nm: Radijacija
+  id: 99700824
+  element: plague
+  sex: f
+  breed: imperial
+  msr:
+    length: 30.27
+    wings: 21.7
+    weight: 9144.1
+  genes:
+    pri:
+      clr: sable
+      gn: pharaoh
+    sec:
+      clr: berry
+      gn: lode
+    tert:
+      clr: rust
+      gn: runes
+    eye: primal
+  dates:
+    hatch: 2024-12-16
+    hibern: 2025-05-25
+    farewell: 2026-05-11
+  cat: [nolore]
 - nm: Koirin
   id: 72694252
   element: lightning
