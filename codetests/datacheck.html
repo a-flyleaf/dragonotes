@@ -296,6 +296,21 @@ layout: none
 		</table>
 	</details>
 	</section>
+	
+	<hr>
+	
+	<section><h2>2026-archive</h2>
+		<details><summary>pre-clearout archive.is links</summary><table>
+			<thead><tr>
+				<th>nm</th>
+				<th>ac</th>
+			</tr></thead>
+			<tbody>{%for a in site.data.2026-archive%}<tr class="{%cycle 'odd','even'%}">
+				<td>{{a.nm}}</td>
+				<td><a href="{{a.ac}}">{{a.ac}}</a></td>
+			</tr>{%endfor%}</tbody>
+		</table></details>
+	</section>
 
 <!--TEMPLATE
 		<table>
