@@ -1019,46 +1019,6 @@
     vista: 0
     scene: 0
   cat: [lore,baneclan]
-- nm: Hestia
-  id: 46487059
-  element: fire
-  sex: f
-  breed: wildclaw
-  gen: 1
-  lvl: 25
-  stats:
-    bld: unknown
-  msr:
-    length: 6.25
-    wings: 9.28
-    weight: 387.92
-  genes:
-    pri:
-      num: 145
-      clr: brown
-      gn: python
-    sec:
-      num: 112
-      clr: gold
-      gn: bee
-    tert:
-      num: 2
-      clr: cream
-      gn: spines
-    eye: rare
-  dates:
-    hatch: 2018-10-31
-    obtain: 2019-12-08
-    hibern: 2020-01-12
-  has:
-    familiar: Wasteland Collector
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 0
-  cat: [lore]
 - nm: Holly
   id: 57441139
   element: ice
@@ -1095,41 +1055,6 @@
     vista: 0
     scene: 1
   cat: [lore]
-- nm: Glissando
-  id: 57589801
-  element: water
-  sex: m
-  breed: banescale
-  gen: 1
-  lvl: 25
-  msr:
-    length: 4.85
-    wings: 8.16
-    weight: 648.12
-  genes:
-    pri:
-      num: 97
-      clr: crocodile
-      gn: ragged
-    sec:
-      num: 45
-      clr: indigo
-      gn: alloy
-    tert:
-      num: 138
-      clr: clay
-      gn: fans
-    eye: uncommon
-  dates:
-    hatch: 2019-12-14
-    obtain: 2019-12-16
-    hibern: 2021-01-21
-  has:
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [lore,baneclan]
 - nm: Contralto
   id: 57364249
   element: fire
@@ -1628,43 +1553,6 @@
     art: 1
     vista: 0
     scene: 0
-  cat: [lore]
-- nm: Koirin
-  id: 72694252
-  element: lightning
-  sex: m
-  breed: spiral
-  msr:
-    length: 3.01
-    wings: 2.42
-    weight: 67.04
-  genes:
-    pri:
-      num: 23
-      clr: midnight
-      gn: skink
-    sec:
-      num: 23
-      clr: midnight
-      gn: alloy
-    tert:
-      num: 23
-      clr: midnight
-      gn: runes
-    eye: uncommon
-  dates:
-    hatch: 2021-09-29
-    obtain: 2021-10-31
-    hibern: 2021-12-21
-  has:
-    familiar: Whisper
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 0
-    broadcast: descendant familiar-wrangler
   cat: [lore]
 - nm: Axius
   id: 65038218
@@ -2587,79 +2475,6 @@
     hatch: 2024-06-14
     hibern: 2024-11-24
   cat: [lore]
-- nm: Dusk
-  id: 96501597
-  element: light
-  sex: m
-  breed: gaoler
-  msr:
-    length: 11.21
-    wings: 8.44
-    weight: 6232.97
-  genes:
-    pri:
-      clr: umber
-      gn: phantom
-    sec:
-      clr: smoke
-      gn: blend
-    tert:
-      clr: cinnamon
-      gn: thylacine
-    eye: uncommon
-  dates:
-    hatch: 2024-06-16
-    obtain: 2024-07-16
-    hibern: 2024-10-30
-  cat: [nolore]
-- nm: Kaema
-  id: 97637452
-  element: plague
-  sex: m
-  breed: tundra
-  msr:
-    length: 2.79
-    wings: 4.5
-    weight: 267.52
-  genes:
-    pri:
-      clr: obsidian
-      gn: chrysocolla
-    sec:
-      clr: berry
-      gn: paint
-    tert:
-      clr: black
-      gn: thylacine
-    eye: uncommon
-  dates:
-    hatch: 2024-09-08
-    hibern: 2025-05-25
-  cat: [nolore]
-- nm: Mehdiz
-  id: 97737530
-  element: plague
-  sex: f
-  breed: guardian
-  msr:
-    length: 15.72
-    wings: 17.41
-    weight: 9881.24
-  genes:
-    pri:
-      clr: obsidian
-      gn: lionfish
-    sec:
-      clr: strawberry
-      gn: alloy
-    tert:
-      clr: obsidian
-      gn: peacock
-    eye: uncommon
-  dates:
-    hatch: 2024-09-13
-    hibern: 2025-05-25
-  cat: [nolore]
 - nm: KasnijeOpet
   id: 76793255
   element: fire

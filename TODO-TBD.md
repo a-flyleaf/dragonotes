@@ -29,9 +29,7 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 - Comet (imgur vista edit & side graphic)
 - Amaranta (imgur side graphic)
 - Iko (old bio broke)
-- Hestia (old bio broke)
 - Miasma (imgur banner graphic)
-/ Mallow
 - dashcon (imgur ballpit)
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
@@ -43,5 +41,3 @@ add 2026-archive to the datacheck page (dw about integrating it or anything rn)
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
 	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
-
-+**radijacija** also has a wip outfit now

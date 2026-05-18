@@ -99,9 +99,9 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="8">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td>11</td><td>08</td><td><s>Iko</s></td></tr>
-		<tr><td rowspan="5">12</td><td>09</td><td><s>Andante, Vivace, Hestia</s></td></tr>
+		<tr><td rowspan="5">12</td><td>09</td><td><s>Andante, Vivace</s></td></tr>
 		<tr><td>11</td><td><s>Holly</s></td></tr>
-		<tr><td>16</td><td><s>Glissando, Contralto</s></td></tr>
+		<tr><td>16</td><td><s>Contralto</s></td></tr>
 		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
@@ -114,11 +114,10 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
 		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="9">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
+		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td><s>Seafoam</s></td></tr>
 		<tr><td>21</td><td><s>Fissure</s></td></tr>
-		<tr><td rowspan="2">10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
-		<tr><td>31</td><td><s>Koirin</s></td></tr>
+		<tr><td>10</td><td>26</td><td><s>CabochonLuster</s></td></tr>
 		<tr><td rowspan="4">11</td><td>03</td><td><s>Axius</s></td></tr>
 		<tr><td>11</td><td><s>LethalTriplicate</s></td></tr>
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
@@ -146,30 +145,26 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">12</td><td>07</td><td><s>Lylas</s></td></tr>
 		<tr><td>24</td><td><s>Sretno</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="10">2024</td><td>05</td><td>09</td><td><s>Leopold</s></td></tr>
+		<tr><td rowspan="6">2024</td><td>05</td><td>09</td><td><s>Leopold</s></td></tr>
 		<tr><td>06</td><td>14</td><td><s>Squid, Honse</s></td></tr>
-		<tr><td>07</td><td>16</td><td><s>Dusk</s></td></tr>
-		<tr><td rowspan="2">09</td><td>08</td><td><s>Kaema</s></td></tr>
-		<tr><td>13</td><td><s>Mehdiz</s></td></tr>
 		<tr><td rowspan="3">10</td><td>03</td><td><s>KasnijeOpet</s></td></tr>
 		<tr><td>06</td><td><s>PompomOverture</s></td></tr>
 		<tr><td>12</td><td>Archibald</td></tr>
 		<tr><td>11</td><td>03</td><td><s>Second</s></td></tr>
-		<tr><td>12</td><td>16</td><td><s>Radiacija</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="11">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
+		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury,</s> [Picaro] <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury,</s> PicaroCaravan <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
-		<tr><td rowspan="2">06</td><td>06</td><td>Anais</td></tr>
-		<tr><td>17</td><td><s>Poltergeist</s></td></tr>
+		<tr><td>06</td><td>17</td><td><s>Poltergeist</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td>Bharlowe</td></tr>
 		<tr><td>09</td><td>29</td><td>Alien</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td>2026</td><td>04</td><td>17</td><td>[vigils]</td></tr>
+		<tr><td rowspan="2">2026</td><td>04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
+		<tr><td>04</td><td>23</td><td>[Anais x Radijacija]</td></tr>
 	</tbody>
 </table>
 
@@ -188,26 +183,25 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 - [[unnamed]](https://www1.flightrising.com/dragon/76895138): prize from Spite the Sprite, a Plague in-flight program; never figured out what to do with & re-gifted
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
-- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716): those not resold are [ElricAugury](https://www1.flightrising.com/dragon/103088848) [and WIPs]
+- [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716): only [ElricAugury](https://www1.flightrising.com/dragon/103088848) and [PicaroCaravan](https://www1.flightrising.com/dragon/103088869) weren't sold
 - [two](https://www1.flightrising.com/dragon/106592160) [thorntails](https://www1.flightrising.com/dragon/106592161): clanbound breed release eggs, given away to [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
-- [two](https://www1.flightrising.com/dragon/109230622) [vigils](https://www1.flightrising.com/dragon/109230624): [keeping, WIP!]
 
 ### breed release lizards
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
 - [2016 September: <i>Bogsneak</i>](http://www1.flightrising.com/forums/ann/1980784) - didn't brew an egg
 	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
 - [2019 June: <i>Gaoler</i>](https://www1.flightrising.com/forums/ann/2694544) - no release freebies
-	- have had multiple non-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and more recently [Dusk](https://www1.flightrising.com/dragon/96501597) (from a friend)
+	- have had multiple non-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and [Dusk](https://www1.flightrising.com/dragon/96501597) (gifted & re-gifted)
 - [2019 December: <b>Banescale</b>](http://www1.flightrising.com/forums/ann/2788016) - hatched [Andante](https://www1.flightrising.com/dragon/57362847) & [Vivace](https://www1.flightrising.com/dragon/57362941)!
-	- collected other release day G1s for a while there; heck if I can track them all down again
+	- collected other release day G1s for a while there; most have since left my lair
 - [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
 	- I have a small handful now :>
 - [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
-	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) has since become the token obe, [Drosera](https://www1.flightrising.com/dragon/12989339) breed change is on the table
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) and later [Drosera](https://www1.flightrising.com/dragon/12989339) were breed-changed
 - [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
-	- have since acquired multiple abs
+	- have since acquired multiple abers
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
-	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide bc permabab...
+	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide....
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
@@ -220,12 +214,13 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
 	- [Skiptrace](https://www1.flightrising.com/dragon/14639592) got breed-changed
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
-	- same weird boat as dusthides
+	- same indefinite limbo as dusthides
 - [2025 May: <i>Cirrus</i>](https://www1.flightrising.com/forums/ann/3416129) - no release freebies
 	- eventually acquired two wrestlehorses (see below)
 	- from this point on I started keeping fodder pairs, so I'll have at least 1 of every breed Around as soon as they hit fodder prices!
-- [2025 November: <b>Thorntail</b>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
-- [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [[guy1]](https://www1.flightrising.com/dragon/109230622) & [[guy2]](https://www1.flightrising.com/dragon/109230624)
+- [2025 November: <i>Thorntail</i>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
+	- might do a breed change or two eventually
+- [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [SwampsandRequiem](https://www1.flightrising.com/dragon/109230622) & [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 
 ### dragos with frembs :>
 ordered by account ID
