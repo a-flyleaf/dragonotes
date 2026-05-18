@@ -36,6 +36,9 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
 
+# 2026-04-21
+add 2026-archive to the datacheck page (dw about integrating it or anything rn)
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
