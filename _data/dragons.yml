@@ -122,8 +122,6 @@
     hibern: 2019-03-13
   cat: [lore,virevo]
 
-# new pages left off here
-
 - nm: Pestilence
   id: 13483458
   element: plague
@@ -169,24 +167,21 @@
   id: 12989339
   element: nature
   sex: f
-  breed: mirror
+  breed: obelisk
   msr:
-    length: 6.33
-    wings: 4.83
-    weight: 515.33
+    length: 13.39
+    wings: 15.08
+    weight: 5707.4
   genes:
     pri:
-      num: 82
       clr: forest
-      gn: ripple
+      gn: pinstripe
     sec:
-      num: 134
       clr: slate
-      gn: daub
+      gn: alloy
     tert:
-      num: 87
       clr: green
-      gn: crackle
+      gn: firebreather
   dates:
     hatch: 2015-05-08
     obtain: 2015-05-25
@@ -200,6 +195,22 @@
     vista: 1
     scene: 0
     broadcast: first (and only) flight rep
+  prev: 
+    breed: mirror
+    msr:
+      length: 6.33
+      wings: 4.83
+      weight: 515.33
+    genes:
+      pri:
+        clr: forest
+        gn: ripple
+      sec:
+        clr: slate
+        gn: daub
+      tert:
+        clr: green
+        gn: crackle
   cat: [lore]
 - nm: Schism
   id: 12788530
