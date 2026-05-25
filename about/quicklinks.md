@@ -92,8 +92,7 @@ gray = hibernating; ! = date obtained not noted
 	</tbody>
 	<tbody><tr><td>2017</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
 	<tbody>
-		<tr><td rowspan="3">2018</td><td rowspan="2">03</td><td>15</td><td><s>Raizel</s></td></tr>
-		<tr><td>16</td><td><s>Midst</s></td></tr>
+		<tr><td rowspan="2">2018</td><td>03</td><td>16</td><td><s>Midst</s></td></tr>
 		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="7">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
@@ -153,7 +152,7 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan</s> <i>[and other keepers from the <a href="https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716">elemental hatch batch</a>]</i></td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan</s>, [Vertex]</td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td><s>Poltergeist</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
@@ -233,7 +232,7 @@ ordered by account ID
 	- <b>[Alien](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, taken in after a glimpse
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988):
-	- <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
+	- [Raizel](https://www1.flightrising.com/dragon/40109738)---bred in (since-closed) hatchery. rehomed!
 	- <b>[Poltergeist](https://www1.flightrising.com/dragon/50297105)</b>---former perma
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset

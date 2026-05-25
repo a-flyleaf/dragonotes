@@ -659,3 +659,40 @@
     scene: 0
     broadcast: conspicuous “healer”
   cat: [lore]
+- nm: Raizel
+  id: 40109738
+  element: lightning
+  sex: f
+  breed: skydancer
+  msr:
+    length: 3.25
+    wings: 5.3
+    weight: 405.79
+  genes:
+    pri:
+      num: 156
+      clr: sanguine
+      gn: wasp
+    sec:
+      num: 163
+      clr: carmine
+      gn: butterfly
+    tert:
+      num: 156
+      clr: sanguine
+      gn: runes
+  dates:
+    hatch: 2018-03-14
+    obtain: 2018-03-15
+    hibern: 2019-12-11
+    farewell: 2026-05-25
+  has:
+    familiar: Stormcloud Harpy
+    apparel: 1
+    accent: 0
+    bio: "~"
+    art: 1
+    vista: 1
+    scene: 0
+    broadcast: haughty bartender
+  cat: [lore]
