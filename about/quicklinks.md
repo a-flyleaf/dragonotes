@@ -96,13 +96,12 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>16</td><td><s>Midst</s></td></tr>
 		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="8">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
+		<tr><td rowspan="7">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
 		<tr><td>11</td><td>08</td><td><s>Iko</s></td></tr>
-		<tr><td rowspan="5">12</td><td>09</td><td><s>Andante, Vivace</s></td></tr>
+		<tr><td rowspan="4">12</td><td>09</td><td><s>Andante, Vivace</s></td></tr>
 		<tr><td>11</td><td><s>Holly</s></td></tr>
 		<tr><td>16</td><td><s>Contralto</s></td></tr>
-		<tr><td>18</td><td><s>Jester</s></td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="16">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>

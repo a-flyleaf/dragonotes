@@ -1100,43 +1100,6 @@
     vista: 0
     scene: 0
   cat: [lore,baneclan]
-- nm: Jester
-  id: 57606297
-  element: shadow
-  sex: m
-  breed: spiral
-  msr:
-    length: 3.92
-    wings: 2.46
-    weight: 66.25
-  genes:
-    pri:
-      num: 74
-      clr: jade
-      gn: iridescent
-    sec:
-      num: 74
-      clr: jade
-      gn: bee
-    tert:
-      num: 23
-      clr: midnight
-      gn: runes
-    eye: swirl
-  dates:
-    hatch: 2019-12-15
-    obtain: 2019-12-19
-    hibern: 2020-01-12
-  has:
-    familiar: Cursed Bat
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 1
-    scene: 0
-    broadcast: conspicuous “healer”
-  cat: [lore]
 - nm: Cygnus
   id: 57992771
   element: fire
