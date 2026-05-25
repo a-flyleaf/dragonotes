@@ -34,9 +34,6 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
 
-# 2026-05-18
-darkmode the index pages that aren't dark (about, v0/index)
-
 
 
 [keep this at the bottom:]

@@ -67,6 +67,11 @@ pages:
 		
 		footer{margin:1em 0;}
 		#date{font-style:italic; text-align:right;}
+		
+		@media (prefers-color-scheme:dark){
+			body{background:#202020; color:#efefef;}
+			a{color:#44c2f8;}
+		}
 	</style>
 </head><body>
 
@@ -76,7 +81,7 @@ pages:
 <ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}{%if p.url=='loredump'%}.txt{%endif%}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
 
 <footer>
-	<div id="date"><small>[2025-08-13]</small></div>
+	<div id="date"><small>[page created 2025-08-13. layout edited 2026-05-25]</small></div>
 	<a href="{%include url.html%}">← back to dragonotes index</a>
 </footer>
 </body></html>
