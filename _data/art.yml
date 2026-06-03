@@ -69,7 +69,7 @@
 - dt: 2020-05-11
   dr: Staccato
 - dt: 2020-06-01
-  dr: Miasma
+  dr: MiasmaSky
 - dt: 2021-10-11
 #     not the timestamp on the dA upload sending me on a wild "did I delete this fucking file" chase.... anyway the OG is in the 2021-10-11 sketchdump, and just got upscaled for dA. actual dragon bio uses the origial 500px resolution.
   dr: MiamiTriggerfish
@@ -123,6 +123,9 @@
   dr: ElricAugury
 - dt: 2026-05-25
   dr: PicaroCaravan
+- dt: 2016-05-28
+#     uses a base, see onsite bio
+  dr: Altostratus
 
 # /NOTMINE
 - dt: 2017-03-04
