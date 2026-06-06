@@ -1318,42 +1318,6 @@
     scene: 0
     broadcast: "suspicious “herbalist”"
   cat: [lore]
-- nm: Caspian
-  id: 61738246
-  element: water
-  sex: f
-  breed: wildclaw
-  msr:
-    length: 6.56
-    wings: 8.71
-    weight: 602.71
-  genes:
-    pri:
-      num: 52
-      clr: lapis
-      gn: lionfish
-    sec:
-      num: 55
-      clr: sky
-      gn: noxtide
-    tert:
-      num: 105
-      clr: yellow
-      gn: runes
-  dates:
-    hatch: 2020-06-01
-    obtain: 2020-06-11
-    hibern: 2022-03-06
-  has:
-    familiar: Highfin Sea Serpent
-    apparel: 1
-    accent: 1
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 1
-    broadcast: sociable sailor
-  cat: [lore]
 - nm: Mallow
   id: 66788485
   element: nature
@@ -2006,40 +1970,6 @@
     hatch: 2022-08-07
     obtain: 2022-08-18
     hibern: 2025-02-02
-  cat: [lore]
-- nm: Alcho
-  id: 81288642
-  element: plague
-  sex: f
-  breed: guardian
-  msr:
-    length: 14.87
-    wings: 20
-    weight: 10347.08
-  genes:
-    pri:
-      num: 13
-      clr: gloom
-      gn: savannah
-    sec:
-      num: 5
-      clr: moon
-      gn: striation
-    tert:
-      num: 58
-      clr: steel
-      gn: thylacine
-    eye: uncommon
-  dates:
-    hatch: 2022-10-07
-    hibern: 2022-12-22
-  has:
-    apparel: 1f
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
   cat: [lore]
 - nm: XxCaptnPlasmatog
   id: 84904477

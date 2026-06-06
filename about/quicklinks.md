@@ -103,14 +103,13 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>16</td><td><s>Contralto</s></td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="16">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
+		<tr><td rowspan="15">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
 		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td><s>Katsura</s></td></tr>
 		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
 		<tr><td>05</td><td>28</td><td><s>MiasmaSky</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
-		<tr><td>11</td><td><s>Caspian</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="8">2021</td><td>01</td><td>21</td><td><s>Mallow</s></td></tr>
 		<tr><td rowspan="2">06</td><td>17</td><td><s>Seafoam</s></td></tr>
@@ -121,7 +120,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="12">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
+		<tr><td rowspan="11">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
 		<tr><td>02</td><td>21</td><td><s>!Fred</s></td></tr>
 		<tr><td rowspan="3">03</td><td>07</td><td><s>Dmitri</s></td></tr>
@@ -132,7 +131,6 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>06</td><td>05</td><td><s>Ascher</s></td></tr>
 		<tr><td>07</td><td>07</td><td><s>Bokeh</s></td></tr>
 		<tr><td>08</td><td>18</td><td><s>Singularity</s></td></tr>
-		<tr><td>10</td><td>07</td><td><s>Alcho</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="8">2023</td><td>03</td><td>22</td><td><s>XxCaptnPlasmatog, FestiveFervor</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>TtrboneTchotchke</s></td></tr>
@@ -172,7 +170,7 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 
 ----
 
-<details markdown="1" open><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
+<details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
 
 ### all G1s I've hatched (to memory)
 (see below for breed release G1s)
