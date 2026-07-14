@@ -33,7 +33,8 @@ miscellaneous stuff for my own reference
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 - [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
 
-## coli checklist
+<details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline-block;">coli checklist [outdated]</h2></summary>
+
 bold = haven't completed the [long drop coli challenge](https://www1.flightrising.com/search/forums?term=&poster=Archaeoraptor&topicid=1971573&sort=recent) since the last [expansion](https://www1.flightrising.com/forums/gde/3053598/5#post_48869418)  
 underlined = boss
 
@@ -66,6 +67,8 @@ Ghostlight Ruins | ~~✓~~ | ✗ | <b><u>Disoriented Spirit</u></b>
 ~~Kelp Beds~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 ~~Golem Workshop~~ | ~~✓~~ | ~~✓~~ | ~~✓~~
 Forbidden Portal | ✗ | ✗ | <b>All-Seeing Eye, Barhide Menace, Giggling Planesrunner, Sparksylph, Spectre Wyvern, <u>Terror Toad</u></b>
+
+</details>
 
 ## dragon order
 
@@ -159,8 +162,10 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>09</td><td>29</td><td>Alien</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="2">2026</td><td>04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
+		<tr><td rowspan="4">2026</td><td>04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
 		<tr><td>04</td><td>23</td><td>[Anais x Radijacija]</td></tr>
+		<tr><td>06</td><td>24</td><td>CinnadustShading</td></tr>
+		<tr><td>07</td><td>06</td><td>Altair</td></tr>
 	</tbody>
 </table>
 

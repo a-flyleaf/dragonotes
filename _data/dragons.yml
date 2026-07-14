@@ -582,43 +582,6 @@
     scene: 0
     broadcast: "[TBA] first fodder breeder"
   cat: [other]
-- nm: Avi
-  id: 26634365
-  element: ice
-  sex: f
-  breed: wildclaw
-  lvl: 11
-  msr:
-    length: 7.16
-    wings: 8.71
-    weight: 604.68
-  genes:
-    pri:
-      num: 53
-      clr: splash
-      gn: poison
-    sec:
-      num: 23
-      clr: midnight
-      gn: toxin
-    tert:
-      num: 48
-      clr: cobalt
-      gn: thylacine
-  dates:
-    hatch: 2016-09-02
-    obtain: 2016-09-??
-    hibern: 2020-11-12
-  has:
-    familiar: Ragepuff
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 1
-    vista: 0
-    scene: 1
-    broadcast: "Ohai thar :V"
-  cat: [other]
 - nm: Eavn
   id: 31950543
   element: plague
@@ -2449,36 +2412,6 @@
     obtain: 2025-01-07
     hibern: 2025-12-24
   cat: [lore]
-- nm: Frog
-  id: 100999827
-  element: ice
-  sex: f
-  breed: obelisk
-  lvl: 25
-  stats:
-    bld: no kelp needed
-    lnk: gde/3320928
-    by: Teletraan
-    id: 48122
-  msr:
-    length: 10.57
-    wings: 17.89
-    weight: 6767.67
-  genes:
-    pri:
-      clr: cinnamon
-      gn: pinstripe
-    sec:
-      clr: umber
-      gn: myrid
-    tert:
-      clr: ruby
-      gn: soap
-    eye: primal
-  dates:
-    hatch: 2025-01-09
-    hibern: 2026-04-17
-  cat: [nolore]
 # DarklandDisciple
 - nm: AdelineLightjaw
   id: 103077027
@@ -2642,3 +2575,5 @@
   cat: [nolore]
 # 2026/4/17 vigil duo
 # 4/23 Anais x Radijacija hatch
+# 6/24 CinnadustShading (kid of ^that imp)
+# 7/06 Altair

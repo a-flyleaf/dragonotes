@@ -128,6 +128,14 @@
   dr: Altostratus
 
 # /NOTMINE
+- dt: 2016-03-10
+#     based on imgur upload date https://imgur.com/oJUzdiZ
+  fl: jpeg
+  dr: Altair
+  by:
+    fr: 124189
+    nm: radishcake
+
 - dt: 2017-03-04
   dr: Drosera
   by:

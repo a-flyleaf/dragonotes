@@ -14,6 +14,7 @@ trawl gdocs for stuff I can mirror here
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
 	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
 	- BETTEr: post searches for [imgur](https://www1.flightrising.com/search/forums?term=i.imgur.com&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) & [postimg](https://www1.flightrising.com/search/forums?term=i.postimg.cc&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) (no results for imgbb/ibb.co as of 2025-08-13)
+		- +imgbox maybe? think I've mostly only used that for graphic reuploads (as of 2026-07-13)
 
 # 2025-06-30
 - PErHAPS rather than individual dragon pages, one big page with lil clusters? kinda like the old viral evolution page? way way WAY less intimidating to just combine dudes tbh. could be geocities-esque with custom css even if they all use the same basic HTML template. (so uhh basically the original plan for toyshelf, yes.) much to think about....
@@ -33,6 +34,9 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 - dashcon (imgur ballpit)
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
+
+# 2026-05-25
+dirt simple base page that's just like. the HTML template with a built-in dark theme. Nothing Else
 
 
 
