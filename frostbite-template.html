@@ -1,0 +1,223 @@
+<!--coded on neocities, 7/16AM-->
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sleepless behavior.html</title>
+  <style>
+    /*
+    @media (prefers-color-scheme:dark){
+      body{background:#202020; color:#efefef;}
+      a{color:#80cfff;}
+    }
+    */
+    *{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
+    .x{display:none;} /*REPLACE THIS LATER*/
+    header,main,nav,section,footer{display:block;}
+    img{max-width:100%; height:auto;}
+    /*DELETE PER-PAGE IF UNUSED*/summary{cursor:pointer;}
+    
+    /*should be replaced with ACTUAL VALUES in final, just using this for ease of coding
+    <https://www1.flightrising.com/forums/gde/2784620>*/
+    :root{
+      --ice:#dae0f3;
+      --silver:#bbbabf;
+      --black:#333;
+      --obsidian:#1d2224;
+      --obsid-grsc:#111;
+      --midnight:#292b38;
+      --blue:#324ba9;
+      --splash:#6394dd;
+      --sky:#aec8ff;
+      --stonewash:#7995c1;
+      --steel:#556979;
+      --denim:#2f4557;
+    }
+    
+    body{background:var(--obsid-grsc); color:var(--ice); padding:0 1em; font-family:georgia,sans-serif;}
+    a{color:var(--sky);}
+    small{font-size:.825em;}
+    .ss,.ooc{font-family:helvetica,sans-serif;}
+    #wrap{margin:0 auto; max-width:50em; border-left:.125rem dashed var(--ice); border-right:.125rem dashed var(--ice); padding:1em;}
+    #box{border:.25rem solid var(--obsidian); background:var(--obsidian);}
+    
+    header{background:var(--midnight); color:var(--ice); padding:1rem;}
+    h1{text-transform:uppercase; font-weight:normal; font-size:3em; letter-spacing:.1em;}
+    header i{font-size:1.25em; letter-spacing:.05em;}
+    
+    section{margin:.25rem 0; background:var(--ice); color:var(--midnight);}
+    #intro,summary,.sec,#intro{padding:1rem;}
+    summary{background:var(--denim); color:var(--ice);}
+    h2{font-weight:normal; font-size:1.5em; display:inline;}
+    h3,h4{color:var(--denim);}
+    h3{font-size:1.375em; margin:1em 0 .25em; border-bottom:.075rem solid var(--stonewash);}
+    h4{font-family:helvetica,sans-serif; margin-top:1.5em;} /*can do this with a replace:"<h4>","<h4 class='ss'>"*/
+    figure{text-align:center;}
+    p{line-height:1.5;} p+p{margin-top:1em;}
+    section a{color:var(--denim);}
+    
+    .ooc{background:linear-gradient(var(--ice),var(--sky)); border:.125rem dashed var(--blue); padding:1em; border-radius:1em;}
+    .ooc a{color:var(--blue);}
+    
+    #std{margin:1.25em auto; border-collapse:collapse; border:.125rem solid var(--stonewash); font-size:.825em;}
+    #std tr{border-bottom:.075rem solid var(--sky);}
+    #std th,#std td{padding:.25rem;}
+    #std th{vertical-align:top;}
+    #std figcaption{padding:.125rem 0; font-style:italic;}
+    #std-img{text-transform:lowercase;}
+    #std .tb th,#std .tb td{padding:.5rem .25rem .75rem;}
+    #std .th span{display:block; background:var(--sky); padding:.125rem;} /*--winging this design as I go and the row borders negate the need for this. RIP. leaving it anyway though bc I like it too much to delete; can wipe it on git*/
+    #std ul{margin-left:1.5rem; font-style:normal; text-align:left;} #std li{margin:.25em 0;}
+    
+    #huh{margin:1.5em 0 .125em;}
+    #huh b{color:var(--blue); font-size:1.125em;}
+    
+    #endnote{margin-bottom:0;}
+    
+    footer{text-align:center; padding:1rem 0 .75rem;}
+    footer ul{list-style-type:none;}
+    footer li{margin:.5em 0; font-size:.825em; font-style:italic;}
+    
+    @media (prefers-color-scheme:dark){/*i did all light/default mode first and now idk how to make darkmode work OOPS-- …altho the color selection is better on light. go figure*/
+      #box{background:var(--obsid-grsc); border-color:var(--obsid-grsc); outline:.125rem solid var(--obsidian);}
+      
+      header{background:var(--obsid-grsc);}
+      
+      section{background:var(--midnight); color:var(--ice);}
+      a{color:var(--sky);}
+      
+      .ooc{background:0; background:linear-gradient(var(--obsidian),var(--obsid-grsc)); color:var(--ice); border-color:var(--splash);}
+      .ooc a,#huh b{color:var(--splash);}
+      
+      #std{border-color:var(--steel);}
+      #std tr{border-color:var(--denim);}
+      #std .th span{background:var(--denim);}
+      
+      summary{background:var(--obsidian); color:var(--obsid-igrsc);}
+      h3,h4{color:var(--sky);}
+      h3{border-color:var(--steel);}
+    }
+  </style>
+</head><body><div id="wrap">
+  <div id="box">
+    <header>
+      <h1>Frostbite</h1>
+      <i>a multi-flight subspecies</i>
+    </header>
+    <hr class="x">
+    <main>
+      <section id="intro">
+        <p><b>Frostbite</b> dragons are a scattered grouping of fervent exaltation devotees, characterized by utilitarian ideals and striking monochromatic scales.</p>
+        
+        <a href="#skip" class="x">[skip info table]</a>
+        <table id="std" class="ss">
+          <tr id="std-img"><td colspan="2"><figure>
+            <img src="https://placehold.co/350/000/fff.jpg" alt="">
+            <figcaption>An image of a Frostbite dragon [TBA]</figcaption>
+          </figure></td></tr>
+          <tbody>
+            <tr class="tb"><th>Breed</th><td>Tundra (original), any</td></tr>
+            <tr class="tb"><th>Element</th><td>Ice (original), any</td></tr>
+            
+            <tr class="th"><th colspan="2"><span>Genetics</span></th></tr>
+            <tr class="tb"><th>Primary</th><td>
+              <b>color</b>: Midnight<br>
+              <b>gene</b>: Bar (standard), Ripple, other monochrome</td></tr>
+            <tr class="tb"><th>Secondary</th><td>
+              <b>color</b>: Midnight (standard), Obsidian<br>
+              <b>gene</b>: Daub, Current, other monochrome</td></tr>
+            <tr class="tb"><th>Tertiary</th><td>
+              <b>color</b>: Ice<br>
+              <b>gene</b>: Crackle*<br>
+              <small>(*Other tertiary genes may be acceptable )</small></td></tr>
+            
+            <tr class="th"><th colspan="2"><span>Range & Variants</span></th></tr>
+            <tr><td colspan="2"><figure>
+              [IMG HERE; shaded map? maybe comment out the "variants" for now. link names to #header on this page]
+              <figcaption><ul>
+                <li><b>Southern Icefield</b>: [the origin]</li>
+                <li><b>Scarred Wasteland</b>: [antivax darwinists]</li>
+                <li><b>Dragonhome</b>: [rocks for the rock god]</li>
+                <li><b>Tangled Wood</b>: [dragon hunger games]</li>
+                <li><b>Shifting Expanse</b>: [fodder factory in the real]</li>
+              </ul></figcaption>
+            </figure></td></tr>
+          </tbody>
+        </table>
+        
+        <p id="skip">Originating in the Southern Icefield, the first Frostbite dragons are thought to be a small cluster of Tundras based in the [eternal blizzard place]. Their unique coloration led to the development of a specialized ambush technique, which they used to capture Shade entities. Over time, the group's range expanded, initially by northward land travel and later with branch-offs into new territories. Many of these offshoot groups eventually broke contact with the [Icefield] base, resulting in the scattered population seen today.</p>
+        <p>Despite the wider territorial range, and by extension shifting loyalties from deity to deity, Frostbite dragons remain distinct in both [coloration](#physiology) and [culture](#clans). Their impact and spread throughout Sornieth is poorly understood; research into is ongoing.</p>
+        
+        <div class="ooc" id="huh">
+          <b>What is this…?</b>
+          <p>Quick fourthwall-break. If you've somehow stumbled upon this page without knowing what it is, hi! <a href="https://www1.flightrising.com/">Flight&nbsp;Rising</a> is a browser-based dragon collection game, on which many people write little stories and develop worlds for their dragons. FR has an established setting, Sornieth, but players are free to pick and choose which aspects of the "canonical" lore they use (if any).</p>
+        </div>
+      </section>
+      <section id="history"><details OPEN>
+        <summary><h2>History</h2></summary>
+        <div class="sec">
+          <p>[Ice -> Arcane -> Plague -> branch-offs; most successful in Earth & Shadow, kinda Light maybe Water/Nature, and ig Lightning]</p>
+        </div>
+      </details></section>
+      <section id="physiology"><details OPEN>
+        <summary><h2>Physiology</h2></summary>
+        <div class="sec">
+          <p>[they still have that distinct, increasingly-old school appearance. the dark monochrome is Important. ice crackle doesn't really blend in in most territories, but it remains an in-group marker.</p>
+          <p>[AND OFC. since "true" allegiance isn't determined by heritage (see #clans for that cultural tidbit), it is entirely possible for a Frostbite-aligned dragon to look absolutely nothing like the "standard" pictured above. this is where gameplay (aesthetics make a subspecies) and lore (do whatever you want forever) diverge. stick an OOC note in about that.]</p>
+          
+          <h3>Variants</h3>
+          <p>[maybe idk]</p>
+          
+          <h4>do we need an h4?</h4>
+          <p>[might as well style an h4]</p>
+        </div>
+      </details></section>
+      <section id="clans"><details OPEN>
+        <summary><h2>Clans</h2></summary>
+        <div class="sec">
+          <p>[lorem ipsum standard culture tenets go here. they'e tough they're communal exalting is everything. also they can be double agents. territory-specific h3s can go here I think]</p>
+          
+          <h3>Southern Icefield</h3>
+          <p>[lipsum nullac latinword bleebus blorpus chicken stapler dolorsit agamemnon dolossus rotary]</p>
+        </div>
+      </details></section>
+      <section id="ambush"><details OPEN>
+        <summary><h2>Ambush</h2></summary>
+        <div class="sec">
+          <p>[start with a wikipedia-esque "this section is a stub, more research is needed" note. blockquote from Galena, a firsthand witness. *supposedly* there's some secret technique developed by the very first tundras, but like who knows it's been a gazillion years and probably other groups (read: other irl-people's lore) have also claimed The Formidable Battlestone Tundra. it's basicslly legend at this point]</p>
+        </div>
+      </details></section>
+      <section id="ext"><details OPEN>
+        <summary><h2>Further reading</h2></summary>
+        <div class="sec">
+          <p>[my lore? other peoples' lore? Galena & Carnation?]</p>
+        </div>
+      </details></section>
+      <section id="endnote"><details OPEN>
+        <summary><h2><i>An endnote from the author</i></h2></summary>
+        <div class="sec"><div class="ooc">
+          <p>[thanks for reading; this is a development of some concepts i have had for a Very Long Time. there is no registry, there are no breeding pairs; I have used them as NPC antagonists in my own lore, anyone else is free to use them also. link back appreciated if you do. ty again happy writing sayonara]</p>
+        </div></div>
+      </details></section>
+    </main>
+  </div>
+  <hr class="x">
+  <footer><ul>
+    <li>a <a href="https://www1.flightrising.com/">Flight&nbsp;Rising</a> fan-project</li>
+    <li>code & concept by <a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor#138250</a></li>
+  </ul></footer>
+
+</div></body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
