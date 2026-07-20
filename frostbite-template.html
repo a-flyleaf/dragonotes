@@ -1,22 +1,20 @@
-<!--coded on neocities, 7/16AM-->
+---
+layout: none
+# initially HTML-only version coded on neocities, 7/16AM
+---
 <!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sleepless behavior.html</title>
+  <title>Frostbite | dragonotes</title>
   <style>
-    /*
-    @media (prefers-color-scheme:dark){
-      body{background:#202020; color:#efefef;}
-      a{color:#80cfff;}
-    }
-    */
     *{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
-    .x{display:none;} /*REPLACE THIS LATER*/
+    .x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
     header,main,nav,section,footer{display:block;}
     img{max-width:100%; height:auto;}
-    /*DELETE PER-PAGE IF UNUSED*/summary{cursor:pointer;}
+    summary{cursor:pointer;}
     
     /*should be replaced with ACTUAL VALUES in final, just using this for ease of coding
     <https://www1.flightrising.com/forums/gde/2784620>*/
+		/* . . . bro why are the colors different in this thread vs the site layout vs in genes :sob: put ice crackle on basic ice primary and Behold. they are Different*/
     :root{
       --ice:#dae0f3;
       --silver:#bbbabf;
@@ -33,6 +31,7 @@
     }
     
     body{background:var(--obsid-grsc); color:var(--ice); padding:0 1em; font-family:georgia,sans-serif;}
+		::selection{background:var(--obsidian); color:var(--ice);}
     a{color:var(--sky);}
     small{font-size:.825em;}
     .ss,.ooc{font-family:helvetica,sans-serif;}
@@ -76,7 +75,7 @@
     footer ul{list-style-type:none;}
     footer li{margin:.5em 0; font-size:.825em; font-style:italic;}
     
-    @media (prefers-color-scheme:dark){/*i did all light/default mode first and now idk how to make darkmode work OOPS-- …altho the color selection is better on light. go figure*/
+    @media (prefers-color-scheme:dark){
       #box{background:var(--obsid-grsc); border-color:var(--obsid-grsc); outline:.125rem solid var(--obsidian);}
       
       header{background:var(--obsid-grsc);}
@@ -95,6 +94,11 @@
       h3,h4{color:var(--sky);}
       h3{border-color:var(--steel);}
     }
+		
+		@media screen and (min-width:950px){/*FR breakpoints are 750/950/1400px*/
+			#wrap{max-width:1200px; background:yellow;}
+			#intro{overflow:auto;} #std{float:right; margin-left:1rem; max-width:400px;}
+		}
   </style>
 </head><body><div id="wrap">
   <div id="box">
