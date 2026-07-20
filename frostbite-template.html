@@ -121,26 +121,29 @@ endnote: |-
     
     #endnote{margin-bottom:0;}
     
-    footer{text-align:center; padding:1rem 0 .75rem;}
+    footer{text-align:center; padding:1rem 0 .5rem;}
     footer ul{list-style-type:none;}
     footer li{margin:.5em 0; font-size:.825em; font-style:italic;}
+		footer .ss{margin-top:1.5em; font-style:normal;}
     
     @media (prefers-color-scheme:dark){
       #box{background:var(--obsid-grsc); border-color:var(--obsid-grsc); outline:.125rem solid var(--obsidian);}
       
       header{background:var(--obsid-grsc);}
       
-      section{background:var(--midnight); color:var(--ice);}
-      a{color:var(--sky);}
+      section{background:var(--midnight); color:var(--ice-wh);}
+      section a{color:var(--sky);}
+			p{line-height:1.625;}
       
       .ooc{background:0; background:linear-gradient(var(--obsidian),var(--obsid-grsc)); color:var(--ice); border-color:var(--splash);}
       .ooc a,#huh b{color:var(--splash);}
       
       #std{border-color:var(--steel);}
-      #std tr{border-color:var(--denim);}
+      #std tr,#std-img a{border-color:var(--denim);}
+			#std-img a:hover,#std-img a:focus,#std-img a:active{background:var(--obsidian);}
       #std .th span{background:var(--denim);}
       
-      summary{background:var(--obsidian); color:var(--obsid-igrsc);}
+      summary:focus{outline-color:var(--stonewash);}
       h3,h4{color:var(--sky);}
       h3{border-color:var(--steel);}
     }
@@ -202,47 +205,11 @@ endnote: |-
         {{page.intro|markdownify}}
         
         <div class="ooc" id="huh">{{page.huh|markdownify}}</div>
-      </section>
-      <section id="history"><details OPEN>
-        <summary><h2>History</h2></summary>
-        <div class="sec">
-          <p>[Ice -> Arcane -> Plague -> branch-offs; most successful in Earth & Shadow, kinda Light maybe Water/Nature, and ig Lightning]</p>
-        </div>
-      </details></section>
-      <section id="physiology"><details OPEN>
-        <summary><h2>Physiology</h2></summary>
-        <div class="sec">
-          <p>[they still have that distinct, increasingly-old school appearance. the dark monochrome is Important. ice crackle doesn't really blend in in most territories, but it remains an in-group marker.</p>
-          <p>[AND OFC. since "true" allegiance isn't determined by heritage (see #clans for that cultural tidbit), it is entirely possible for a Frostbite-aligned dragon to look absolutely nothing like the "standard" pictured above. this is where gameplay (aesthetics make a subspecies) and lore (do whatever you want forever) diverge. stick an OOC note in about that.]</p>
-          
-          <h3>Variants</h3>
-          <p>[maybe idk]</p>
-          
-          <h4>do we need an h4?</h4>
-          <p>[might as well style an h4]</p>
-        </div>
-      </details></section>
-      <section id="clans"><details OPEN>
-        <summary><h2>Clans</h2></summary>
-        <div class="sec">
-          <p>[lorem ipsum standard culture tenets go here. they'e tough they're communal exalting is everything. also they can be double agents. territory-specific h3s can go here I think]</p>
-          
-          <h3>Southern Icefield</h3>
-          <p>[lipsum nullac latinword bleebus blorpus chicken stapler dolorsit agamemnon dolossus rotary]</p>
-        </div>
-      </details></section>
-      <section id="ambush"><details OPEN>
-        <summary><h2>Ambush</h2></summary>
-        <div class="sec">
-          <p>[start with a wikipedia-esque "this section is a stub, more research is needed" note. blockquote from Galena, a firsthand witness. *supposedly* there's some secret technique developed by the very first tundras, but like who knows it's been a gazillion years and probably other groups (read: other irl-people's lore) have also claimed The Formidable Battlestone Tundra. it's basicslly legend at this point]</p>
-        </div>
-      </details></section>
-      <section id="ext"><details OPEN>
-        <summary><h2>Further reading</h2></summary>
-        <div class="sec">
-          <p>[my lore? other peoples' lore? Galena & Carnation?]</p>
-        </div>
-      </details></section>
+      </section>{%for sec in page.sections%}
+			<section id="{{sec.nm|downcase|replace:' ','-'}}"><details OPEN>
+				<summary><h2>{{sec.nm}}</h2></summary>
+				<div class="sec">{{sec.content|markdownify}}</div>
+			</details></section>{%endfor%}
       <section id="endnote"><details OPEN>
         <summary><h2><i>An endnote from the author</i></h2></summary>
         <div class="sec"><div class="ooc">{{page.endnote|markdownify}}</div></div>
@@ -253,6 +220,7 @@ endnote: |-
   <footer><ul>
     <li>a <a href="https://www1.flightrising.com/">Flight&nbsp;Rising</a> fan-project</li>
     <li>code & concept by <a href="https://www1.flightrising.com/clan-profile/138250">Archaeoraptor#138250</a></li>
+		<li class="ss">images ©&nbsp;Stormlight&nbsp;Workshop, LLC</li>
   </ul></footer>
 
 </div></body></html>
