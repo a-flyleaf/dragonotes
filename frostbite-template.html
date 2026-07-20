@@ -1,6 +1,60 @@
 ---
 layout: none
 # initially HTML-only version coded on neocities, 7/16AM
+
+# not putting the stats in front matter bc I don't anticipate needing to change them much, if at all
+std-img: frostbite.png
+std-link: "https://www1.flightrising.com/scrying/predict?breed=6&gender=0&age=1&bodygene=6&body=11&winggene=6&wings=10&tertgene=6&tert=3&element=6&eyetype=0"
+std-caption: |-
+  <span>An image of a standard Frostbite dragon</span> <span>(opens Scrying Workshop in new tab)</span>
+
+intro: |-
+  <b>Frostbite</b> dragons are a scattered grouping of fervent exaltation devotees, characterized by utilitarian ideals and striking monochromatic scales.
+  
+  Originating in the Southern Icefield, the first Frostbite dragons are thought to be a small cluster of Tundras based in the [Reclaimer's Glacier](https://www1.flightrising.com/world-map?poi=153&view=land&viewpin=true). Their unique coloration led to the development of a specialized ambush technique, which they used to capture Shade entities. Over time, the group's range expanded, initially by northward land travel and later with branch-offs into new territories. Many of these offshoot groups eventually broke contact with the Icefield base, resulting in the scattered population seen today.
+  
+  Despite the wider territorial range, and by extension shifting loyalties from deity to deity, Frostbite dragons remain distinct in both [coloration](#physiology) and [culture](#clans). Their impact and spread throughout Sornieth is poorly understood; research into is ongoing.
+huh: |-
+  <b>What is this…?</b>  
+  Quick fourthwall-break. If you've somehow stumbled upon this page without knowing what it is, hi! [Flight&nbsp;Rising](https://www1.flightrising.com/) is a browser-based dragon collection game, on which many people write little stories and develop worlds for their dragons. FR has an established setting, Sornieth, but players are free to pick and choose which aspects of the "canonical" lore they use (if any).  
+    
+  [...i think i meant to write more here. and Forgor]
+
+sections:
+  - nm: "History"
+    content: |-
+      [Ice -> Arcane -> Plague -> branch-offs; most successful in Earth & Shadow, kinda Light maybe Water/Nature, and ig Lightning]
+
+  - nm: "Physiology"
+    content: |-
+      [they still have that distinct, increasingly-old school appearance. the dark monochrome is Important. ice crackle doesn't really blend in in most territories, but it remains an in-group marker.
+      
+      [AND OFC. since "true" allegiance isn't determined by heritage (see #clans for that cultural tidbit), it is entirely possible for a Frostbite-aligned dragon to look absolutely nothing like the "standard" pictured above. this is where gameplay (aesthetics make a subspecies) and lore (do whatever you want forever) diverge. stick an OOC note in about that.]
+      
+      ### Variants
+      [maybe idk]
+      
+      #### do we need an h4?
+      [might as well style an h4]
+
+  - nm: "Clans"
+    content: |-
+      [lorem ipsum standard culture tenets go here. they'e tough they're communal exalting is everything. also they can be double agents. territory-specific h3s can go here I think]
+      
+      ### Southern Icefield
+      [lipsum nullac latinword bleebus blorpus chicken stapler dolorsit agamemnon dolossus rotary]
+
+  - nm: "Ambush"
+    content: |-
+      [start with a wikipedia-esque "this section is a stub, more research is needed" note. blockquote from Galena, a firsthand witness. *supposedly* there's some secret technique developed by the very first tundras, but like who knows it's been a gazillion years and probably other groups (read: other irl-people's lore) have also claimed The Formidable Battlestone Tundra. it's basicslly legend at this point]
+
+  - nm: "Further reading"
+    content: |-
+      [my lore? other peoples' lore? Galena & Carnation?]
+
+endnote: |-
+  [thanks for reading; this is a development of some concepts i have had for a Very Long Time. there is no registry, there are no breeding pairs; I have used them as NPC antagonists in my own lore, anyone else is free to use them also. link back appreciated if you do. ty again happy writing sayonara]
+
 ---
 <!DOCTYPE html>
 <html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,56 +66,52 @@ layout: none
     img{max-width:100%; height:auto;}
     summary{cursor:pointer;}
     
-    /*should be replaced with ACTUAL VALUES in final, just using this for ease of coding
-    <https://www1.flightrising.com/forums/gde/2784620>*/
-		/* . . . bro why are the colors different in this thread vs the site layout vs in genes :sob: put ice crackle on basic ice primary and Behold. they are Different*/
     :root{
-      --ice:#dae0f3;
-      --silver:#bbbabf;
-      --black:#333;
+      --ice:#dce1ff; /*crackle colorpick*/
+			--ice-wh:#ebefff; /*actual site default*/
       --obsidian:#1d2224;
-      --obsid-grsc:#111;
-      --midnight:#292b38;
+      --obsid-grsc:#111; /*technically #202020 but this looks nicer*/
+      --midnight:#252735;
       --blue:#324ba9;
       --splash:#6394dd;
       --sky:#aec8ff;
-      --stonewash:#7995c1;
+      --stonewash:#7895c1;
       --steel:#556979;
       --denim:#2f4557;
     }
     
     body{background:var(--obsid-grsc); color:var(--ice); padding:0 1em; font-family:georgia,sans-serif;}
 		::selection{background:var(--obsidian); color:var(--ice);}
-    a{color:var(--sky);}
+    a{color:var(--sky); text-underline-offset:.125em;} a:hover,a:active,a:focus{color:var(--ice-wh); text-decoration:none;} a:focus,summary:focus{outline:.125rem solid;}
     small{font-size:.825em;}
     .ss,.ooc{font-family:helvetica,sans-serif;}
     #wrap{margin:0 auto; max-width:50em; border-left:.125rem dashed var(--ice); border-right:.125rem dashed var(--ice); padding:1em;}
     #box{border:.25rem solid var(--obsidian); background:var(--obsidian);}
     
     header{background:var(--midnight); color:var(--ice); padding:1rem;}
-    h1{text-transform:uppercase; font-weight:normal; font-size:3em; letter-spacing:.1em;}
+    h1{text-transform:uppercase; font-weight:normal; font-size:2em; letter-spacing:.1em;} @media screen and (min-width:30em){h1{font-size:3em;}}
     header i{font-size:1.25em; letter-spacing:.05em;}
     
-    section{margin:.25rem 0; background:var(--ice); color:var(--midnight);}
-    #intro,summary,.sec,#intro{padding:1rem;}
-    summary{background:var(--denim); color:var(--ice);}
+    section{margin:.25rem 0; background:var(--ice-wh); color:var(--midnight);}
+    #intro,summary,.sec{padding:1rem;}
+    summary{background:var(--denim); color:var(--ice);} summary:focus{outline-color:var(--sky);}
     h2{font-weight:normal; font-size:1.5em; display:inline;}
     h3,h4{color:var(--denim);}
     h3{font-size:1.375em; margin:1em 0 .25em; border-bottom:.075rem solid var(--stonewash);}
     h4{font-family:helvetica,sans-serif; margin-top:1.5em;} /*can do this with a replace:"<h4>","<h4 class='ss'>"*/
     figure{text-align:center;}
     p{line-height:1.5;} p+p{margin-top:1em;}
-    section a{color:var(--denim);}
+    section a{color:var(--denim);} section a:hover,section a:active,section a:focus{color:var(--stonewash);}
     
     .ooc{background:linear-gradient(var(--ice),var(--sky)); border:.125rem dashed var(--blue); padding:1em; border-radius:1em;}
     .ooc a{color:var(--blue);}
     
-    #std{margin:1.25em auto; border-collapse:collapse; border:.125rem solid var(--stonewash); font-size:.825em;}
+    #std{margin:0 auto 1.25em; border-collapse:collapse; border:.125rem solid var(--stonewash); font-size:.825em; line-height:1.25;}
     #std tr{border-bottom:.075rem solid var(--sky);}
     #std th,#std td{padding:.25rem;}
     #std th{vertical-align:top;}
-    #std figcaption{padding:.125rem 0; font-style:italic;}
-    #std-img{text-transform:lowercase;}
+		#std-img a{border:1px solid var(--sky); display:inline-block; margin:.25rem;} #std-img a:hover,#std-img a:active,#std-img a:focus{border-color:inherit; background:var(--ice);}
+    #std figcaption{padding:.25rem 0; font-style:italic;} #std figcaption span{display:inline-block;}
     #std .tb th,#std .tb td{padding:.5rem .25rem .75rem;}
     #std .th span{display:block; background:var(--sky); padding:.125rem;} /*--winging this design as I go and the row borders negate the need for this. RIP. leaving it anyway though bc I like it too much to delete; can wipe it on git*/
     #std ul{margin-left:1.5rem; font-style:normal; text-align:left;} #std li{margin:.25em 0;}
@@ -96,8 +146,12 @@ layout: none
     }
 		
 		@media screen and (min-width:950px){/*FR breakpoints are 750/950/1400px*/
-			#wrap{max-width:1200px; background:yellow;}
-			#intro{overflow:auto;} #std{float:right; margin-left:1rem; max-width:400px;}
+			body{font-size:1.125em;} p+p{margin-top:1.125em;}
+			#wrap{max-width:1200px;}
+			header,#intro,.sec{padding:1.5rem;}
+			#intro{overflow:auto;} #std{float:right; margin-left:1.25rem; max-width:400px;}
+			#huh{font-size:.85em;}
+			summary{font-size:1.25em; padding:1.25rem 1.5rem;}
 		}
   </style>
 </head><body><div id="wrap">
@@ -109,13 +163,11 @@ layout: none
     <hr class="x">
     <main>
       <section id="intro">
-        <p><b>Frostbite</b> dragons are a scattered grouping of fervent exaltation devotees, characterized by utilitarian ideals and striking monochromatic scales.</p>
-        
         <a href="#skip" class="x">[skip info table]</a>
         <table id="std" class="ss">
           <tr id="std-img"><td colspan="2"><figure>
-            <img src="https://placehold.co/350/000/fff.jpg" alt="">
-            <figcaption>An image of a Frostbite dragon [TBA]</figcaption>
+            <a href="{{page.std-link}}" target="_blank"><img src="{%include url.html%}/assets/img/{{page.std-img}}" alt=""></a>
+            <figcaption>{{page.std-caption}}</figcaption>
           </figure></td></tr>
           <tbody>
             <tr class="tb"><th>Breed</th><td>Tundra (original), any</td></tr>
@@ -147,13 +199,9 @@ layout: none
           </tbody>
         </table>
         
-        <p id="skip">Originating in the Southern Icefield, the first Frostbite dragons are thought to be a small cluster of Tundras based in the [eternal blizzard place]. Their unique coloration led to the development of a specialized ambush technique, which they used to capture Shade entities. Over time, the group's range expanded, initially by northward land travel and later with branch-offs into new territories. Many of these offshoot groups eventually broke contact with the [Icefield] base, resulting in the scattered population seen today.</p>
-        <p>Despite the wider territorial range, and by extension shifting loyalties from deity to deity, Frostbite dragons remain distinct in both [coloration](#physiology) and [culture](#clans). Their impact and spread throughout Sornieth is poorly understood; research into is ongoing.</p>
+        {{page.intro|markdownify}}
         
-        <div class="ooc" id="huh">
-          <b>What is this…?</b>
-          <p>Quick fourthwall-break. If you've somehow stumbled upon this page without knowing what it is, hi! <a href="https://www1.flightrising.com/">Flight&nbsp;Rising</a> is a browser-based dragon collection game, on which many people write little stories and develop worlds for their dragons. FR has an established setting, Sornieth, but players are free to pick and choose which aspects of the "canonical" lore they use (if any).</p>
-        </div>
+        <div class="ooc" id="huh">{{page.huh|markdownify}}</div>
       </section>
       <section id="history"><details OPEN>
         <summary><h2>History</h2></summary>
@@ -197,9 +245,7 @@ layout: none
       </details></section>
       <section id="endnote"><details OPEN>
         <summary><h2><i>An endnote from the author</i></h2></summary>
-        <div class="sec"><div class="ooc">
-          <p>[thanks for reading; this is a development of some concepts i have had for a Very Long Time. there is no registry, there are no breeding pairs; I have used them as NPC antagonists in my own lore, anyone else is free to use them also. link back appreciated if you do. ty again happy writing sayonara]</p>
-        </div></div>
+        <div class="sec"><div class="ooc">{{page.endnote|markdownify}}</div></div>
       </details></section>
     </main>
   </div>
@@ -210,18 +256,3 @@ layout: none
   </ul></footer>
 
 </div></body></html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
