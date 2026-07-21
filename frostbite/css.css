@@ -31,7 +31,7 @@ h1{text-transform:uppercase; font-weight:normal; font-size:2em; letter-spacing:.
 header i{font-size:1.25em; letter-spacing:.05em;}
 
 section{margin:.25rem 0; background:var(--ice-wh); color:var(--midnight);}
-#intro,summary,.sec{padding:1rem;}
+#intro,summary,.sec{padding:1rem;} #intro,.sec{background:linear-gradient(var(--sky),var(--ice-wh) 1rem);}
 summary{background:var(--denim); color:var(--ice);} summary:focus{outline-color:var(--sky);}
 h2{font-weight:normal; font-size:1.5em; display:inline;}
 h3,h4{color:var(--denim);}
@@ -66,8 +66,8 @@ sup{line-height:1; display:inline-block; font-size:.825em;}
 
 footer{text-align:center; padding:1rem 0 .5rem;}
 footer ul{list-style-type:none;}
-footer li{margin:.5em 0; font-size:.825em; font-style:italic;}
-footer .ss{margin-top:1.5em; font-style:normal;}
+footer li{font-size:.825em; font-style:italic;}
+footer .ss{margin-top:1.5em; font-style:normal; font-size:.75em;}
 
 @media (prefers-color-scheme:dark){
 	#box{background:var(--obsid-grsc); border-color:var(--obsid-grsc); outline:.125rem solid var(--obsidian);}
@@ -75,6 +75,7 @@ footer .ss{margin-top:1.5em; font-style:normal;}
 	header{background:var(--obsid-grsc);}
 	
 	section{background:var(--midnight); color:var(--ice-wh);}
+	#intro,.sec{background:linear-gradient(var(--obsidian),var(--midnight) 1rem);}
 	section a{color:var(--sky);}
 	p{line-height:1.625;}
 	
