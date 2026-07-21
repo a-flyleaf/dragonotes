@@ -1,5 +1,6 @@
 ---
 layout: none
+# I don't need this anymore tbh but I kinda like the plaintext layout.... saving it for reuse!
 ---
 <style>
 	body{background:#efefef; font-family:verdana,sans-serif; line-height:1.65; margin:0; padding:1em;}
@@ -25,7 +26,7 @@ mostly just wanted to copy over some [recent musings](https://www1.flightrising.
 
 ## subspecies brainstorming
 - colors: **Midnight/Obsidian/Ice**. Other monochromes or adjacent are acceptable, but a **blue tint** is preferred. Possible brown-tinted variant?
-	- <small>(lowkey based off my OG dragons with this combo: [Aeron](https://www1.flightrising.com/dragon/14577448) (plus kids), [Frostbite](https://www1.flightrising.com/dragon/8030460) (lol), and [Hydra](https://www1.flightrising.com/dragon/23893039). That particular trio has lore crumbs [here [the Flight&nbsp;Reaping tag]](https://www1.flightrising.com/forums/link?url=https%3A%2F%2Farchaeoraptor.tumblr.com%2Ftagged%2FFlight%2520Reaping%2Fchrono); all that’s really relevant now is that they had a Frostbite offshoot and got Reapening’d. Gone to the shadows. Irrelevant now. Anyway,)</small>
+	- <small>(lowkey based off my OG dragons with this combo: [Aeron](https://www1.flightrising.com/dragon/14577448) (plus kids), [Frostbite](https://www1.flightrising.com/dragon/8030460) (lol), and [Hydra](https://www1.flightrising.com/dragon/23893039). That particular trio has lore crumbs [here [the Flight&nbsp;Reaping tag]](https://archaeoraptor.tumblr.com/tagged/Flight%20Reaping/chrono); all that’s really relevant now is that they had a Frostbite offshoot and got Reapening’d. Gone to the shadows. Irrelevant now. Anyway,)</small>
 - genes: **monochrome** primary+secondary, **Crackle** tertiary. Similarly-busy terts are acceptable; it’s about the Coverage. Ideal terts affect both body and wings (so Rift wouldn’t work, Wish would), and I’m veering towards *no linebreakers*. But maybe those can get their own little variant lore.
 	- Emphasis on **natural patterns**, animalistic. Harlequin/Jester is out, Tiger/Stripes is in. Non-mammalian genes like Arapaima or Hawkmoth are borderline; Python/Morph is great bc they’re monochrome, Poison/Toxin… less so.
 - element: **Ice** for the “true”… version? adherent? Definitely *originated* in Ice, have long since spread. Other elements get their own special flavor.

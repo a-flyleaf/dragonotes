@@ -1,0 +1,101 @@
+*{box-sizing:border-box; font-size:100%; margin:0; padding:0;}
+.x{position:absolute; left:-999px; width:1px; height:1px; top:auto; overflow:hidden;}
+header,main,nav,section,footer{display:block;}
+img{max-width:100%; height:auto;}
+summary{cursor:pointer;}
+
+:root{
+	--ice:#dce1ff; /*crackle colorpick*/
+	--ice-wh:#ebefff; /*actual site default*/
+	--obsidian:#1d2224;
+	--obsid-grsc:#111; /*technically #202020 but this looks nicer*/
+	--midnight:#252735;
+	--blue:#324ba9;
+	--splash:#6394dd;
+	--sky:#aec8ff;
+	--stonewash:#7895c1;
+	--steel:#556979;
+	--denim:#2f4557;
+}
+
+body{background:var(--obsid-grsc); color:var(--ice); padding:0 1em; font-family:georgia,sans-serif;}
+::selection{background:var(--steel); color:var(--ice-wh);}
+a{color:var(--sky); text-underline-offset:.125em;} a:hover,a:active,a:focus{color:var(--ice-wh); text-decoration:none;} a:focus,summary:focus{outline:.125rem solid;} a::selection{color:#fff;}
+small{font-size:.825em;}
+.ss,.ooc{font-family:helvetica,sans-serif;}
+#wrap{margin:0 auto; max-width:50em; border-left:.125rem dashed var(--ice); border-right:.125rem dashed var(--ice); padding:1em;}
+#box{border:.25rem solid var(--obsidian); background:var(--obsidian);}
+
+header{background:var(--midnight); color:var(--ice); padding:1rem;}
+h1{text-transform:uppercase; font-weight:normal; font-size:2em; letter-spacing:.1em;} @media screen and (min-width:30em){h1{font-size:3em;}}
+header i{font-size:1.25em; letter-spacing:.05em;}
+
+section{margin:.25rem 0; background:var(--ice-wh); color:var(--midnight);}
+#intro,summary,.sec{padding:1rem;}
+summary{background:var(--denim); color:var(--ice);} summary:focus{outline-color:var(--sky);}
+h2{font-weight:normal; font-size:1.5em; display:inline;}
+h3,h4{color:var(--denim);}
+h3{font-size:1.375em; margin:1em 0 .25em; border-bottom:.075rem solid var(--stonewash);}
+h4{margin-top:1.5em;} h3+h4{margin-top:.5em;}
+figure{text-align:center;}
+p,ul{line-height:1.5;} p+p{margin-top:1em;}
+section a{color:var(--denim);} section a:hover,section a:active,section a:focus{color:var(--stonewash);}
+section ul{margin:1em 0 1em 1em;}
+sup{line-height:1; display:inline-block; font-size:.825em;}
+
+.ooc{background:linear-gradient(var(--ice),var(--sky)); border:.125rem dashed var(--blue); padding:1em; border-radius:1em;}
+.ooc ::selection{background:var(--blue);}
+.ooc a{color:var(--blue);}
+
+#std{margin:0 auto 1.25em; border-collapse:collapse; border:.125rem solid var(--stonewash); font-size:.825em; line-height:1.25;}
+#std tr{border-bottom:.075rem solid var(--sky);}
+#std th,#std td{padding:.25rem;}
+#std th{vertical-align:top;}
+#std-img a{border:1px solid var(--sky); display:inline-block; margin:.25rem;} #std-img a:hover,#std-img a:active,#std-img a:focus{border-color:inherit; background:var(--ice);}
+#std figcaption{padding:.25rem 0; font-style:italic;} #std figcaption span{display:inline-block;}
+#std .tb th,#std .tb td{padding:.5rem .25rem .75rem;}
+#std .th span{display:block; background:var(--sky); padding:.125rem;} /*--winging this design as I go and the row borders negate the need for this. RIP. leaving it anyway though bc I like it too much to delete; can wipe it on git*/
+#std ul{margin-left:1.5rem; font-style:normal; text-align:left;} #std li{margin:.25em 0;}
+
+#huh{margin:1.5em 0 .125em;}
+#huh b{color:var(--blue); font-size:1.125em;}
+
+#physiology ul{margin-top:0;}
+
+#endnote{margin-bottom:0;}
+
+footer{text-align:center; padding:1rem 0 .5rem;}
+footer ul{list-style-type:none;}
+footer li{margin:.5em 0; font-size:.825em; font-style:italic;}
+footer .ss{margin-top:1.5em; font-style:normal;}
+
+@media (prefers-color-scheme:dark){
+	#box{background:var(--obsid-grsc); border-color:var(--obsid-grsc); outline:.125rem solid var(--obsidian);}
+	
+	header{background:var(--obsid-grsc);}
+	
+	section{background:var(--midnight); color:var(--ice-wh);}
+	section a{color:var(--sky);}
+	p{line-height:1.625;}
+	
+	.ooc{background:0; background:linear-gradient(var(--obsidian),var(--obsid-grsc)); color:var(--ice); border-color:var(--splash);}
+	.ooc a,#huh b{color:var(--splash);}
+	
+	#std{border-color:var(--steel);}
+	#std tr,#std-img a{border-color:var(--denim);}
+	#std-img a:hover,#std-img a:focus,#std-img a:active{background:var(--obsidian);}
+	#std .th span{background:var(--denim);}
+	
+	summary:focus{outline-color:var(--stonewash);}
+	h3,h4{color:var(--sky);}
+	h3{border-color:var(--steel);}
+}
+
+@media screen and (min-width:950px){/*FR breakpoints are 750/950/1400px*/
+	body{font-size:1.125em;} p+p{margin-top:1.125em;}
+	#wrap{max-width:1200px;}
+	header,#intro,.sec{padding:1.5rem;}
+	#intro{overflow:auto; padding-bottom:0;} #std{float:right; margin-left:1.25rem; max-width:400px;}
+	#huh{font-size:.85em; margin-right:400px; margin-right:calc(400px + 1.25rem);}
+	summary{font-size:1.25em; padding:1.25rem 1.5rem;}
+}
