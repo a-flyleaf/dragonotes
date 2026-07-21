@@ -1,5 +1,6 @@
 # 2024-11-24
 trawl gdocs for stuff I can mirror here
+https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 
 # 2025-02-04
 - _data/dragons.yml
@@ -35,8 +36,15 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
 
-# 2026-05-25
-dirt simple base page that's just like. the HTML template with a built-in dark theme. Nothing Else
+# 2026-07-20
+are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amaranta). idc anymore just put All the data here & add a "media" section if relevant. like
+- media:
+  - typ: [song,dnd,oc,tfe etc,sona]
+	- id: [character name, song title; can skip for sonas bc that's personal]
+	- link: [song link (bandcamp if possible, official youtube second), character "canon" page; sonas variable... skip Frog, dragonotes/about Avi, toyshelf Zero+AFR]
+	- +whatever tf else I put in the fandragon data lol, see codetests/biomaker. some of it (tagline, item, search, DATES, og-url/-img) can be folded into *all* dragons' data
+
+i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
 
 
