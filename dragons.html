@@ -1,0 +1,44 @@
+---
+layout: default3
+title: great wall of dragons
+css: "
+	.dragobox{font-size:12px; max-width:1400px /*800 for 5, 1200 for 8, 1215 for 9, 1400 for 10*/; margin-top:2em;}
+	ul{padding:0; margin:-.75em 0 0 .25em;} li{display:inline-block; margin-left:.75em;}
+	.nart{border:2px solid #731D08; background:linear-gradient(#dfdfdf,#bfbfbf) !important;}
+	
+	.dragobox figure{display:inline-block; background:#dfdfdf; width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} .dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
+	.dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
+	.dragobox a:hover,.dragobox a:focus,.dragobox a:active{opacity:.5;}
+	
+	@media (prefers-color-scheme:dark){
+		a,.dragobox figcaption{color:#44c2f8;}
+		.dragobox figure{background:#101010;}
+		.nart{background:linear-gradient(#202020,#101010) !important; border-color:inherit;}
+	}
+"
+---
+<h1><a href="{%include url.html%}">dragonotes</a> dragon page</h1>
+
+<p>All my finished lizards at a glance.</p>
+
+<p>border = dragon doesn’t have art yet</p>
+<!--on a technicality only: Falsework (WIP), Axius & Zachariah (headshots), Alcho (design brainstorming); Delphi & Drosera's arts are pre-scatter-->
+{%assign nart="Drosera,Falsework,Axius,Zachariah,Alcho,Delphi,Drosera"%}
+
+<div class="dragobox">{%for drg in site.data.dragons%}{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}<a href="https://www1.flightrising.com/dragon/{{drg.id}}"><figure id="{{drg.nm}}"{%unless art contains drg.nm%} class="nart"{%endunless%}{%if nart contains drg.nm%} class="nart"{%endif%}>
+	<img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_100.png" alt="{{drg.nm}}"{%if drg.age%} class="bab"{%endif%}/>
+	<figcaption{%if drg.nm.size==16%} style="font-size:.85em;"{%endif%}>{{drg.nm}}</figcaption>
+</figure></a>{%endfor%}</div>
+
+<p><span style="font-family:monospace; font-size:1.25em;"><b style="text-transform:uppercase;font-weight:normal;">dragon count</b>: {{site.data.dragons.size}}</b></span><br/>
+<small>*does not include <a href="https://www1.flightrising.com/den/138250/1526429">fandragons</a> or <a href="https://www1.flightrising.com/lair/138250">non-hibernating lizards</a></small></p>
+</details>
+
+<!--
+	sorting-clusters:
+	- by breed (automatic)
+	- by aesthetic (manual)
+	- G1s +not-G1 gene projects
+	- coli builds
+	- artless
+-->
