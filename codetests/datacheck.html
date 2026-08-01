@@ -299,17 +299,18 @@ layout: none
 	
 	<hr>
 	
-	<section><h2>2026-archive</h2>
+	<section><h2>archive2026</h2>
 		<details><summary>pre-clearout archive.is links</summary><table>
 			<thead><tr>
 				<th>nm</th>
 				<th>ac</th>
 			</tr></thead>
-			<tbody>{%for a in site.data.2026-archive%}<tr class="{%cycle 'odd','even'%}">
+			<tbody>{%for a in site.data.archive2026%}<tr class="{%cycle 'odd','even'%}">
 				<td>{{a.nm}}</td>
 				<td><a href="{{a.ac}}">{{a.ac}}</a></td>
 			</tr>{%endfor%}</tbody>
 		</table></details>
+		<p><small>renamed from <code>2026-archive</code> so jekyll would stop being annoying</small></p>
 	</section>
 
 <!--TEMPLATE
