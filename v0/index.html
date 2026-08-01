@@ -1,5 +1,18 @@
 ---
-layout: none
+layout: default3
+title: "code archive"
+css: "
+	a:active{opacity:.5;}
+	
+	ul{font-family:monospace; font-size:1.15em; line-height:1.35; max-width:50em;}
+	li{margin:.75em 0;}
+	li p{margin:0 0 0 1em; font-family:verdana,sans-serif; font-size:.75em; line-height:1.5;}
+	li p+p{text-indent:1em;}
+	code{font-size:1.25em;}
+	
+	footer{margin:1em 0;}
+	#date{font-style:italic; text-align:right;}
+"
 
 desc: |-
   pages scrounged up from tumblr & glitch.me, in various states of completion. Other than fixing some old and/or broken links<!-- including an image migration from imgur to postimg-->, they've been copied here exactly as made.
@@ -49,39 +62,12 @@ pages:
   desc: |-
     I really wanted to make my own version of [an old dragon size visualizer](https://emcall.github.io/dragonsizes/). I never got around to finishing my own version of a dragon size visualizer. JavaScript is hard.
 ---
-<!doctype html>
-<html>
-<head>
-	
-	<title>dragonotes code archive</title>
-	<style>
-		a{color:#731d08;}
-		a:hover,a:focus,a:active{color:#b0734f;}
-		a:active{opacity:.5;}
-		
-		ul{font-family:monospace; font-size:1.15em; line-height:1.35; max-width:50em;}
-		li{margin:.75em 0;}
-		li p{margin:0 0 0 1em; font-family:verdana,sans-serif; font-size:.75em; line-height:1.5;}
-		li p+p{text-indent:1em;}
-		code{font-size:1.25em;}
-		
-		footer{margin:1em 0;}
-		#date{font-style:italic; text-align:right;}
-		
-		@media (prefers-color-scheme:dark){
-			body{background:#202020; color:#efefef;}
-			a{color:#44c2f8;}
-		}
-	</style>
-</head><body>
-
 <h1><a href="{%include url.html%}">dragonotes</a> before dragonotes</h1>
 {{page.desc|markdownify}}
 
 <ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}{%if p.url=='loredump'%}.txt{%endif%}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
 
 <footer>
-	<div id="date"><small>[page created 2025-08-13. layout edited 2026-05-25]</small></div>
+	<!--<div id="date"><small>[page created 2025-08-13. layout edited 2026-05-25]</small></div>-->
 	<a href="{%include url.html%}">← back to dragonotes index</a>
 </footer>
-</body></html>

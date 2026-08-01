@@ -1,5 +1,26 @@
 ---
-layout: none
+layout: default3
+title: badge hoard
+css: "
+	.sc{font-variant:small-caps; text-transform:lowercase;}
+	
+	h2{margin-bottom:0; text-align:center;}
+	
+	#badges{text-align:center; list-style-type:none; padding:0; font-family:verdana,sans-serif; font-size:.85em; line-height:1; display:flex; flex-wrap:wrap; justify-content:center; margin-top:1em;}
+	#badges>li{display:inline-block; background:#dfdfdf; margin:5px; padding:.5em .75em;}
+	#badges a{text-decoration:none;}
+	#badges .txt{margin:.25em 0 .5em;}
+		#badges b{display:block;}
+		#badges i{display:block; margin:.5em 0 0; font-size:.85em; font-style:normal;}
+	.bd{list-style-type:none; padding:0;}
+	img{max-height:100px; width:auto;}
+	.bd li{display:inline-block; margin:5px; vertical-align:top;}
+	.wh{margin:2.5px auto 0; max-width:100px; text-align:center;}
+	
+	@media (prefers-color-scheme:dark){
+		#badges>li{background:#000;}
+	}
+"
 
 # fuck it. it's a spreadsheet now
 badges:
@@ -1049,52 +1070,22 @@ badges:
     img: https://i.imgur.com/5X7Yqi5.gif
     by: "RaiStarDragon#361447"
 ---
-<!doctype html>
-<html lang="en">
-<head>
-	<title>dragonotes | badge hoard</title>
-	<style>
-		.sc{font-variant:small-caps; text-transform:lowercase;}
-		
-		h2{margin-bottom:0; text-align:center;}
-		
-		#badges{text-align:center; list-style-type:none; padding:0; font-family:verdana,sans-serif; font-size:.85em; line-height:1; display:flex; flex-wrap:wrap; justify-content:center; margin-top:0;}
-		#badges>li{display:inline-block; background:#efefef; margin:5px; padding:.5em .75em;}
-		#badges a{color:#731d08; text-decoration:none;}
-		#badges .txt{margin:.25em 0 .5em;}
-			#badges b{display:block;}
-			#badges i{display:block; margin:.5em 0 0; font-size:.85em; font-style:normal;}
-		.bd{list-style-type:none; padding:0;}
-		img{max-height:100px; width:auto;}
-		.bd li{display:inline-block; margin:5px; vertical-align:top;}
-		.wh{margin:2.5px auto 0; max-width:100px; text-align:center;}
-		
-		@media (prefers-color-scheme:dark){
-			body{background:#202020; color:#efefef;}
-			a,#badges a{color:#44c2f8;}
-			#badges>li{background:#000;}
-		}
-	</style>
-</head>
-<body>
-	<h1><a href="{%include url.html%}">dragonotes</a> » shameless collection of shiny things</h1>
-	<p>no fancy formatting this round. Look At Them</p>
-	<ul>
-		<li>no title link = in-flight</li>
-		<li>image credits in the alt/hover text</li>
-		<li>no description = basically a participation badge</li>
-	</ul>
-	
-	<h2>Plagueling era</h2>
-	<ul id="badges">{%for b in page.badges%}<li class="{{b.flight}}">
-		<div class="txt">
-			<b>{%unless b.url contains "fl2" or b.url contains "fd2"%}<a href="https://www1.flightrising.com/forums/{{b.url}}">{%endunless%}{{b.event}}{%unless b.url contains "fl2" or b.url contains "fd2"%}</a>{%endunless%}</b>
-			<i>{{b.date|date:"%B&nbsp;%d, %Y"}}</i>
-		</div>
-		<ul class="bd">{%for bd in b.badges%}<li>{%if forloop.first%}{%capture by%}{{bd.by}}{%endcapture%}{%endif%}
-			<img src="{{bd.img}}" alt="{%if bd.by%}badge{%unless forloop.last%}s{%endunless%} by {{bd.by}}{%endif%}" title="badge by {%if bd.by%}{{bd.by}}{%else%}{{by}}{%endif%}">{%unless bd.how=="~~~"%}<div class="wh">
-			<small>{%if bd.task=="treasure"%}earned{%endif%}{%if bd.task=="lvl"%}{%if b.flight=="plague"%}exalted{%else%}sent{%endif%}{%endif%}{%if bd.task contains "ex"%}exalted{%endif%}{%if bd.task=="send"%}sent{%endif%} {{bd.how}} {%if bd.task=="treasure"%}treasure{%endif%}{%if bd.task=="lvl"%}levels{%endif%}{%if bd.task contains "ex"%}<span class="sc">LVL</span>{%if bd.task=="ex5"%}5{%else%}8{%endif%}s{%endif%}{%if bd.task=="send"%}dragons{%endif%}</small></div>{%endunless%}
-		</li>{%endfor%}</ul>
+<h1><a href="{%include url.html%}">dragonotes</a> » shameless collection of shiny things</h1>
+<p>no fancy formatting this round. Look At Them</p>
+<ul>
+	<li>no title link = in-flight</li>
+	<li>image credits in the alt/hover text</li>
+	<li>no description = basically a participation badge</li>
+</ul>
+
+<!--<h2>Plagueling era</h2> (commenting this out bc I have not tracked since switching flights ope)-->
+<ul id="badges">{%for b in page.badges%}<li class="{{b.flight}}">
+	<div class="txt">
+		<b>{%unless b.url contains "fl2" or b.url contains "fd2"%}<a href="https://www1.flightrising.com/forums/{{b.url}}">{%endunless%}{{b.event}}{%unless b.url contains "fl2" or b.url contains "fd2"%}</a>{%endunless%}</b>
+		<i>{{b.date|date:"%B&nbsp;%d, %Y"}}</i>
+	</div>
+	<ul class="bd">{%for bd in b.badges%}<li>{%if forloop.first%}{%capture by%}{{bd.by}}{%endcapture%}{%endif%}
+		<img src="{{bd.img}}" alt="{%if bd.by%}badge{%unless forloop.last%}s{%endunless%} by {{bd.by}}{%endif%}" title="badge by {%if bd.by%}{{bd.by}}{%else%}{{by}}{%endif%}">{%unless bd.how=="~~~"%}<div class="wh">
+		<small>{%if bd.task=="treasure"%}earned{%endif%}{%if bd.task=="lvl"%}{%if b.flight=="plague"%}exalted{%else%}sent{%endif%}{%endif%}{%if bd.task contains "ex"%}exalted{%endif%}{%if bd.task=="send"%}sent{%endif%} {{bd.how}} {%if bd.task=="treasure"%}treasure{%endif%}{%if bd.task=="lvl"%}levels{%endif%}{%if bd.task contains "ex"%}<span class="sc">LVL</span>{%if bd.task=="ex5"%}5{%else%}8{%endif%}s{%endif%}{%if bd.task=="send"%}dragons{%endif%}</small></div>{%endunless%}
 	</li>{%endfor%}</ul>
-</body>
-</html>
+</li>{%endfor%}</ul>
