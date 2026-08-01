@@ -2,43 +2,57 @@
 layout: default3
 title: great wall of dragons
 css: "
-	.dragobox{font-size:12px; max-width:1400px /*800 for 5, 1200 for 8, 1215 for 9, 1400 for 10*/; margin-top:2em;}
-	ul{padding:0; margin:-.75em 0 0 .25em;} li{display:inline-block; margin-left:.75em;}
+	body{text-align:center; font-family:verdana,sans-serif; font-size:.85em;}
+	
+	#dragobox{font-size:12px; max-width:1400px /*800 for 5, 1200 for 8, 1215 for 9, 1400 for 10*/; margin-top:2em; margin:0 auto;}
+	#dragobox ul{padding:0; margin:-.75em 0 0 .25em;} #dragobox li{display:inline-block; margin-left:.75em;}
 	.nart{border:2px solid #731D08; background:linear-gradient(#dfdfdf,#bfbfbf) !important;}
 	
-	.dragobox figure{display:inline-block; background:#dfdfdf; width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;} .dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
-	.dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
-	.dragobox a:hover,.dragobox a:focus,.dragobox a:active{opacity:.5;}
+	#dragobox figure{display:inline-block; background:#dfdfdf; width:125px; text-align:center; margin:20px 5px; border-radius:10px; height:115px; position:relative;}
+	#dragobox figcaption{font-family:verdana,sans-serif; padding:10px 5px 10px; font-weight:bold; color:#731D08;}
+	#dragobox figure img{margin-top:-25px;} .bab{padding-top:30px;}
+	#dragobox a:hover,#dragobox a:focus,#dragobox a:active{opacity:.5;}
+	
+	details{border:1px solid #808080; border-color:rgba(128,128,128,.5); border-radius:.5rem; max-width:40em; margin:1em auto 2em; overflow:hidden;}
+	summary{padding:.5em; background:#dfdfdf;}
+	summary:hover,summary:active{cursor:pointer; opacity:.5;}
+	details ul{text-align:left; padding:0 1.5em 0 2em; line-height:1.425;}
+	details li{margin:.75em 0; padding-left:.5em;}
 	
 	@media (prefers-color-scheme:dark){
-		a,.dragobox figcaption{color:#44c2f8;}
-		.dragobox figure{background:#101010;}
+		a,#dragobox figcaption{color:#44c2f8;}
+		#dragobox figure,summary{background:#101010;}
 		.nart{background:linear-gradient(#202020,#101010) !important; border-color:inherit;}
 	}
 "
+
+factoids: |-
+  - Dragons are **chronologically ordered** by the date I obtained them.
+  - not shown: [not-FR character dragons](https://www1.flightrising.com/den/138250/1526429) & [non-hibernating lizards](https://www1.flightrising.com/lair/138250). Keepers among the latter will be added here when they're finished!
+  - "finished" = gened up & (optionally) dressed to my liking, and unlikely to change again in the near future. The benchmarks are arbitrary, yes.
+  - Some dragons may appear slightly different (e.g. accents or apparel) on FR, because these images are **manually saved** to my site, [not](https://www1.flightrising.com/forums/help/2788761#post_2788761) directly hotlinked! For art, defer to the FR version.
+  - Occasionally I shift dragons back to the main lair to revisit them in some way. Don't worry about it.
 ---
 <h1><a href="{%include url.html%}">dragonotes</a> dragon page</h1>
 
-<p>All my finished lizards at a glance.</p>
+<p>All <b>{{site.data.dragons.size}}</b> of my finished lizards at a glance.</p>
 
 <p>border = dragon doesn’t have art yet</p>
 <!--on a technicality only: Falsework (WIP), Axius & Zachariah (headshots), Alcho (design brainstorming); Delphi & Drosera's arts are pre-scatter-->
 {%assign nart="Drosera,Falsework,Axius,Zachariah,Alcho,Delphi,Drosera"%}
 
-<div class="dragobox">{%for drg in site.data.dragons%}{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}<a href="https://www1.flightrising.com/dragon/{{drg.id}}"><figure id="{{drg.nm}}"{%unless art contains drg.nm%} class="nart"{%endunless%}{%if nart contains drg.nm%} class="nart"{%endif%}>
+<div id="dragobox">{%for drg in site.data.dragons%}{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}<a href="https://www1.flightrising.com/dragon/{{drg.id}}"><figure id="{{drg.nm}}"{%unless art contains drg.nm%} class="nart"{%endunless%}{%if nart contains drg.nm%} class="nart"{%endif%}>
 	<img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_100.png" alt="{{drg.nm}}"{%if drg.age%} class="bab"{%endif%}/>
 	<figcaption{%if drg.nm.size==16%} style="font-size:.85em;"{%endif%}>{{drg.nm}}</figcaption>
 </figure></a>{%endfor%}</div>
 
-<p><span style="font-family:monospace; font-size:1.25em;"><b style="text-transform:uppercase;font-weight:normal;">dragon count</b>: {{site.data.dragons.size}}</b></span><br/>
-<small>*does not include <a href="https://www1.flightrising.com/den/138250/1526429">fandragons</a> or <a href="https://www1.flightrising.com/lair/138250">non-hibernating lizards</a></small></p>
-</details>
-
 <!--
-	sorting-clusters:
-	- by breed (automatic)
-	- by aesthetic (manual)
-	- G1s +not-G1 gene projects
-	- coli builds
+	sorting clusters:
 	- artless
+	- by breed (automatic)
+	- [aesthetic placeholder, idk how this would work yet] (manual)
+	- G1s +not-G1 gene showoff
+	- coli builds
 -->
+
+<details><summary>random page factoids</summary>{{page.factoids|markdownify}}</details>

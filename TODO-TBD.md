@@ -3,9 +3,7 @@ trawl gdocs for stuff I can mirror here
 https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 
 # 2025-02-04
-- _data/dragons.yml
-	- re-include familiars/vistas/scenes?
-	- extra dates?
+- _data/dragons.yml: extra dates?
 - _layouts/dragons.html
 	- integrate art from data; include ids via forloop (a1,a2,a3) for individual styling
 		- use an "if contains" NOT an ==, since some arts have multiple dragons
@@ -47,12 +45,16 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 	- id: [character name, song title; can skip for sonas bc that's personal]
 	- link: [song link (bandcamp if possible, official youtube second), character "canon" page; sonas variable... skip Frog, dragonotes/about Avi, toyshelf Zero+AFR]
 	- +whatever tf else I put in the fandragon data lol, see codetests/biomaker. some of it (tagline, item, search, DATES, og-url/-img) can be folded into *all* dragons' data
+^[7/31] a thought: the deciding factor is the ~character's ORIGIN. e.g. Avi and Frog were dragons first, personal second, and do *not* exist outside FR. even the song dragons are only here bc they were scried based on the song; I have no not-FR-related version of them.
+	this benchmark fails if I ever turn a FR dragon into a not-FR oc but I am not terribly inclined to do that, so !!
 
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
-# 2026-07-26
-+ADD ARTFIGHT DRAWS!! Midst +buncha banescales
-
+# 2026-07-26/31
+- art TBA:
+	- ArtFight Midst, banescales, Asclepius
+	- SehrPoltern headshot
+- change Poltergeist's name+image when re-hibernating
 
 
 [keep this at the bottom:]
