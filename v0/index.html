@@ -10,7 +10,6 @@ css: "
 	li p+p{text-indent:1em;}
 	code{font-size:1.25em;}
 	
-	footer{margin:1em 0;}
 	#date{font-style:italic; text-align:right;}
 "
 
@@ -67,7 +66,7 @@ pages:
 
 <ul>{%for p in page.pages%}<li><small>{{p.dt}}</small> <a href="{{p.url}}{%if p.url=='loredump'%}.txt{%endif%}"><b>{{p.url}}</b>{%unless p.url contains "tumblr" or p.url=="loredump"%}.html{%endunless%}</a>{{p.desc|markdownify}}</li>{%endfor%}</ul>
 
-<footer>
-	<!--<div id="date"><small>[page created 2025-08-13. layout edited 2026-05-25]</small></div>-->
+<!--<footer>
+	<div id="date"><small>[page created 2025-08-13. layout edited 2026-05-25]</small></div>
 	<a href="{%include url.html%}">← back to dragonotes index</a>
-</footer>
+</footer>-->

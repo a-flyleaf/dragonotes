@@ -3,6 +3,7 @@
 body{background:#efefef;}
 a{color:#731d08;} a:focus,a:hover,a:active{color:#b0734f; text-decoration:none;}
 ::selection{background:#731d08; color:#efefef;}
+footer{margin:1em 0;}
 @media (prefers-color-scheme:dark){
 	body{background:#202020; color:#efefef;}
 	a{color:#44c2f8;} a:focus,a:hover,a:active{color:#fff;}
