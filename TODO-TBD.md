@@ -38,7 +38,7 @@ any bio using the ancient first layout is gonna look like ass without imgur & in
 
 # 2026-07-20
 ## frostbite page
-is cleaner now yay. now finish it,
+is cleaner now yay. to be revisited intermittently
 
 ## data hell
 are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amaranta). idc anymore just put All the data here & add a "media" section if relevant. like
@@ -49,6 +49,9 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 	- +whatever tf else I put in the fandragon data lol, see codetests/biomaker. some of it (tagline, item, search, DATES, og-url/-img) can be folded into *all* dragons' data
 
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
+
+# 2026-07-26
++ADD ARTFIGHT DRAWS!! Midst +buncha banescales
 
 
 

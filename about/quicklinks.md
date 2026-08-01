@@ -158,14 +158,16 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>06</td><td>17</td><td><s>Poltergeist</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
-		<tr><td>28</td><td>Bharlowe</td></tr>
+		<tr><td>28</td><td>BharloweXaxely</td></tr>
 		<tr><td>09</td><td>29</td><td>Alien</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="4">2026</td><td>04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
-		<tr><td>04</td><td>23</td><td>[Anais x Radijacija]</td></tr>
+		<tr><td rowspan="6">2026</td><td rowspan="2">04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
+		<tr><td>23</td><td>[Anais x Radijacija]</td></tr>
+		<tr><td>05</td><td>21</td><td>Zmaj</td></tr>
 		<tr><td>06</td><td>24</td><td>CinnadustShading</td></tr>
-		<tr><td>07</td><td>06</td><td>Altair</td></tr>
+		<tr><td rowspan="2">07</td><td>06</td><td>Altair</td></tr>
+		<tr><td>26</td><td>Watermelon</td></tr>
 	</tbody>
 </table>
 
