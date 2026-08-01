@@ -32,6 +32,7 @@ miscellaneous stuff for my own reference
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 - [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
+- [Charta the Rarity Report](https://www1.flightrising.com/dragon/19590417) (gene rarity per species)
 
 <details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline-block;">coli checklist [outdated]</h2></summary>
 
@@ -155,7 +156,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
 		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan</s>, [Vertex]</td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
-		<tr><td>06</td><td>17</td><td><s>Poltergeist</s></td></tr>
+		<tr><td>06</td><td>17</td><td><s>SehrPoltern</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td>BharloweXaxely</td></tr>
@@ -177,7 +178,7 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 
 ----
 
-<details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
+<details markdown="1" OPEN><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
 
 ### all G1s I've hatched (to memory)
 (see below for breed release G1s)
@@ -187,9 +188,8 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 - <b>[InexplicableFern](https://www1.flightrising.com/dragon/77584677)</b>: random fodderlocke drop & surprise XXY, went with the cheaper scry for a letter gimmick (FPL)
 - <b>[Sretno](https://www1.flightrising.com/dragon/91709273)</b>: a bunch of friends were getting crazy hatch luck and this guy spawned in the frenzy
 - [big ol' 2025-05-25 hatch batch](https://www1.flightrising.com/forums/qnc/3072455/35#post_59001716): only [ElricAugury](https://www1.flightrising.com/dragon/103088848) and [PicaroCaravan](https://www1.flightrising.com/dragon/103088869) weren't sold
-- [two](https://www1.flightrising.com/dragon/106592160) [thorntails](https://www1.flightrising.com/dragon/106592161): clanbound breed release eggs, given away to [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
 
-### breed release lizards
+### breed release tracking
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
 - [2016 September: <i>Bogsneak</i>](http://www1.flightrising.com/forums/ann/1980784) - didn't brew an egg
 	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
@@ -222,24 +222,27 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- eventually acquired two wrestlehorses (see below)
 	- from this point on I started keeping fodder pairs, so I'll have at least 1 of every breed Around as soon as they hit fodder prices!
 - [2025 November: <i>Thorntail</i>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
-	- might do a breed change or two eventually
+	- later breed-changed [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 - [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [SwampsandRequiem](https://www1.flightrising.com/dragon/109230622) & [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
+	- the latter did not stay a Vigil. the former, ?????
+- [TBA] 2026 August: Chorus - no release freebies
 
 ### dragos with frembs :>
 ordered by account ID
 
 - [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
-- [Rosaceae](https://www1.flightrising.com/clan-profile/154165): <b>[Jester](https://www1.flightrising.com/dragon/57606297)</b>---inside joke. goop is hell.
 - [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>---borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
 - [Starbrite](https://www1.flightrising.com/clan-profile/325229):
 	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
 	- <b>[MJFriesian](https://www1.flightrising.com/dragon/103878580)</b> & <b>[KrisShetlander](https://www1.flightrising.com/dragon/103878581)</b>---adopted, first Cirrus nest
 	- <b>[Alien](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, taken in after a glimpse
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
-- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988):
-	- [Raizel](https://www1.flightrising.com/dragon/40109738)---bred in (since-closed) hatchery. rehomed!
-	- <b>[Poltergeist](https://www1.flightrising.com/dragon/50297105)</b>---former perma
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): [<s>Poltergeist</s> <b>SehrPoltern</b>](https://www1.flightrising.com/dragon/50297105)---former perma
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
+
+#### rehomed
+- [Rosaceae](https://www1.flightrising.com/clan-profile/154165): <b>[Jester](https://www1.flightrising.com/dragon/57606297)</b>---inside joke. goop is hell.
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery. rehomed!
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
 
 </details>
