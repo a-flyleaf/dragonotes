@@ -98,9 +98,10 @@ layout: none
 				<th rowspan="2">fl</th>
 				<th rowspan="2">dr</th>
 				<th colspan="2">by</th>
+				<th colspan="3">base</th>
 			</tr><tr>
-				<th>fr</th>
-				<th>nm</th>
+				<!--by--><th>fr</th><th>nm</th>
+				<!--base--><th>fr</th><th>nm</th><th>src</th>
 			</tr></thead>
 			<tbody>{%assign achrono=site.data.art|sort:"dt"%}{%for a in achrono%}<tr class="{%cycle 'odd','even'%}">
 				<td class="img{%if a.ver%} ver{%endif%}"><!--spaced this out so it's easier to copypaste the URL-->
@@ -121,6 +122,9 @@ layout: none
 				<td>{%for d in a.dr%}{{d}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
 				<td{%unless a.by%} class="empty"{%endunless%}><a href="https://www1.flightrising.com/clan-profile/{{a.by.fr}}" target="_blank">{{a.by.fr}}</a></td>
 				<td{%unless a.by%} class="empty"{%endunless%}>{{a.by.nm}}</td>
+				<td{%unless a.base%} class="empty"{%endunless%}><a href="https://www1.flightrising.com/clan-profile/{{a.base.fr}}" target="_blank">{{a.base.fr}}</a></td>
+				<td{%unless a.base%} class="empty"{%endunless%}>{{a.base.nm}}</td>
+				<td{%unless a.base%} class="empty"{%endunless%}>{%if a.base%}<a href="{{a.base.src}}" target="_blank">[link]</a>{%endif%}</td>
 			</tr>{%endfor%}</tbody>
 		</table>
 	</details>

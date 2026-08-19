@@ -57,9 +57,6 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 # 2026-08-02
 Layes is OUT cya Layes o7
 
-# 2026-08-10
-that colored-line Alto art can also go here. maybe make a new base/template-maker segment inthe data? +apply it retroactively to Carnation's bust
-
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done

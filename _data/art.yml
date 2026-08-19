@@ -1,16 +1,18 @@
-# - dt: 
-#   fl: OPTIONALfiletype
-#   ver:OPTIONAL
-#     - fl: 
-#       nm: 
-#     - fl: 
-#       nm: 
-#   dr: 
-#   by:
-#     fr: 
-#     nm: 
-# 
-# so far I only have art by artists on FR; other sites can use "by: tumblr:" or "by: toyshelf:" etc.
+#- dt: 
+#  fl: OPTIONALfiletype
+#  ver:OPTIONAL
+#    - fl: 
+#      nm: 
+#    - fl: 
+#      nm: 
+#  dr: 
+#  by:
+#    fr: 
+#    nm: 
+#  base:OPTIONAL
+#    fr:
+#    nm:
+#    src:
 # if same date then defer to dragon order, e.g. Pestilence before Fern. dw about onsite timestamps; the dates and usernames should be enough for me to dig up the original thread/PM if needed
 
 # BY ME
@@ -62,8 +64,11 @@
 - dt: 2019-12-18
   dr: Jester
 - dt: 2019-12-19
-#     base by sunflic#139800 <https://www1.flightrising.com/forums/cc/1832299>
   dr: Carnation
+  base:
+    fr: 139800
+    nm: sunflic
+    src: "https://www1.flightrising.com/forums/cc/1832299"
 - dt: 2020-02-03
   dr: Staccato
 - dt: 2020-05-11
@@ -124,8 +129,11 @@
 - dt: 2026-05-25
   dr: PicaroCaravan
 - dt: 2026-05-28
-#     base by sunflic#139800 <https://www1.flightrising.com/forums/cc/1832299>
   dr: Altostratus
+  base:
+    fr: 139800
+    nm: sunflic
+    src: "https://www1.flightrising.com/forums/cc/1832299"
 - dt: 2026-08-17
   dr: Syncopation
 #     bloodless; original is on art-2026
