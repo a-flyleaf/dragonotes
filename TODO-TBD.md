@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 	- concatenate & chronologize all dates [also above]
 
 - general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
-	- see gdocs for a couple (extremely dated) "art tracker" spreadsheets
+	- see gdocs for a couple (extremely, increasingly dated) "art tracker" spreadsheets
 	- BETTEr: post searches for [imgur](https://www1.flightrising.com/search/forums?term=i.imgur.com&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) & [postimg](https://www1.flightrising.com/search/forums?term=i.postimg.cc&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) (no results for imgbb/ibb.co as of 2025-08-13)
 		- +imgbox maybe? think I've mostly only used that for graphic reuploads (as of 2026-07-13)
 
@@ -34,11 +34,7 @@ random thought: dragon proportions but they're just like. little boxes. msr can 
 
 any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
 
-# 2026-07-20
-## frostbite page
-is cleaner now yay. to be revisited intermittently
-
-## data hell
+# 2026-07-20 data hell
 are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amaranta). idc anymore just put All the data here & add a "media" section if relevant. like
 - media:
   - typ: [song,dnd,oc,tfe etc,sona]
@@ -50,10 +46,10 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
+[8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
+
 # 2026-07-26/31
-- art TBA:
-	- ArtFight Midst, banescales, Asclepius
-	- SehrPoltern headshot
+- art TBA: SehrPoltern headshot
 - change Poltergeist's name+image when re-hibernating
 
 - do we want a farewell amnesty page. in which case /dragons can get its own folder again
