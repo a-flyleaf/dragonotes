@@ -5,14 +5,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>dragonotes | {{page.name}}</title>
+		<title>dragonotes | {{page.drg-name}}</title>
 		<link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/dragons.css"/><link rel="stylesheet" type="text/css" href="{%include url.html%}/assets/colors.css"/>{%if page.css%}<style>{{page.css}}</style>{%endif%}
 	</head>
 	<body>
-	{%assign who = site.data.dragons | where:"nm",page.name%}
+	{%assign who = site.data.dragons|where:"nm",page.drg-name%}
 	<div id="wrap">
 	{%for drg in who%}
-		<header id="header"><b><a href="{%include url.html%}" target="_blank">dragonotes</a></b> » <a href="{%include url.html%}/dragons">dragons</a> » {{page.name}}</header>
+		<header id="header"><b><a href="{%include url.html%}" target="_blank">dragonotes</a></b> » <a href="{%include url.html%}/dragons">dragons</a> » {{drg.nm}}</header>
 		
 		<hr class="layout">
 		
@@ -24,7 +24,7 @@
 				</div>
 				<div id="drg-img">
 					<div id="scene" style="background-image:url({%include url.html%}/assets/img/{%if page.scene%}items/{{page.scene}}.png{%else%}other/scn-{{drg.element}}.jpg{%endif%});"></div>
-					<div id="img"><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_350.png" alt="{{page.name}}"></div>
+					<div id="img"><img src="{%include url.html%}/assets/img/dragons/{{drg.id}}_350.png" alt="{{drg.nm}}"></div>
 				</div>
 			</header>
 			
@@ -94,7 +94,7 @@
 			
 			<main id="content">
 				<h2>info</h2>
-				<div class="box"><div class="pad">{{page.content}}</div></div>
+				<div class="box"><div class="pad">{{page.content|markdownify}}</div></div>
 			</main>
 			
 			{%if page.art%}<section id="gallery">
@@ -109,15 +109,15 @@
 			</section>{%endif%}<!--/gallery-->
 			
 			<footer id="cat">
-				<h2 class="x">categories</h2>{%assign site-d=site.dragons%}
+				<h2 class="x">categories</h2>{%assign site-d="Maelstrom,Lapilli,Altostratus,solar"|split:","%}
 				<details class="fbox">
 					<summary><h3>dragons by element</h3></summary>
 					<div class="cat-content">{%for el in site.data.elements%}
 						<h4>{{el.nm}}</h4>
 						{%assign el-nm=el.nm|downcase%}
 						{%assign ele=site.data.dragons|where:"element",el-nm%}
-						<ul>{%for drg in ele%}
-							<li>{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}<a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%endif%}{%endfor%}{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}</a>{%endif%}{%endfor%}</li><!--this is ugly but the else/notyet didn't work due to weird loop shit; once everyone's here this can just be a simple link with the if-bold-->
+						<ul>{%for drg-c in ele%}
+							<li>{%if site-d contains drg-c.nm%}<a href="{%include url.html%}/dragons/{{drg-c.nm|downcase}}">{%endif%}{%if drg-c.nm==drg.nm%}<b>{%endif%}{{drg-c.nm}}{%if drg-c.nm==drg.nm%}</b>{%endif%}{%if site-d contains drg-c.nm%}</a>{%endif%}</li>
 						{%endfor%}</ul>
 					{%endfor%}</div>
 				</details>
@@ -127,17 +127,17 @@
 					<div class="cat-content">{%for br in breeds%}
 						<h4>{{br.nm|capitalize}}</h4>
 						{%assign bre=site.data.dragons|where:"breed",br.nm%}
-						<ul>{%if bre==empty%}<i class="nop">[none]</i>{%endif%}{%for drg in bre%}
-							<li>{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}<a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%endif%}{%endfor%}{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}{%for sdrag in site-d%}{%if drg.nm==sdrag.name%}</a>{%endif%}{%endfor%}</li><!--ugly, same as above-->
+						<ul>{%if bre==empty%}<i class="nop">[none]</i>{%endif%}{%for drg-c in bre%}
+							<li>{%if site-d contains drg-c.nm%}<a href="{%include url.html%}/dragons/{{drg-c.nm|downcase}}">{%endif%}{%if drg-c.nm==drg.nm%}<b>{%endif%}{{drg-c.nm}}{%if drg-c.nm==drg.nm%}</b>{%endif%}{%if site-d contains drg-c.nm%}</a>{%endif%}</li>
 						{%endfor%}</ul>
 					{%endfor%}</div>
 				</details>
 				<details class="fbox" id="lore">
 					<summary><h3>dragons by lore affiliation</h3></summary>
-					<div class="cat-content">{%assign dr=site.data.dragons%}
+					<div class="cat-content">
 						<h4>Viral Evolution</h4>
-						<ul>{%for drg in dr%}{%if drg.cat contains 'virevo'%}
-							<li><a href="{%include url.html%}/dragons/{{drg.nm|downcase}}">{%if drg.nm==page.name%}<b>{%endif%}{{drg.nm}}{%if drg.nm==page.name%}</b>{%endif%}</a></li>
+						<ul>{%for drg-c in site.data.dragons%}{%if drg-c.cat contains 'virevo'%}
+							<li><a href="{%include url.html%}/dragons/{{drg-c.nm|downcase}}">{%if drg-c.nm==drg.nm%}<b>{%endif%}{{drg-c.nm}}{%if drg-c.nm==drg.nm%}</b>{%endif%}</a></li>
 						{%endif%}{%endfor%}</ul>
 						<!--will figure these out as I come across them-->
 						<h4>The Inn</h4>

@@ -1,7 +1,8 @@
 ---
 layout: dragons
 slug: altostratus
-name: Altostratus
+permalink: dragons/altostratus
+drg-name: Altostratus
 broadcast: "first bought/third ever dragon"
 
 familiar:

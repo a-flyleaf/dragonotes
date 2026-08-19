@@ -1,7 +1,8 @@
 ---
 layout: dragons
 slug: solar
-name: solar
+permalink: dragons/solar
+drg-name: solar
 broadcast: "first gift dragon"
 
 familiar:

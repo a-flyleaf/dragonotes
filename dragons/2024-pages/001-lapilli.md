@@ -1,7 +1,8 @@
 ---
 layout: dragons
 slug: lapilli
-name: Lapilli
+permalink: dragons/lapilli
+drg-name: Lapilli
 broadcast: random progen
 
 familiar:

@@ -1,7 +1,8 @@
 ---
 layout: dragons
 slug: maelstrom
-name: Maelstrom
+permalink: dragons/maelstrom
+drg-name: Maelstrom
 broadcast: custom progen
 
 familiar:
