@@ -49,7 +49,6 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
 
 # 2026-07-26/31
-- art TBA: SehrPoltern headshot
 - change Poltergeist's name+image when re-hibernating
 
 - do we want a farewell amnesty page. in which case /dragons can get its own folder again
@@ -60,9 +59,6 @@ Layes is OUT cya Layes o7
 
 # 2026-08-10
 that colored-line Alto art can also go here. maybe make a new base/template-maker segment inthe data? +apply it retroactively to Carnation's bust
-
-# 2026-08-17
-aaand now there's a Syncopation art! put the bloodless version here, goreshine is on the art-2026 site
 
 
 [keep this at the bottom:]

@@ -62,7 +62,7 @@
 - dt: 2019-12-18
   dr: Jester
 - dt: 2019-12-19
-#     uses a base, see onsite bio
+#     base by sunflic#139800 <https://www1.flightrising.com/forums/cc/1832299>
   dr: Carnation
 - dt: 2020-02-03
   dr: Staccato
@@ -123,9 +123,12 @@
   dr: ElricAugury
 - dt: 2026-05-25
   dr: PicaroCaravan
-- dt: 2016-05-28
-#     uses a base, see onsite bio
+- dt: 2026-05-28
+#     base by sunflic#139800 <https://www1.flightrising.com/forums/cc/1832299>
   dr: Altostratus
+- dt: 2026-08-17
+  dr: Syncopation
+#     bloodless; original is on art-2026
 
 # /NOTMINE
 - dt: 2016-03-10
@@ -187,6 +190,14 @@
     fr: 412694
     nm: Pearlimose
 
+- dt: 2019-05-10
+# via <https://www1.flightrising.com/forums/art/2677855/8#post_38884250> + <https://imgur.com/XvRIIYg>
+  dr: SehrPoltern
+  by:
+    fr: 406240
+    nm: Z0RUAS
+# seems to have been "satanbacons" at the time of drawing---BUT since I'm scrounging this up retroactively I'm using the current username
+
 - dt: 2019-12-01
   dr: Iko
   by:
@@ -226,7 +237,7 @@
 
 - dt: 2020-01-29
 #     based on imgur upload date https://i.imgur.com/fvd7qrQ.png
-  dr: Poltergeist
+  dr: SehrPoltern
   by:
     fr: 283748
     nm: nm8426
@@ -455,14 +466,14 @@
 
 - dt: 2025-06-17
 #     based on imgur upload date https://i.imgur.com/Is1ufXj.png
-  dr: Poltergeist
+  dr: SehrPoltern
   by:
     fr: 342988
     nm: PricklyGoose
 # unsure which of these two came first; ordered here as in bio
 - dt: 2025-06-17
 #     based on imgur upload date https://i.imgur.com/tGjOFmW.png
-  dr: Poltergeist
+  dr: SehrPoltern
   by:
     fr: 410459
     nm: PlagueDoc
@@ -489,32 +500,32 @@
     fr: 698044
     nm: CrazyRaptrmega
 
-- dt: 2025-05-25
+- dt: 2026-05-25
   dr: Second
   by:
     fr: 501617
     nm: Popvip
 
- - dt: 2026-07-07
-   fl: gif
-   dr: Midst
-   by:
-     fr: 525455
-     nm: Lasercat
+- dt: 2026-07-07
+  fl: gif
+  dr: Midst
+  by:
+    fr: 525455
+    nm: Lasercat
 # via ArtFight!
 
- - dt: 2026-07-23
-   dr: 
-   dr: [Katsura,Holly,Falsework,Vivace,Andante]
-   by:
-     fr: 154091
-     nm: SilverGear
+- dt: 2026-07-23
+  dr: 
+  dr: [Katsura,Holly,Falsework,Vivace,Andante]
+  by:
+    fr: 154091
+    nm: SilverGear
 # via ArtFight! fullsize is onsite only
 
- - dt: 2026-07-30
-   fl: gif
-   dr: Asclepius
-   by:
-     fr: Ksenyaeeh
-     nm: 642132
+- dt: 2026-07-30
+  fl: gif
+  dr: Asclepius
+  by:
+    fr: 642132
+    nm: Ksenyaeeh
 # via ArtFight!
