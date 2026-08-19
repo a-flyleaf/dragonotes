@@ -56,6 +56,18 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 	- SehrPoltern headshot
 - change Poltergeist's name+image when re-hibernating
 
+- do we want a farewell amnesty page. in which case /dragons can get its own folder again
+- maybe fandragons + farewell on the same not-public-facing page? idk. records for the hell of it.
+
+# 2026-08-02
+Layes is OUT cya Layes o7
+
+# 2026-08-10
+that colored-line Alto art can also go here. maybe make a new base/template-maker segment inthe data? +apply it retroactively to Carnation's bust
+
+# 2026-08-17
+aaand now there's a Syncopation art! put the bloodless version here, goreshine is on the art-2026 site
+
 
 [keep this at the bottom:]
 **skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done

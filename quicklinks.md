@@ -195,16 +195,18 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
 - [2019 June: <i>Gaoler</i>](https://www1.flightrising.com/forums/ann/2694544) - no release freebies
 	- have had multiple non-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and [Dusk](https://www1.flightrising.com/dragon/96501597) (gifted & re-gifted)
+	- maaaaybe breed change for [Galena](https://www1.flightrising.com/dragon/20722709) eventually?
 - [2019 December: <b>Banescale</b>](http://www1.flightrising.com/forums/ann/2788016) - hatched [Andante](https://www1.flightrising.com/dragon/57362847) & [Vivace](https://www1.flightrising.com/dragon/57362941)!
-	- collected other release day G1s for a while there; most have since left my lair
+	- collected other release day G1s for a while there; most have since left my lair, but a surprising amount are still around!
 - [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
 	- I have a small handful now :>
 - [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
-	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) and later [Drosera](https://www1.flightrising.com/dragon/12989339) were breed-changed
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) and later [Drosera](https://www1.flightrising.com/dragon/12989339) were breed-changed into obes
 - [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
 	- have since acquired multiple abers
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
 	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide....
+	- Vivace someday maybe???
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
@@ -213,7 +215,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- [Second](https://www1.flightrising.com/dragon/91709890) also got breed-changed during NotN&nbsp;2024
 - [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
 	- might hoard forever might save for some kind of occasion. idk!
-	- [Archibald](https://www1.flightrising.com/dragon/94537032) and his eventual descendant [XI](https://www1.flightrising.com/dragon/106349614) may be my token dusties 5ever
+	- [Archibald](https://www1.flightrising.com/dragon/94537032) and his descendant [XI](https://www1.flightrising.com/dragon/106349614) may be my token dusties 5ever
 - [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
 	- [Skiptrace](https://www1.flightrising.com/dragon/14639592) got breed-changed
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
@@ -236,13 +238,13 @@ ordered by account ID
 	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
 	- <b>[MJFriesian](https://www1.flightrising.com/dragon/103878580)</b> & <b>[KrisShetlander](https://www1.flightrising.com/dragon/103878581)</b>---adopted, first Cirrus nest
 	- <b>[Alien](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, taken in after a glimpse
-- [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---was going to be a NotN hatch reject but I yoinked ’em first
+- [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---NotN hatch reject, snagged before exaltation
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): [<s>Poltergeist</s> <b>SehrPoltern</b>](https://www1.flightrising.com/dragon/50297105)---former perma
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 
 #### rehomed
 - [Rosaceae](https://www1.flightrising.com/clan-profile/154165): <b>[Jester](https://www1.flightrising.com/dragon/57606297)</b>---inside joke. goop is hell.
-- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery. rehomed!
-- [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject but reminded me of sunset
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
+- [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject, reminded me of sunset
 
 </details>
