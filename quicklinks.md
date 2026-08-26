@@ -97,7 +97,7 @@ gray = hibernating; ! = date obtained not noted
 	<tbody><tr><td>2017</td><td>??</td><td>??</td><td><s>Carnation</s></td></tr></tbody>
 	<tbody>
 		<tr><td rowspan="2">2018</td><td>03</td><td>16</td><td><s>Midst</s></td></tr>
-		<tr><td>11</td><td>19</td><td><s>Exuberant</s></td></tr>
+		<tr><td>11</td><td>19</td><td><s>ExuberantRedux</s></td></tr>
 	</tbody><tbody>
 		<tr><td rowspan="7">2019</td><td>03</td><td>21</td><td><s>Comet</s></td></tr>
 		<tr><td>05</td><td>10</td><td><s>Amaranta</s></td></tr>
@@ -124,12 +124,11 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>14</td><td><s>Zachariah</s></td></tr>
 		<tr><td>18</td><td><s>dashcon</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="11">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
+		<tr><td rowspan="10">2022</td><td rowspan="2">01</td><td>05</td><td><s>Asclepius</s></td></tr>
 		<tr><td>09</td><td><s>Disappointtius</s></td></tr>
 		<tr><td>02</td><td>21</td><td><s>!Fred</s></td></tr>
-		<tr><td rowspan="3">03</td><td>07</td><td><s>Dmitri</s></td></tr>
+		<tr><td rowspan="2">03</td><td>07</td><td><s>Dmitri</s></td></tr>
 		<tr><td>10</td><td><s>Novak</s></td></tr>
-		<tr><td>27</td><td><s>Layes</s></td></tr>
 		<tr><td>04</td><td>24</td><td><s>InexplicableFern</s></td></tr>
 		<tr><td>05</td><td>18</td><td><s>Scylla</s></td></tr>
 		<tr><td>06</td><td>05</td><td><s>Ascher</s></td></tr>
@@ -154,16 +153,16 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan</s>, [Vertex]</td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan,</s> MisalignedVertex</td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td><s>SehrPoltern</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>HajnalRemaster</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td>BharloweXaxely</td></tr>
-		<tr><td>09</td><td>29</td><td>Alien</td></tr>
+		<tr><td>09</td><td>29</td><td>AlienCataclysm</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="6">2026</td><td rowspan="2">04</td><td>17</td><td>SwampsandRequiem, BygoneLapidarist</td></tr>
+		<tr><td rowspan="6">2026</td><td rowspan="2">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
 		<tr><td>23</td><td>[Anais x Radijacija]</td></tr>
 		<tr><td>05</td><td>21</td><td>Zmaj</td></tr>
 		<tr><td>06</td><td>24</td><td>CinnadustShading</td></tr>
@@ -206,7 +205,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- have since acquired multiple abers
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
 	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide....
-	- Vivace someday maybe???
+	- Vivace got breed-changed
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
@@ -222,12 +221,13 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 	- same indefinite limbo as dusthides
 - [2025 May: <i>Cirrus</i>](https://www1.flightrising.com/forums/ann/3416129) - no release freebies
 	- eventually acquired two wrestlehorses (see below)
-	- from this point on I started keeping fodder pairs, so I'll have at least 1 of every breed Around as soon as they hit fodder prices!
+	- started keeping fodder pairs from this point on; not noting fodder parents here
 - [2025 November: <i>Thorntail</i>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
 	- later breed-changed [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 - [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [SwampsandRequiem](https://www1.flightrising.com/dragon/109230622) & [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 	- the latter did not stay a Vigil. the former, ?????
-- [TBA] 2026 August: Chorus - no release freebies
+- [2026 August: <i>Chorus</i>](https://www1.flightrising.com/forums/ann/3489170) - no release freebies
+	- shortly thereafter re-acquired [this old trainee](https://www1.flightrising.com/dragon/27401805), who will probably be Chorus'd
 
 ### dragos with frembs :>
 ordered by account ID
@@ -237,7 +237,7 @@ ordered by account ID
 - [Starbrite](https://www1.flightrising.com/clan-profile/325229):
 	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
 	- <b>[MJFriesian](https://www1.flightrising.com/dragon/103878580)</b> & <b>[KrisShetlander](https://www1.flightrising.com/dragon/103878581)</b>---adopted, first Cirrus nest
-	- <b>[Alien](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, taken in after a glimpse
+	- <b>[AlienCataclysm](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, got a two-word rename
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---NotN hatch reject, snagged before exaltation
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): [<s>Poltergeist</s> <b>SehrPoltern</b>](https://www1.flightrising.com/dragon/50297105)---former perma
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from

@@ -788,7 +788,7 @@
     scene: 0
   cat: [lore]
 
-- nm: Exuberant
+- nm: ExuberantRedux
   id: 30271918
   element: water
   sex: m
@@ -2661,7 +2661,7 @@
 # 7/03 HajnalRemaster
 # 7/08 MJFriesian & KrisShetlander
 # 7/28 BharloweXaxely
-# 9/29 Alien
+# 9/29 AlienCataclysm
 
 - nm: ArchibaldXI
   id: 106349614
@@ -2688,7 +2688,35 @@
     hibern: 2026-04-17
   cat: [nolore]
 
-# 2026/4/17 SwampsandRequiem & BygoneLapidarist
+# 2026/4/17 SwampsandRequiem
+
+- nm: BygoneLapidarist
+  id: 109230624
+  element: light
+  sex: m
+  breed: thorntail
+  gen: 1
+  lvl: 11
+  msr:
+    length: 0.72
+    wings: 0.79
+    weight: 10.48
+  genes:
+    pri:
+      clr: lapis
+      gn: caiman
+    sec:
+      clr: metals
+      gn: foam
+    tert:
+      clr: coral
+      gn: coral
+    eye: unusual
+  dates:
+    hatch: 2026-04-17
+    hibern: 2026-08-26
+  cat: [lore]
+
 # 4/23 Anais x Radijacija hatch
 # 5/21 Zmaj
 # 6/24 CinnadustShading (kid of ^that imp)
