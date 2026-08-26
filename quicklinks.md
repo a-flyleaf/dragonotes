@@ -157,7 +157,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan</s>, [Vertex]</td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td><s>SehrPoltern</s></td></tr>
-		<tr><td rowspan="3">07</td><td>03</td><td>[shadownoc]</td></tr>
+		<tr><td rowspan="3">07</td><td>03</td><td>HajnalRemaster</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td>BharloweXaxely</td></tr>
 		<tr><td>09</td><td>29</td><td>Alien</td></tr>
@@ -178,7 +178,7 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 
 ----
 
-<details markdown="1" OPEN><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
+<details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline;">notable lizards</h2></summary>
 
 ### all G1s I've hatched (to memory)
 (see below for breed release G1s)

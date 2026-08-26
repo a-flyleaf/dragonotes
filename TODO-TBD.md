@@ -49,10 +49,19 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
 
 # 2026-07-26/31
-- change Poltergeist's image when re-hibernating
+- change SehrPoltern's image when re-hibernating
 
 - do we want a dragons-farewell amnesty page?
 - maybe fandragons + farewell on the same not-public-facing page?? idk. records for the hell of it.
+
+# 2026-08-19 via discord
+> KIERAN. THEY NERFED MY BOY….
+
+# 2026-08-26
+- hibernated BygoneLapidarist
+- renamed Alien -> AilenCataclysm
+- Exuberant: rename (SecondaryExuberance) + new image
+
 
 
 [keep this at the bottom:]
