@@ -52,12 +52,6 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 - do we want a dragons-farewell amnesty page?
 - maybe fandragons + farewell on the same not-public-facing page?? idk. records for the hell of it.
 
-# 2026-08-19 via discord
-> KIERAN. THEY NERFED MY BOY….
-
-# 2026-08-26
-- Chorus -> Chord (gene), add Chorus to data
-
 
 
 [keep this at the bottom:]

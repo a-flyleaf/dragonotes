@@ -2561,7 +2561,7 @@
   genes:
     pri:
       clr: cherry
-      gn: chorus
+      gn: chord
     sec:
       clr: overcast
       gn: flair
@@ -2588,7 +2588,7 @@
   genes:
     pri:
       clr: crimson
-      gn: chorus
+      gn: chord
     sec:
       clr: green
       gn: jester
