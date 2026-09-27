@@ -12,7 +12,12 @@ data-desc: |-
   - fixed image URLs (even though they remain broke on purpose)
   - removed special highlights for `has` & `other` category
 
+art-desc: |-
+  artist data is in the filename. which ik is not Ideal but eh....
+
 css: "
+	section+section{margin-top:2em;}
+	
 	details{border:1px solid #808080; border-color:rgba(128,128,128,.5);}
 	summary{padding:.5em 1em;} summary h2{display:inline;} details[open] summary{border-bottom:.5px dotted;}
 	details p{padding:0 1em;}
@@ -61,7 +66,7 @@ css: "
 <h1>{{page.title}}</h1>
 {%capture inc-url%}{%include url.html%}{%endcapture%}{{page.desc|markdownify}}
 
-<details>
+<section><details>
 	<summary><h2>data table</h2></summary>
 	{{page.data-desc|markdownify|replace:"INCURL",inc-url}}
 	<table id="dragons">
@@ -143,27 +148,33 @@ css: "
 			<td class="art art-{%if art contains d.nm%}y{%else%}n{%endif%}">{%if art contains d.nm%}Y{%else%}N{%endif%}</td>
 		</tr>{%endfor%}</tbody>
 	</table>
-</details>
+</details></section>
 
-<h2>the actual dragons</h2>
-<ul id="cya" class="nolist">{%for d in site.data.dragons-farewell%}<li><a href="https://www1.flightrising.com/dragon/{{d.id}}" class="img"><img src="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" alt=""><b>{{d.nm}}</b></a><ul class="nolist">
-	<li>obtained: <span>{%if d.dates.obtain%}{{d.dates.obtain|date:"%Y %B %e"}}{%else%}{{d.dates.hatch|date:"%Y %B %e"}}{%endif%}</span></li><li>farewell: <span>{{d.dates.farewell|date:"%Y %B %e"}}</span></li>{%if d.lvl%}
-	<li>level <span>{{d.lvl}}</span>{%if d.lvl==25%} {%if d.stats%}{%if d.stats.by%}<a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> <i>(by <a href="https://www1.flightrising.com/lair/{{d.stats.id}}">{{d.stats.by}}</a>)</i>{%else%}<i>(build unknown)</i>{%endif%}<!--/if stats.by-->{%else%}<i>(no build)</i>{%endif%}<!--/if stats-->{%endif%}<!--/if lvl25--></li>{%endif%}
-</ul></li>{%endfor%}</ul>
+<section>
+	<h2>the actual dragons</h2>
+	<ul id="cya" class="nolist">{%for d in site.data.dragons-farewell%}<li><a href="https://www1.flightrising.com/dragon/{{d.id}}" class="img"><img src="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" alt=""><b>{{d.nm}}</b></a><ul class="nolist">
+		<li>obtained: <span>{%if d.dates.obtain%}{{d.dates.obtain|date:"%Y %B %e"}}{%else%}{{d.dates.hatch|date:"%Y %B %e"}}{%endif%}</span></li><li>farewell: <span>{{d.dates.farewell|date:"%Y %B %e"}}</span></li>{%if d.lvl%}
+		<li>level <span>{{d.lvl}}</span>{%if d.lvl==25%} {%if d.stats%}{%if d.stats.by%}<a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> <i>(by <a href="https://www1.flightrising.com/lair/{{d.stats.id}}">{{d.stats.by}}</a>)</i>{%else%}<i>(build unknown)</i>{%endif%}<!--/if stats.by-->{%else%}<i>(no build)</i>{%endif%}<!--/if stats-->{%endif%}<!--/if lvl25--></li>{%endif%}
+	</ul></li>{%endfor%}</ul>
+</section>
 
-<h2>art showcase</h2>
-<!--
-	[%capture gone-art%][%for d in site.data.dragons-farewell%][%for a in site.data.art%][%if a.dr contains d.nm%][[a.dt]],[%endif%][%endfor%][%endfor%][%endcapture%]<!-|-for every dragon, retrieve art including that dragon. split dates by comma
-	[[gone-art]]
-	<br><br>-|->
-	<!-|-sort those dates chronologically, then re-render them without duplicates-|->[%assign art-sorted=gone-art|split:","|sort%]
-	[%capture art-all%][[art-sorted|uniq|join:","]][%endcapture%]
-	<!-|-turn it back into an array via assign-|->[%assign art-farewell=art-all|split:","%]<!-|-yeah this is. Kind Of Stupid. w/e I did on the dragons layout was faster but OH WELL-|->
+<section><details OPEN>
+	<summary><h2>art showcase</h2></summary>
+	<!--
+		[%capture gone-art%][%for d in site.data.dragons-farewell%][%for a in site.data.art%][%if a.dr contains d.nm%][[a.dt]],[%endif%][%endfor%][%endfor%][%endcapture%]<!-|-for every dragon, retrieve art including that dragon. split dates by comma
+		[[gone-art]]
+		<br><br>-|->
+		<!-|-sort those dates chronologically, then re-render them without duplicates-|->[%assign art-sorted=gone-art|split:","|sort%]
+		[%capture art-all%][[art-sorted|uniq|join:","]][%endcapture%]
+		<!-|-turn it back into an array via assign-|->[%assign art-farewell=art-all|split:","%]<!-|-yeah this is. Kind Of Stupid. w/e I did on the dragons layout was faster but OH WELL-|->
 
-	<ul class="nolist">[%for a in art-farewell%]<li><img src="[%include url.html%]/assets/img/art/[[a]].png" alt="[[a]]"></li>[%endfor%]</ul>
+		<ul class="nolist">[%for a in art-farewell%]<li><img src="[%include url.html%]/assets/img/art/[[a]].png" alt="[[a]]"></li>[%endfor%]</ul>
+		
+		<!-|-. . . ah wait nvm this doesn't preserve the notmine etc. WELP-|->
+	-->
 	
-	<!-|-. . . ah wait nvm this doesn't preserve the notmine etc. WELP-|->
--->
+	{{page.art-desc|markdownify}}
 
-{%capture names%}{%for d in site.data.dragons-farewell%}{{d.nm}}{%endfor%}{%endcapture%}<!--oh wow this was insanely faster-->
-<ul class="nolist" id="art">{%for a in site.data.art%}{%if names contains a.dr%}<li><!--there's probably a less convoluted way to do this but I just ripped off the datacheck page again-->{%if a.ver%}{%for v in a.ver%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" alt=""></a>{%endfor%}{%else%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" alt=""></a>{%endif%}<!--/version checker--></li>{%endif%}{%endfor%}</ul>
+	{%capture names%}{%for d in site.data.dragons-farewell%}{{d.nm}}{%endfor%}{%endcapture%}<!--oh wow this was insanely faster-->
+	<ul class="nolist" id="art">{%for a in site.data.art%}{%if names contains a.dr%}<li><!--there's probably a less convoluted way to do this but I just ripped off the datacheck page again-->{%if a.ver%}{%for v in a.ver%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" alt=""></a>{%endfor%}{%else%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" alt=""></a>{%endif%}<!--/version checker--></li>{%endif%}{%endfor%}</ul>
+</details></section>
