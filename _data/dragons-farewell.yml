@@ -805,3 +805,38 @@
     vista: 0
     scene: 0
   cat: [lore]
+- nm: Falsework
+  id: 58430435
+  element: lightning
+  sex: f
+  breed: banescale
+  msr:
+    length: 6.04
+    wings: 4.9
+    weight: 732.55
+  genes:
+    pri:
+      num: 63
+      clr: caribbean
+      gn: chevron
+    sec:
+      num: 62
+      clr: azure
+      gn: arrow
+    tert:
+      num: 71
+      clr: pistachio
+      gn: trimmings
+  dates:
+    hatch: 2020-01-12
+    obtain: 2020-01-15
+    hibern: 2020-04-05
+    farewell: 2026-09-26
+  has:
+    familiar: "[TBA] Coursing Skira"
+    accent: 0
+    bio: "~"
+    art: 0
+    vista: 0
+    scene: 0
+  cat: [other,song]

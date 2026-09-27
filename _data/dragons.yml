@@ -999,17 +999,15 @@
     weight: 824.86
   genes:
     pri:
-      num: 80
       clr: jungle
-      gn: basic
+      gn: sailfish
     sec:
-      num: 61
       clr: phthalo
-      gn: basic
+      gn: rings
     tert:
-      num: 100
       clr: moss
-      gn: basic
+      gn: sailfin
+    eye: faded
   dates:
     hatch: 2019-12-09
     hibern: 2021-01-21
@@ -1019,6 +1017,22 @@
     art: 0
     vista: 0
     scene: 0
+  prev: 
+    breed: banescale
+    msr:
+      length: 8.55
+      wings: 4.12
+      weight: 824.86
+    genes:
+      pri:
+        clr: jungle
+        gn: basic
+      sec:
+        clr: phthalo
+        gn: basic
+      tert:
+        clr: moss
+        gn: basic
   cat: [lore,baneclan]
 
 - nm: Holly
@@ -1136,41 +1150,6 @@
         gn: peacock
       eye: rare
   cat: [lore]
-
-- nm: Falsework
-  id: 58430435
-  element: lightning
-  sex: f
-  breed: banescale
-  msr:
-    length: 6.04
-    wings: 4.9
-    weight: 732.55
-  genes:
-    pri:
-      num: 63
-      clr: caribbean
-      gn: chevron
-    sec:
-      num: 62
-      clr: azure
-      gn: arrow
-    tert:
-      num: 71
-      clr: pistachio
-      gn: trimmings
-  dates:
-    hatch: 2020-01-12
-    obtain: 2020-01-15
-    hibern: 2020-04-05
-  has:
-    familiar: "[TBA] Coursing Skira"
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [other,song]
 
 - nm: Staccato
   id: 58826801
