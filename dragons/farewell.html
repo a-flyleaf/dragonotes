@@ -51,6 +51,11 @@ css: "
 	#cya i{font-size:.85em; display:inline-block;}
 	
 	#cya{display:flex; flex-wrap:wrap; justify-content:center;}
+	
+	#art{text-align:center;}
+	#art li{display:inline-block; margin:.25rem; border:1px solid rgba(128,128,128,.5); line-height:0; font-size:0; vertical-align:middle;}
+	#art img{max-height:200px;}
+	#art a:hover,#art a:active,#art a:focus{opacity:.5;}
 "
 ---
 <h1>{{page.title}}</h1>
@@ -147,12 +152,18 @@ css: "
 </ul></li>{%endfor%}</ul>
 
 <h2>art showcase</h2>
-{%capture gone-art%}{%for d in site.data.dragons-farewell%}{%for a in site.data.art%}{%if a.dr contains d.nm%}{{a.dt}},{%endif%}{%endfor%}{%endfor%}{%endcapture%}<!--for every dragon, retrieve art including that dragon. split dates by comma
-{{gone-art}}
-<br><br>-->
-<!--sort those dates chronologically, then re-render them without duplicates-->{%assign art-sorted=gone-art|split:","|sort%}
-{%capture art-all%}{{art-sorted|uniq|join:","}}{%endcapture%}
-<!--turn it back into an array via assign-->{%assign art-farewell=art-all|split:","%}<!--yeah this is. Kind Of Stupid. w/e I did on the dragons layout was faster but OH WELL-->
+<!--
+	[%capture gone-art%][%for d in site.data.dragons-farewell%][%for a in site.data.art%][%if a.dr contains d.nm%][[a.dt]],[%endif%][%endfor%][%endfor%][%endcapture%]<!-|-for every dragon, retrieve art including that dragon. split dates by comma
+	[[gone-art]]
+	<br><br>-|->
+	<!-|-sort those dates chronologically, then re-render them without duplicates-|->[%assign art-sorted=gone-art|split:","|sort%]
+	[%capture art-all%][[art-sorted|uniq|join:","]][%endcapture%]
+	<!-|-turn it back into an array via assign-|->[%assign art-farewell=art-all|split:","%]<!-|-yeah this is. Kind Of Stupid. w/e I did on the dragons layout was faster but OH WELL-|->
 
-<ul class="nolist">{%for a in art-farewell%}<li><img src="{%include url.html%}/assets/img/art/{{a}}.png" alt="{{a}}"></li>{%endfor%}</ul>
-<!--. . . ah wait nvm this doesn't preserve the notmine etc. WELP-->
+	<ul class="nolist">[%for a in art-farewell%]<li><img src="[%include url.html%]/assets/img/art/[[a]].png" alt="[[a]]"></li>[%endfor%]</ul>
+	
+	<!-|-. . . ah wait nvm this doesn't preserve the notmine etc. WELP-|->
+-->
+
+{%capture names%}{%for d in site.data.dragons-farewell%}{{d.nm}}{%endfor%}{%endcapture%}<!--oh wow this was insanely faster-->
+<ul class="nolist" id="art">{%for a in site.data.art%}{%if names contains a.dr%}<li><!--there's probably a less convoluted way to do this but I just ripped off the datacheck page again-->{%if a.ver%}{%for v in a.ver%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" alt=""></a>{%endfor%}{%else%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" alt=""></a>{%endif%}<!--/version checker--></li>{%endif%}{%endfor%}</ul>
