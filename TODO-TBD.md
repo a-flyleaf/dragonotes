@@ -1,38 +1,22 @@
-# 2024-11-24
-trawl gdocs for stuff I can mirror here
-https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
+# 2025 (mostly)
+- 2024-11-24: trawl gdocs for stuff I can mirror here <https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8>
+- 2/04:
+	- _data/dragons.yml: extra dates?
+	- general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
+		- see gdocs for a couple (extremely, increasingly dated) "art tracker" spreadsheets
+		- BETTER: post searches for [imgur](https://www1.flightrising.com/search/forums?term=i.imgur.com&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) & [postimg](https://www1.flightrising.com/search/forums?term=i.postimg.cc&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) (no results for imgbb/ibb.co as of 2025-08-13)
+			- imgbox was used briefly, only for graphic reuploads
+- 8/13: scour game database for remaining v0/viral-evolution accent links
+- 9/23 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
 
-# 2025-02-04
-- _data/dragons.yml: extra dates?
-- _layouts/dragons.html
-	- integrate art from data; include ids via forloop (a1,a2,a3) for individual styling
-		- use an "if contains" NOT an ==, since some arts have multiple dragons
-	- auto-populate familiars/scenes/vistas [see above]
-	- concatenate & chronologize all dates [also above]
-
-- general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
-	- see gdocs for a couple (extremely, increasingly dated) "art tracker" spreadsheets
-	- BETTEr: post searches for [imgur](https://www1.flightrising.com/search/forums?term=i.imgur.com&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) & [postimg](https://www1.flightrising.com/search/forums?term=i.postimg.cc&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) (no results for imgbb/ibb.co as of 2025-08-13)
-		- +imgbox maybe? think I've mostly only used that for graphic reuploads (as of 2026-07-13)
-
-# 2025-06-30
-- PErHAPS rather than individual dragon pages, one big page with lil clusters? kinda like the old viral evolution page? way way WAY less intimidating to just combine dudes tbh. could be geocities-esque with custom css even if they all use the same basic HTML template. (so uhh basically the original plan for toyshelf, yes.) much to think about....
-
-# 2025-08-13
-scour the game database for those v0/viral-evolution accent links maybe...? idek if I still have the original edit files on my computer. probably maaaaybe somewhere but I was almost definitely not in the habit of saving urls directly in the layer names. hmm
-
-# 2025-09-23
-random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
-
-# 2026-04-19
-**bio fixing**
+# 2026-04-19 imgur bio graphics
 - Comet (imgur vista edit & side graphic)
 - Amaranta (imgur side graphic)
 - Iko (old bio broke)
 - Miasma (imgur banner graphic)
 - dashcon (imgur ballpit)
 
-any bio using the ancient first layout is gonna look like ass without imgur & in general my coding has Improved ("xxxxxxx" spacing... girl help). HOWEVEr with a dark & mobile-friendly mode finally on the horizon maybe I will just fuckign revamp it all anyways. auto-generate that shit
+not noted: any other dragons with the initial 2-column layout. the one with the "xxxxxxx" spacing & transparent 1px imgur spacers
 
 # 2026-07-20 data hell
 are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amaranta). idc anymore just put All the data here & add a "media" section if relevant. like
