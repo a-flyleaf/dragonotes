@@ -41,10 +41,16 @@ css: "
 		.odd{background:#202020;} .even,th{background:#101010;}
 	}
 	
-	#cya,#cya ul{list-style-type:none; margin:0; padding:0;}
+	.nolist{list-style-type:none; margin:0; padding:0;}
 	#cya{font-family:verdana,sans-serif; font-size:.85em; text-align:center;}
-	#cya>li{border:1px solid #808080; border-color:rgba(128,128,128,.5); display:inline-block; margin:.25em; padding:.5em; vertical-align:top;}
+	#cya>li{border:1px solid #808080; border-color:rgba(128,128,128,.5); display:inline-block; margin:.25em; padding:.5em; vertical-align:top; width:200px; max-width:100%;}
+	.img img{filter:grayscale(50%);}
+	.img:hover img,.img:active img,.img:focus img{filter:grayscale(0%);}
 	#cya b{display:block;}
+	#cya li>ul{font-size:.85em;} #cya li>ul>li{margin:.25em 0;}
+	#cya i{font-size:.85em; display:inline-block;}
+	
+	#cya{display:flex; flex-wrap:wrap; justify-content:center;}
 "
 ---
 <h1>{{page.title}}</h1>
@@ -135,8 +141,18 @@ css: "
 </details>
 
 <h2>the actual dragons</h2>
-<ul id="cya">{%for d in site.data.dragons-farewell%}<li><a href="https://www1.flightrising.com/dragon/{{d.id}}"><img src="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" alt=""><b>{{d.nm}}</b></a><ul>
-	<li>obtained: <span>{%if d.dates.obtain%}{{d.dates.obtain|date:"%Y %B %e"}}{%else%}{{d.dates.hatch|date:"%Y %B %e"}}{%endif%}</span></li>{%if d.lvl%}
-	<li>level <span>{{d.lvl}}</span>{%if d.lvl==25%} {%if d.stats%}{%if d.stats.by%}<a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> (by <a href="https://www1.flightrising.com/lair/{{d.stats.id}}">{{d.stats.by}}</a>){%else%}<i>(build unknown)</i>{%endif%}<!--/if stats.by-->{%else%}<i>(no build)</i>{%endif%}<!--/if stats-->{%endif%}<!--/if lvl25--></li>
-	{%endif%}<li>farewell: <span>{{d.dates.farewell|date:"%Y %B %e"}}</span></li>
+<ul id="cya" class="nolist">{%for d in site.data.dragons-farewell%}<li><a href="https://www1.flightrising.com/dragon/{{d.id}}" class="img"><img src="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" alt=""><b>{{d.nm}}</b></a><ul class="nolist">
+	<li>obtained: <span>{%if d.dates.obtain%}{{d.dates.obtain|date:"%Y %B %e"}}{%else%}{{d.dates.hatch|date:"%Y %B %e"}}{%endif%}</span></li><li>farewell: <span>{{d.dates.farewell|date:"%Y %B %e"}}</span></li>{%if d.lvl%}
+	<li>level <span>{{d.lvl}}</span>{%if d.lvl==25%} {%if d.stats%}{%if d.stats.by%}<a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> <i>(by <a href="https://www1.flightrising.com/lair/{{d.stats.id}}">{{d.stats.by}}</a>)</i>{%else%}<i>(build unknown)</i>{%endif%}<!--/if stats.by-->{%else%}<i>(no build)</i>{%endif%}<!--/if stats-->{%endif%}<!--/if lvl25--></li>{%endif%}
 </ul></li>{%endfor%}</ul>
+
+<h2>art showcase</h2>
+{%capture gone-art%}{%for d in site.data.dragons-farewell%}{%for a in site.data.art%}{%if a.dr contains d.nm%}{{a.dt}},{%endif%}{%endfor%}{%endfor%}{%endcapture%}<!--for every dragon, retrieve art including that dragon. split dates by comma
+{{gone-art}}
+<br><br>-->
+<!--sort those dates chronologically, then re-render them without duplicates-->{%assign art-sorted=gone-art|split:","|sort%}
+{%capture art-all%}{{art-sorted|uniq|join:","}}{%endcapture%}
+<!--turn it back into an array via assign-->{%assign art-farewell=art-all|split:","%}<!--yeah this is. Kind Of Stupid. w/e I did on the dragons layout was faster but OH WELL-->
+
+<ul class="nolist">{%for a in art-farewell%}<li><img src="{%include url.html%}/assets/img/art/{{a}}.png" alt="{{a}}"></li>{%endfor%}</ul>
+<!--. . . ah wait nvm this doesn't preserve the notmine etc. WELP-->

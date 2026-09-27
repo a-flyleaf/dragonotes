@@ -1,5 +1,8 @@
-# 2025 (mostly)
-- 2024-11-24: trawl gdocs for stuff I can mirror here <https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8>
+# 2024-11-24
+trawl gdocs for stuff I can mirror here
+https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
+
+# 2025
 - 2/04:
 	- _data/dragons.yml: extra dates?
 	- general art page; should include commissions, other doodles for other people, random Fr-related sketches... There's A Lot.
