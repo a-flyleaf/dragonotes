@@ -52,6 +52,10 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 - do we want a dragons-farewell amnesty page?
 - maybe fandragons + farewell on the same not-public-facing page?? idk. records for the hell of it.
 
+# 2026-09
+- [/23] update Altostratus' image
+- [/27] finally sold Falsework last night!!!
+
 
 
 [keep this at the bottom:]

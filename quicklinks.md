@@ -12,7 +12,7 @@ miscellaneous stuff for my own reference
 
 ## AH searches
 - <b>fodder</b>: [adults](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_min=0&d_age=1&collapse=1) \| [in-flight](https://www1.flightrising.com/auction-house/buy/flight/dragons?treasure_min=0&d_age=1&collapse=1)
-	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?d_named=0&d_age=0&sort=name_desc&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&collapse=1)
+	- [hatchlings](https://www1.flightrising.com/auction-house/buy/realm/dragons?currency=0&d_named=0&d_age=0&collapse=1): [7000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=7000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [6000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=6000&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5999](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5999&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5499](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5499&d_named=0&d_age=0&sort=name_desc&collapse=1) \| [5000](https://www1.flightrising.com/auction-house/buy/realm/dragons?treasure_max=5000&d_named=0&d_age=0&sort=name_desc&collapse=1)
 - [~~apparel~~ <b>slime</b>](https://www1.flightrising.com/auction-house/buy/realm/app?treasure_min=0&collapse=1)
 - <b>fest skins</b>: check for [dom shops](https://www1.flightrising.com/forums/ibaz)!! **by Saturday**.
 	- joxar: <b>190</b> fest currency (140 w/o scene) + <b>80kT</b> joxbox
@@ -32,7 +32,7 @@ miscellaneous stuff for my own reference
 - [full bestiary](https://www1.flightrising.com/bestiary/138250?view=all&sort=id_asc)
 - [site skins](https://www1.flightrising.com/game-database/items/skins?skin_type=admin&sort=id_asc)
 - [scenes](https://www1.flightrising.com/game-database/items/specialty?subcategory=scene&sort=id_asc) & [vistas](https://www1.flightrising.com/game-database/items/specialty?subcategory=vista&sort=id_asc)
-- [Charta the Rarity Report](https://www1.flightrising.com/dragon/19590417) (gene rarity per species)
+- gene rarity: [per species](https://www1.flightrising.com/dragon/19590417) + [search tool](https://www1.flightrising.com/forums/gde/3485467/1#post_3485467)
 
 <details markdown="1"><summary style="cursor:pointer;"><h2 style="display:inline-block;">coli checklist [outdated]</h2></summary>
 
@@ -162,12 +162,14 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>09</td><td>29</td><td>AlienCataclysm</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="6">2026</td><td rowspan="2">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
-		<tr><td>23</td><td>[Anais x Radijacija]</td></tr>
+		<tr><td rowspan="8">2026</td><td rowspan="3">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
+		<tr><td>23</td><td><a href="https://www1.flightrising.com/dragon/109339525">[Anais x Radijacija]</a></td></tr>
+		<tr><td>24</td><td>Technoink</td></tr>
 		<tr><td>05</td><td>21</td><td>Zmaj</td></tr>
 		<tr><td>06</td><td>24</td><td>CinnadustShading</td></tr>
 		<tr><td rowspan="2">07</td><td>06</td><td>Altair</td></tr>
 		<tr><td>26</td><td>Watermelon</td></tr>
+		<tr><td>08</td><td>21</td><td>[NineYOGenOne]</td></tr>
 	</tbody>
 </table>
 
@@ -227,7 +229,7 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 - [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [SwampsandRequiem](https://www1.flightrising.com/dragon/109230622) & [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 	- the latter did not stay a Vigil. the former, ?????
 - [2026 August: <i>Chorus</i>](https://www1.flightrising.com/forums/ann/3489170) - no release freebies
-	- shortly thereafter re-acquired [this old trainee](https://www1.flightrising.com/dragon/27401805), who will probably be Chorus'd
+	- shortly thereafter re-acquired [this old trainee](https://www1.flightrising.com/dragon/27401805), who then got Chorus'd
 
 ### dragos with frembs :>
 ordered by account ID
