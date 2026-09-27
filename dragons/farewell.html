@@ -1,0 +1,130 @@
+---
+layout: default3
+title: bygone dragon amnesty page
+
+desc: |-
+  data for dragons who I had recorded here, but have since left my lair. (not at *all* a comprehensive ex-perma listing; it's been 10 years and I haven't kept track That religiously)
+
+data-desc: |-
+  blatantly copypasted from [the datacheck page](INCURL/codetests/datacheck), mostly
+  - added `farewell` column
+  - removed `prev` columns
+  - fixed image URLs (even though they remain broke on purpose)
+  - removed special highlights for `has` & `other` category
+
+css: "
+	details{border:1px solid #808080; border-color:rgba(128,128,128,.5);}
+	summary{padding:.5em 1em;} summary h2{display:inline;} details[open] summary{border-bottom:.5px dotted;}
+	details p{padding:0 1em;}
+	details ul{margin-top:-.5em;}
+	
+	/*copypasted from datacheck*/
+		table{border:2px solid #808080; margin:.5em; font-family:monospace; border-spacing:0;}
+			/*no border-collapse or the borders disappear on the sticky headers*/
+		thead{position:sticky; top:0;}
+		th{text-align:left; background:#dfdfdf;}
+		th,td{border:1px solid #bfbfbf; border-color:rgba(0,0,0,.15); padding:.25em .5em;}
+		.odd{background:#fff;} .even{background:#f7f7f7;}
+		th[colspan]{text-align:center;}
+		.empty{background:rgba(128,128,128,.15);}
+		.hl{background:rgba(255,255,0,.15);}
+		
+		#dragons{text-wrap:nowrap;}
+		#dragons ul code{font-weight:bold; font-size:1.15em;}
+		#dragons tr.hl{background:#dfdfdf;} /*making this semi-transparent will make the details border show through, whoops! it overrides the even/odd distinction*/
+		#dragons .img{text-align:left;}
+		.art{text-align:center; font-weight:bold;} .art-y{color:#008000;} .art-n{color:#800000;}
+		.ver{font-size:0;} .ver a{display:inline-block !important;}
+	/*end copypaste*/
+	
+	@media (prefers-color-scheme:dark){
+		.odd{background:#000;} .even{background:#202020;}
+	}
+"
+---
+<h1>{{page.title}}</h1>
+{%capture inc-url%}{%include url.html%}{%endcapture%}{{page.desc|markdownify}}
+
+<details>
+	<summary><h2>data table</h2></summary>
+	{{page.data-desc|markdownify|replace:"INCURL",inc-url}}
+	<table id="dragons">
+		<thead><tr>
+			<th rowspan="3">[IMG]</th>
+			<th rowspan="3">nm</th>
+			<th rowspan="3">id</th>
+			<th rowspan="3">sex</th>
+			<th rowspan="3">age</th>
+			<th rowspan="3">breed</th>
+			<th rowspan="3">gen</th>
+			<th rowspan="3">lvl</th>
+			<th colspan="4">stats</th>
+			<th colspan="3">msr</th>
+			<th colspan="7">genes</th>
+			<th colspan="4">dates</th>
+			<th rowspan="3">cat</th>
+			<th rowspan="3">[ART?]</th>
+		</tr><tr>
+			<!--stats--><th rowspan="2">bld</th>
+			<th rowspan="2">lnk</th>
+			<th rowspan="2">by</th>
+			<th rowspan="2">id</th>
+			<!--msr--><th rowspan="2">length</th>
+			<th rowspan="2">wings</th>
+			<th rowspan="2">weight</th>
+			<!--genes--><th colspan="2">pri</th>
+			<th colspan="2">sec</th>
+			<th colspan="2">tert</th>
+			<th rowspan="2">eye</th>
+			<!--dates--><th rowspan="2">hatch</th>
+			<th rowspan="2">obtain</th>
+			<th rowspan="2">hibern</th>
+			<th rowspan="2">farewell</th>
+		</tr><tr><!--genes>pri/sec/tert-->
+			<!--pri--><th>clr</th><th>gn</th>
+			<!--sec--><th>clr</th><th>gn</th>
+			<!--tert--><th>clr</th><th>gn</th>
+		</tr></thead>
+		<tbody>{%for d in site.data.dragons-farewell%}<tr class="{%cycle 'odd','even'%}">
+			<td class="img">
+				<img srrc="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" height="20px;">
+				<img srrc="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_350.png" height="20px;">
+				<img srrc="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}-av.png" height="20px;">
+				{%unless d.age%}<img srrc="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}-c.png" height="20px;">{%endunless%}
+			</td>
+			<!--for linking; see above. KEEP THE SLUG/NAME SEPARATE; it's redundant *but* will save me time with the weird names (letter cutoffs, multiple words) later. also keeps the HTML pages in order regardless of alphabet/ID/etc.-->{%capture pages%}{%for d in site.dragons%}{{d.name}}{%endfor%}{%endcapture%}
+			<td>{%if pages contains d.nm%}<a href="{%include url.html%}/dragons/{{d.nm|downcase}}">{%endif%}{{d.nm}}{%if pages contains d.nm%}</a>{%endif%}</td>
+			<td><a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.id}}</a></td>
+			<td>{{d.sex}}</td>
+			<td{%unless d.age%} class="empty"{%endunless%}>{{d.age}}</td>
+			<td>{{d.breed}}</td>
+			<td{%unless d.gen%} class="empty"{%endunless%}>{{d.gen}}</td>
+			<td{%unless d.lvl%} class="empty"{%endunless%}>{{d.lvl}}</td>
+			<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.bld}}</td>
+			<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.lnk}}</td>
+			<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.by}}</td>
+			<td{%unless d.stats%} class="empty"{%endunless%}>{{d.stats.id}}</td>
+			<td>{{d.msr.length}}</td>
+			<td>{{d.msr.wings}}</td>
+			<td>{{d.msr.weight}}</td>
+				<!--copied from layouts/dragons.html-->
+				{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}
+			<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.genes.pri.clr}}</td>
+			<td style="color:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.genes.pri.gn}}</td>
+				{%assign sec=site.data.colors|where:"nm",d.genes.sec.clr%}
+			<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.genes.sec.clr}}</td>
+			<td style="color:#{%for clr in sec%}{{clr.hx}}{%endfor%}">{{d.genes.sec.gn}}</td>
+				{%assign tri=site.data.colors|where:"nm",d.genes.tert.clr%}
+			<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.genes.tert.clr}}</td>
+			<td style="color:#{%for clr in tri%}{{clr.hx}}{%endfor%}">{{d.genes.tert.gn}}</td>
+			<td{%unless d.genes.eye%} class="empty"{%endunless%}>{{d.genes.eye}}</td>
+			<td>{{d.dates.hatch}}</td>
+			<td{%unless d.dates.obtain%} class="empty"{%endunless%}>{{d.dates.obtain}}</td>
+			<td>{{d.dates.hibern}}</td>
+			<td>{{d.dates.farewell}}</td>
+			<td>{%for dcat in d.cat%}{{dcat}}{%if forloop.last!=true%},{%endif%}{%endfor%}</td>
+				<!--recycled from the "has page" check-->{%capture art%}{%for a in site.data.art%}{{a.dr}}{%endfor%}{%endcapture%}
+			<td class="art art-{%if art contains d.nm%}y{%else%}n{%endif%}">{%if art contains d.nm%}Y{%else%}N{%endif%}</td>
+		</tr>{%endfor%}</tbody>
+	</table>
+</details>
