@@ -16,7 +16,7 @@ art-desc: |-
   artist data is in the filename. which ik is not Ideal but eh....
 
 css: "
-	section+section{margin-top:2em;}
+	/*section+section{margin-top:2em;} (for when the art section is visible)*/
 	
 	details{border:1px solid #808080; border-color:rgba(128,128,128,.5);}
 	summary{padding:.5em 1em;} summary h2{display:inline;} details[open] summary{border-bottom:.5px dotted;}
@@ -158,6 +158,7 @@ css: "
 	</ul></li>{%endfor%}</ul>
 </section>
 
+{%capture nah%}<!--tbh I think I just don't want this public rn. mainly to avoid people hotlinking to my site ngl.... anyway sticking a capture around it all is faster than trying to futz with the comments-->
 <section><details OPEN>
 	<summary><h2>art showcase</h2></summary>
 	<!--
@@ -178,3 +179,4 @@ css: "
 	{%capture names%}{%for d in site.data.dragons-farewell%}{{d.nm}}{%endfor%}{%endcapture%}<!--oh wow this was insanely faster-->
 	<ul class="nolist" id="art">{%for a in site.data.art%}{%if names contains a.dr%}<li><!--there's probably a less convoluted way to do this but I just ripped off the datacheck page again-->{%if a.ver%}{%for v in a.ver%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}_{{v.nm}}.{%if v.fl%}{{v.fl}}{%else%}png{%endif%}" alt=""></a>{%endfor%}{%else%}<a href="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" target="_blank"><img src="{%include url.html%}/assets/img/art/{%if a.by%}notmine/{%endif%}{{a.dt}}{%if a.by%}_by-{%if a.by.fr%}FR{{a.by.fr}}{%endif%}{%endif%}.{%if a.fl%}{{a.fl}}{%else%}png{%endif%}" alt=""></a>{%endif%}<!--/version checker--></li>{%endif%}{%endfor%}</ul>
 </details></section>
+{%endcapture%}
