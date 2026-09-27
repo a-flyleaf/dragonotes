@@ -487,6 +487,7 @@
   element: plague
   sex: f
   breed: imperial
+  lvl: 25
   msr:
     length: 30.27
     wings: 21.7
@@ -512,6 +513,7 @@
   element: lightning
   sex: m
   breed: spiral
+  lvl: 11
   msr:
     length: 3.01
     wings: 2.42
@@ -550,6 +552,7 @@
   element: light
   sex: m
   breed: gaoler
+  lvl: 11
   msr:
     length: 11.21
     wings: 8.44
@@ -576,6 +579,7 @@
   element: plague
   sex: m
   breed: tundra
+  lvl: 10
   msr:
     length: 2.79
     wings: 4.5
@@ -601,6 +605,7 @@
   element: plague
   sex: f
   breed: guardian
+  lvl: 10
   msr:
     length: 15.72
     wings: 17.41
@@ -626,6 +631,7 @@
   element: shadow
   sex: m
   breed: spiral
+  lvl: 11
   msr:
     length: 3.92
     wings: 2.46
@@ -664,6 +670,7 @@
   element: lightning
   sex: f
   breed: skydancer
+  lvl: 11
   msr:
     length: 3.25
     wings: 5.3
@@ -701,6 +708,7 @@
   element: water
   sex: f
   breed: wildclaw
+  lvl: 11
   msr:
     length: 6.56
     wings: 8.71
@@ -738,6 +746,7 @@
   element: plague
   sex: f
   breed: guardian
+  lvl: 11
   msr:
     length: 14.87
     wings: 20
@@ -774,6 +783,7 @@
   sex: f
   breed: aberration
   gen: 1
+  lvl: 25
   msr:
     length: 4.02
     wings: 7.97
@@ -810,6 +820,7 @@
   element: lightning
   sex: f
   breed: banescale
+  lvl: 25
   msr:
     length: 6.04
     wings: 4.9

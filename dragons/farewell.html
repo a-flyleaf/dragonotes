@@ -38,8 +38,13 @@ css: "
 	/*end copypaste*/
 	
 	@media (prefers-color-scheme:dark){
-		.odd{background:#000;} .even{background:#202020;}
+		.odd{background:#202020;} .even,th{background:#101010;}
 	}
+	
+	#cya,#cya ul{list-style-type:none; margin:0; padding:0;}
+	#cya{font-family:verdana,sans-serif; font-size:.85em; text-align:center;}
+	#cya>li{border:1px solid #808080; border-color:rgba(128,128,128,.5); display:inline-block; margin:.25em; padding:.5em; vertical-align:top;}
+	#cya b{display:block;}
 "
 ---
 <h1>{{page.title}}</h1>
@@ -128,3 +133,10 @@ css: "
 		</tr>{%endfor%}</tbody>
 	</table>
 </details>
+
+<h2>the actual dragons</h2>
+<ul id="cya">{%for d in site.data.dragons-farewell%}<li><a href="https://www1.flightrising.com/dragon/{{d.id}}"><img src="{%include url.html%}/assets/img/dragons/farewell/{{d.id}}_100.png" alt=""><b>{{d.nm}}</b></a><ul>
+	<li>obtained: <span>{%if d.dates.obtain%}{{d.dates.obtain|date:"%Y %B %e"}}{%else%}{{d.dates.hatch|date:"%Y %B %e"}}{%endif%}</span></li>{%if d.lvl%}
+	<li>level <span>{{d.lvl}}</span>{%if d.lvl==25%} {%if d.stats%}{%if d.stats.by%}<a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> (by <a href="https://www1.flightrising.com/lair/{{d.stats.id}}">{{d.stats.by}}</a>){%else%}<i>(build unknown)</i>{%endif%}<!--/if stats.by-->{%else%}<i>(no build)</i>{%endif%}<!--/if stats-->{%endif%}<!--/if lvl25--></li>
+	{%endif%}<li>farewell: <span>{{d.dates.farewell|date:"%Y %B %e"}}</span></li>
+</ul></li>{%endfor%}</ul>
