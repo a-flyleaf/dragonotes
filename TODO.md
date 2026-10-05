@@ -12,7 +12,9 @@ https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 - 8/13: scour game database for remaining v0/viral-evolution accent links
 - 9/23 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
 
-# 2026-04-19 imgur bio graphics
+# 2026
+
+## 4/19 imgur bio graphics
 - Comet (imgur vista edit & side graphic)
 - Amaranta (imgur side graphic)
 - Iko (old bio broke)
@@ -21,7 +23,7 @@ https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 
 not noted: any other dragons with the initial 2-column layout. the one with the "xxxxxxx" spacing & transparent 1px imgur spacers
 
-# 2026-07-20 data hell
+## 7/20 data hell
 are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amaranta). idc anymore just put All the data here & add a "media" section if relevant. like
 - media:
   - typ: [song,dnd,oc,tfe etc,sona]
@@ -34,6 +36,12 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
+
+## 10/4
+- hibernated: BharloweXaxely, DarklandDisciple [use the M image but onsite it can be w/e], SehrPoltern (again), Vivace (again)
+	^all (effectively) artless; Sehr will need an override also bc the outfit changed
+- new image: Skiptrace (can FINALLY delete the note below jfc)
+
 
 
 
