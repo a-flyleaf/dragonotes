@@ -993,13 +993,13 @@
   id: 57362941
   element: nature
   sex: f
-  breed: banescale
+  breed: undertide
   gen: 1
   lvl: 25
   msr:
-    length: 8.55
-    wings: 4.12
-    weight: 824.86
+    length: 18.13
+    wings: 18.61
+    weight: 5149.84
   genes:
     pri:
       clr: jungle
