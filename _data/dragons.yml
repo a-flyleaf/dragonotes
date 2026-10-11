@@ -268,6 +268,7 @@
   element: lightning
   sex: f
   breed: spiral
+  lvl: 11
   msr:
     length: 2.11
     wings: 2
@@ -2499,7 +2500,31 @@
     hibern: 2026-04-17
   cat: [nolore]
 
-# DarklandDisciple
+- nm: DarklandDisciple
+  id: 103088495
+  element: plague
+  sex: m
+  breed: aberration
+  lvl: 11
+  msr:
+    length: 6.17
+    wings: 7.68
+    weight: 818.87
+  genes:
+    pri:
+      clr: fog
+      gn: harlequin
+    sec:
+      clr: fog
+      gn: toxin
+    tert:
+      clr: garnet
+      gn: augment
+    eye: uncommon
+  dates:
+    hatch: 2025-05-25
+    hibern: 2026-10-04
+  cat: [lore]
 
 - nm: AdelineLightjaw
   id: 103077027
@@ -2641,7 +2666,33 @@
 
 # 7/03 HajnalRemaster
 # 7/08 MJFriesian & KrisShetlander
-# 7/28 BharloweXaxely
+
+- nm: BharloweXaxely
+  id: 104334383
+  element: lightning
+  sex: f
+  breed: aberration
+  lvl: 11
+  msr:
+    length: 4.11
+    wings: 8.02
+    weight: 731.35
+  genes:
+    pri:
+      clr: shadow
+      gn: pharaoh
+    sec:
+      clr: shadow
+      gn: jester
+    tert:
+      clr: royal
+      gn: blossom
+    eye: pastel
+  dates:
+    hatch: 2025-07-28
+    hibern: 2026-10-04
+  cat: [lore]
+
 # 9/29 AlienCataclysm
 
 - nm: ArchibaldXI
@@ -2705,3 +2756,5 @@
 # 7/06 Altair
 # 7/26 Watermelon
 # 8/21 [NineYOGenOne]
+# 10/04 Brightbreeze
+# 10/10 [unnamed purble-orange G1]

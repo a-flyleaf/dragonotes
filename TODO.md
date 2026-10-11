@@ -36,25 +36,3 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
-
-## 10/4
-- add Brightbreeze!
-- hibernated: BharloweXaxely, DarklandDisciple [use the M image but onsite it can be w/e], SehrPoltern (again), Vivace (again)
-	^all (effectively) artless; Sehr will need an override also bc the outfit changed
-- new image: Skiptrace (can FINALLY delete the note below jfc)
-
-## quicklinks addition
-dragons people have asked about:
-- AlstromeiraStrut
-- Upgrade
-- Mraz
-- Hquality
-
-## 10/10
-add. uhhhh. the purble-orange crimbus leftover
-
-
-
-[keep this at the bottom:]
-**skiptrace note**: used a mostly-no-apparel scry for now (outfit will be a WIP until at least August), replace it when the outfit's done
-	(plain scry images, in general, are not suuuper necessary; as long as the data's recorded, the picture can be regenerated on the fly)
