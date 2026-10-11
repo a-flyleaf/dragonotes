@@ -1,0 +1,14 @@
+---
+layout: default3
+title: "dragon sizes, but they’re non-interactive squares"
+
+css: "
+	#dragons{font-family:verdana;}
+	.drg{text-align:center; display:inline-block;}
+"
+---
+<h1>{{page.title}}</h1>
+{%assign upscale = 10%}
+<p>height = dragon length, width = wingspan, both multiplied by <b>{{upscale}}</b></p>
+
+<div id="dragons">{%for d in site.data.dragons%}<!--copied from datacheck-->{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}<!--/end colorthign--><div id="{{d.nm|downcase}}" class="drg" style="width:{{d.msr.wings|times:upscale}}px; height:{{d.msr.length|times:upscale}}px; background:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.nm}}</div>{%endfor%}</div>
