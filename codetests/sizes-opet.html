@@ -2,13 +2,33 @@
 layout: default3
 title: "dragon sizes, but they’re non-interactive squares"
 
+bg-css: "background-repeat:no-repeat; background-position:center;"
 css: "
 	#dragons{font-family:verdana;}
-	.drg{text-align:center; display:inline-block;}
+	h2{font-size:.75em;}
+	
+	.drg{text-align:center; display:inline-block; vertical-align:middle; overflow:hidden; font-size:16px;
+		color:#fff; text-shadow:-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;} /*could also use <-webkit-text-stroke:1px #000; -webkit-text-fill-color:#fff;> but it overlaps. which sucks.*/
+	.drg a{font-weight:bold; text-decoration:none; color:inherit;}
+	.drg a:hover,.drg a:active,.drg a:focus{opacity:.5;}
+	.bab,.b-fae,.b-veilspun,.b-dusthide,.b-thorntail{font-size:8px;}
+	.drg ul{list-style-type:none; font-size:10px; margin:0; padding:0;} .drg li{margin:.25em 0;}
 "
 ---
 <h1>{{page.title}}</h1>
-{%assign upscale = 10%}
+{%assign upscale = 25%}
 <p>height = dragon length, width = wingspan, both multiplied by <b>{{upscale}}</b></p>
+<p>asterisks = permababies, not representative of typical breed size. also <a href="https://www1.flightrising.com/dragon/13483458">Pestilence</a> is a tiny bog</p>
 
-<div id="dragons">{%for d in site.data.dragons%}<!--copied from datacheck-->{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}<!--/end colorthign--><div id="{{d.nm|downcase}}" class="drg" style="width:{{d.msr.wings|times:upscale}}px; height:{{d.msr.length|times:upscale}}px; background:#{%for clr in pri%}{{clr.hx}}{%endfor%}">{{d.nm}}</div>{%endfor%}</div>
+<!--automates not making categories for breeds I don't have-->{%capture breed-has%}{%for d in site.data.dragons%}{{d.breed}}{%endfor%}{%endcapture%}
+<div id="dragons">{%for b in site.data.breeds%}{%if breed-has contains b.nm%}<h2>{{b.nm}}</h2>{%for d in site.data.dragons%}{%if d.breed==b.nm%}<!--copied from datacheck-->{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}<!--/end colorthign--><div id="{{d.nm|downcase}}" class="drg b-{{d.breed}}{%if d.age%} bab{%endif%}" style="
+	height:{{d.msr.length|times:upscale}}px;
+	width:{{d.msr.wings|times:upscale}}px;
+	background:#{%for clr in pri%}{{clr.hx}}{%endfor%};
+	background-image:url({%include url.html%}/assets/img/dragons/{{d.id}}-av.png);
+	{{page.bg-css}}">
+	<a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a>{%if d.age%}*{%endif%}
+	<ul><li>height: <b>{{d.msr.length}}</b>m</li>
+	<li>wingspan: <b>{{d.msr.wings}}</b>m</li>
+	<li>weight: <b>{{d.msr.weight}}</b>kg</li></ul>
+</div>{%endif%}{%endfor%}{%endif%}{%endfor%}</div>
