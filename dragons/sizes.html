@@ -1,10 +1,13 @@
 ---
 layout: default3
-title: "dragon sizes, but they’re non-interactive squares"
+title: "dragon sizes, but they’re non-interactive rectangles"
 
 bg-css: "background-repeat:no-repeat; background-position:center;"
 css: "
-	#dragons{font-family:verdana;}
+	h1{margin:0;}
+	p{margin:.5em 0;}
+	
+	#dragons{font-family:verdana; margin:1em 0;}
 	h2{font-size:.75em;}
 	
 	.drg{text-align:center; display:inline-block; vertical-align:middle; overflow:hidden; font-size:16px;
@@ -17,7 +20,7 @@ css: "
 ---
 <h1>{{page.title}}</h1>
 {%assign upscale = 25%}
-<p>height = dragon length, width = wingspan, both multiplied by <b>{{upscale}}</b></p>
+<p>div height = dragon length, div width = wingspan, both multiplied by <b>{{upscale}}</b></p>
 <p>asterisks = permababies, not representative of typical breed size. also <a href="https://www1.flightrising.com/dragon/13483458">Pestilence</a> is a tiny bog</p>
 
 <!--automates not making categories for breeds I don't have-->{%capture breed-has%}{%for d in site.data.dragons%}{{d.breed}}{%endfor%}{%endcapture%}
