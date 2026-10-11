@@ -38,10 +38,20 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
 
 ## 10/4
+- add Brightbreeze!
 - hibernated: BharloweXaxely, DarklandDisciple [use the M image but onsite it can be w/e], SehrPoltern (again), Vivace (again)
 	^all (effectively) artless; Sehr will need an override also bc the outfit changed
 - new image: Skiptrace (can FINALLY delete the note below jfc)
 
+## quicklinks addition
+dragons people have asked about:
+- AlstromeiraStrut
+- Upgrade
+- Mraz
+- Hquality
+
+## 10/10
+add. uhhhh. the purble-orange crimbus leftover
 
 
 

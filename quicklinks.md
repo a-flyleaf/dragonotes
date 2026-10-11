@@ -153,16 +153,16 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td>DarklandDisciple, <s>AdelineLightjaw, ElricAugury, PicaroCaravan,</s> MisalignedVertex</td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td><s>DarklandDisciple, AdelineLightjaw, ElricAugury, PicaroCaravan,</s> MisalignedVertex</td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td><s>SehrPoltern</s></td></tr>
 		<tr><td rowspan="3">07</td><td>03</td><td>HajnalRemaster</td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
-		<tr><td>28</td><td>BharloweXaxely</td></tr>
+		<tr><td>28</td><td><s>BharloweXaxely</s></td></tr>
 		<tr><td>09</td><td>29</td><td>AlienCataclysm</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="8">2026</td><td rowspan="3">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
+		<tr><td rowspan="10">2026</td><td rowspan="3">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
 		<tr><td>23</td><td><a href="https://www1.flightrising.com/dragon/109339525">[Anais x Radijacija]</a></td></tr>
 		<tr><td>24</td><td>Technoink</td></tr>
 		<tr><td>05</td><td>21</td><td>Zmaj</td></tr>
@@ -170,6 +170,8 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">07</td><td>06</td><td>Altair</td></tr>
 		<tr><td>26</td><td>Watermelon</td></tr>
 		<tr><td>08</td><td>21</td><td>[NineYOGenOne]</td></tr>
+		<tr><td rowspan="2">10</td><td>04</td><td>Brightbreeze</td></tr>
+		<tr><td>10</td><td>[unnamed purble-orange G1]</td></tr>
 	</tbody>
 </table>
 
@@ -234,14 +236,16 @@ ty based [chronological update reference](https://www1.flightrising.com/forums/g
 ### dragos with frembs :>
 ordered by account ID
 
-- [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
+- [fairysmith](https://www1.flightrising.com/clan-profile/135622): <b>[Riviniana](https://www1.flightrising.com/dragon/16051687)</b>---technically independent, but we had some lore goin' with the "bee faes" and [Hecate](https://www1.flightrising.com/dragon/13616666)
 - [Kondraki](https://www1.flightrising.com/clan-profile/208300): <b>[TtrboneTchotchke](https://www1.flightrising.com/dragon/86260466)</b>---borrowed dad [Sanguinem](https://www1.flightrising.com/dragon/21323125) specifically for this breeding
 - [Starbrite](https://www1.flightrising.com/clan-profile/325229):
 	- <b>[Singularity](https://www1.flightrising.com/dragon/80037268)</b>---bought & has lore based on parents'!
 	- <b>[MJFriesian](https://www1.flightrising.com/dragon/103878580)</b> & <b>[KrisShetlander](https://www1.flightrising.com/dragon/103878581)</b>---adopted, first Cirrus nest
 	- <b>[AlienCataclysm](https://www1.flightrising.com/dragon/43525547)</b>---long-loved oldie, got a two-word rename
 - [Opalrose](https://www1.flightrising.com/clan-profile/335059): <b>[Asclepius](https://www1.flightrising.com/dragon/74944146)</b>---NotN hatch reject, snagged before exaltation
-- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): [<s>Poltergeist</s> <b>SehrPoltern</b>](https://www1.flightrising.com/dragon/50297105)---former perma
+- [PricklyGoose](https://www1.flightrising.com/clan-profile/342988):
+	- [<s>Poltergeist</s> <b>SehrPoltern</b>](https://www1.flightrising.com/dragon/50297105)---former perma
+	- [[unnamed G1]](https://www1.flightrising.com/dragon/91709903)---chrimbus 2023 hatch spree leftover
 - [Wasserbienchen](https://www1.flightrising.com/clan-profile/619562) & [Fabusol](https://www1.flightrising.com/clan-profile/624718): <b>[Scylla](https://www1.flightrising.com/dragon/78166107)</b> & <b>[Bokeh](https://www1.flightrising.com/dragon/78953375)</b>---both from Fabusol's lair, but the three of us had a small lore alliance/overlap that these two resulted from
 
 #### rehomed
@@ -249,4 +253,10 @@ ordered by account ID
 - [PricklyGoose](https://www1.flightrising.com/clan-profile/342988): <b>[Raizel](https://www1.flightrising.com/dragon/40109738)</b>---bred in (since-closed) hatchery
 - [Farawaytown](https://www1.flightrising.com/clan-profile/714492): <b>[Dusk](https://www1.flightrising.com/dragon/96501597)</b>---early nest reject, reminded me of sunset
 
+</details>
+
+<details markdown="1" style="margin-top:1em;" OPEN><summary style="cursor:pointer;"><h2 style="display:inline;">dragons people have expressed interest in</h2></summary>
+AKA clones to breed, if I am possessed enough for another breeding project
+- [AltromeriaStrut](https://www1.flightrising.com/dragon/86873719) → [FeatheredKing](https://www1.flightrising.com/clan-profile/720854)
+- Brightbreeze exalts: [Upgrade](https://www1.flightrising.com/dragon/109871710), [Mraz](https://www1.flightrising.com/dragon/107228082), [Hquality](https://www1.flightrising.com/dragon/105872731) → [Noroi](https://www1.flightrising.com/clan-profile/407773)
 </details>
