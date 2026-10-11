@@ -5,7 +5,10 @@ title: "dragon sizes, but they’re non-interactive rectangles"
 bg-css: "background-repeat:no-repeat; background-position:center;"
 css: "
 	h1{margin:0;}
-	p{margin:.5em 0;}
+	p,body>ul{margin:.5em 0;}
+	body>ul{padding:0 0 0 1em;} body>ul li{margin:.25em 0;}
+	
+	#js{margin:.5em 0; border:1px solid #808080; padding:.5em; display:inline-block;}
 	
 	#dragons{font-family:verdana; margin:1em 0;}
 	h2{font-size:.75em;}
@@ -19,9 +22,14 @@ css: "
 "
 ---
 <h1>{{page.title}}</h1>
+<p>revisiting an <a href="https://emcall.github.io/dragonsizes/">emcall dragonsizes</a> knockoff again
 {%assign upscale = 25%}
-<p>div height = dragon length, div width = wingspan, both multiplied by <b>{{upscale}}</b></p>
-<p>asterisks = permababies, not representative of typical breed size. also <a href="https://www1.flightrising.com/dragon/13483458">Pestilence</a> is a tiny bog</p>
+<ul>
+	<li>div height = dragon length, div width = wingspan, both multiplied by <b>{{upscale}}</b></li>
+	<li>asterisks = permababies, not representative of typical breed size. also <a href="https://www1.flightrising.com/dragon/13483458">Pestilence</a> is a tiny bog</li>
+</ul>
+
+<div id="js"><button onclick="toggleH2()">show/hide h2s</button></div>
 
 <!--automates not making categories for breeds I don't have-->{%capture breed-has%}{%for d in site.data.dragons%}{{d.breed}}{%endfor%}{%endcapture%}
 <div id="dragons">{%for b in site.data.breeds%}{%if breed-has contains b.nm%}<h2>{{b.nm}}</h2>{%for d in site.data.dragons%}{%if d.breed==b.nm%}<!--copied from datacheck-->{%assign pri=site.data.colors|where:"nm",d.genes.pri.clr%}<!--/end colorthign--><div id="{{d.nm|downcase}}" class="drg b-{{d.breed}}{%if d.age%} bab{%endif%}" style="
@@ -31,7 +39,25 @@ css: "
 	background-image:url({%include url.html%}/assets/img/dragons/{{d.id}}-av.png);
 	{{page.bg-css}}">
 	<a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a>{%if d.age%}*{%endif%}
-	<ul><li>height: <b>{{d.msr.length}}</b>m</li>
+	<ul><li>length: <b>{{d.msr.length}}</b>m</li>
 	<li>wingspan: <b>{{d.msr.wings}}</b>m</li>
 	<li>weight: <b>{{d.msr.weight}}</b>kg</li></ul>
 </div>{%endif%}{%endfor%}{%endif%}{%endfor%}</div>
+
+<script>
+// https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
+function toggleH2() {
+	console.log("clicked h2 toggle");
+	var x = document.querySelectorAll("h2"); // https://stackoverflow.com/questions/5897122/how-to-access-dom-elements-by-type-similar-to-getelementsbyname#5897207
+	
+	//https://www.w3schools.com/jsref/met_document_queryselectorall.asp < querySelectorAll returns a NodeList, need to use a for loop to change everything at once
+	//had to be pointed at ^that by AI, for transparency. sue me
+	for (let i = 0; i < x.length; i++) {
+		if (x[i].style.display==="none") {
+			x[i].style.display="block";
+		} else {
+			x[i].style.display="none";
+		}
+	}
+}
+</script>
