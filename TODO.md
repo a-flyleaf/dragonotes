@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1fS02mXFpJehf0Gvr5Nd5KAx5uIs5p_d8
 		- BETTER: post searches for [imgur](https://www1.flightrising.com/search/forums?term=i.imgur.com&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) & [postimg](https://www1.flightrising.com/search/forums?term=i.postimg.cc&poster=Archaeoraptor&topicid=&forum=&when=0&sort=recent&submit=Search+Forums) (no results for imgbb/ibb.co as of 2025-08-13)
 			- imgbox was used briefly, only for graphic reuploads
 - 8/13: scour game database for remaining v0/viral-evolution accent links
-- 9/23 random thought: dragon proportions but they're just like. little boxes. msr can be translated directly into pixel sizes!! weight for opacity? dw about moving them around
+	- Riptide (all 3), Kronos, Sonnuk (both), Vayne, Ada
 
 # 2026
 
