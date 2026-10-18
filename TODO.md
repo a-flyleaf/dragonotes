@@ -38,5 +38,4 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
 
 ## 10/16
-- add new Mallow art to bio (and confirm the data is correct on here ofc)
 - maybe just. scrap the Ghostlight graphics in Mallow's bio while you're at it. move it all to a page here?
