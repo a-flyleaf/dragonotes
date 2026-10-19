@@ -15,7 +15,7 @@ css: "
 		header.box{padding-bottom:1.5em;}
 	}
 	p{line-height:1.75;}
-	.ooc{font-family:calibri,sans-serif; color:rgba(255,255,255,.75); line-height:1.5;} small.ooc{font-size:initial; font-style:italic;}
+	.ooc{font-family:calibri,sans-serif; color:rgba(255,255,255,.75); line-height:1.5; display:block;} small.ooc{font-size:initial; font-style:italic;}
 	
 	h1{margin:0; font-family:georgia,serif; font-weight:normal; font-size:2.25em; font-style:italic;}
 	h1 a{display:inline-block;}
@@ -25,6 +25,7 @@ css: "
 		#mallow:hover,#mallow:focus,#mallow:active{filter:drop-shadow(0 0 .25em rgba(0,0,0,.75)) grayscale(.25); transition:.5s ease-out;}
 		#mallow ::selection{background:0; background:rgba(0,0,0,.375);}
 	
+	h2{font-weight:normal; color:rgba(255,255,255,.5);} h2 a{font-weight:bold;}
 	article img{filter:grayscale(.75); transition:filter .75s;} article img:hover{filter:grayscale(.25);}
 	article:nth-of-type(n+2):before{content:'~'; display:block; opacity:.5; margin:1em 0;}
 	@media only screen and (min-width:40em){
@@ -35,10 +36,10 @@ css: "
 	}
 	
 	footer{padding:2em 0;}
-	footer a{color:#fff; text-shadow:0 0 .5em #000,0 0 .25em #000; transition:.5s ease-in;} footer a:focus,footer a:hover,footer a:active{color:rgba(255,255,255,.5); text-shadow:none; transition:.25s ease-out;}
+	footer a{color:#fff; text-shadow:0 0 .5em #000,0 0 .25em #000; transition:.625s ease-in;} footer a:focus,footer a:hover,footer a:active{color:rgba(255,255,255,.5); text-shadow:none; transition:.5s ease-out;}
 "
 ---
-<!--gotta do this in the HTML or the filepath gets fucked up--><style>body{
+<!--gotta do this in the HTML or the filepath gets fucked up. CSS validates otherwise--><style>body{
 	background-image:url({%include url.html%}/assets/img/items/54182.png);
 	background-size:cover; background-position:center; background-attachment:fixed;
 }</style>
@@ -47,7 +48,7 @@ css: "
 	<h1>The Lost Souls of <a href="https://archaeoraptor.tumblr.com/tagged/flight%20reaping/chrono">Flight Reaping</a></h1>
 	<p><i>Not comprehensive, but the ones I remember most distinctly.</i></p>
 	
-	<p class="ooc">or: That one time I let <a href="http://brantsteele.net/hungergames/reaping.php">the <i>Hunger Games</i> simulator</a> dictate a lair purge, stashed records in <a href="https://www1.flightrising.com/dragon/66788485">a dragon bio</a>, then got sick of the bio graphics breaking & re-ported everything over to my own webbed site. Ta-da…!</p>
+	<p class="ooc">or: That one time I let <a href="http://brantsteele.net/hungergames/reaping.php">the <i>Hunger Games</i> simulator</a> dictate a lair purge, stashed records in <a href="https://www1.flightrising.com/dragon/66788485">Mallow’s bio</a>, then got sick of the bio decoration images breaking & re-ported everything over to my very own webbed site. Ta-da…!</p>
 </div></header>
 
 <a href="https://www1.flightrising.com/forums/art/2964956" id="mallow"><img src="https://a-flyleaf.github.io/dragonotes/assets/img/art/notmine/2021-11-19_by-FR554051_2mallow.png" alt="art by Hanathenerd77"></a>
@@ -57,15 +58,15 @@ css: "
 		<img src="14133744_350.png" alt="Apocrypha"><img src="14562462_350.png" alt="Lux">
 		<h2><a href="https://www1.flightrising.com/dragon/14133744">Apocrypha</a> & <a href="https://www1.flightrising.com/dragon/14562462">Lux</a></h2>
 		<div class="wrap">
-			<p>Best friends and former members of <a href="{%include url.html%}/v0/viral-evolution">Viral Evolution</a>, if only on the outskirts. Apocrypha was a devoted warrior; Lux, a would-be Light Flight Representative who left home too soon. When VE dissovled, the duo pledged their allegiances to the wandering empress Vulcan; it was Apocrypha’s idea.</p>
+			<p>Best friends and former members of <a href="{%include url.html%}/v0/viral-evolution">Viral Evolution</a>, if only on the outskirts. Apocrypha was a devoted warrior; Lux, a would-be Representative of the Light Flight who left home too soon. When Viral Evolution dissolved, the duo pledged their allegiances to the wandering empress Vulcan; it was Apocrypha’s idea.</p>
 			
-			<p>Alas, rather than reclaimed glory, the would-be empire dissolved into darkness, taking these two with. Since then they’ve lingered in the Tangled Wood as helpful voices, urging fellow lost souls not to follow their paths.</p>
+			<p>Alas, rather than reclaimed glory, the would-be empire dissolved into darkness, taking these two with. Since then they’ve lingered in the Tangled Wood as helpful voices, urging other lost souls not to follow their paths.</p>
 		</div>
 	</article><article>
 		<img src="16213216_350.png" alt="Vulcan" class="float">
 		<h2><a href="https://www1.flightrising.com/dragon/16213216">Vulcan</a></h2>
 		<div class="wrap">
-			<p>A fallen empress, once the ruler of a mighty empire in the Ashfall Waste. But when it was conquered by a rivaling kingdom, Vulcan was exiled. She returned ages later to a vacant territory, every trace of former glory gone. Infuriated, Vulcan set out to recruit warriors to rebuild her throne, promising high ranks and splendor to those who joined.</p>
+			<p>A fallen empress, once the ruler of a mighty empire in the Ashfall Waste. But when it was conquered by a rivaling kingdom, Vulcan was exiled. She returned ages later to a vacant territory, every trace of former glory gone. Infuriated, Vulcan sought new warriors to rebuild her throne. High ranks and splendor were promised to those who pledged themselves to her side.</p>
 			
 			<p>Unfortunately, recruitment was a slow endeavor. The longer it dragged on, the more existing recruits questioned Vulcan’s plans and motives. Unwilling to admit defeat to the end, Vulcan instead led her would-be army deep into the Tangled Wood, where they (to the surprise of no one) met a grisly end among the thorns.</p>
 			
@@ -75,9 +76,11 @@ css: "
 		<img src="31806787_350.png" alt="Tyson" class="float">
 		<h2><a href="https://www1.flightrising.com/dragon/31806787">Tyson</a></h2>
 		<div class="wrap">
-			<p>A lonesome boy who, throughout his short life, was haunted by Vulcan personally. Little is known of his story beyond this, but he was killed by Delphi and Vulcan has been awfully quiet since. Tyson’s voice is barely more than a whisper; Mallow has been trying to coax it out more.</p>
+			<p>A lonesome boy who, throughout his short life, was haunted by Vulcan’s spectre. Little is known of his story beyond this, but he was killed by <a href="https://www1.flightrising.com/dragon/15585543">Delphi</a>, and Vulcan has been awfully quiet since.</p>
 			
-			<p><small class="ooc">First egg I ever hatched. Never quite got the lore Spark (har har) so, uh, yeah.</small></p>
+			<p>Tyson’s voice is barely more than a whisper. Mallow tries their best to coax him into presence.</p>
+			
+			<p><small class="ooc">First egg I ever hatched. Never quite got the lore spark, alas.</small></p>
 		</div>
 	</article><article>
 		<img src="20458601_350.png" alt="Apidae" class="float">
@@ -85,7 +88,7 @@ css: "
 		<div class="wrap">
 			<p>A reckless little lizard who really liked bumbles. Former traveling partner of <a href="https://www1.flightrising.com/dragon/13567780">Fern</a>, but when Apidae got lost in the brambles, she forgot about his existence entirely… or so it once seemed.</p>
 			
-			<p>For ages Apidae was restless, tying travelers’ paths in knots just to feel something. But Apidae has been soothed by the knowledge Fern is still alive and well, and (with some prompting) remembers him after all. It’s almost enough to put his soul at peace for good. (Almost.)</p>
+			<p>For ages Apidae was restless, winding the paths of travelers into convoluted knots just to feel something. But Apidae has been soothed by the knowledge Fern is still alive and well—and that, with some prompting, she remembers him after all. It’s almost enough to put his soul at peace for good. <small>(Almost.)</small></p>
 		</div>
 	</article>
 </main>
