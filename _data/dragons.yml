@@ -1223,7 +1223,39 @@
     hibern: 2025-05-25
   cat: [lore]
 
-# Syncopation
+- nm: Syncopation
+  id: 57347791
+  element: arcane
+  sex: f
+  age: bab
+  breed: banescale
+  gen: 1
+  lvl: 25
+  stats:
+    bld: Mire trainer
+    lnk: gde/1344211/14#post_37194679
+    by: Maki
+    id: 19069
+  msr:
+    length: 1.99
+    wings: 1.57
+    weight: 15.83
+  genes:
+    pri:
+      clr: brick
+      gn: pharaoh
+    sec:
+      clr: crimson
+      gn: trail
+    tert:
+      clr: indigo
+      gn: carnivore
+    eye: faded
+  dates:
+    hatch: 2019-12-09
+    obtain: 2020-03-19
+    hibern: 2026-11-08
+  cat: [lore]
 
 - nm: MiamiTriggerfish
   id: 57887915
@@ -2571,7 +2603,31 @@
     hibern: 2026-05-25
   cat: [lore,"525"]
 
-# Vertex
+- nm: MisalignedVertex
+  id: 103079147
+  element: wind
+  sex: f
+  breed: nocturne
+  gen: 1
+  lvl: 25
+  msr:
+    length: 5.74
+    wings: 5.26
+    weight: 494.84
+  genes:
+    pri:
+      clr: metals
+      gn: harlequin
+    sec:
+      clr: denim
+      gn: jester
+    tert:
+      clr: robin
+      gn: runes
+    eye: rare
+  dates:
+    hatch: 2025-05-25
+    hibern: 2026-11-08
 
 - nm: MarienSparkskull 
   id: 103085464
@@ -2628,7 +2684,33 @@
     hibern: 2025-12-24
   cat: [nolore]
 
-# 7/03 HajnalRemaster
+- nm: HajnalRemaster
+  id: 103090548
+  element: shadow
+  sex: f
+  breed: fae
+  gen: 1
+  lvl: 25
+  msr:
+    length: 1.43
+    wings: 0.8
+    weight: 1.97
+  genes:
+    pri:
+      clr: fire
+      gn: chord
+    sec:
+      clr: grapefruit
+      gn: jester
+    tert:
+      clr: eggplant
+      gn: thylacine
+    eye: unusual
+  dates:
+    hatch: 2025-05-25
+    obtain: 2025-07-03
+    hibern: 2026-11-08
+
 # 7/08 MJFriesian & KrisShetlander
 
 - nm: BharloweXaxely
@@ -2721,5 +2803,32 @@
 # 7/26 Watermelon
 # 8/21 [NineYOGenOne]
 # 10/03 Fiver
-# 10/04 Brightbreeze
+
+- nm: Brightbreeze
+  id: 107111100
+  element: wind
+  sex: m
+  breed: fae
+  gen: 1
+  lvl: 11
+  msr:
+    length: 1
+    wings: 1.2
+    weight: 2.29
+  genes:
+    pri:
+      clr: robin
+      gn: pinstripe
+    sec:
+      clr: green
+      gn: trail
+    tert:
+      clr: cerulean
+      gn: peacock
+    eye: dark sclera
+  dates:
+    hatch: 2025-12-25
+    obtain: 2026-10-04
+    hibern: 2026-11-08
+
 # 10/10 [unnamed purble-orange G1]

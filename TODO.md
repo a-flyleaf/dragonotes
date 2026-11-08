@@ -39,13 +39,6 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 
 
 ## 11/08
-- hibernation spree:
-	- Syncopation
-	- HajnalRemaster
-	- MisaglignedVertex
-	- Brightbreeze (use M-pose onsite)
-- update Novak's image
-
 about note: in lieu of favorites. some Phases (in roughly chronological order):
 - CRACKLE.
 - irishim zombie imps
@@ -55,4 +48,7 @@ about note: in lieu of favorites. some Phases (in roughly chronological order):
 - veilspun? kinda.
 - lionfish.
 - M-pose aethers
+- harlequin....
 - faes! much belatedly, somehow.
+
+margin for the moon graphic on filght reaping?
