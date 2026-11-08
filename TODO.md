@@ -50,5 +50,3 @@ about note: in lieu of favorites. some Phases (in roughly chronological order):
 - M-pose aethers
 - harlequin....
 - faes! much belatedly, somehow.
-
-margin for the moon graphic on filght reaping?
