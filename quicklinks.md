@@ -107,8 +107,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>16</td><td><s>Contralto</s></td></tr>
 		<tr><td>27</td><td><s>Cygnus</s></td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="15">2020</td><td>01</td><td>15</td><td><s>Falsework</s></td></tr>
-		<tr><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
+		<tr><td rowspan="14">2020</td><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td><s>Katsura</s></td></tr>
 		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
@@ -162,7 +161,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>09</td><td>29</td><td>AlienCataclysm</td></tr>
 		<tr><td>11</td><td>17</td><td>ArchibaldXI</td></tr>
 	</tbody><tbody>
-		<tr><td rowspan="10">2026</td><td rowspan="3">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
+		<tr><td rowspan="11">2026</td><td rowspan="3">04</td><td>17</td><td>SwampsandRequiem, <s>BygoneLapidarist</s></td></tr>
 		<tr><td>23</td><td><a href="https://www1.flightrising.com/dragon/109339525">[Anais x Radijacija]</a></td></tr>
 		<tr><td>24</td><td>Technoink</td></tr>
 		<tr><td>05</td><td>21</td><td>Zmaj</td></tr>
@@ -170,7 +169,8 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td rowspan="2">07</td><td>06</td><td>Altair</td></tr>
 		<tr><td>26</td><td>Watermelon</td></tr>
 		<tr><td>08</td><td>21</td><td>[NineYOGenOne]</td></tr>
-		<tr><td rowspan="2">10</td><td>04</td><td>Brightbreeze</td></tr>
+		<tr><td rowspan="3">10</td><td>03</td><td>Fiver</td></tr>
+		<tr><td>04</td><td>Brightbreeze</td></tr>
 		<tr><td>10</td><td>[unnamed purble-orange G1]</td></tr>
 	</tbody>
 </table>

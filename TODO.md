@@ -36,3 +36,23 @@ are avi+frog fandragons or no. howsabout comet and the other songs (miasma, amar
 i don't think i can normalize All bios without nuking some of the special lil exceptions (e.g. pre-/post-makeover lore sections, Mallow's archive-thign) but more than anything. a Template would be nice. just a Template. an Basis
 
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
+
+
+## 11/07
+Zachariah OUT o7
+## 11/08
+- hibernation spree: Syncopation, HajnalRemaster, MisaglignedVertex, Brightbreeze (use M-pose onsite)
+- also remove Falsework from quicklinks
+- forgo to add Fiver (10/3)
+- update Novak's image
+
+about note: in lieu of favorites. some Phases (in roughly chronological order):
+- CRACKLE.
+- irishim zombie imps
+- bar, poi/tox, thylacine
+- M-pose spirals
+- breed release banescales
+- veilspun? kinda.
+- lionfish.
+- M-pose aethers
+- faes! much belatedly, somehow.

@@ -1546,42 +1546,6 @@
     hibern: 2025-05-25
   cat: [lore]
 
-- nm: Zachariah
-  id: 73694266
-  element: plague
-  sex: m
-  breed: imperial
-  msr:
-    length: 31.04
-    wings: 18.05
-    weight: 7514.47
-  genes:
-    pri:
-      num: 61
-      clr: phthalo
-      gn: wasp
-    sec:
-      num: 65
-      clr: cerulean
-      gn: blend
-    tert:
-      num: 58
-      clr: steel
-      gn: crackle
-    eye: uncommon
-  dates:
-    hatch: 2021-11-14
-    hibern: 2022-08-28
-  has:
-    familiar: Hippocampus
-    apparel: 1
-    accent: 0
-    bio: "~"
-    art: 0
-    vista: 0
-    scene: 0
-  cat: [lore]
-
 - nm: dashcon
   id: 73772267
   element: shadow
@@ -2756,5 +2720,6 @@
 # 7/06 Altair
 # 7/26 Watermelon
 # 8/21 [NineYOGenOne]
+# 10/03 Fiver
 # 10/04 Brightbreeze
 # 10/10 [unnamed purble-orange G1]
