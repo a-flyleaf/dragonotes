@@ -358,7 +358,7 @@
   lvl: 25
   stats:
     bld: turkey hunter
-    lnk: gde/1344211
+    lnk: frd/2733548#post_2733548
     by: Maki
     id: 19069
   msr:
@@ -1553,7 +1553,7 @@
   breed: veilspun
   lvl: 25
   stats:
-    bld: mire fisher
+    bld: Mire fisher
     lnk: gde/3068799
     by: Yuubi
     id: 27733
@@ -2444,6 +2444,11 @@
   breed: fae
   gen: 1
   lvl: 25
+  stats:
+    bld: Ghostlight trainer
+    lnk: gde/1344211/14#post_37194677
+    by: Maki
+    id: 19069
   msr:
     length: 0.53
     wings: 1.59
@@ -2472,7 +2477,7 @@
   breed: obelisk
   lvl: 25
   stats:
-    bld: no kelp needed
+    bld: no Kelp needed
     lnk: gde/3320928
     by: Teletraan
     id: 48122
