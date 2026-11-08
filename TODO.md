@@ -38,12 +38,12 @@ i don't think i can normalize All bios without nuking some of the special lil ex
 [8/18] do said templating after the default dragon page gets responsive'd. idk how the columns will work
 
 
-## 11/07
-Zachariah OUT o7
 ## 11/08
-- hibernation spree: Syncopation, HajnalRemaster, MisaglignedVertex, Brightbreeze (use M-pose onsite)
-- also remove Falsework from quicklinks
-- forgo to add Fiver (10/3)
+- hibernation spree:
+	- Syncopation
+	- HajnalRemaster
+	- MisaglignedVertex
+	- Brightbreeze (use M-pose onsite)
 - update Novak's image
 
 about note: in lieu of favorites. some Phases (in roughly chronological order):
