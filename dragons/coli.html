@@ -1,0 +1,53 @@
+---
+layout: default3
+title: "dragons who could kick your ass"
+
+desc: |-
+  this is my own website and this is a purely backend page. i am allowed to say Ass
+  
+  (AKA: the page to show off coli builds.)
+
+css: "
+	h1,h2{margin-bottom:0;}
+		h1+p{margin-top:0;}
+		h2+p,h2+table{margin-top:.5em;}
+	table{border-collapse:collapse;}
+	th{text-align:left;}
+	th,td{border:1px solid rgba(128,128,128,.5);}
+	.drg img{vertical-align:middle; padding-right:.5em;}
+	
+	/*elements in chronological order. no color picking just winging the hex codes*/
+	.e-arcane{color:#bf0080;}
+	.e-earth{color:#804000;}
+	.e-fire{color:#bf6000;}
+	.e-ice{color:#0080bf;}
+	.e-light{color:#808000;}
+	.e-lightning{color:#008080;}
+	.e-nature{color:#008000;}
+	.e-plague{color:#800000;}
+	.e-shadow{color:#800080;}
+	.e-water{color:#00009f;}
+	.e-wind{color:#40bf00;}
+"
+---
+<h1>{{page.title}}</h1>
+{{page.desc|markdownify}}
+
+<h2>dragons with builds</h2>
+<table><thead>
+	<th>dragon</th>
+	<th>element</th>
+	<th>build</th>
+</thead><tbody>{%for d in site.data.dragons%}{%if d.stats%}<tr>
+	<td class="drg">
+		<a href="https://www1.flightrising.com/dragon/{{d.id}}">
+		<img src="{%include url.html%}/assets/img/dragons/{{d.id}}-c.png" alt="">{{d.nm}}</a>
+	</td>
+	<td class="e-{{d.element}}">{{d.element|capitalize}}</td>
+	<td><a href="https://www1.flightrising.com/forums/{{d.stats.lnk}}">{{d.stats.bld}}</a> <small>(by <a href="https://www1.flightrising.com/clan-profile/{{d.stats.id}}">{{d.stats.by}}</a>)</small></td>
+{%endif%}</tr>{%endfor%}</tbody></table>
+
+<h2>lvl25s without stats</h2>
+<p>sorted by element. a lil glitchy (no fallback for empty elements, <code>forloop.last</code> fails due to the <code>unless</code>) but it conveys The Point</p>
+{%assign ele=site.data.dragons|sort:"element"%}
+<ul>{%for e in site.data.elements%}{%capture enm%}{{e.nm|downcase}}{%endcapture%}<li><span class="e-{{e.nm|downcase}}">{{e.nm}}</a>: {%for d in ele%}{%if d.element==enm and d.lvl==25%}{%unless d.stats%}<a href="https://www1.flightrising.com/dragon/{{d.id}}">{{d.nm}}</a>{%unless forloop.last%} | {%endunless%}{%endunless%}{%endif%}{%endfor%}</li>{%endfor%}</ul>
