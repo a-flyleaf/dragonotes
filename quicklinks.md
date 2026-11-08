@@ -109,7 +109,7 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="14">2020</td><td rowspan="2">02</td><td>03</td><td><s>Staccato</s></td></tr>
 		<tr><td>06</td><td><s>Katsura</s></td></tr>
-		<tr><td>03</td><td>19</td><td>Syncopation</td></tr>
+		<tr><td>03</td><td>19</td><td><s>Syncopation</s></td></tr>
 		<tr><td>04</td><td>16</td><td><s>MiamiTriggerfish</s></td></tr>
 		<tr><td>05</td><td>28</td><td><s>MiasmaSky</s></td></tr>
 		<tr><td rowspan="2">06</td><td>24</td><td><s>Ghost</s></td></tr>
@@ -152,10 +152,10 @@ gray = hibernating; ! = date obtained not noted
 	</tbody><tbody>
 		<tr><td rowspan="10">2025</td><td>01</td><td>01</td><td><s>Witchling</s></td></tr>
 		<tr><td>02</td><td>05</td><td><s>Frog</s></td></tr>
-		<tr><td rowspan="2">05</td><td>25</td><td><s>DarklandDisciple, AdelineLightjaw, ElricAugury, PicaroCaravan,</s> MisalignedVertex</td></tr>
+		<tr><td rowspan="2">05</td><td>25</td><td><s>DarklandDisciple, AdelineLightjaw, ElricAugury, PicaroCaravan, MisalignedVertex</s></td></tr>
 		<tr><td>28</td><td><s>MarienSparksull</s></td></tr>
 		<tr><td>06</td><td>17</td><td><s>SehrPoltern</s></td></tr>
-		<tr><td rowspan="3">07</td><td>03</td><td>HajnalRemaster</td></tr>
+		<tr><td rowspan="3">07</td><td>03</td><td><s>HajnalRemaster</s></td></tr>
 		<tr><td>08</td><td>MJFriesian, KrisShetlander</td></tr>
 		<tr><td>28</td><td><s>BharloweXaxely</s></td></tr>
 		<tr><td>09</td><td>29</td><td>AlienCataclysm</td></tr>
@@ -170,7 +170,7 @@ gray = hibernating; ! = date obtained not noted
 		<tr><td>26</td><td>Watermelon</td></tr>
 		<tr><td>08</td><td>21</td><td>[NineYOGenOne]</td></tr>
 		<tr><td rowspan="3">10</td><td>03</td><td>Fiver</td></tr>
-		<tr><td>04</td><td>Brightbreeze</td></tr>
+		<tr><td>04</td><td><s>Brightbreeze</s></td></tr>
 		<tr><td>10</td><td>[unnamed purble-orange G1]</td></tr>
 	</tbody>
 </table>
@@ -195,43 +195,44 @@ dragon data Exists now but I still kinda like this manually-updated version anyw
 ### breed release tracking
 ty based [chronological update reference](https://www1.flightrising.com/forums/gde/3053598/1#post_3053598)
 - [2016 September: <i>Bogsneak</i>](http://www1.flightrising.com/forums/ann/1980784) - didn't brew an egg
-	- eventually breed-changed [Pestilence](https://www1.flightrising.com/dragon/13483458)
+	- breed change: [Pestilence](https://www1.flightrising.com/dragon/13483458)
 - [2019 June: <i>Gaoler</i>](https://www1.flightrising.com/forums/ann/2694544) - no release freebies
-	- have had multiple non-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and [Dusk](https://www1.flightrising.com/dragon/96501597) (gifted & re-gifted)
+	- have had multiple no-longer-perma Gaolers, notably [Badru](https://www1.flightrising.com/dragon/53709785) (given away via traveling) and [Dusk](https://www1.flightrising.com/dragon/96501597) (gifted & re-gifted)
 	- maaaaybe breed change for [Galena](https://www1.flightrising.com/dragon/20722709) eventually?
 - [2019 December: <b>Banescale</b>](http://www1.flightrising.com/forums/ann/2788016) - hatched [Andante](https://www1.flightrising.com/dragon/57362847) & [Vivace](https://www1.flightrising.com/dragon/57362941)!
 	- collected other release day G1s for a while there; most have since left my lair, but a surprising amount are still around!
 - [2020 November: <i>Veilspun</i>](https://www1.flightrising.com/forums/ann/2930863) - no release freebies
 	- I have a small handful now :>
 - [2021 June: <i>Obelisk</i>](https://www1.flightrising.com/forums/ann/3022547) - was incactive for Dustcarve
-	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while; [Fissure](https://www1.flightrising.com/dragon/48734092) and later [Drosera](https://www1.flightrising.com/dragon/12989339) were breed-changed into obes
+	- had [Outcast](https://www1.flightrising.com/dragon/76347403) for a while
+	- breed changes: [Fissure](https://www1.flightrising.com/dragon/48734092), later [Drosera](https://www1.flightrising.com/dragon/12989339)
 - [2022 March: <i>Aberration</i>](https://www1.flightrising.com/forums/ann/3109386) - acquired clanbound scrolls but haven't used them
 	- have since acquired multiple abers
 - [2022 November: <i>Undertide</i>](https://www1.flightrising.com/forums/ann/3186365) - acquired clanbound scrolls but haven't used. they are collector items to me.
-	- I keep forgetting [Cygnus](https://www1.flightrising.com/dragon/57992771) is my token undertide....
-	- Vivace got breed-changed
+	- breed changes: [Cygnus](https://www1.flightrising.com/dragon/57992771) (who I keep forgetting about...), Vivace
 - [2023 March: <b>Aether</b>](https://www1.flightrising.com/forums/ann/3220508) - hatched [XxCaptnPlasmatog](https://www1.flightrising.com/dragon/84904477) & [another one](https://www1.flightrising.com/dragon/84904554), traded the latter for [FestiveFervor](https://www1.flightrising.com/dragon/84959048)
 	- im love moth lads.
 - [2023 July: <i>Sandsurge</i>](https://www1.flightrising.com/forums/ann/3256724) - no release freebies
-	- [Leopold](https://www1.flightrising.com/dragon/94751538) managed to become a perma; [Delphi](https://www1.flightrising.com/dragon/15585543) got breed-changed
+	- [Leopold](https://www1.flightrising.com/dragon/94751538) managed to become a perma
+	- breed change: [Delphi](https://www1.flightrising.com/dragon/15585543)
 - [2023 November: <b>Auraboa</b>](https://www1.flightrising.com/forums/ann/3289398) - hatched [KanelosMenthe](https://www1.flightrising.com/dragon/90679007) & [Celor](https://www1.flightrising.com/dragon/90678934), trained and sold the latter
-	- [Second](https://www1.flightrising.com/dragon/91709890) also got breed-changed during NotN&nbsp;2024
+	- breed change: [Second](https://www1.flightrising.com/dragon/91709890), during NotN&nbsp;2024
 - [2024 April: <i>Dusthide</i>](https://www1.flightrising.com/forums/ann/3330141) - acquired eggs but haven't hatched them
 	- might hoard forever might save for some kind of occasion. idk!
 	- [Archibald](https://www1.flightrising.com/dragon/94537032) and his descendant [XI](https://www1.flightrising.com/dragon/106349614) may be my token dusties 5ever
 - [2024 June: <b>Fathom</b>](https://www1.flightrising.com/forums/ann/3344751) - used [both](https://www1.flightrising.com/dragon/95755337) [maps](https://www1.flightrising.com/dragon/95755353), traded for [Squid](https://www1.flightrising.com/dragon/95730923) & [Honse](https://www1.flightrising.com/dragon/95756455) respectively
-	- [Skiptrace](https://www1.flightrising.com/dragon/14639592) got breed-changed
+	- breed change: [Skiptrace](https://www1.flightrising.com/dragon/14639592)
 - [2024 November: <i>Everlux</i>](https://www1.flightrising.com/forums/ann/3376056) - acquired eggs but haven't hatched them
 	- same indefinite limbo as dusthides
 - [2025 May: <i>Cirrus</i>](https://www1.flightrising.com/forums/ann/3416129) - no release freebies
 	- eventually acquired two wrestlehorses (see below)
 	- started keeping fodder pairs from this point on; not noting fodder parents here
 - [2025 November: <i>Thorntail</i>](https://www1.flightrising.com/forums/ann/3444860) - hatched both eggs for [a random newbie](https://www1.flightrising.com/forums/raf/3447551)
-	- later breed-changed [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
+	- breed change: [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
 - [2026 April: <b>Vigil</b>](https://www1.flightrising.com/forums/ann/3471732) - hatched [SwampsandRequiem](https://www1.flightrising.com/dragon/109230622) & [BygoneLapidarist](https://www1.flightrising.com/dragon/109230624)
-	- the latter did not stay a Vigil. the former, ?????
+	- the latter did not stay a Vigil. the former *probably* will but im want Spores
 - [2026 August: <i>Chorus</i>](https://www1.flightrising.com/forums/ann/3489170) - no release freebies
-	- shortly thereafter re-acquired [this old trainee](https://www1.flightrising.com/dragon/27401805), who then got Chorus'd
+	- breed change: [this old trainee](https://www1.flightrising.com/dragon/27401805), who was re-acquired shortly after breed release
 
 ### dragos with frembs :>
 ordered by account ID
